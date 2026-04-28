@@ -1,5 +1,13 @@
 # Wiki Log
 
+## [2026-04-28] ingest | AI-native company and sidequest prototyping batch
+- Source: `Notion: How To Build A Company With AI From The Ground Up`
+- Source: `Notion: Anthropic Cat Wu Sidequest Maxxing`
+- Source URLs: `https://www.youtube.com/watch?v=EN7frwQIbKc`, `https://x.com/itsolelehmann/status/2048694609950486868`, `https://www.youtube.com/watch?v=PplmzlgE0kg`
+- Pages created: [AI-Native Company And Sidequest Prototyping Batch](sources/ai-native-company-and-sidequest-prototyping-batch.md), [AI Native Company](concepts/ai-native-company.md), [Queryable Organization](concepts/queryable-organization.md), [Sidequest Prototyping](concepts/sidequest-prototyping.md), [Diana Hu](people/diana-hu.md), [Cat Wu](people/cat-wu.md), [How Should charli-kb Handle Video Sources?](questions/how-should-charli-kb-handle-video-sources.md), [Ingest Report 2026-04-28 - AI Native Company And Sidequests](meta/ingest-report-2026-04-28-ai-native-company-sidequests.md)
+- Pages updated: [Wiki Index](index.md), [Wiki Log](log.md), [Overview](overview.md)
+- Notes: The YC transcript was sufficient for source-backed synthesis. The Anthropic sidequest item was kept as commentary/pattern extraction; no full video transcript was needed for this pass.
+
 ## [2026-04-28] ingest | Peter Steinberger agentic engineering batch
 - Source: `Notion: Peter Just talk to it`
 - Source: `Notion: Peter Shipping at Inference speed`

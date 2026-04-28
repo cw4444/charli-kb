@@ -23,6 +23,8 @@ The useful pattern:
 
 The phrase can become hype quickly. The practical version is calmer: agents are useful when the environment lets them observe, act, and check their work.
 
+At an organization level, this becomes [AI Native Company](ai-native-company.md): the whole system is designed so agents can read artifacts, close loops, and reduce coordination loss.
+
 ## Related
 
 - [Agent Friendly Repositories](agent-friendly-repositories.md)

@@ -24,6 +24,8 @@ Useful traits:
 
 This is directly relevant to `charli-kb`. The repo does not need elaborate infrastructure; it needs simple rules, clear indexes, local raw input, generated wiki output, and an audit trail in `wiki/log.md`.
 
+The repository is a small example of a [Queryable Organization](queryable-organization.md): the agent should be able to answer what changed, why it changed, what sources supported it, and where the decision was recorded.
+
 ## Related
 
 - [Agentic Engineering](agentic-engineering.md)

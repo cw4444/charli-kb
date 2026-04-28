@@ -9,3 +9,5 @@ Current working rule: Notion remains the messy capture dump; this wiki only keep
 The second ingest confirmed a direct Notion queue workflow: a `Ready to Export` row can point to a Notion article page, and the wiki can synthesize the useful knowledge without manually exporting the source. The first example was [Reality Threshold](concepts/reality-threshold.md), a neuroscience concept about how the brain distinguishes imagination from perception.
 
 The third ingest added agentic-engineering material from Peter Steinberger. The useful connection is recursive: this repo should itself be an [Agent Friendly Repository](concepts/agent-friendly-repositories.md), with enough structure for agents to inspect, synthesize, verify, and commit without turning the system into ceremony.
+
+The fourth ingest added organization-level AI workflow concepts: [AI Native Company](concepts/ai-native-company.md), [Queryable Organization](concepts/queryable-organization.md), and [Sidequest Prototyping](concepts/sidequest-prototyping.md). These reinforce the same principle at a larger scale: make work observable, artifact-rich, and easy for agents and humans to evaluate.
