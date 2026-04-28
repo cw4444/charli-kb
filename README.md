@@ -1,6 +1,6 @@
-# LLM Wiki
+# charli-kb
 
-A plain Markdown implementation of Andrej Karpathy's LLM Wiki pattern.
+A plain Markdown knowledge base built around Andrej Karpathy's LLM Wiki pattern.
 
 This repo is intentionally small. It is not an Obsidian vault and it is not tied to a specific AI agent. The pattern is:
 
