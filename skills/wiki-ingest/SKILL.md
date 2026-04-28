@@ -15,7 +15,8 @@ Examples:
 
 - `raw/articles/example.md`
 - `raw/notes/exported-note.md`
-- `raw/private/example.md` only with explicit permission to use in public wiki pages
+- `raw/images/mindmaps/example.png`
+- `raw/images/x-posts/example.png`
 
 ## Public Safety
 
@@ -35,6 +36,16 @@ For science, technology, philosophy, or research topics:
 - Preserve metadata where known: title, author, publication or platform, date, URL, and access notes.
 - For paywalled or copyrighted sources, do not reproduce the full text or create a substitute for the original. Write original summaries and link back.
 - For X/Twitter posts, preserve URL, author handle, date, and a screenshot or transcription note when the item matters. Do not assume future agents can fetch X reliably.
+
+## Image Sources
+
+When ingesting screenshots, diagrams, mindmaps, or X/Twitter captures:
+
+- Keep image files local under `raw/images/`; do not add them to git unless the user explicitly approves.
+- Extract visible text and structure only as needed for synthesis.
+- Preserve creator, platform, original URL, date, screenshot filename, and access notes when known.
+- Create source summaries in `wiki/sources/` and concept pages in `wiki/concepts/`.
+- Do not rehost images in the wiki by default.
 
 ## Single Source Ingest
 

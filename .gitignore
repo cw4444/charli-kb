@@ -39,6 +39,14 @@ raw/**
 !raw/articles/.gitkeep
 !raw/notes/
 !raw/notes/.gitkeep
+!raw/images/
+!raw/images/.gitkeep
+!raw/images/screenshots/
+!raw/images/screenshots/.gitkeep
+!raw/images/mindmaps/
+!raw/images/mindmaps/.gitkeep
+!raw/images/x-posts/
+!raw/images/x-posts/.gitkeep
 
 # Temporary files
 *.tmp

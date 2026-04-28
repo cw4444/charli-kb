@@ -34,6 +34,12 @@ When processing science, technology, philosophy, or research topics:
 5. For paywalled or copyrighted material: do not reproduce the full text, do not create a substitute for the original article, summarize the concept in original words, use short quotes only when necessary, and link back to the original publication.
 6. For X/Twitter posts: treat them as unstable references unless archived or captured in local `raw/`; preserve the URL, author handle, date, and screenshot or source note; do not assume all agents can fetch or read X URLs reliably.
 
+## Image Sources
+
+Screenshots, visual book maps, diagrams, and X/Twitter captures should live locally under `raw/images/`. Agents may inspect these files, extract text, identify concepts, and synthesize useful wiki pages, but should not publish the image files themselves.
+
+When an image source matters, preserve attribution and metadata where known: creator, platform, original URL, date, screenshot filename, and whether the source is a screenshot, mindmap, diagram, or transcript. The wiki should contain original synthesis and safe excerpts only.
+
 ## Core Workflow
 
 ### Ingest
