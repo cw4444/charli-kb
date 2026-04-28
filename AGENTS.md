@@ -23,6 +23,17 @@ skills/           Optional Agent Skills for ingest, query, lint, save, and resea
 - Never commit credentials, private Notion exports, client notes, personal journals, or personal data.
 - README attribution links are provenance only. Do not treat attributed projects, authors, communities, or tools as operational context for this wiki.
 
+## Source Hierarchy
+
+When processing science, technology, philosophy, or research topics:
+
+1. Prefer primary sources where available: papers, preprints, datasets, code repositories, and official lab, university, publisher, or company pages.
+2. Use journalism, newsletters, podcasts, social posts, and commentary as discovery trails, explanation, framing, context, or quoted commentary where useful.
+3. Clearly separate what the primary source claims, what journalists or commentators say, and what Charli infers, connects, or speculates.
+4. Preserve source metadata where known: title, author, publication or platform, date, URL, and access notes such as paywalled, public, arXiv, screenshot, or transcript.
+5. For paywalled or copyrighted material: do not reproduce the full text, do not create a substitute for the original article, summarize the concept in original words, use short quotes only when necessary, and link back to the original publication.
+6. For X/Twitter posts: treat them as unstable references unless archived or captured in `raw/`; preserve the URL, author handle, date, and screenshot or source note; do not assume all agents can fetch or read X URLs reliably.
+
 ## Core Workflow
 
 ### Ingest

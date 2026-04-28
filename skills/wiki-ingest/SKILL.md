@@ -25,6 +25,17 @@ Examples:
 - Do not publish private notes, credentials, client material, personal data, or paywalled/copyrighted material.
 - If a source is not safe for public synthesis, say so and stop or ask for direction.
 
+## Source Hierarchy
+
+For science, technology, philosophy, or research topics:
+
+- Prefer primary sources when available: papers, preprints, datasets, code repositories, official docs, and official lab, university, publisher, or company pages.
+- Treat journalism, newsletters, podcasts, social posts, and commentary as discovery, explanation, framing, or context.
+- Separate primary-source claims from commentary and from Charli's own inferences or speculation.
+- Preserve metadata where known: title, author, publication or platform, date, URL, and access notes.
+- For paywalled or copyrighted sources, do not reproduce the full text or create a substitute for the original. Write original summaries and link back.
+- For X/Twitter posts, preserve URL, author handle, date, and a screenshot or transcription note when the item matters. Do not assume future agents can fetch X reliably.
+
 ## Single Source Ingest
 
 1. Read `wiki/index.md` to understand existing pages.
