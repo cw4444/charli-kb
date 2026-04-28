@@ -1,0 +1,30 @@
+---
+title: "Agent Friendly Repositories"
+type: concept
+status: draft
+created: 2026-04-28
+updated: 2026-04-28
+sources:
+  - ../sources/peter-steinberger-agentic-engineering-batch.md
+---
+
+# Agent Friendly Repositories
+
+An agent friendly repository is structured so an AI agent can quickly understand what exists, make scoped changes, and verify them.
+
+Useful traits:
+
+- A clear `AGENTS.md` or equivalent instruction file.
+- Obvious folder names and stable conventions.
+- Small, focused docs for important subsystems.
+- Local commands for tests, linting, builds, and checks.
+- CLIs or scripts that expose repeatable workflows.
+- Git history made of coherent commits.
+- Enough context for the agent to know what not to touch.
+
+This is directly relevant to `charli-kb`. The repo does not need elaborate infrastructure; it needs simple rules, clear indexes, local raw input, generated wiki output, and an audit trail in `wiki/log.md`.
+
+## Related
+
+- [Agentic Engineering](agentic-engineering.md)
+- [Inference Speed Development](inference-speed-development.md)

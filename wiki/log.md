@@ -1,5 +1,13 @@
 # Wiki Log
 
+## [2026-04-28] ingest | Peter Steinberger agentic engineering batch
+- Source: `Notion: Peter Just talk to it`
+- Source: `Notion: Peter Shipping at Inference speed`
+- Source URLs: `https://steipete.me/posts/just-talk-to-it`, `https://steipete.me/posts/2025/shipping-at-inference-speed`
+- Pages created: [Peter Steinberger Agentic Engineering Batch](sources/peter-steinberger-agentic-engineering-batch.md), [Agentic Engineering](concepts/agentic-engineering.md), [Agent Friendly Repositories](concepts/agent-friendly-repositories.md), [Inference Speed Development](concepts/inference-speed-development.md), [Peter Steinberger](people/peter-steinberger.md), [How Should charli-kb Work With Agents?](questions/how-should-charli-kb-work-with-agents.md), [Ingest Report 2026-04-28 - Peter Steinberger Agentic Engineering](meta/ingest-report-2026-04-28-peter-steinberger-agentic-engineering.md)
+- Pages updated: [Wiki Index](index.md), [Wiki Log](log.md), [Overview](overview.md)
+- Notes: Combined two public articles; kept practical workflow patterns and de-emphasized tool rivalry, Twitter support links, and fast-moving model comparisons.
+
 ## [2026-04-28] ingest | Reality Threshold Nadine Dijkstra
 - Source: `Notion: Reality Threshold Nadine Dijkstra`
 - Source URL: `Notion page: Is It Real or Imagined? Here's How Your Brain Tells the Difference`
