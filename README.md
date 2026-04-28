@@ -2,6 +2,8 @@
 
 A plain Markdown knowledge base built around Andrej Karpathy's LLM Wiki pattern.
 
+This is a personal knowledge base, not a finished reference encyclopedia. The structure is open for anyone to copy, adapt, or interrogate with an AI agent; the actual wiki content reflects my own reading, notes, and current lines of thought.
+
 This repo is intentionally small. It is not an Obsidian vault and it is not tied to a specific AI agent. The pattern is:
 
 1. Put curated source material in `raw/`.
@@ -41,7 +43,13 @@ Lint the wiki.
 
 ## Public Repo Safety
 
-This repository is meant to be readable on GitHub. Do not publish private notes, personal data, client material, credentials, or copied paywalled/copyrighted text. The wiki should contain original summaries and citations, not wholesale source dumps.
+This repository is meant to be readable on GitHub, but `raw/` is ignored by default. Do not publish private notes, personal data, client material, credentials, or copied paywalled/copyrighted text. The wiki should contain original summaries and citations, not wholesale source dumps.
+
+## Why This Exists
+
+Notion remains the messy capture dump. `charli-kb` is the distilled layer: an agent-readable personal knowledge base that can be queried, reviewed, linted, and updated over time.
+
+The goal is not to save everything. The goal is to keep what becomes useful when an agent can connect it to other notes, current projects, and future questions.
 
 ## Skills
 
