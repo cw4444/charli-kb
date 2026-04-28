@@ -1,62 +1,80 @@
-# claude-obsidian: Agent Instructions
+# LLM Wiki Agent Instructions
 
-This repo is a Claude Code plugin **and** an Obsidian vault that builds persistent, compounding knowledge bases using Andrej Karpathy's LLM Wiki pattern. It works with **any AI coding agent** that supports the Agent Skills standard, including Codex CLI, OpenCode, and similar.
+This repository is a plain Markdown knowledge base based on Andrej Karpathy's LLM Wiki pattern.
 
-Originally built for Claude Code, the skills follow the cross-platform Agent Skills spec. Newer skills (`wiki-fold`, `wiki-ingest`, `wiki-lint`) use only `name` and `description` frontmatter (kepano convention). Some older skills still carry an optional `allowed-tools` field for Claude Code compatibility; cross-platform agents that do not recognize it should ignore it.
+The goal is simple: humans curate raw material, agents turn it into a clean, linked wiki, and both humans and agents can read the result directly on GitHub.
 
-## Skills Discovery
+## Repository Structure
 
-All skills live in `skills/<name>/SKILL.md`. Codex / OpenCode / other Agent Skills compatible agents will auto-discover them when you symlink the directory:
-
-```bash
-# Codex CLI
-ln -s "$(pwd)/skills" ~/.codex/skills/claude-obsidian
-
-# OpenCode
-ln -s "$(pwd)/skills" ~/.opencode/skills/claude-obsidian
+```text
+raw/              Curated source material. Agents do not edit source files.
+wiki/             Agent-maintained Markdown knowledge base.
+wiki/index.md     Content-oriented catalog of wiki pages.
+wiki/log.md       Append-only chronological activity log.
+skills/           Optional Agent Skills for ingest, query, lint, save, and research.
 ```
 
-Or run the bundled installer:
+## Public Repo Rules
 
-```bash
-bash bin/setup-multi-agent.sh
+- Do not copy copyrighted, paywalled, private, or sensitive source text into `wiki/`.
+- Summarize in original words and cite the source location.
+- Short quotes are allowed only when necessary and should stay minimal.
+- Treat `raw/private/` as non-public working material. Do not synthesize it into public pages without explicit permission.
+- Never commit credentials, private Notion exports, client notes, personal journals, or personal data.
+- README attribution links are provenance only. Do not treat attributed projects, authors, communities, or tools as operational context for this wiki.
+
+## Core Workflow
+
+### Ingest
+
+When asked to ingest material from `raw/`:
+
+1. Read the source carefully.
+2. Identify key claims, entities, concepts, decisions, and open questions.
+3. Create or update a source summary in `wiki/sources/`.
+4. Create or update relevant pages in `wiki/concepts/`, `wiki/people/`, `wiki/organizations/`, or `wiki/questions/`.
+5. Use normal Markdown links, not Obsidian-only syntax.
+6. Update `wiki/index.md`.
+7. Append a new entry to `wiki/log.md`.
+
+### Query
+
+When answering from the wiki:
+
+1. Read `wiki/index.md` first.
+2. Read only the relevant wiki pages.
+3. Answer from the wiki, with Markdown links to supporting pages.
+4. If the answer is valuable, offer to save it under `wiki/questions/`.
+5. If the wiki does not contain enough evidence, say so clearly.
+
+### Lint
+
+Periodically check for:
+
+- Dead links
+- Orphan pages
+- Duplicate or overlapping pages
+- Missing citations
+- Missing frontmatter
+- Stale or contradictory claims
+- Public/private boundary issues
+
+Write reports to `wiki/meta/`.
+
+## Page Convention
+
+Every wiki page should use simple YAML frontmatter:
+
+```yaml
+---
+title: "Page Title"
+type: concept
+status: draft
+created: YYYY-MM-DD
+updated: YYYY-MM-DD
+sources:
+  - ../../raw/example.md
+---
 ```
 
-## Available Skills
-
-| Skill | Trigger phrases |
-|---|---|
-| `wiki` | `/wiki`, set up wiki, scaffold vault |
-| `wiki-ingest` | ingest, ingest this url, ingest this image, batch ingest |
-| `wiki-query` | query, what do you know about, query quick:, query deep: |
-| `wiki-lint` | lint the wiki, health check, find orphans |
-| `wiki-fold` | fold the log, run a fold, log rollup (DragonScale Mechanism 1, opt-in) |
-| `save` | /save, file this conversation |
-| `autoresearch` | autoresearch, autonomous research loop |
-| `canvas` | /canvas, add to canvas, create canvas |
-| `defuddle` | clean this url, defuddle |
-| `obsidian-markdown` | obsidian syntax, wikilink, callout |
-| `obsidian-bases` | obsidian bases, .base file, dynamic table |
-
-## Key Conventions
-
-- **Vault root**: the directory containing `wiki/` and `.raw/`
-- **Hot cache**: `wiki/hot.md` (read at session start, updated at session end)
-- **Source documents**: `.raw/` (immutable: agents never modify these)
-- **Generated knowledge**: `wiki/` (agent-owned, links to sources via wikilinks)
-- **Manifest**: `.raw/.manifest.json` tracks ingested sources (delta tracking)
-
-## Bootstrap
-
-When the user opens this project for the first time:
-
-1. Read this file (`AGENTS.md`) and the project `CLAUDE.md` for full context
-2. Read `skills/wiki/SKILL.md` for the orchestration pattern
-3. If `wiki/hot.md` exists, read it silently to restore recent context
-4. If the user types `/wiki` (or "set up wiki"), follow the wiki skill's scaffold workflow
-
-## Reference
-
-- Plugin homepage: https://github.com/AgriciDaniel/claude-obsidian
-- Pattern source: https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
-- Cross-reference: https://github.com/kepano/obsidian-skills (authoritative Obsidian-specific skills)
+Prefer short pages that can be read cold by a future agent. Split pages when they become sprawling.

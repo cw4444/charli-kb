@@ -41,10 +41,10 @@ Always note the source date for factual claims. Mark claims from sources older t
 ## Output Style
 
 - Declarative, present tense
-- Cite every non-obvious claim: `(Source: [[Page]])`
+- Cite every non-obvious claim with a normal Markdown link.
 - Short pages: under 200 lines. Split if longer.
 - No hedging language ("it seems", "perhaps", "might be")
-- Flag uncertainty explicitly: `> [!gap] This claim needs verification.`
+- Flag uncertainty explicitly in plain Markdown, for example: `Needs verification: this claim has only one weak source.`
 
 ---
 
