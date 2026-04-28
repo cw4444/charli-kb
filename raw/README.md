@@ -6,5 +6,6 @@ Guidelines:
 
 - Agents should not edit source files.
 - Prefer Markdown, plain text, PDFs, or exported notes.
-- Keep private material in `raw/private/`.
-- Do not add copied paywalled or copyrighted text to a public repository.
+- `raw/` is ignored by git by default. It is local working input, not the publishable knowledge base.
+- Do not force-add copied paywalled, copyrighted, private, sensitive, or personal material.
+- The publishable layer is `wiki/`, which should contain original summaries, synthesis, citations, and links.

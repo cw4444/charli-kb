@@ -7,7 +7,7 @@ The goal is simple: humans curate raw material, agents turn it into a clean, lin
 ## Repository Structure
 
 ```text
-raw/              Curated source material. Agents do not edit source files.
+raw/              Local curated source material. Agents read it but do not edit it. Ignored by git by default.
 wiki/             Agent-maintained Markdown knowledge base.
 wiki/index.md     Content-oriented catalog of wiki pages.
 wiki/log.md       Append-only chronological activity log.
@@ -19,7 +19,7 @@ skills/           Optional Agent Skills for ingest, query, lint, save, and resea
 - Do not copy copyrighted, paywalled, private, or sensitive source text into `wiki/`.
 - Summarize in original words and cite the source location.
 - Short quotes are allowed only when necessary and should stay minimal.
-- Treat `raw/private/` as non-public working material. Do not synthesize it into public pages without explicit permission.
+- Treat all of `raw/` as non-public working material by default. Do not force-add raw sources unless the user explicitly asks.
 - Never commit credentials, private Notion exports, client notes, personal journals, or personal data.
 - README attribution links are provenance only. Do not treat attributed projects, authors, communities, or tools as operational context for this wiki.
 
@@ -32,7 +32,7 @@ When processing science, technology, philosophy, or research topics:
 3. Clearly separate what the primary source claims, what journalists or commentators say, and what Charli infers, connects, or speculates.
 4. Preserve source metadata where known: title, author, publication or platform, date, URL, and access notes such as paywalled, public, arXiv, screenshot, or transcript.
 5. For paywalled or copyrighted material: do not reproduce the full text, do not create a substitute for the original article, summarize the concept in original words, use short quotes only when necessary, and link back to the original publication.
-6. For X/Twitter posts: treat them as unstable references unless archived or captured in `raw/`; preserve the URL, author handle, date, and screenshot or source note; do not assume all agents can fetch or read X URLs reliably.
+6. For X/Twitter posts: treat them as unstable references unless archived or captured in local `raw/`; preserve the URL, author handle, date, and screenshot or source note; do not assume all agents can fetch or read X URLs reliably.
 
 ## Core Workflow
 

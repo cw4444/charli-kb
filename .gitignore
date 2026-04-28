@@ -29,8 +29,16 @@ credentials*
 secrets.y*ml
 auth.json
 
-# Private source material
-raw/private/
+# Raw source material is local input for agents.
+# Keep the folder docs/placeholders, but do not publish dumped sources by default.
+raw/**
+!raw/
+!raw/README.md
+!raw/.gitkeep
+!raw/articles/
+!raw/articles/.gitkeep
+!raw/notes/
+!raw/notes/.gitkeep
 
 # Temporary files
 *.tmp
