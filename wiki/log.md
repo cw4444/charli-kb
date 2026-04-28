@@ -1,5 +1,13 @@
 # Wiki Log
 
+## [2026-04-28] ingest | Reality Threshold Nadine Dijkstra
+- Source: `Notion: Reality Threshold Nadine Dijkstra`
+- Source URL: `Notion page: Is It Real or Imagined? Here's How Your Brain Tells the Difference`
+- Primary sources: Dijkstra and Fleming 2023 Nature Communications; Dijkstra et al. 2025 Neuron.
+- Pages created: [Reality Threshold - Dijkstra Source Batch](sources/reality-threshold-dijkstra-batch.md), [Reality Threshold](concepts/reality-threshold.md), [Perception And Imagination Overlap](concepts/perception-and-imagination-overlap.md), [Nadine Dijkstra](people/nadine-dijkstra.md), [Ingest Report 2026-04-28 - Reality Threshold](meta/ingest-report-2026-04-28-reality-threshold.md)
+- Pages updated: [Wiki Index](index.md), [Wiki Log](log.md), [Overview](overview.md)
+- Notes: Ingested directly from a Notion `Ready to Export` row by following its `Source URL`; separated primary-source claims from Quanta/Nature commentary.
+
 ## [2026-04-28] ingest | Dan Koe focus, creativity, and life reset batch
 - Source: `raw/private/dan-koe/Full guide how to unlock extreme focus on command.md`
 - Source: `raw/private/dan-koe/How to become so creative it feels illegal.md`
