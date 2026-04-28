@@ -11,6 +11,7 @@ raw/              Local curated source material. Agents read it but do not edit 
 wiki/             Agent-maintained Markdown knowledge base.
 wiki/index.md     Content-oriented catalog of wiki pages.
 wiki/log.md       Append-only chronological activity log.
+wiki/meta/current-state.md  Lightweight handoff for future agents.
 skills/           Optional Agent Skills for ingest, query, lint, save, and research.
 ```
 
@@ -95,3 +96,14 @@ sources:
 ```
 
 Prefer short pages that can be read cold by a future agent. Split pages when they become sprawling.
+
+## Future-Agent Handoff
+
+For major wiki maintenance or a fresh session, read:
+
+1. `AGENTS.md`
+2. `wiki/index.md`
+3. `wiki/log.md`
+4. `wiki/meta/current-state.md`
+
+`wiki/meta/current-state.md` is intentionally short. Keep it public-safe and operational; do not turn it into a private journal or full chat transcript.

@@ -42,6 +42,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 
 ## Meta
 
+- [Current State](meta/current-state.md): lightweight handoff for future agents, including workflow, priorities, and current operating context.
 - [Ingest Report 2026-04-28 - Dan Koe Batch](meta/ingest-report-2026-04-28-dan-koe-batch.md): first ingest report and organization note.
 - [Ingest Report 2026-04-28 - AI Native Company And Sidequests](meta/ingest-report-2026-04-28-ai-native-company-sidequests.md): ingest report for the YC AI-native company video and Anthropic sidequest note.
 - [Ingest Report 2026-04-28 - Reality Threshold](meta/ingest-report-2026-04-28-reality-threshold.md): ingest report for the first Notion queue item processed directly by link.

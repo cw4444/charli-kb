@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-04-28] meta | lightweight current-state handoff
+- Pages created: [Current State](meta/current-state.md)
+- Pages updated: [Wiki Index](index.md), [Wiki Log](log.md), [Agent Instructions](../AGENTS.md)
+- Notes: Added a small public-safe handoff page for future agents. This replaces the need for an Obsidian-style hot cache while preserving the useful continuity: workflow, priorities, queue behavior, and current next steps.
+
 ## [2026-04-28] ingest | AI-native company and sidequest prototyping batch
 - Source: `Notion: How To Build A Company With AI From The Ground Up`
 - Source: `Notion: Anthropic Cat Wu Sidequest Maxxing`
