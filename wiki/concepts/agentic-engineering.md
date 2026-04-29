@@ -12,6 +12,8 @@ sources:
 
 Agentic engineering is software work organized around steering AI agents rather than manually writing every line of code. The human role shifts toward framing the task, managing context, judging outputs, and designing feedback loops.
 
+[Agent Prompting](agent-prompting.md) is one operating skill inside agentic engineering. The prompt should define the outcome, context, constraints, tool rules, and verification expectations without overloading the agent with stale process.
+
 The useful pattern:
 
 - Start with a clear goal or question.
@@ -28,5 +30,6 @@ At an organization level, this becomes [AI Native Company](ai-native-company.md)
 ## Related
 
 - [Agent Friendly Repositories](agent-friendly-repositories.md)
+- [Agent Prompting](agent-prompting.md)
 - [Inference Speed Development](inference-speed-development.md)
 - [Project Based Self Direction](project-based-self-direction.md)

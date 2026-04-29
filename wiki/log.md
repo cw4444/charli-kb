@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-04-29] ingest | OpenAI prompt guidance
+- Source: `OpenAI API docs: Prompt guidance`
+- Source URL: `https://developers.openai.com/api/docs/guides/prompt-guidance`
+- Pages created: [OpenAI Prompt Guidance](sources/openai-prompt-guidance.md), [Agent Prompting](concepts/agent-prompting.md)
+- Pages updated: [Wiki Index](index.md), [Wiki Log](log.md), [Agentic Engineering](concepts/agentic-engineering.md), [Agent Friendly Repositories](concepts/agent-friendly-repositories.md)
+- Notes: Added as official source material because it directly supports how this repo should instruct agents: outcome-first prompts, clear tool-use rules, concise preambles, follow-through policies, and verification.
+
 ## [2026-04-28] meta | lightweight current-state handoff
 - Pages created: [Current State](meta/current-state.md)
 - Pages updated: [Wiki Index](index.md), [Wiki Log](log.md), [Agent Instructions](../AGENTS.md)

@@ -4,6 +4,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 
 ## Sources
 
+- [OpenAI Prompt Guidance](sources/openai-prompt-guidance.md): official OpenAI guidance on prompting newer models and agentic workflows.
 - [AI-Native Company And Sidequest Prototyping Batch](sources/ai-native-company-and-sidequest-prototyping-batch.md): source batch on AI-native company design, queryable organizations, and sidequest prototyping.
 - [Dan Koe focus, creativity, and life reset batch](sources/dan-koe-focus-creativity-life-reset-batch.md): combined summary of five raw Dan Koe exports on focus, creativity, identity change, and project-based self-direction.
 - [Reality Threshold - Dijkstra Source Batch](sources/reality-threshold-dijkstra-batch.md): source batch on Dijkstra and Fleming's reality-threshold model for distinguishing perception from imagination.
@@ -13,6 +14,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 
 - [Agentic Engineering](concepts/agentic-engineering.md): software work organized around steering AI agents, managing context, and verifying outputs.
 - [Agent Friendly Repositories](concepts/agent-friendly-repositories.md): repository conventions that make agent work easier to inspect, execute, and verify.
+- [Agent Prompting](concepts/agent-prompting.md): operational prompting patterns for tool-using agents, including goals, boundaries, verification, and follow-through.
 - [AI Native Company](concepts/ai-native-company.md): organization designed around AI as an operating layer rather than a productivity add-on.
 - [Focus Through Goal Structure](concepts/focus-through-goal-structure.md): focus emerges from vision, anti-vision, projects, and daily lever-moving tasks.
 - [Creative Recovery And Input Fasting](concepts/creative-recovery-and-input-fasting.md): creativity improves when excess input is reduced and the mind has time to digest.

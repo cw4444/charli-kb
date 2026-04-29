@@ -26,7 +26,10 @@ This is directly relevant to `charli-kb`. The repo does not need elaborate infra
 
 The repository is a small example of a [Queryable Organization](queryable-organization.md): the agent should be able to answer what changed, why it changed, what sources supported it, and where the decision was recorded.
 
+Good agent-facing prompts and repo instructions are part of the same pattern. [Agent Prompting](agent-prompting.md) explains the operating contract: define outcomes, boundaries, tool-use expectations, and verification checks clearly enough that an agent can proceed without guessing.
+
 ## Related
 
 - [Agentic Engineering](agentic-engineering.md)
+- [Agent Prompting](agent-prompting.md)
 - [Inference Speed Development](inference-speed-development.md)
