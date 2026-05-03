@@ -22,6 +22,8 @@ This repo is a plain Markdown personal knowledge base based on Karpathy's LLM Wi
 - Raw/private material stays out of git.
 - Notion comments and `AI Summary` fields are useful audit trails.
 - Local `skills/` are useful but may include cloned-template leftovers; use only the parts relevant to Charli's actual workflow.
+- Codex is the gatekeeper for GitHub KB updates. Charli should capture and mark candidates, but agents should create, update, index, log, and push wiki changes.
+- Agreed wiki, rule, or handoff updates should be committed and pushed to GitHub after verification unless publication risk is unclear.
 
 ## Current Priorities
 
@@ -34,6 +36,15 @@ This repo is a plain Markdown personal knowledge base based on Karpathy's LLM Wi
 - Preserve source metadata and copyright boundaries.
 - Keep the repo agent-readable without adopting an Obsidian workflow.
 - Keep skills aligned with the Notion-to-wiki loop; ignore editor-specific or inherited workflow debris unless Charli asks for it.
+- Keep GitHub as the clean distilled knowledge base, not a second Notion or bulk Markdown export target.
+- The durable subject lanes are AI, reality, and their overlap: perception, belief, expectation, action, agents, knowledge systems, reality monitoring, and related source-backed concepts.
+
+## Recent Additions
+
+- Added [How Can Normal Humans Use Codex?](../questions/how-can-normal-humans-use-codex.md), a plain-English guide to Codex for non-developers.
+- Added [OpenAI Codex For Everyday Work](../sources/openai-codex-for-everyday-work.md), based on official OpenAI Codex documentation, Help Center pages, and prompt guidance.
+- Added examples of small first Codex prompts for non-developers: local trackers, simple galleries, folder inspection, and approval-gated cleanup.
+- Created two Codex automation proposals in the app: one daily Notion `Ready to Export` review for `charli-kb`, and one daily official OpenAI Codex docs refresh check for the non-developer guide.
 
 ## Things To Know
 
@@ -43,10 +54,13 @@ This repo is a plain Markdown personal knowledge base based on Karpathy's LLM Wi
 - Mark items `Exported` only when GitHub received a new page or an update to an existing page.
 - Do not add extra statuses; four states are enough.
 - When ingesting from Notion, leave a comment explaining what happened and update the row status when possible.
+- For `Exported` Notion rows, say whether GitHub received a new page or an update to an existing page.
+- Use the external-reader test: would this help an external human reader or future agent, or is it only a private memory?
 - Future agents should read `AGENTS.md`, `wiki/index.md`, `wiki/log.md`, and this page before major wiki maintenance.
 
 ## Next Useful Steps
 
 - Continue testing the Notion review queue with a mix of articles, videos, screenshots, and personal notes.
+- Confirm the scheduled automations behave correctly on their first real runs, especially Notion schema updates and GitHub push behavior.
 - Periodically lint the wiki for dead links, duplicate concepts, stale source notes, and public/private boundary issues.
 - Consider consolidating overlapping concepts only after several more ingest batches reveal real repetition.
