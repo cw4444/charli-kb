@@ -4,6 +4,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 
 ## Sources
 
+- [OpenAI Codex For Everyday Work](sources/openai-codex-for-everyday-work.md): official OpenAI Codex docs translated into practical everyday-work concepts for non-developers.
 - [OpenAI Prompt Guidance](sources/openai-prompt-guidance.md): official OpenAI guidance on prompting newer models and agentic workflows.
 - [AI-Native Company And Sidequest Prototyping Batch](sources/ai-native-company-and-sidequest-prototyping-batch.md): source batch on AI-native company design, queryable organizations, and sidequest prototyping.
 - [Dan Koe focus, creativity, and life reset batch](sources/dan-koe-focus-creativity-life-reset-batch.md): combined summary of five raw Dan Koe exports on focus, creativity, identity change, and project-based self-direction.
@@ -38,6 +39,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 
 ## Questions
 
+- [How Can Normal Humans Use Codex?](questions/how-can-normal-humans-use-codex.md): plain-English guide to Codex concepts such as AGENTS.md, skills, plugins, MCP, automations, and memories.
 - [How Should charli-kb Triage Notion Dumps?](questions/how-should-charli-kb-triage-notion-dumps.md): criteria for deciding what earns a place in the wiki.
 - [How Should charli-kb Work With Agents?](questions/how-should-charli-kb-work-with-agents.md): working loop for maintaining this repo with AI agents.
 - [How Should charli-kb Handle Video Sources?](questions/how-should-charli-kb-handle-video-sources.md): policy for deciding when a full video transcript is necessary.

@@ -43,6 +43,23 @@ When an image source matters, preserve attribution and metadata where known: cre
 
 ## Core Workflow
 
+### Local Skills
+
+Check `skills/` when a task matches ingest, query, lint, save, or research workflows, but treat the folder as evolving local working material rather than inherited truth. This repo started from a cloned template, so ignore or prune instructions that are not relevant to Charli's actual workflow, such as editor-specific or author-specific leftovers. Prefer skills that support the Notion-to-wiki loop, source-aware synthesis, public/private boundaries, and concise GitHub-readable Markdown.
+
+### Notion Queue Rule
+
+When working from Notion, the queue statuses are intentionally limited to `Ready`, `Draft`, `Ignored`, and `Exported`.
+
+- `Ready`: active intake. Process these items.
+- `Draft`: Codex checked it, but Charli needs to review, add a missing source, or decide whether it deserves to exist long-term.
+- `Ignored`: Codex checked it and decided it should stay in Notion only.
+- `Exported`: Codex ingested it into GitHub, either by creating new wiki content or updating existing content.
+
+Ignore items marked `Exported`, `Ignored`, or `Draft` unless the user explicitly asks to revisit them. Do not add extra novelty statuses.
+
+After processing a `Ready` item, update its Notion status when possible and leave a concise comment explaining what happened. For `Exported` items, say whether GitHub received a brand-new page or an update to an existing page. Use judgment before adding anything to GitHub: tell Charli when the wiki already contains the same idea in another form, and do not ingest material just because it was briefly interesting. The durable lanes for this wiki are AI and reality, especially where they overlap.
+
 ### Ingest
 
 When asked to ingest material from `raw/`:
