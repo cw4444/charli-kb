@@ -2,10 +2,10 @@
 
 ## [2026-05-03] ingest | OpenAI Codex for everyday work
 - Source: `OpenAI Codex official documentation and Help Center`
-- Source URLs: `https://developers.openai.com/codex`, `https://help.openai.com/en/articles/11369540-codex-in-chatgpt`, `https://developers.openai.com/codex/use-cases`, `https://developers.openai.com/codex/app/features`, `https://developers.openai.com/codex/app/automations`, `https://developers.openai.com/codex/guides/agents-md`, `https://developers.openai.com/codex/skills`, `https://developers.openai.com/codex/plugins`, `https://developers.openai.com/codex/mcp`, `https://developers.openai.com/codex/memories`, `https://developers.openai.com/codex/workflows`
+- Source URLs: `https://developers.openai.com/codex`, `https://developers.openai.com/api/docs/guides/prompt-guidance`, `https://help.openai.com/en/articles/11369540-codex-in-chatgpt`, `https://developers.openai.com/codex/use-cases`, `https://developers.openai.com/codex/app/features`, `https://developers.openai.com/codex/app/automations`, `https://developers.openai.com/codex/guides/agents-md`, `https://developers.openai.com/codex/skills`, `https://developers.openai.com/codex/plugins`, `https://developers.openai.com/codex/mcp`, `https://developers.openai.com/codex/memories`, `https://developers.openai.com/codex/workflows`
 - Pages created: [OpenAI Codex For Everyday Work](sources/openai-codex-for-everyday-work.md), [How Can Normal Humans Use Codex?](questions/how-can-normal-humans-use-codex.md)
 - Pages updated: [Wiki Index](index.md), [Wiki Log](log.md)
-- Notes: Added a public-facing, non-developer guide to Codex concepts: AGENTS.md, skills, plugins, MCP, automations, memories, and the difference between chat exploration and agentic work.
+- Notes: Added a public-facing, non-developer guide to Codex concepts: AGENTS.md, skills, plugins, MCP, automations, memories, and the difference between chat exploration and agentic work. Later expanded with small first-task prompts and outcome-first prompting guidance for non-developers.
 
 ## [2026-04-29] ingest | OpenAI prompt guidance
 - Source: `OpenAI API docs: Prompt guidance`

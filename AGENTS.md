@@ -43,6 +43,10 @@ When an image source matters, preserve attribution and metadata where known: cre
 
 ## Core Workflow
 
+### GitHub Publishing
+
+For agreed wiki, rule, or handoff updates, commit and push to GitHub after verification instead of waiting for Charli to remember to ask. Do not auto-push ambiguous, sensitive, destructive, or private-source changes; pause and ask when publication risk is unclear.
+
 ### Local Skills
 
 Check `skills/` when a task matches ingest, query, lint, save, or research workflows, but treat the folder as evolving local working material rather than inherited truth. This repo started from a cloned template, so ignore or prune instructions that are not relevant to Charli's actual workflow, such as editor-specific or author-specific leftovers. Prefer skills that support the Notion-to-wiki loop, source-aware synthesis, public/private boundaries, and concise GitHub-readable Markdown.

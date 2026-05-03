@@ -7,6 +7,7 @@ updated: 2026-05-03
 question: "How can non-developers use Codex for everyday work?"
 sources:
   - ../sources/openai-codex-for-everyday-work.md
+  - ../sources/openai-prompt-guidance.md
 ---
 
 # How Can Normal Humans Use Codex?
@@ -36,6 +37,8 @@ Poor examples:
 - "Do something useful with all my notes."
 
 Codex works best when the task names the input, the rules, the output, and how to tell whether it succeeded.
+
+The prompt does not need to prescribe every technical choice. OpenAI's prompt guidance for newer models emphasizes defining the desired outcome and giving the model room to choose implementation details. For non-developers, this is the liberating bit: you can say what you want built, what "simple" means, what constraints matter, and how you want it explained. Codex can decide whether that means HTML, Python, a spreadsheet script, Markdown, or some other boring machinery.
 
 ## The Basic Pieces
 
@@ -153,6 +156,22 @@ Good starter prompts:
 - "Tell me whether this needs a plugin, MCP server, automation, or just a one-off prompt."
 - "Build the smallest working version, then explain how I use it."
 
+## Small First Tasks For Terrified Civilians
+
+Codex can sound scary because it has "code" in the name. A better first step is to ask for one tiny useful thing and let Codex explain where the files are and how to run it.
+
+You do not need to know the tech stack. You need to define the outcome.
+
+Good inertia-breaking prompts:
+
+- "Build me a simple water tracker for my PDA/ADHD brain. Make it easy to use, with big buttons, reminders, and a daily reset. Explain where the files are and how I run it."
+- "Make a little dog photo gallery that looks like an Instagram grid. I want to add photos, captions, and dates. Keep it simple. Explain how I use it."
+- "Help me sort my Downloads folder. First inspect what kinds of files are there, then propose folders and rules. Do not move anything until I approve."
+- "Make me a tiny habit tracker for three things only. No login, no nonsense, just a local app I can open and use."
+- "Read this folder and explain what is in it like I am not technical. Tell me what looks important, duplicated, or safe to archive. Do not delete anything."
+
+The pattern is: ask for a small outcome, say what simple means, require an explanation, and put approval gates around moving, deleting, publishing, or spending money.
+
 ## What Not To Do
 
 Do not ask Codex to become a vague second brain. Give it a doorway, a rule, and an output.
@@ -166,6 +185,7 @@ Do not add integrations for sport. Add them when a real recurring task needs the
 ## Sources
 
 - [OpenAI Help Center: Using Codex with your ChatGPT plan](https://help.openai.com/en/articles/11369540-codex-in-chatgpt)
+- [OpenAI prompt guidance](https://developers.openai.com/api/docs/guides/prompt-guidance)
 - [OpenAI Codex use cases](https://developers.openai.com/codex/use-cases)
 - [OpenAI Codex app features](https://developers.openai.com/codex/app/features)
 - [OpenAI Codex automations](https://developers.openai.com/codex/app/automations)

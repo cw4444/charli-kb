@@ -7,6 +7,7 @@ updated: 2026-05-03
 source_type: official-docs
 sources:
   - "https://developers.openai.com/codex"
+  - "https://developers.openai.com/api/docs/guides/prompt-guidance"
   - "https://help.openai.com/en/articles/11369540-codex-in-chatgpt"
   - "https://developers.openai.com/codex/use-cases"
   - "https://developers.openai.com/codex/app/features"
@@ -46,6 +47,10 @@ The practical shift is that Codex is not only a chat surface. It can inspect a p
 ## charli-kb Relevance
 
 This source batch directly supports a plain-English guide for using Codex outside conventional software development. The `charli-kb` Notion-to-GitHub workflow is a good example: Charli captures material on a phone, Notion holds the messy intake, Codex checks scheduled `Ready` items, applies discernment, updates the Markdown wiki only when useful, and leaves an audit trail.
+
+The guide should include small starter prompts because the main barrier for non-developers is often not capability but inertia: "Codex" sounds like programming, while the practical use case is asking an agent to build or inspect one small useful thing and explain how to use it.
+
+OpenAI's prompt guidance also supports a non-developer framing: define the outcome and constraints, then let the model choose appropriate implementation details. This is useful because normal users should not need to know whether a task calls for Python, HTML, a script, a spreadsheet formula, or a Markdown workflow.
 
 ## Related Pages
 
