@@ -10,6 +10,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Dan Koe focus, creativity, and life reset batch](sources/dan-koe-focus-creativity-life-reset-batch.md): combined summary of five raw Dan Koe exports on focus, creativity, identity change, and project-based self-direction.
 - [Reality Threshold - Dijkstra Source Batch](sources/reality-threshold-dijkstra-batch.md): source batch on Dijkstra and Fleming's reality-threshold model for distinguishing perception from imagination.
 - [Peter Steinberger Agentic Engineering Batch](sources/peter-steinberger-agentic-engineering-batch.md): two public web articles on practical coding-agent workflows and agent-readable projects.
+- [Observer-Dependent Facts (Wigner's Friend / Local Friendliness) — Source Summary](sources/observer-dependent-facts-wigners-friend.md): source summary of a public explanation and linked primary paper about observer-dependent “facts” constraints in quantum mechanics.
 
 ## Concepts
 
@@ -26,6 +27,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Reality Threshold](concepts/reality-threshold.md): proposed cutoff at which an imagined or perceptual signal is judged as real.
 - [Perception And Imagination Overlap](concepts/perception-and-imagination-overlap.md): model of shared machinery and signal-strength judgments across imagery and perception.
 - [Sidequest Prototyping](concepts/sidequest-prototyping.md): low-permission prototypes judged by actual adoption rather than roadmap speculation.
+- [Observer-Dependent Facts (Wigner's Friend / Local Friendliness)](concepts/observer-dependent-facts.md): quantum-mechanics framing where a set of “objective facts” assumptions can’t all hold simultaneously.
 
 ## People
 

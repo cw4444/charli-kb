@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-05-04] ingest | Observer-dependent facts (Wigner's friend)
+- Source: `Notion: Quantum physics: our study suggests objective reality doesn’t exist (The Conversation capture)`
+- Source URLs: `https://theconversation.com/quantum-physics-our-study-suggests-objective-reality-doesnt-exist-126805`, `https://advances.sciencemag.org/content/5/9/eaaw9832`
+- Pages created: [Observer-Dependent Facts (Wigner's Friend / Local Friendliness) — Source Summary](sources/observer-dependent-facts-wigners-friend.md), [Observer-Dependent Facts (Wigner's Friend / Local Friendliness)](concepts/observer-dependent-facts.md)
+- Pages updated: [Wiki Index](index.md), [Wiki Log](log.md)
+- Notes: Kept the durable structure (assumptions → inequality → violation → forced tradeoff) and avoided copying paywalled/pop-sci text into the public wiki.
+
 ## [2026-05-03] ingest | OpenAI Codex for everyday work
 - Source: `OpenAI Codex official documentation and Help Center`
 - Source URLs: `https://developers.openai.com/codex`, `https://developers.openai.com/api/docs/guides/prompt-guidance`, `https://help.openai.com/en/articles/11369540-codex-in-chatgpt`, `https://developers.openai.com/codex/use-cases`, `https://developers.openai.com/codex/app/features`, `https://developers.openai.com/codex/app/automations`, `https://developers.openai.com/codex/guides/agents-md`, `https://developers.openai.com/codex/skills`, `https://developers.openai.com/codex/plugins`, `https://developers.openai.com/codex/mcp`, `https://developers.openai.com/codex/memories`, `https://developers.openai.com/codex/workflows`
