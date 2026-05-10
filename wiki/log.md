@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-05-10] lint | Observer-dependent reality package cleanup
+- Pages scanned: root-level research package and existing wiki pages related to observer-dependent facts.
+- Pages created: [Lint Report 2026-05-10](meta/lint-report-2026-05-10.md)
+- Pages updated: [Observer-Dependent Facts](concepts/observer-dependent-facts.md), [Observer-Dependent Facts Source Summary](sources/observer-dependent-facts-wigners-friend.md), [Wiki Log](log.md)
+- Notes: Consolidated the older duplicate concept page into a bridge to the new research package and removed a private Notion URL from the public source summary. No broken content links or orphan root/wiki pages found.
+
 ## [2026-05-10] autoresearch | Bell, Wigner's friend, and observer-dependent reality knowledge base
 - Sources: public primary papers, review/commentary, and critiques on Bell inequalities, Wigner's friend, Brukner's no-go theorem, Proietti et al. 2019, Frauchiger-Renner, local friendliness, interpretations, and recent reassessments.
 - Pages created: [Root Overview](../README.md), [Source Index](../sources/source-index.md), [Sources CSV](../sources/sources.csv), [Sources JSON](../sources/sources.json), [Bell Inequalities](../themes/bell-inequalities.md), [Wigner's Friend](../themes/wigners-friend.md), [Observer-Independent Facts](../themes/observer-independent-facts.md), [Local Friendliness](../themes/local-friendliness.md), [Frauchiger-Renner](../themes/frauchiger-renner.md), [Interpretations](../themes/interpretations.md), [AI Observers](../themes/ai-observers.md), [Concept Map](../maps/concept-map.md), [Mermaid Concept Map](../maps/concept-map.mmd), [Beginner To Advanced Reading Path](../reading-paths/beginner-to-advanced.md), [Open Questions](../open-questions.md), [Glossary](../glossary.md), [Static HTML Index](../public/index.html)

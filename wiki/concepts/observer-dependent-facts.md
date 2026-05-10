@@ -3,27 +3,29 @@ title: "Observer-Dependent Facts (Wigner's Friend / Local Friendliness)"
 type: concept
 status: draft
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-05-10
 sources:
   - ../sources/observer-dependent-facts-wigners-friend.md
+  - ../../themes/observer-independent-facts.md
+  - ../../themes/local-friendliness.md
 ---
 
 ## Summary
 
-Some quantum-mechanics scenarios suggest a constraint: you may not be able to keep *all* of the following at once:
+This page is now a bridge to the fuller root-level research package:
 
-- “facts” are single, observer-independent events,
-- quantum mechanics applies to observers/apparatus as physical systems,
-- and certain locality / measurement-setting assumptions hold.
+- [Observer-Independent Facts](../../themes/observer-independent-facts.md)
+- [Local Friendliness](../../themes/local-friendliness.md)
+- [Wigner's Friend](../../themes/wigners-friend.md)
+- [Bell Inequalities](../../themes/bell-inequalities.md)
 
-This is often discussed via **Wigner’s friend** variants and tested using inequalities (“local friendliness”-style framing) analogous in spirit to Bell tests.
+The durable claim is still the same: some quantum-foundations scenarios suggest that you may not be able to keep all of the following at once:
 
-## Minimal model
+- facts are single, observer-independent events,
+- quantum mechanics applies to observers and apparatus as physical systems,
+- locality and free-choice/local-agency assumptions hold.
 
-- **Inside observer** performs a measurement and records a definite outcome (“a fact”).
-- **Outside observer** treats the whole inside lab (including the inside observer and record) as a quantum system and can, in principle, choose a different measurement that probes interference/entanglement properties of that larger system.
-- Under specific assumptions, you can derive an inequality that “observer-independent facts” models must satisfy.
-- Quantum predictions (and some experiments) can violate that inequality.
+The expanded package separates Bell's theorem, Brukner's no-go theorem, Proietti et al. 2019, local friendliness, Frauchiger-Renner, interpretations, critiques, and AI-observer questions.
 
 ## What *not* to conclude
 
@@ -33,9 +35,9 @@ This is often discussed via **Wigner’s friend** variants and tested using ineq
 
 ## Why this is in the wiki
 
-This topic shows up repeatedly in popular writing as “quantum mechanics implies reality is subjective.” The durable thing to keep is the **structure of the claim** (assumptions → inequality → violation → forced tradeoff), not the headline.
+This topic shows up repeatedly in popular writing as “quantum mechanics implies reality is subjective.” The durable thing to keep is the structure of the claim: assumptions -> inequality or contradiction -> forced tradeoff, not the headline.
 
 ## Links
 
 - Source summary: [Observer-Dependent Facts (Wigner's Friend / Local Friendliness) — Source Summary](../sources/observer-dependent-facts-wigners-friend.md)
-
+- Full research package: [Bell, Wigner's Friend, and Observer-Dependent Reality](../../README.md)

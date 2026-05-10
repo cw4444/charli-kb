@@ -3,7 +3,7 @@ title: "Observer-Dependent Facts (Wigner's Friend / Local Friendliness) — Sour
 type: source
 status: draft
 created: 2026-05-04
-updated: 2026-05-04
+updated: 2026-05-10
 sources:
   - "Notion database: Ready to Export (row: study suggests objective reality doesn’t exist)"
 ---
@@ -20,7 +20,7 @@ A short, public-safe source summary of a popular explanation (The Conversation) 
 - Date: 2019-11-14
 - URL: https://theconversation.com/quantum-physics-our-study-suggests-objective-reality-doesnt-exist-126805
 - Primary paper (as linked by the article): Science Advances paper on a Wigner’s-friend-style inequality test: https://advances.sciencemag.org/content/5/9/eaaw9832
-- Notion capture (private working source, not for publication): https://www.notion.so/230e74ced8ab8040bfeec757c832afba
+- Notion capture: private working source; URL omitted from the public wiki.
 
 ## Key claims (as presented by the source)
 
@@ -44,3 +44,6 @@ The source gestures at multiple ways people interpret results like this (without
 - QBism / agent-centered interpretations (probabilities and “facts” tied to agents)
 - Objective-collapse or breakdown-of-quantum-theory-at-scale ideas
 
+## Consolidation note
+
+This older source summary is retained as provenance for the original Notion capture. The fuller research package now lives at [Bell, Wigner's Friend, and Observer-Dependent Reality](../../README.md), with the main synthesis in [Observer-Independent Facts](../../themes/observer-independent-facts.md) and [Local Friendliness](../../themes/local-friendliness.md).
