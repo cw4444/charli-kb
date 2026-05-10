@@ -12,15 +12,17 @@ This repo is a plain Markdown personal knowledge base based on Karpathy's LLM Wi
 
 ## Current Workflow
 
-- Notion is Charli's messy capture dump.
-- The Notion `Ready to Export` database is the review queue.
+- Default to repo-first research when Charli asks a research question: search public/primary sources directly, synthesize into Markdown, update index/log/handoff, then commit and push.
+- Notion is optional intake, not the main workflow. Use it only when it contains something uniquely useful: Charli's own hunch, private context, screenshot, source trail, or a saved item she explicitly wants processed.
+- Most copied articles in Notion are discussion material, not durable source material. Do not treat Notion clips as adding value when public sources can be researched directly.
+- The Notion `Ready to Export` database remains a review queue only for items Charli deliberately wants checked.
 - Agents only need to check items marked `Ready`.
 - The only queue statuses should be `Ready`, `Draft`, `Ignored`, and `Exported`.
 - Items marked `Exported`, `Ignored`, or `Draft` should be skipped unless Charli explicitly asks to revisit them.
 - Agents read `Ready` items and decide whether to ingest as `Exported`, leave for human review as `Draft`, or reject as `Ignored`.
-- Useful synthesis goes into `wiki/`.
+- Useful synthesis goes into Markdown in the repo. For larger research packages, root-level folders such as `sources/`, `themes/`, `maps/`, and `reading-paths/` are acceptable when they make the result clearer than forcing everything into `wiki/`.
 - Raw/private material stays out of git.
-- Notion comments and `AI Summary` fields are useful audit trails.
+- Notion comments and `AI Summary` fields are useful audit trails only for Notion-originated items.
 - Local `skills/` are useful but may include cloned-template leftovers; use only the parts relevant to Charli's actual workflow.
 - Codex is the gatekeeper for GitHub KB updates. Charli should capture and mark candidates, but agents should create, update, index, log, and push wiki changes.
 - Agreed wiki, rule, or handoff updates should be committed and pushed to GitHub after verification unless publication risk is unclear.
@@ -35,12 +37,13 @@ This repo is a plain Markdown personal knowledge base based on Karpathy's LLM Wi
 - Separate primary-source claims, commentary, and Charli's own inferences.
 - Preserve source metadata and copyright boundaries.
 - Keep the repo agent-readable without adopting an Obsidian workflow.
-- Keep skills aligned with the Notion-to-wiki loop; ignore editor-specific or inherited workflow debris unless Charli asks for it.
+- Keep skills aligned with repo-first, source-aware research. The local `autoresearch` skill is a thin local adaptation inspired by Karpathy's autoresearch pattern; keep it lightweight and focused on public-safe Markdown synthesis.
 - Keep GitHub as the clean distilled knowledge base, not a second Notion or bulk Markdown export target.
 - The durable subject lanes are AI, reality, and their overlap: perception, belief, expectation, action, agents, knowledge systems, reality monitoring, and related source-backed concepts.
 
 ## Recent Additions
 
+- Workflow update: repo-first direct research is now preferred for public research topics; Notion is reserved for genuinely useful intake rather than copied article storage.
 - Added a root-level research package, [Bell, Wigner's Friend, and Observer-Dependent Reality](../../README.md), with source metadata, theme pages, concept maps, reading path, glossary, open questions, and optional static HTML.
 - Added [How Can Normal Humans Use Codex?](../questions/how-can-normal-humans-use-codex.md), a plain-English guide to Codex for non-developers.
 - Added [OpenAI Codex For Everyday Work](../sources/openai-codex-for-everyday-work.md), based on official OpenAI Codex documentation, Help Center pages, and prompt guidance.
@@ -50,6 +53,8 @@ This repo is a plain Markdown personal knowledge base based on Karpathy's LLM Wi
 ## Things To Know
 
 - Charli values blunt discernment over enthusiastic hoarding.
+- The Bell/Wigner/observer-dependent-reality package is the current template for substantial research threads: overview, source index, structured source data, theme pages, concept map, reading path, glossary, open questions, conservative caveats, and optional static HTML.
+- When researching, prefer primary sources, public papers, official pages, reputable reviews, and explicit caveats over copied article text from Notion.
 - It is okay to mark items `Ignored` when they are only personally resonant or already covered by existing wiki pages.
 - It is okay to mark items `Draft` when they need missing sources, source clarification, or human judgment.
 - Mark items `Exported` only when GitHub received a new page or an update to an existing page.
@@ -61,7 +66,7 @@ This repo is a plain Markdown personal knowledge base based on Karpathy's LLM Wi
 
 ## Next Useful Steps
 
-- Continue testing the Notion review queue with a mix of articles, videos, screenshots, and personal notes.
-- Confirm the scheduled automations behave correctly on their first real runs, especially Notion schema updates and GitHub push behavior.
+- Update `AGENTS.md` later to reflect the repo-first research default and demote the Notion queue to optional intake.
+- Consider trimming or rewriting old Notion-centric guide pages so they do not imply Notion is required for research.
 - Periodically lint the wiki for dead links, duplicate concepts, stale source notes, and public/private boundary issues.
 - Consider consolidating overlapping concepts only after several more ingest batches reveal real repetition.
