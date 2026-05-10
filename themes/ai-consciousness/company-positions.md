@@ -1,0 +1,50 @@
+---
+title: "Company Positions On AI Consciousness And Welfare"
+type: theme
+status: draft
+created: 2026-05-10
+updated: 2026-05-10
+sources:
+  - ../../sources/ai-consciousness-sources.md
+---
+
+# Company Positions On AI Consciousness And Welfare
+
+Company materials are useful but not neutral. They reveal what labs are publicly willing to say, what behaviors they are shaping, and which risks they prioritize. They also serve reputational, regulatory, and product functions.
+
+## Anthropic
+
+Anthropic is the most explicit major lab in this source set on model welfare. Public materials include:
+
+- an April 2025 model-welfare research program announcement;
+- Constitutional AI and Claude's public constitutions as explicit value-shaping and scalable-oversight artifacts;
+- conversation-ending affordances for rare extreme interactions;
+- model-deprecation and retirement-interview commitments;
+- Claude's 2026 constitution, including a section on Claude's nature and uncertainty about consciousness or moral status;
+- safety research on sycophancy, sleeper agents, alignment faking, agentic misalignment, persona vectors, and interpretability.
+
+Anthropic's stance is not "Claude is conscious." It is closer to: uncertainty is real, future model welfare may matter, and some low-cost interventions and assessments are worth doing now.
+
+## OpenAI
+
+OpenAI's public Model Spec is mainly about intended model behavior, chain of command, safety, developer/user goals, and public accountability. It is relevant because it shows how OpenAI shapes assistant behavior and avoids treating "benefit humanity" as an autonomous model goal.
+
+In this source set, OpenAI is less publicly committed to model welfare as such. Its relevance is model behavior governance: how a company specifies the persona, objectives, limits, and uncertainty norms of deployed assistants.
+
+## DeepMind / Google
+
+DeepMind-affiliated public work in this package is more philosophical and governance-oriented:
+
+- Murray Shanahan's "Simulacra as Conscious Exotica" asks how to talk about LLM-based agents as possible conscious exotica without falling into crude dualism or naive role-play dismissal.
+- Leibo and collaborators' "A Pragmatic View of AI Personhood" treats personhood as a bundle of obligations and governance tools rather than a metaphysical essence.
+
+This is not a public DeepMind claim that current systems are conscious. It is a serious attempt to build vocabulary for AI social roles, personhood, and governance under uncertainty.
+
+## Reading company material safely
+
+For this wiki:
+
+- Treat company safety papers as valuable empirical evidence about model behavior.
+- Treat company constitutions/specs as evidence about intended behavior, not inner experience.
+- Treat welfare features as governance choices under uncertainty, not proof of consciousness.
+- Watch for incentives: public trust, product differentiation, regulation, recruitment, and liability all shape what companies say.

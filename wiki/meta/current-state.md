@@ -43,6 +43,7 @@ This repo is a plain Markdown personal knowledge base based on Karpathy's LLM Wi
 
 ## Recent Additions
 
+- Added a root-level research package, [AI Consciousness And Model Welfare](../../themes/ai-consciousness/overview.md), with public-source synthesis on AI consciousness, model welfare, self-reports, interpretability, agency, functionalism, biological objections, moral patienthood, company positions, a source CSV, a Mermaid map, and a reading path.
 - Workflow update: repo-first direct research is now preferred for public research topics; Notion is reserved for genuinely useful intake rather than copied article storage.
 - Added a root-level research package, [Bell, Wigner's Friend, and Observer-Dependent Reality](../../README.md), with source metadata, theme pages, concept maps, reading path, glossary, open questions, and optional static HTML.
 - Added [How Can Normal Humans Use Codex?](../questions/how-can-normal-humans-use-codex.md), a plain-English guide to Codex for non-developers.
@@ -53,6 +54,7 @@ This repo is a plain Markdown personal knowledge base based on Karpathy's LLM Wi
 ## Things To Know
 
 - Charli values blunt discernment over enthusiastic hoarding.
+- The AI consciousness/model welfare package is intentionally balanced: it does not conclude current AI is conscious, does not dismiss AI consciousness as impossible, separates consciousness from agency and moral patienthood, and treats company welfare/safety materials as important but not neutral.
 - The Bell/Wigner/observer-dependent-reality package is the current template for substantial research threads: overview, source index, structured source data, theme pages, concept map, reading path, glossary, open questions, conservative caveats, and optional static HTML.
 - When researching, prefer primary sources, public papers, official pages, reputable reviews, and explicit caveats over copied article text from Notion.
 - It is okay to mark items `Ignored` when they are only personally resonant or already covered by existing wiki pages.

@@ -4,6 +4,10 @@ This is the catalog of generated wiki pages. Agents should update it after every
 
 ## Research Packages
 
+- [AI Consciousness And Model Welfare](../themes/ai-consciousness/overview.md): balanced public-source research package on AI consciousness, model welfare, self-reports, agency, interpretability, moral patienthood, company positions, and skeptical arguments.
+- [AI Consciousness Sources](../sources/ai-consciousness-sources.md): annotated source index and CSV source table for the AI consciousness/model welfare package.
+- [AI Consciousness Concept Map](../maps/ai-consciousness-map.md): Mermaid-backed map separating consciousness, agency, moral patienthood, model welfare, and company positions.
+- [AI Consciousness Reading Path](../reading-paths/ai-consciousness-reading-path.md): beginner-to-advanced path through definitions, pro/contra arguments, company research, and governance questions.
 - [Bell, Wigner's Friend, and Observer-Dependent Reality](../README.md): root-level Markdown and optional HTML knowledge base connecting Bell inequalities, Wigner's friend, Brukner, Proietti, local friendliness, critiques, interpretations, and AI-observer questions.
 - [Source Index](../sources/source-index.md): annotated bibliography for the Bell/Wigner/observer-dependent-reality package.
 - [Concept Map](../maps/concept-map.md): plain-English map of the research cluster.

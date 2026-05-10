@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-05-10] autoresearch | AI consciousness and model welfare research package
+- Sources: public Anthropic, OpenAI, Google DeepMind, arXiv, ACL/FAccT/AIES, SEP, and philosophy sources on AI consciousness, model welfare, interpretability, self-reports, agency, functionalism, biological objections, moral patienthood, and critiques of current AI consciousness.
+- Pages created: [AI Consciousness Overview](../themes/ai-consciousness/overview.md), [Arguments For](../themes/ai-consciousness/arguments-for.md), [Arguments Against](../themes/ai-consciousness/arguments-against.md), [Model Welfare](../themes/ai-consciousness/model-welfare.md), [Self-Reports](../themes/ai-consciousness/self-reports.md), [Interpretability](../themes/ai-consciousness/interpretability.md), [Agency Self-Models](../themes/ai-consciousness/agency-self-models.md), [Substrate Functionalism](../themes/ai-consciousness/substrate-functionalism.md), [Biology Embodiment](../themes/ai-consciousness/biology-embodiment.md), [Moral Patienthood](../themes/ai-consciousness/moral-patienthood.md), [Company Positions](../themes/ai-consciousness/company-positions.md), [Open Questions](../themes/ai-consciousness/open-questions.md), [Summary And Arguments](../themes/ai-consciousness/summary-and-arguments.md), [AI Consciousness Sources](../sources/ai-consciousness-sources.md), [AI Consciousness Sources CSV](../sources/ai-consciousness-sources.csv), [AI Consciousness Concept Map](../maps/ai-consciousness-map.md), [AI Consciousness Mermaid Map](../maps/ai-consciousness-map.mmd), [AI Consciousness Reading Path](../reading-paths/ai-consciousness-reading-path.md)
+- Pages updated: [Wiki Index](index.md), [Wiki Log](log.md), [Current State](meta/current-state.md)
+- Notes: Built as a balanced public-source package. It does not conclude current AI is conscious, keeps welfare and moral patienthood separate from consciousness, treats self-reports as weak evidence, and flags company research as important but not neutral.
+
 ## [2026-05-10] lint | Observer-dependent reality package cleanup
 - Pages scanned: root-level research package and existing wiki pages related to observer-dependent facts.
 - Pages created: [Lint Report 2026-05-10](meta/lint-report-2026-05-10.md)
