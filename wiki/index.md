@@ -2,6 +2,13 @@
 
 This is the catalog of generated wiki pages. Agents should update it after every meaningful wiki change.
 
+## Research Packages
+
+- [Bell, Wigner's Friend, and Observer-Dependent Reality](../README.md): root-level Markdown and optional HTML knowledge base connecting Bell inequalities, Wigner's friend, Brukner, Proietti, local friendliness, critiques, interpretations, and AI-observer questions.
+- [Source Index](../sources/source-index.md): annotated bibliography for the Bell/Wigner/observer-dependent-reality package.
+- [Concept Map](../maps/concept-map.md): plain-English map of the research cluster.
+- [Beginner To Advanced Reading Path](../reading-paths/beginner-to-advanced.md): route through the topic from conceptual orientation to recent critiques.
+
 ## Sources
 
 - [OpenAI Codex For Everyday Work](sources/openai-codex-for-everyday-work.md): official OpenAI Codex docs translated into practical everyday-work concepts for non-developers.

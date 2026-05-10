@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-05-10] autoresearch | Bell, Wigner's friend, and observer-dependent reality knowledge base
+- Sources: public primary papers, review/commentary, and critiques on Bell inequalities, Wigner's friend, Brukner's no-go theorem, Proietti et al. 2019, Frauchiger-Renner, local friendliness, interpretations, and recent reassessments.
+- Pages created: [Root Overview](../README.md), [Source Index](../sources/source-index.md), [Sources CSV](../sources/sources.csv), [Sources JSON](../sources/sources.json), [Bell Inequalities](../themes/bell-inequalities.md), [Wigner's Friend](../themes/wigners-friend.md), [Observer-Independent Facts](../themes/observer-independent-facts.md), [Local Friendliness](../themes/local-friendliness.md), [Frauchiger-Renner](../themes/frauchiger-renner.md), [Interpretations](../themes/interpretations.md), [AI Observers](../themes/ai-observers.md), [Concept Map](../maps/concept-map.md), [Mermaid Concept Map](../maps/concept-map.mmd), [Beginner To Advanced Reading Path](../reading-paths/beginner-to-advanced.md), [Open Questions](../open-questions.md), [Glossary](../glossary.md), [Static HTML Index](../public/index.html)
+- Pages updated: [Wiki Index](index.md), [Wiki Log](log.md), [Current State](meta/current-state.md)
+- Notes: Built as a root-level Markdown-first research package with conservative claims around Proietti et al.; separated experimental claims from interpretive claims and included critical papers through 2025.
+
 ## [2026-05-04] ingest | Observer-dependent facts (Wigner's friend)
 - Source: `Notion: Quantum physics: our study suggests objective reality doesn’t exist (The Conversation capture)`
 - Source URLs: `https://theconversation.com/quantum-physics-our-study-suggests-objective-reality-doesnt-exist-126805`, `https://advances.sciencemag.org/content/5/9/eaaw9832`

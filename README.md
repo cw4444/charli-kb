@@ -1,69 +1,78 @@
-# charli-kb
+# Bell, Wigner's Friend, and Observer-Dependent Reality
 
-A plain Markdown knowledge base built around Andrej Karpathy's LLM Wiki pattern.
+This repository is a Markdown-first knowledge base on a cluster of quantum-foundations work:
 
-This is a personal knowledge base, not a finished reference encyclopedia. The structure is open for anyone to copy, adapt, or interrogate with an AI agent; the actual wiki content reflects my own reading, notes, and current lines of thought.
+- Bell's theorem and Bell inequalities.
+- Wigner's friend and extended Wigner's friend scenarios.
+- Časlav Brukner's no-go theorem for observer-independent facts.
+- Experimental and theoretical work on local observer-independence and local friendliness.
+- Interpretations that either accept, resist, or dissolve observer-dependent facts.
+- Speculative extensions, including whether AI systems could count as observers in any physically meaningful sense.
 
-This repo is intentionally small. It is not an Obsidian vault and it is not tied to a specific AI agent. The pattern is:
+The central question is:
 
-1. Put curated source material in `raw/`.
-2. Ask an AI coding agent to process it.
-3. The agent writes clean, linked Markdown pages in `wiki/`.
-4. The agent keeps `wiki/index.md` and `wiki/log.md` current.
+> How are Bell inequalities related to Brukner's Wigner's-friend work, local observer-independence, local friendliness, and observer-dependent reality?
 
-## Folders
+Short answer: Bell inequalities constrain theories that try to preserve local hidden-variable-style explanations of correlations. Brukner-style and local-friendliness inequalities reuse the Bell logic, but replace or weaken "pre-existing hidden variables" with assumptions about whether observed events are absolute, observer-independent facts. Violations of these inequalities do not prove that everyday reality is unreal. They show that, if standard quantum theory applies to the relevant systems and if assumptions such as locality, free choice, and universal observability of records are retained, then not every observer's measurement outcome can be treated as a single shared fact in one observer-independent story.
 
-```text
-raw/              Source material you curate.
-raw/private/      Local/private material. Do not publish by default.
-wiki/             Generated knowledge base.
-skills/           Optional Agent Skills for supported agents.
-AGENTS.md         Instructions for agents working in this repo.
-```
+## Why This Matters To Charli
 
-## Basic Use
+This topic sits directly on the fault line between "reality as one public database" and "reality as relational, agent-indexed, or context-dependent."
 
-Drop or export useful material into `raw/`, then ask your agent:
+For Charli's observer-dependent reality thread, the useful lesson is not the slogan "objective reality does not exist." That overstates the science. The durable insight is more precise:
 
-```text
-Ingest raw/articles/example.md into the wiki.
-```
+- Quantum theory can force a distinction between facts-for-an-observer and facts-in-a-single-global-ledger.
+- Bell-style reasoning turns metaphysical intuitions into testable or at least formally checkable constraints.
+- Extended Wigner's-friend arguments ask whether observers themselves can be treated as quantum systems without breaking ordinary ideas about facts.
+- AI-as-observer questions should start from operational roles such as record-making, information update, memory, agency, and communication, not from consciousness hype.
 
-For questions:
+This wiki separates experimentally grounded claims from interpretive and philosophical claims so the thread can grow without becoming vague mysticism.
 
-```text
-Answer from the wiki: what do we know about X?
-```
-
-For maintenance:
+## Structure
 
 ```text
-Lint the wiki.
+sources/source-index.md       Annotated bibliography.
+sources/sources.csv           Tabular source metadata.
+sources/sources.json          Structured source metadata for agents.
+themes/                       Explanatory topic pages.
+maps/concept-map.md           Plain-English map.
+maps/concept-map.mmd          Mermaid concept graph.
+reading-paths/                Suggested route from beginner to advanced.
+open-questions.md             Research questions and unresolved tensions.
+glossary.md                   Short definitions.
+public/index.html             Optional static HTML version.
 ```
 
-## Public Repo Safety
+## Start Here
 
-This repository is meant to be readable on GitHub, but `raw/` is ignored by default. Do not publish private notes, personal data, client material, credentials, or copied paywalled/copyrighted text. The wiki should contain original summaries and citations, not wholesale source dumps.
+1. Read [themes/bell-inequalities.md](themes/bell-inequalities.md) for the Bell logic.
+2. Read [themes/wigners-friend.md](themes/wigners-friend.md) for the observer setup.
+3. Read [themes/observer-independent-facts.md](themes/observer-independent-facts.md) for Brukner and Proietti.
+4. Read [themes/local-friendliness.md](themes/local-friendliness.md) for the stronger Bong/Cavalcanti/Wiseman/Pryde framework.
+5. Read [themes/interpretations.md](themes/interpretations.md) to see how different interpretations pay different prices.
 
-## Why This Exists
+## Preview Locally
 
-Notion remains the messy capture dump. `charli-kb` is the distilled layer: an agent-readable personal knowledge base that can be queried, reviewed, linted, and updated over time.
+Markdown needs no build step. Open the files directly on GitHub or in any editor.
 
-The goal is not to save everything. The goal is to keep what becomes useful when an agent can connect it to other notes, current projects, and future questions.
+For the optional HTML page:
 
-## Skills
+```bash
+python3 -m http.server 8000
+```
 
-The reusable skills are:
+Then open:
 
-- `wiki-ingest`: turn raw material into wiki pages.
-- `wiki-query`: answer from the wiki and optionally save useful answers.
-- `wiki-lint`: check the wiki's health.
-- `save`: file durable insights from a conversation.
-- `defuddle`: optional URL cleanup helper.
-- `autoresearch`: optional web research loop for users who want agent-led research.
+```text
+http://localhost:8000/public/
+```
 
-The repo keeps these as plain Agent Skills in `skills/<name>/SKILL.md`.
+The HTML uses Mermaid from a CDN for the diagram. Without internet, the text and table still work, but the diagram may not render.
 
-## Attribution
+## Publishing
 
-Original concept by [Andrej Karpathy](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f). Repository structure adapted from [AgriciDaniel/claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian). This repo is built and maintained with [Codex from OpenAI](https://chatgpt.com/codex/cloud).
+For GitHub Pages, publish the repo root or the `public/` folder, depending on the Pages setting. For Vercel or Netlify, no framework is required; serve `public/index.html` as a static file.
+
+## Caveat
+
+This is a research wiki, not a settled physics textbook. It cites primary and review sources where possible, marks speculative material, and keeps controversial claims tied to their assumptions.

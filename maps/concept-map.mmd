@@ -1,0 +1,42 @@
+flowchart TD
+  Bell["Bell's theorem / Bell inequalities"]
+  CHSH["CHSH experimental form"]
+  Tests["Bell-test experiments"]
+  Wigner["Wigner's friend"]
+  EWF["Extended Wigner's friend"]
+  FR["Frauchiger-Renner: Q + C + S tension"]
+  Brukner["Brukner: no observer-independent facts"]
+  Proietti["Proietti et al. 2019 experiment"]
+  LF["Local friendliness"]
+  AOE["Absoluteness of observed events"]
+  LA["Local agency / free choice"]
+  Critiques["Critiques and reassessments"]
+  QBism["QBism"]
+  RQM["Relational quantum mechanics"]
+  MWI["Many-worlds / Everett"]
+  Collapse["Objective collapse"]
+  Bohm["Bohmian mechanics"]
+  Superdet["Superdeterminism"]
+  AI["AI-as-observer questions"]
+
+  Bell --> CHSH --> Tests
+  Bell --> Brukner
+  Bell --> LF
+  Wigner --> EWF
+  EWF --> FR
+  EWF --> Brukner
+  Brukner --> Proietti
+  EWF --> LF
+  AOE --> LF
+  LA --> LF
+  LF --> Critiques
+  Brukner --> Critiques
+  FR --> Critiques
+  Brukner --> QBism
+  Brukner --> RQM
+  FR --> MWI
+  EWF --> Collapse
+  Bell --> Bohm
+  Bell --> Superdet
+  Wigner --> AI
+  RQM --> AI
