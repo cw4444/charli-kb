@@ -25,6 +25,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Peter Steinberger Agentic Engineering Batch](sources/peter-steinberger-agentic-engineering-batch.md): two public web articles on practical coding-agent workflows and agent-readable projects.
 - [Observer-Dependent Facts (Wigner's Friend / Local Friendliness) — Source Summary](sources/observer-dependent-facts-wigners-friend.md): source summary of a public explanation and linked primary paper about observer-dependent “facts” constraints in quantum mechanics.
 - [Mind Children - Hans Moravec](sources/mind-children-hans-moravec.md): source note for Moravec's 1988 AI/posthumanist book on machine intelligence, mind uploading, substrate independence, and postbiological successors.
+- [Bryan Johnson Claude KB Tweet](sources/bryan-johnson-claude-kb.md): source note for a public X post about using Claude and Karpathy-style LLM knowledge bases to make a large personal biomarker dataset queryable.
 
 ## Concepts
 
@@ -32,6 +33,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Agent Friendly Repositories](concepts/agent-friendly-repositories.md): repository conventions that make agent work easier to inspect, execute, and verify.
 - [Agent Prompting](concepts/agent-prompting.md): operational prompting patterns for tool-using agents, including goals, boundaries, verification, and follow-through.
 - [AI Native Company](concepts/ai-native-company.md): organization designed around AI as an operating layer rather than a productivity add-on.
+- [Cognitive Latency Shock](concepts/cognitive-latency-shock.md): felt disorientation when AI collapses the loop between thought, search, synthesis, structure, and artifact.
 - [Focus Through Goal Structure](concepts/focus-through-goal-structure.md): focus emerges from vision, anti-vision, projects, and daily lever-moving tasks.
 - [Creative Recovery And Input Fasting](concepts/creative-recovery-and-input-fasting.md): creativity improves when excess input is reduced and the mind has time to digest.
 - [Identity Change As Goal Reprogramming](concepts/identity-change-as-goal-reprogramming.md): behavior change is framed as changing the goals and identity patterns the mind protects.

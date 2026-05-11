@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-05-11] ingest | Bryan Johnson Claude KB and cognitive latency shock
+- Source: local raw capture, `raw/bryan-johnson.md`, of a Bryan Johnson X post about using Claude and Karpathy-style LLM knowledge bases for a large personal biomarker dataset.
+- Pages created: [Bryan Johnson Claude KB Tweet](sources/bryan-johnson-claude-kb.md), [Cognitive Latency Shock](concepts/cognitive-latency-shock.md)
+- Pages updated: [Inference Speed Development](concepts/inference-speed-development.md), [Queryable Organization](concepts/queryable-organization.md), [Wiki Index](index.md), [Wiki Log](log.md)
+- Notes: Added the durable concept that agentic AI can collapse cognitive latency between thought, research, synthesis, and artifact, making ordinary knowledge work feel slow by comparison. Preserved caveats around over-absorption, verification debt, medical validation, and not treating one tweet as broad evidence.
+
 ## [2026-05-11] synthesis | AI character formation and persona safety
 - Sources: Anthropic Alignment Science, "Teaching Claude Why"; Anthropic, "Persona vectors"; Anthropic, "Agentic Misalignment"; Anthropic, "Claude's new constitution"; existing AI consciousness/model welfare package.
 - Pages created: [AI Character Formation And Persona Safety](../themes/ai-consciousness/character-formation-and-persona-safety.md)

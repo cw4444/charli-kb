@@ -3,7 +3,7 @@ title: "Inference Speed Development"
 type: concept
 status: draft
 created: 2026-04-28
-updated: 2026-04-28
+updated: 2026-05-11
 sources:
   - ../sources/peter-steinberger-agentic-engineering-batch.md
 ---
@@ -22,7 +22,12 @@ In this mode:
 
 The concept should not be read as "stop reading code." It is better framed as selective review: read architecture, boundaries, risky changes, and key diffs; let agents handle routine implementation and refactoring when tests and local checks exist.
 
+## Felt-Speed Spillover
+
+Inference-speed work can create [Cognitive Latency Shock](cognitive-latency-shock.md): once a person gets used to AI matching their research/build pace, ordinary knowledge work may feel slow, boring, or under-instrumented. That is a real productivity and perception shift, but it also creates verification debt and social impatience if the person starts expecting all reality to move at agent speed.
+
 ## Related
 
 - [Agentic Engineering](agentic-engineering.md)
 - [Agent Friendly Repositories](agent-friendly-repositories.md)
+- [Cognitive Latency Shock](cognitive-latency-shock.md)
