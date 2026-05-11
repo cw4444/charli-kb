@@ -43,6 +43,7 @@ This repo is a plain Markdown personal knowledge base based on Karpathy's LLM Wi
 
 ## Recent Additions
 
+- Updated the root [README](../../README.md) so a human or agent can see the repo's two main lanes: AI and reality. The Bell/Wigner package is now a section rather than the whole framing.
 - Added [Cognitive Latency Shock](../concepts/cognitive-latency-shock.md), using the [Bryan Johnson Claude KB Tweet](../sources/bryan-johnson-claude-kb.md) as a source for the felt-speed shift that happens when AI turns raw material into queryable memory and fast artifacts.
 - Added [AI Character Formation And Persona Safety](../../themes/ai-consciousness/character-formation-and-persona-safety.md), connecting Anthropic's "Teaching Claude Why," persona vectors, agentic misalignment, Claude's constitution, and the idea that model character/persona is becoming a safety surface.
 - Added [Mind Children - Hans Moravec](../sources/mind-children-hans-moravec.md), plus [Hans Moravec](../people/hans-moravec.md), as historical lineage for AI consciousness, mind uploading, substrate independence, posthumanism, continuity of self, and machine intelligences as possible descendants rather than tools.

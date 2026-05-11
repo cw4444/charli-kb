@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-05-11] maintenance | Root README retitled around AI and reality
+- Pages updated: [Root README](../README.md), [Wiki Log](log.md), [Current State](meta/current-state.md)
+- Notes: Replaced the physics-only README opening with a top-level map of the two durable lanes: AI and reality. Kept the Bell/Wigner/observer-dependent-reality package as a dedicated section and added links to AI consciousness, persona safety, agentic work, knowledge systems, and cognitive latency shock.
+
 ## [2026-05-11] ingest | Bryan Johnson Claude KB and cognitive latency shock
 - Source: local raw capture, `raw/bryan-johnson.md`, of a Bryan Johnson X post about using Claude and Karpathy-style LLM knowledge bases for a large personal biomarker dataset.
 - Pages created: [Bryan Johnson Claude KB Tweet](sources/bryan-johnson-claude-kb.md), [Cognitive Latency Shock](concepts/cognitive-latency-shock.md)
