@@ -12,6 +12,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Source Index](../sources/source-index.md): annotated bibliography for the Bell/Wigner/observer-dependent-reality package.
 - [Concept Map](../maps/concept-map.md): plain-English map of the research cluster.
 - [Beginner To Advanced Reading Path](../reading-paths/beginner-to-advanced.md): route through the topic from conceptual orientation to recent critiques.
+- [QBism, Global Constraints, and Observer-Dependent Reality](../themes/qbism-adlam-observer-dependent-reality.md): careful comparison of QBism, Emily Adlam's all-at-once/global-constraint ideas, observer-dependence, Wigner's friend, and overclaim boundaries.
 
 ## Sources
 

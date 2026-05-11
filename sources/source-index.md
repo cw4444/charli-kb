@@ -3,7 +3,7 @@ title: "Source Index"
 type: source-index
 status: draft
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-11
 sources:
   - sources.json
   - sources.csv
@@ -263,6 +263,76 @@ This bibliography is organized around the path from Bell inequalities to observe
 - Tags: QBism, agents, probability, interpretation
 - Confidence / caveats: high as QBist source; interpretive stance remains disputed.
 - Mode: interpretive / philosophical
+
+### Fuchs, Mermin, and Schack 2014 - "An Introduction to QBism with an Application to the Locality of Quantum Mechanics"
+
+- Authors: Christopher A. Fuchs, N. David Mermin, Rüdiger Schack
+- Year: 2014
+- Source type: peer-reviewed pedagogical paper
+- Link / DOI: https://doi.org/10.1119/1.4874855
+- Summary: Introduces QBism and applies it to locality, presenting quantum states and probabilities as personalist agent expectations rather than objective physical states.
+- Core claim: QBism treats measurement as an action by an agent on the world and treats outcomes as personal experiences for that agent.
+- Observer-dependent relevance: Useful bridge between QBism, Wigner's friend, and the claim that quantum states are not observer-independent facts.
+- Assumptions used/challenged: objective wavefunction, impersonal probability, nonlocal collapse.
+- Tags: QBism, Mermin, agents, locality
+- Confidence / caveats: high as QBist source; interpretive stance remains disputed.
+- Mode: interpretive / pedagogical
+
+### Adlam 2018 - "Spooky Action at a (Temporal) Distance"
+
+- Authors: Emily Adlam
+- Year: 2018
+- Source type: peer-reviewed paper
+- Link / DOI: https://doi.org/10.3390/e20010041
+- Summary: Argues that quantum foundations should take temporal nonlocality seriously rather than assuming all physical explanation must be temporally local.
+- Core claim: Temporal locality is a substantive assumption, not an obvious scientific requirement.
+- Observer-dependent relevance: Adds a time/lawhood route for questioning naive local classical realism without making the observer central in the QBist sense.
+- Assumptions used/challenged: temporal locality, standard forward-causal explanation.
+- Tags: Emily Adlam, temporal nonlocality, retrocausality, quantum foundations
+- Confidence / caveats: medium-high; source is directly relevant but not yet deeply summarized in a standalone source note.
+- Mode: theoretical / philosophical
+
+### Adlam 2018 - "Quantum Mechanics and Global Determinism"
+
+- Authors: Emily Christine Adlam
+- Year: 2018
+- Source type: peer-reviewed paper
+- Link / DOI: https://doi.org/10.12743/quanta.v7i1.76
+- Summary: Proposes that some quantum features may be perspectival effects arising because locally accessible variables reveal only part of an underlying deterministic global correlation structure.
+- Core claim: No-signaling and quantum correlations may be explained from constraints on locally accessible perspectives within a larger global structure.
+- Observer-dependent relevance: Suggests a route where local observer perspectives are incomplete views of a global pattern, distinct from QBist agent-relative quantum states.
+- Assumptions used/challenged: local access as complete access, standard causal explanation of correlations.
+- Tags: Emily Adlam, global determinism, perspectival effects, no-signaling
+- Confidence / caveats: medium; needs deeper reading before strong claims.
+- Mode: theoretical / interpretive
+
+### Adlam 2021 - "Foundations of Quantum Mechanics"
+
+- Authors: Emily Adlam
+- Year: 2021
+- Source type: Cambridge Elements book / scholarly overview
+- Link / DOI: https://doi.org/10.1017/9781108885515
+- Summary: Surveys quantum-foundations questions including nonlocality, contextuality, wavefunction realism, and the measurement problem.
+- Core claim: Quantum mechanics remains interpretively contested even though it is empirically successful.
+- Observer-dependent relevance: Useful background for placing QBism, Wigner's friend, measurement, and law/time questions in the wider foundations landscape.
+- Assumptions used/challenged: varies by topic.
+- Tags: Emily Adlam, quantum foundations, measurement problem, contextuality
+- Confidence / caveats: high as scholarly overview; specific chapters still need targeted reading for this wiki.
+- Mode: scholarly overview
+
+### Adlam 2022 - "Laws of Nature as Constraints"
+
+- Authors: Emily Adlam
+- Year: 2022
+- Source type: peer-reviewed paper
+- Link / DOI: https://doi.org/10.1007/s10701-022-00546-0
+- Summary: Develops a realist account of lawhood where laws are constraints or modal structure, able to accommodate nonlocal, atemporal, all-at-once, retrocausal, or otherwise non-time-evolution laws.
+- Core claim: Laws need not be understood only as dynamical rules evolving earlier states into later states.
+- Observer-dependent relevance: Provides the best local source for the "all-at-once" / global-constraint side of the comparison with QBism.
+- Assumptions used/challenged: time-evolution picture of laws, temporal locality, standard non-Humean lawhood.
+- Tags: Emily Adlam, laws as constraints, all-at-once, block universe, retrocausality
+- Confidence / caveats: medium-high from metadata and abstract; full paper should be ingested before detailed claims.
+- Mode: philosophical / foundations
 
 ### Rovelli 1996 - "Relational Quantum Mechanics"
 

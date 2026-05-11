@@ -3,7 +3,7 @@ title: "Glossary"
 type: glossary
 status: draft
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-11
 sources:
   - sources/source-index.md
 ---
@@ -17,6 +17,10 @@ The assumption that if an event is observed by one observer, it is an event for 
 ## Bell Inequality
 
 A mathematical bound on correlations that follows from locality plus additional assumptions such as hidden variables or jointly defined outcomes. Quantum mechanics can violate Bell inequalities.
+
+## Block Universe
+
+A view of spacetime where past, present, and future are treated as parts of a single four-dimensional structure rather than as a world that only the present moment truly occupies. In this wiki, use carefully: block-universe-adjacent does not automatically mean fatalism, simulation theory, or observer-created reality.
 
 ## CHSH Inequality
 
@@ -42,6 +46,10 @@ A no-go framework combining local agency with absoluteness of observed events. Q
 
 Roughly, the idea that events in one spacetime region are not influenced faster than light by choices or events in a spacelike-separated region. Exact meanings vary across Bell, relativity, and no-go theorem contexts.
 
+## Global Constraint
+
+A lawlike condition on an entire pattern or history, rather than a rule that only evolves an earlier state into a later state. Relevant to Adlam-style all-at-once lawhood and temporal-nonlocality questions.
+
 ## Observer-Independent Fact
 
 A fact treated as part of one shared observer-independent world, not merely as relative to a particular observer or measurement context.
@@ -49,6 +57,10 @@ A fact treated as part of one shared observer-independent world, not merely as r
 ## QBism
 
 An interpretation where quantum states and probabilities express an agent's personal expectations, constrained by the Born rule.
+
+## Temporal Nonlocality
+
+The possibility that physical explanation may involve relations across time that are not reducible to ordinary forward-in-time causal propagation.
 
 ## Relational Quantum Mechanics
 

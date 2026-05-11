@@ -3,7 +3,7 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-05-10
+updated: 2026-05-11
 ---
 
 # Current State
@@ -43,6 +43,7 @@ This repo is a plain Markdown personal knowledge base based on Karpathy's LLM Wi
 
 ## Recent Additions
 
+- Added [QBism, Global Constraints, and Observer-Dependent Reality](../../themes/qbism-adlam-observer-dependent-reality.md), a careful comparison of QBism and Emily Adlam's all-at-once/global-constraint ideas. The page keeps agent-relative quantum states separate from global law/time structure and explicitly warns against idealism, simulation-theory, and consciousness-causes-collapse overclaims.
 - Added a root-level research package, [AI Consciousness And Model Welfare](../../themes/ai-consciousness/overview.md), with public-source synthesis on AI consciousness, model welfare, self-reports, interpretability, agency, functionalism, biological objections, moral patienthood, company positions, a source CSV, a Mermaid map, and a reading path.
 - Workflow update: repo-first direct research is now preferred for public research topics; Notion is reserved for genuinely useful intake rather than copied article storage.
 - Added a root-level research package, [Bell, Wigner's Friend, and Observer-Dependent Reality](../../README.md), with source metadata, theme pages, concept maps, reading path, glossary, open questions, and optional static HTML.

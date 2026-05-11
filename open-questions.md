@@ -3,7 +3,7 @@ title: "Open Questions"
 type: question-index
 status: draft
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-11
 sources:
   - sources/source-index.md
 ---
@@ -22,6 +22,9 @@ sources:
 
 - Is "observer-dependent fact" best understood as QBist personal experience, Rovellian relational fact, Everettian branch-relative fact, or something else?
 - Can a relational account recover stable public science without smuggling in observer-independent facts?
+- Can QBism recover enough intersubjective stability while keeping outcomes personal to agents?
+- Do all-at-once/global-constraint views give a useful alternative to local causal explanation in Bell and local-friendliness contexts, or do they simply move the difficulty into lawhood and free-choice assumptions?
+- How close is Adlam's global-determinism work to superdeterminism, and what distinguishes a productive global-constraint view from an unfalsifiable conspiracy story?
 - Does objective collapse solve the problem cleanly, or merely move it into a new dynamics that must be experimentally confirmed?
 - Does superdeterminism remain scientifically usable if it rejects free-choice assumptions?
 

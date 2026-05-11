@@ -7,6 +7,7 @@ This repository is a Markdown-first knowledge base on a cluster of quantum-found
 - Časlav Brukner's no-go theorem for observer-independent facts.
 - Experimental and theoretical work on local observer-independence and local friendliness.
 - Interpretations that either accept, resist, or dissolve observer-dependent facts.
+- Adjacent views such as QBism and all-at-once/global-constraint approaches to law and time.
 - Speculative extensions, including whether AI systems could count as observers in any physically meaningful sense.
 
 The central question is:
@@ -50,6 +51,7 @@ public/index.html             Optional static HTML version.
 3. Read [themes/observer-independent-facts.md](themes/observer-independent-facts.md) for Brukner and Proietti.
 4. Read [themes/local-friendliness.md](themes/local-friendliness.md) for the stronger Bong/Cavalcanti/Wiseman/Pryde framework.
 5. Read [themes/interpretations.md](themes/interpretations.md) to see how different interpretations pay different prices.
+6. Read [themes/qbism-adlam-observer-dependent-reality.md](themes/qbism-adlam-observer-dependent-reality.md) for the careful comparison between QBism and Emily Adlam's global-constraint / all-at-once ideas.
 
 ## Preview Locally
 

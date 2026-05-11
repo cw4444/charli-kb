@@ -3,7 +3,7 @@ title: "Interpretations"
 type: theme
 status: draft
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-11
 sources:
   - ../sources/source-index.md
 ---
@@ -21,6 +21,18 @@ QBism treats quantum states as an agent's personal probability assignments, not 
 - Risk: can sound too private unless intersubjective agreement is explained carefully.
 
 Source: Fuchs and Schack 2013, https://doi.org/10.1103/RevModPhys.85.1693
+
+See also: [QBism, Global Constraints, and Observer-Dependent Reality](qbism-adlam-observer-dependent-reality.md).
+
+## All-At-Once / Global-Constraint Views
+
+Emily Adlam's related work on laws as constraints, temporal nonlocality, and global determinism is not an observer-dependent interpretation in the same sense as QBism. Its useful role in this package is different: it questions whether physical explanation must be local forward evolution through time.
+
+- Fits block-universe-adjacent and retrocausal/global-constraint questions.
+- Can challenge simple locality and time-evolution assumptions behind some no-go-theorem intuitions.
+- Should not be treated as saying observers create reality.
+
+Sources: Adlam 2018, 2021, 2022 entries in [Source Index](../sources/source-index.md#adlam-2022---laws-of-nature-as-constraints).
 
 ## Relational Quantum Mechanics
 
