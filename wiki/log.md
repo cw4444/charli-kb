@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-05-11] source note | Mind Children and Hans Moravec
+- Source: Hans Moravec, *Mind Children: The Future of Robot and Human Intelligence* (Harvard University Press, 1988), with public metadata checked against Carnegie Mellon Robotics Institute, Open Library, and Google Books.
+- Pages created: [Mind Children - Hans Moravec](sources/mind-children-hans-moravec.md), [Hans Moravec](people/hans-moravec.md)
+- Pages updated: [AI Consciousness Overview](../themes/ai-consciousness/overview.md), [Substrate Independence And Functionalism](../themes/ai-consciousness/substrate-functionalism.md), [Wiki Index](index.md), [Wiki Log](log.md)
+- Notes: Added Moravec as historical lineage for AI consciousness, substrate independence, mind uploading, posthumanism, continuity of self, and machine intelligences as possible descendants rather than tools. Explicitly kept it separate from quantum observer-dependence and current-LLM consciousness claims.
+
 ## [2026-05-11] synthesis | QBism, Adlam, and observer-dependent reality
 - Sources: existing Bell/Wigner/local-friendliness package plus source metadata for Fuchs and Schack 2013; Fuchs, Mermin, and Schack 2014; Adlam 2018 temporal nonlocality; Adlam 2018 global determinism; Adlam 2021 quantum foundations; Adlam 2022 laws as constraints.
 - Pages created: [QBism, Global Constraints, and Observer-Dependent Reality](../themes/qbism-adlam-observer-dependent-reality.md)

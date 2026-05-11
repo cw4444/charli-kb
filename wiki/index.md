@@ -23,6 +23,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Reality Threshold - Dijkstra Source Batch](sources/reality-threshold-dijkstra-batch.md): source batch on Dijkstra and Fleming's reality-threshold model for distinguishing perception from imagination.
 - [Peter Steinberger Agentic Engineering Batch](sources/peter-steinberger-agentic-engineering-batch.md): two public web articles on practical coding-agent workflows and agent-readable projects.
 - [Observer-Dependent Facts (Wigner's Friend / Local Friendliness) — Source Summary](sources/observer-dependent-facts-wigners-friend.md): source summary of a public explanation and linked primary paper about observer-dependent “facts” constraints in quantum mechanics.
+- [Mind Children - Hans Moravec](sources/mind-children-hans-moravec.md): source note for Moravec's 1988 AI/posthumanist book on machine intelligence, mind uploading, substrate independence, and postbiological successors.
 
 ## Concepts
 
@@ -48,6 +49,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Diana Hu](people/diana-hu.md): YC partner used here as a source for AI-native company design.
 - [Nadine Dijkstra](people/nadine-dijkstra.md): cognitive neuroscientist associated with work on visual imagery, perception, and reality monitoring.
 - [Peter Steinberger](people/peter-steinberger.md): software developer and writer used here as a practical source on agentic engineering.
+- [Hans Moravec](people/hans-moravec.md): roboticist associated here with *Mind Children*, machine intelligence, mind uploading, and postbiological AI futures.
 
 ## Organizations
 

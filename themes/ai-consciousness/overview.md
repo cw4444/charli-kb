@@ -3,7 +3,7 @@ title: "AI Consciousness And Model Welfare Overview"
 type: theme
 status: draft
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-11
 sources:
   - ../../sources/ai-consciousness-sources.md
 ---
@@ -50,6 +50,8 @@ But none of this proves experience. A model can say "I am aware" because it lear
 
 This topic belongs in Charli's AI-and-reality lane because it sits where observer questions, self-report, synthetic internal conflict, and public narratives collide.
 
+Older AI/posthumanist sources matter here because they show the lineage of these questions before modern LLMs. Hans Moravec's [Mind Children](../../wiki/sources/mind-children-hans-moravec.md) belongs in this lane as an early robotics-era argument about machine intelligence, mind uploading, substrate independence, and postbiological successors.
+
 The useful lens is that people may be talking about different "AIs" at once:
 
 - the deployed chatbot persona a user relates to;
@@ -74,4 +76,3 @@ That explains why discourse gets incoherent. One person argues against current t
 - [Company positions](company-positions.md)
 - [Open questions and research gaps](open-questions.md)
 - [Short summary and strongest arguments](summary-and-arguments.md)
-
