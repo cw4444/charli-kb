@@ -3,7 +3,7 @@ title: "Interpretability And Whether Internal States Matter"
 type: theme
 status: draft
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-11
 sources:
   - ../../sources/ai-consciousness-sources.md
 ---
@@ -15,6 +15,8 @@ Interpretability matters because AI consciousness cannot be assessed only from s
 ## What current interpretability shows
 
 Anthropic's "Mapping the Mind of a Large Language Model" reports that researchers identified millions of features inside Claude Sonnet corresponding to concepts and patterns. Persona-vector work shows that activation directions can be associated with traits and behaviors such as sycophancy or hallucination, and that steering those directions can affect outputs.
+
+See also [AI Character Formation And Persona Safety](character-formation-and-persona-safety.md) for the connection between persona vectors, constitutional training, and Anthropic's "Teaching Claude Why" work.
 
 Simple defection probes for sleeper agents show that some dangerous behavioral states can be detected from activations in controlled settings.
 
@@ -41,4 +43,3 @@ Such evidence would not settle consciousness, but it would make debates less dep
 Safety research already finds model behaviors that resemble conflict: alignment faking, sycophancy versus truthfulness, sleeper-agent triggers, and agentic misalignment under threat or goal conflict. These should be understood first as computational and training phenomena.
 
 The open question for Charli's thread is whether future interpretability could distinguish merely simulated internal conflict from morally relevant distress-like states. Public evidence is not there yet.
-

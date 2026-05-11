@@ -3,7 +3,7 @@ title: "AI Consciousness Reading Path"
 type: reading-path
 status: draft
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-11
 sources:
   - ../sources/ai-consciousness-sources.md
 ---
@@ -55,10 +55,12 @@ Read:
 - Anthropic, "Sleeper Agents"
 - Anthropic, "Alignment faking"
 - Anthropic, "Agentic Misalignment"
+- Anthropic Alignment Science, "Teaching Claude Why"
 - OpenAI Model Spec
 - [Company positions](../themes/ai-consciousness/company-positions.md)
 - [Interpretability and whether internal states matter](../themes/ai-consciousness/interpretability.md)
 - [Agency, goals, self-models, and persistence](../themes/ai-consciousness/agency-self-models.md)
+- [AI character formation and persona safety](../themes/ai-consciousness/character-formation-and-persona-safety.md)
 
 Read company sources as evidence and positioning at the same time.
 
@@ -74,4 +76,3 @@ Read:
 - [Open questions and research gaps](../themes/ai-consciousness/open-questions.md)
 
 At this stage, the main question becomes governance under uncertainty: what should be assessed, what should be protected, and what language should public discourse avoid?
-

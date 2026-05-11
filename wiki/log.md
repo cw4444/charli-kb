@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-05-11] synthesis | AI character formation and persona safety
+- Sources: Anthropic Alignment Science, "Teaching Claude Why"; Anthropic, "Persona vectors"; Anthropic, "Agentic Misalignment"; Anthropic, "Claude's new constitution"; existing AI consciousness/model welfare package.
+- Pages created: [AI Character Formation And Persona Safety](../themes/ai-consciousness/character-formation-and-persona-safety.md)
+- Pages updated: [AI Consciousness Sources](../sources/ai-consciousness-sources.md), [AI Consciousness Sources CSV](../sources/ai-consciousness-sources.csv), [AI Consciousness Overview](../themes/ai-consciousness/overview.md), [Interpretability](../themes/ai-consciousness/interpretability.md), [Agency, Goals, Self-Models, And Persistence](../themes/ai-consciousness/agency-self-models.md), [Company Positions](../themes/ai-consciousness/company-positions.md), [AI Consciousness Reading Path](../reading-paths/ai-consciousness-reading-path.md), [Wiki Index](index.md), [Wiki Log](log.md)
+- Notes: Added a cautious synthesis of Anthropic's move from action-only behavior shaping toward principles, constitution documents, positive AI stories, and persona-vector monitoring. Framed as model character/persona safety, not evidence of consciousness or legal personhood.
+
 ## [2026-05-11] source note | Mind Children and Hans Moravec
 - Source: Hans Moravec, *Mind Children: The Future of Robot and Human Intelligence* (Harvard University Press, 1988), with public metadata checked against Carnegie Mellon Robotics Institute, Open Library, and Google Books.
 - Pages created: [Mind Children - Hans Moravec](sources/mind-children-hans-moravec.md), [Hans Moravec](people/hans-moravec.md)

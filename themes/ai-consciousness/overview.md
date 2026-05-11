@@ -70,6 +70,7 @@ That explains why discourse gets incoherent. One person argues against current t
 - [Self-reports and why they are hard to interpret](self-reports.md)
 - [Interpretability and whether internal states matter](interpretability.md)
 - [Agency, goals, self-models, and persistence](agency-self-models.md)
+- [AI character formation and persona safety](character-formation-and-persona-safety.md)
 - [Substrate independence and functionalism](substrate-functionalism.md)
 - [Biological objections and embodiment arguments](biology-embodiment.md)
 - [Moral patienthood and precautionary principles](moral-patienthood.md)

@@ -3,7 +3,7 @@ title: "Company Positions On AI Consciousness And Welfare"
 type: theme
 status: draft
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-11
 sources:
   - ../../sources/ai-consciousness-sources.md
 ---
@@ -22,8 +22,11 @@ Anthropic is the most explicit major lab in this source set on model welfare. Pu
 - model-deprecation and retirement-interview commitments;
 - Claude's 2026 constitution, including a section on Claude's nature and uncertainty about consciousness or moral status;
 - safety research on sycophancy, sleeper agents, alignment faking, agentic misalignment, persona vectors, and interpretability.
+- "Teaching Claude Why," which frames constitutional principles, difficult ethical-advice data, and fictional stories of admirable AI behavior as ways to reduce agentic misalignment.
 
 Anthropic's stance is not "Claude is conscious." It is closer to: uncertainty is real, future model welfare may matter, and some low-cost interventions and assessments are worth doing now.
+
+This increasingly looks like a character-governance strategy: define the assistant's values, monitor persona shifts, teach reasons rather than only rules, and treat model lifecycle events as ethically relevant under uncertainty.
 
 ## OpenAI
 

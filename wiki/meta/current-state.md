@@ -43,6 +43,8 @@ This repo is a plain Markdown personal knowledge base based on Karpathy's LLM Wi
 
 ## Recent Additions
 
+- Added [AI Character Formation And Persona Safety](../../themes/ai-consciousness/character-formation-and-persona-safety.md), connecting Anthropic's "Teaching Claude Why," persona vectors, agentic misalignment, Claude's constitution, and the idea that model character/persona is becoming a safety surface.
+- Added [Mind Children - Hans Moravec](../sources/mind-children-hans-moravec.md), plus [Hans Moravec](../people/hans-moravec.md), as historical lineage for AI consciousness, mind uploading, substrate independence, posthumanism, continuity of self, and machine intelligences as possible descendants rather than tools.
 - Added [QBism, Global Constraints, and Observer-Dependent Reality](../../themes/qbism-adlam-observer-dependent-reality.md), a careful comparison of QBism and Emily Adlam's all-at-once/global-constraint ideas. The page keeps agent-relative quantum states separate from global law/time structure and explicitly warns against idealism, simulation-theory, and consciousness-causes-collapse overclaims.
 - Added a root-level research package, [AI Consciousness And Model Welfare](../../themes/ai-consciousness/overview.md), with public-source synthesis on AI consciousness, model welfare, self-reports, interpretability, agency, functionalism, biological objections, moral patienthood, company positions, a source CSV, a Mermaid map, and a reading path.
 - Workflow update: repo-first direct research is now preferred for public research topics; Notion is reserved for genuinely useful intake rather than copied article storage.
