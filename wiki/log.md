@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-05-11] synthesis | Enterprise agents and work rearchitecture
+- Sources: OpenAI Frontier, OpenAI B2B Signals, OpenAI Promptfoo acquisition note, Microsoft 2026 Work Trend Index and Frontier Transformation posts, Anthropic Enterprise, PwC/Anthropic enterprise-agent deployment press release, and press-reported OpenAI Deployment Company coverage.
+- Pages created: [Enterprise Agent Deployment 2026](sources/enterprise-agent-deployment-2026.md), [Agentic Work Rearchitecture](concepts/agentic-work-rearchitecture.md)
+- Pages updated: [AI Native Company](concepts/ai-native-company.md), [Queryable Organization](concepts/queryable-organization.md), [Cognitive Latency Shock](concepts/cognitive-latency-shock.md), [Root README](../README.md), [Wiki Index](index.md), [Wiki Log](log.md), [Current State](meta/current-state.md)
+- Notes: Added the 2026 shift from "AI as productivity tool" to "work redesigned for governed agents." Marked OpenAI Deployment Company details as press-reported rather than official-source confirmed.
+
 ## [2026-05-11] maintenance | Root README retitled around AI and reality
 - Pages updated: [Root README](../README.md), [Wiki Log](log.md), [Current State](meta/current-state.md)
 - Notes: Replaced the physics-only README opening with a top-level map of the two durable lanes: AI and reality. Kept the Bell/Wigner/observer-dependent-reality package as a dedicated section and added links to AI consciousness, persona safety, agentic work, knowledge systems, and cognitive latency shock.

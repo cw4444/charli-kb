@@ -28,9 +28,12 @@ For `charli-kb`, the equivalent is the combination of `wiki/index.md`, `wiki/log
 
 A personal version of this pattern appears in the [Bryan Johnson Claude KB Tweet](../sources/bryan-johnson-claude-kb.md): a large biomarker archive becomes useful when it becomes queryable, explorable, and connected to an agentic workflow. The important concept is not the size of the dataset, but the shift from stored material to interrogable memory.
 
+The enterprise version is [Agentic Work Rearchitecture](agentic-work-rearchitecture.md): organizations need queryable work artifacts before agents can reliably do high-context work.
+
 ## Related
 
 - [AI Native Company](ai-native-company.md)
 - [Agent Friendly Repositories](agent-friendly-repositories.md)
+- [Agentic Work Rearchitecture](agentic-work-rearchitecture.md)
 - [How Should charli-kb Work With Agents?](../questions/how-should-charli-kb-work-with-agents.md)
 - [Cognitive Latency Shock](cognitive-latency-shock.md)

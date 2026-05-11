@@ -26,6 +26,7 @@ This is not an Obsidian vault and not a dumping ground. Raw material goes in `ra
 ### Agentic Work And Knowledge Systems
 
 - [Agentic Engineering](wiki/concepts/agentic-engineering.md): software and knowledge work organized around steering AI agents.
+- [Agentic Work Rearchitecture](wiki/concepts/agentic-work-rearchitecture.md): redesigning work so agents take on execution while humans own direction, judgment, verification, and consequences.
 - [Agent Friendly Repositories](wiki/concepts/agent-friendly-repositories.md): repo conventions that let agents inspect, edit, verify, and report.
 - [Queryable Organization](wiki/concepts/queryable-organization.md): work artifacts structured so humans and agents can ask evidence-backed questions.
 - [Inference Speed Development](wiki/concepts/inference-speed-development.md): development where model runtime, context quality, and human judgment become the bottlenecks.

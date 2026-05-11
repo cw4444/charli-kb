@@ -86,11 +86,14 @@ For fast, pattern-hungry, research-driven people, agentic AI can feel like findi
 
 The mature version is not to reject slow life. It is to learn which loops should move at AI speed and which ones should stay human-speed.
 
+At organization scale, the same pressure shows up as [Agentic Work Rearchitecture](agentic-work-rearchitecture.md): once agents can execute high-context workflows, old chair-time-centered work can feel like legacy software.
+
 ## Related Concepts
 
 - [Inference Speed Development](inference-speed-development.md)
 - [Queryable Organization](queryable-organization.md)
 - [Agentic Engineering](agentic-engineering.md)
+- [Agentic Work Rearchitecture](agentic-work-rearchitecture.md)
 - [Agent Friendly Repositories](agent-friendly-repositories.md)
 - [Project Based Self Direction](project-based-self-direction.md)
 - [AI Native Company](ai-native-company.md)

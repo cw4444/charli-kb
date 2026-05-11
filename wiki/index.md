@@ -26,10 +26,12 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Observer-Dependent Facts (Wigner's Friend / Local Friendliness) — Source Summary](sources/observer-dependent-facts-wigners-friend.md): source summary of a public explanation and linked primary paper about observer-dependent “facts” constraints in quantum mechanics.
 - [Mind Children - Hans Moravec](sources/mind-children-hans-moravec.md): source note for Moravec's 1988 AI/posthumanist book on machine intelligence, mind uploading, substrate independence, and postbiological successors.
 - [Bryan Johnson Claude KB Tweet](sources/bryan-johnson-claude-kb.md): source note for a public X post about using Claude and Karpathy-style LLM knowledge bases to make a large personal biomarker dataset queryable.
+- [Enterprise Agent Deployment 2026](sources/enterprise-agent-deployment-2026.md): source note on OpenAI, Anthropic, Microsoft, and enterprise-agent deployment as a future-of-work shift.
 
 ## Concepts
 
 - [Agentic Engineering](concepts/agentic-engineering.md): software work organized around steering AI agents, managing context, and verifying outputs.
+- [Agentic Work Rearchitecture](concepts/agentic-work-rearchitecture.md): redesigning work so agents take on execution while humans own direction, judgment, verification, and consequences.
 - [Agent Friendly Repositories](concepts/agent-friendly-repositories.md): repository conventions that make agent work easier to inspect, execute, and verify.
 - [Agent Prompting](concepts/agent-prompting.md): operational prompting patterns for tool-using agents, including goals, boundaries, verification, and follow-through.
 - [AI Native Company](concepts/ai-native-company.md): organization designed around AI as an operating layer rather than a productivity add-on.
