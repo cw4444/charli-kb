@@ -9,7 +9,10 @@ authors:
   - Tali Sharot
   - Daniel L. Schacter
   - Kuniaki Yanagisawa
+  - Shelley E. Taylor
+  - Jonathon D. Brown
 primary_sources:
+  - "Taylor and Brown, Psychological Bulletin, 1988, Illusion and well-being: A social psychological perspective on mental health, https://doi.org/10.1037/0033-2909.103.2.193"
   - "Sharot et al., Nature, 2007, Neural mechanisms mediating optimism bias, https://doi.org/10.1038/nature06280"
   - "Sharot, Korn, and Dolan, Nature Neuroscience, 2011, How unrealistic optimism is maintained in the face of reality, https://doi.org/10.1038/nn.2949"
   - "Yanagisawa et al., PNAS, 2025, Optimistic people are all alike: Shared neural representations supporting episodic future thinking among optimistic individuals, https://doi.org/10.1073/pnas.2511101122"
@@ -18,6 +21,11 @@ primary_sources:
   - "Ji, Holmes, and Blackwell, Psychiatry Research, 2017, Seeing light at the end of the tunnel: Positive prospective mental imagery and optimism in depression, https://doi.org/10.1016/j.psychres.2016.11.025"
   - "Schlosser et al., BMC Psychiatry, 2020, Repetitive negative thinking is associated with subjective cognitive decline in older adults: a cross-sectional study, https://doi.org/10.1186/s12888-020-02884-7"
   - "Ye et al., BMC Psychiatry, 2025, Repetitive negative thinking is associated with cognitive function decline in older adults: a cross-sectional study, https://doi.org/10.1186/s12888-025-06815-2"
+  - "Weinstein, Journal of Behavioral Medicine, 1987, Unrealistic optimism about susceptibility to health problems: conclusions from a community-wide sample, https://doi.org/10.1007/BF00846146"
+counterpoint_sources:
+  - "Colvin and Block, Psychological Bulletin, 1994, Do positive illusions foster mental health? An examination of the Taylor and Brown formulation, https://doi.org/10.1037/0033-2909.116.1.3"
+  - "Taylor and Brown, Psychological Bulletin, 1994, Positive illusions and well-being revisited: separating fact from fiction, https://doi.org/10.1037/0033-2909.116.1.21"
+  - "Shepperd, Pogge, and Howell, Consciousness and Cognition, 2017, Assessing the consequences of unrealistic optimism: Challenges and recommendations, https://doi.org/10.1016/j.concog.2016.07.004"
 commentary_sources:
   - "Nature News, 2025, The optimistic brain: scans reveal thought patterns shared by positive thinkers, https://doi.org/10.1038/d41586-025-02302-6"
   - "Kobe University News, 2025, Optimists are alike, every pessimist has their own way, https://www.kobe-u.ac.jp/en/news/article/20250722-66828/"
@@ -35,6 +43,8 @@ sources:
 
 ## Core Primary-Source Claims
 
+Taylor and Brown 1988 is the classic "positive illusions" paper behind a lot of later optimism talk. The paper argues against the idea that strict realism is necessary for mental health and proposes that mildly biased self-views, exaggerated perceived control, and unrealistic optimism can support happiness, motivation, caring for others, and productive engagement.
+
 Sharot et al. 2007 is the classic neural optimism-bias paper. In that study, optimism was associated with stronger activity in the amygdala and rostral anterior cingulate cortex when participants imagined positive future events relative to negative ones. Across individuals, rostral ACC activity tracked trait optimism.
 
 Sharot, Korn, and Dolan 2011 shifts the emphasis from imagery to learning. Participants updated beliefs more when new information was better than expected than when it was worse. The paper argues that unrealistic optimism is maintained partly by reduced neural tracking of undesirable information, especially in right inferior frontal gyrus.
@@ -46,6 +56,16 @@ Schacter, Benoit, and Szpunar 2017 is broader than optimism specifically, but it
 Ji, Holmes, and Blackwell 2017 links optimism to imagery vividness in a clinical population. In depressed adults, greater vividness of positive prospective imagery was associated with greater current optimism and predicted greater optimism months later.
 
 Schlosser et al. 2020 and Ye et al. 2025 are not optimism papers, but they are relevant from the opposite direction. Both support the idea that repetitive negative thinking is associated with worse subjective or objective cognitive outcomes in older adults. The 2025 paper is cross-sectional and explicitly calls for longer-term causal work.
+
+Weinstein 1987 is one of the classic unrealistic-optimism papers in health psychology. It documented a comparative optimism bias for many hazards, while also noting that people often infer future vulnerability from past experience in ways that can distort judgment.
+
+## Counterweight Sources
+
+Colvin and Block 1994 pushed back on Taylor and Brown's thesis. Their review argued that the evidence did not establish that positive illusions broadly foster mental health and warned that the claim had moved faster than the data.
+
+Taylor and Brown replied the same year, clarifying that they were not defending all forms of distortion or claiming that realism is always bad. Their position was narrower: some positively biased perceptions may be adaptive under some conditions.
+
+Shepperd, Pogge, and Howell 2017 is useful because it cools down the whole field. Their review argues that the consequences of unrealistic optimism are difficult to assess cleanly, especially when researchers infer bias at the group level rather than the individual level. That is a methodological warning against simplistic claims in either direction.
 
 ## What The "Abstract Negative Events" Claim Seems To Mean
 
@@ -62,21 +82,41 @@ That last step is partly interpretive. The PNAS result shows clearer neural sepa
 
 ## Useful Synthesis
 
-Taken together, the sources suggest that optimism is not best understood as magic positive thinking or blind denial. It looks more like a package of cognitive habits:
+Taken together, the sources suggest that optimism is not best understood as magic positive thinking or blind denial. It looks more like a package of cognitive habits and representational tendencies:
 
 - vivid and emotionally engaging simulation of desired futures
 - stronger segregation between desirable and undesirable future scenarios
 - selective updating in response to bad news
 - less immersion in repetitive negative loops
 
-This makes optimism relevant to mental health and resilience, but also potentially risky when it becomes unrealistic or blocks corrective learning.
+Taylor and Brown matter here because they widen the frame: mild positive distortions may sometimes help people function, persist, create, and cope. But the counter-literature matters just as much: once optimism drifts into overconfidence, risk neglect, or refusal to update from evidence, it stops looking like resilience and starts looking like error management gone wrong.
+
+## Distinctions That Matter
+
+### Adaptive optimism
+
+A future style that supports action, resilience, and persistence without severing contact with evidence.
+
+### Unrealistic optimism
+
+Expecting a better personal future than the evidence warrants. This can sometimes help motivation, but it can also impair risk preparation and learning.
+
+### Positive illusions
+
+The broader Taylor and Brown category: overly positive self-views, exaggerated control, and optimistic expectations. This is wider than optimism alone.
+
+### Denial
+
+Refusal or failure to register relevant negative evidence. This is not the same thing as healthy optimism, even if both can look "positive" from a distance.
 
 ## Do Not Overclaim
 
 - The literature does not show that optimism means ignoring reality.
+- The literature does not show that all positive illusions are healthy.
 - The literature does not show that vivid positive imagery alone causes broad life improvement.
 - The 2025 RNT paper is cross-sectional, so it does not establish that repetitive negative thinking causes cognitive decline.
 - The "abstract negative events create emotional distance" claim is best treated as a source-grounded interpretation, not a settled mechanism.
+- The Taylor and Brown position is historically influential, but it remains debated rather than canonically settled.
 
 ## Open Questions
 

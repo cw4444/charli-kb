@@ -6,6 +6,11 @@
 - Pages updated: [Wiki Index](index.md), [Wiki Log](log.md), [Current State](meta/current-state.md)
 - Notes: Built a bounded public-source package around optimism as a future-representation style rather than manifestation language. Preserved a caveat that the "negative futures are processed more abstractly and with more psychological distance" point is source-grounded but still interpretive rather than a fully settled mechanism.
 
+## [2026-05-12] update | Positive illusions follow-up for optimism package
+- Sources: Taylor and Brown 1988 on positive illusions; Colvin and Block 1994 critique; Taylor and Brown 1994 reply; Shepperd, Pogge, and Howell 2017 methodological review of unrealistic optimism consequences; Weinstein 1987 on comparative unrealistic optimism.
+- Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Log](log.md), [Current State](meta/current-state.md)
+- Notes: Added a tighter distinction between adaptive optimism, unrealistic optimism, positive illusions, and denial so the package does not drift into toxic-positivity or "delusion is healthy" territory.
+
 ## [2026-05-12] synthesis | Many-worlds, Wheeler, and observer-dependent reality
 - Sources: existing Bell/Wigner/local-friendliness package plus added source-index entries for consistent histories, Wheeler's participatory/information framing, Brukner-Zeilinger information-theoretic work, and Markus Muller's observer-first reconstruction.
 - Pages created: [Many-Worlds, Wheeler, and Observer-Dependent Reality](../themes/many-worlds-and-observer-dependent-reality.md)

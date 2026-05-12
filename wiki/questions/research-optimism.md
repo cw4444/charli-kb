@@ -18,6 +18,8 @@ The public-source neuroscience literature supports a real optimism pattern, but 
 
 The key recurring idea is that optimism is tied to prospection. People do not only differ in what they expect; they differ in how future possibilities are mentally represented.
 
+Taylor and Brown's 1988 "positive illusions" paper is an important historical anchor here. It is not neuroscience, but it helps explain why optimism research keeps returning to the possibility that mild distortion can sometimes be functional.
+
 ## Key Findings
 
 ### 1. Optimism is linked to how the brain simulates positive futures
@@ -57,6 +59,14 @@ The 2020 BMC Psychiatry paper linked repetitive negative thinking with subjectiv
 
 This does not prove that optimism prevents cognitive decline. But it does suggest that a mind repeatedly trapped in negative loops may carry cognitive costs, especially in aging.
 
+### 6. Positive illusions are relevant, but they are not a free pass for bullshit
+
+Taylor and Brown argued that mildly unrealistic positive self-views, exaggerated control, and unrealistic optimism may support well-being and effective functioning. That is one of the big reasons this literature can sound, at a distance, as if "delusion is healthy."
+
+The follow-up debate matters. Colvin and Block argued that the evidence did not justify such a broad conclusion. Taylor and Brown replied that critics were overstating the claim and missing the possibility that mild positive bias can help under some conditions. Later methodological reviews also warned that it is hard to determine the consequences of unrealistic optimism cleanly.
+
+So the strongest synthesis is not "delusion is good for you." It is closer to this: some degree of future-positive bias may help action and resilience, but its value depends on whether it coexists with learning, calibration, and preparation.
+
 ## Working Interpretation
 
 The most defensible synthesis is that optimism is a representational style.
@@ -70,13 +80,17 @@ It seems to involve:
 
 This can be adaptive because it supports motivation, resilience, and goal pursuit. It can also become maladaptive if it blocks realistic preparation or error correction.
 
+If you want the blunt version: "Soap Mactavish brain" is probably helpful only if it means high agency, fast recovery from threat, and a bias toward action without complete collapse into catastrophizing. It stops being healthy the moment it becomes invulnerability fantasy or refusal to see obvious danger.
+
 ## Do Not Overclaim
 
 - The literature does not support manifestation claims.
 - The literature does not show that optimism is always accurate.
+- The literature does not show that toxic positivity is healthy.
 - The literature does not yet show that training vivid positive imagery alone reliably produces lasting healthy optimism in everyday life.
 - The older-adult repetitive negative thinking findings are important, but the 2025 study is cross-sectional and should not be read as causal proof.
 - The "negative events are represented more abstractly" point is plausible and source-backed, but still stronger as a working interpretation than as a settled law.
+- The positive-illusions literature is historically important but contested, so it should be used as a framing argument, not as a trump card.
 
 ## Sources
 
