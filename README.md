@@ -51,6 +51,7 @@ Start with:
 4. [Local Friendliness](themes/local-friendliness.md)
 5. [Interpretations](themes/interpretations.md)
 6. [QBism, Global Constraints, and Observer-Dependent Reality](themes/qbism-adlam-observer-dependent-reality.md)
+7. [Many-Worlds, Wheeler, and Observer-Dependent Reality](themes/many-worlds-and-observer-dependent-reality.md)
 
 Short answer for the physics package: Bell inequalities constrain theories that try to preserve local hidden-variable-style explanations of correlations. Brukner-style and local-friendliness inequalities reuse the Bell logic, but replace or weaken "pre-existing hidden variables" with assumptions about whether observed events are absolute, observer-independent facts. Violations of these inequalities do not prove that everyday reality is unreal. They show that, if standard quantum theory applies to the relevant systems and if assumptions such as locality, free choice, and universal observability of records are retained, then not every observer's measurement outcome can be treated as a single shared fact in one observer-independent story.
 

@@ -3,7 +3,7 @@ title: "Source Index"
 type: source-index
 status: draft
 created: 2026-05-10
-updated: 2026-05-11
+updated: 2026-05-12
 sources:
   - sources.json
   - sources.csv
@@ -362,6 +362,20 @@ This bibliography is organized around the path from Bell inequalities to observe
 - Confidence / caveats: high as historical source; probability and basis questions remain debated.
 - Mode: theoretical / interpretive
 
+### SEP 2024 - "The Consistent Histories Approach to Quantum Mechanics"
+
+- Authors: Robert B. Griffiths
+- Year: 2024 revision
+- Source type: scholarly encyclopedia
+- Link: https://plato.stanford.edu/entries/qm-consistent-histories/
+- Summary: Explains consistent/decoherent histories as an interpretation where measurement is not fundamental and quantum reasoning must stay inside a single consistent framework.
+- Core claim: Quantum theory does not require one universally true state of affairs at each instant; incompatible frameworks should not be mixed.
+- Observer-dependent relevance: Belongs in the same family of anti-classical views because it rejects one globally combinable description while stopping short of Everettian branching.
+- Assumptions used/challenged: classical unicity, unrestricted cross-framework reasoning, measurement as primitive.
+- Tags: consistent histories, frameworks, Griffiths
+- Confidence / caveats: high as a scholarly overview written by a leading proponent; not a neutral consensus document.
+- Mode: interpretive / philosophical
+
 ### GRW 1986 - "Unified Dynamics for Microscopic and Macroscopic Systems"
 
 - Authors: GianCarlo Ghirardi, Alberto Rimini, Tullio Weber
@@ -403,3 +417,45 @@ This bibliography is organized around the path from Bell inequalities to observe
 - Tags: Wheeler, participatory universe, philosophy
 - Confidence / caveats: low-to-medium for scientific claims; useful as philosophical context, not evidence.
 - Mode: philosophical
+
+### Wheeler 1989 - "Information, Physics, Quantum: The Search for Links"
+
+- Authors: John Archibald Wheeler
+- Year: 1989
+- Source type: conference proceedings / philosophical physics
+- Link: https://philpapers.org/rec/WHEIPQ
+- Summary: Sharpens Wheeler's "it from bit" and participatory-universe framing by connecting physical reality to registered informational acts.
+- Core claim: Physics may need to be reconstructed around information and observership rather than passive description of pre-given objects.
+- Observer-dependent relevance: Strong philosophical ancestor for observer-participancy, information-first rhetoric, and anti-view-from-nowhere themes.
+- Assumptions used/challenged: passive observer, fixed pre-given ontology.
+- Tags: Wheeler, it from bit, participatory universe, information
+- Confidence / caveats: low-to-medium for direct physics claims; valuable mainly as conceptual framing.
+- Mode: philosophical
+
+### Brukner and Zeilinger 1999 - "Operationally Invariant Information in Quantum Measurements"
+
+- Authors: Caslav Brukner, Anton Zeilinger
+- Year: 1999
+- Source type: peer-reviewed paper
+- Link / DOI: https://doi.org/10.1103/PhysRevLett.83.3354
+- Summary: Proposes an information measure tailored to quantum measurements and complementary observations.
+- Core claim: Quantum measurement should be understood in informational rather than classical property-revelation terms.
+- Observer-dependent relevance: Useful anchor for information-theoretic approaches that sit near Wheeler's participatory rhetoric without becoming full many-worlds or QBism.
+- Assumptions used/challenged: classical information measures, pre-existing measured properties.
+- Tags: information-theoretic interpretation, Zeilinger, Brukner
+- Confidence / caveats: medium-high; this is one information-theoretic strand, not a complete interpretation on its own.
+- Mode: theoretical / interpretive
+
+### Muller 2020 - "Law without law: From observer states to physics via algorithmic information theory"
+
+- Authors: Markus P. Muller
+- Year: 2020
+- Source type: peer-reviewed paper
+- Link: https://quantum-journal.org/papers/q-2020-07-20-301/
+- Summary: Develops an observer-first reconstruction where objective-world structure emerges statistically from constraints on observer states.
+- Core claim: Objective reality need not be fundamental; it may emerge from first-person observer-state dynamics.
+- Observer-dependent relevance: Fringe but clearly in the same font as participatory and observer-first reality talk.
+- Assumptions used/challenged: objective reality as starting point, third-person-first physics.
+- Tags: Markus Muller, observer-first, algorithmic information, law without law
+- Confidence / caveats: medium; ambitious and highly nonstandard, useful as edge-case comparison rather than package center.
+- Mode: theoretical / philosophical

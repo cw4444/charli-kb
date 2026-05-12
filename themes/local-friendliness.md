@@ -3,7 +3,7 @@ title: "Local Friendliness"
 type: theme
 status: draft
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-12
 sources:
   - ../sources/source-index.md
 ---
@@ -39,6 +39,8 @@ So the practical reading should be:
 - Strong formal result under idealized assumptions.
 - Experimentally suggestive in small systems.
 - Not a direct demonstration that human memories can be put into coherent superposition and reversed.
+
+Everett's natural move here is to deny the global absoluteness of observed events while keeping universal unitary quantum theory. See [Many-Worlds, Wheeler, and Observer-Dependent Reality](many-worlds-and-observer-dependent-reality.md).
 
 ## Recent Extensions
 

@@ -3,7 +3,7 @@ title: "Wigner's Friend"
 type: theme
 status: draft
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-12
 sources:
   - ../sources/source-index.md
 ---
@@ -27,6 +27,8 @@ Ordinary quantum mechanics uses two kinds of update:
 - Collapse/update: an outcome is registered and the state is updated.
 
 Wigner's friend asks whether collapse is objective, observer-relative, merely informational, or not fundamental at all.
+
+Many-worlds is one of the cleanest responses because it keeps universal unitary evolution and denies that there must be one unique global outcome. See [Many-Worlds, Wheeler, and Observer-Dependent Reality](many-worlds-and-observer-dependent-reality.md).
 
 ## Extended Wigner's Friend
 
