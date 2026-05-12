@@ -3,7 +3,7 @@ title: "Observer-Independent Facts"
 type: theme
 status: draft
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-12
 sources:
   - ../sources/source-index.md
 ---
@@ -65,6 +65,8 @@ Critics argue that the conclusion may be weakened if:
 - different interpretations reject different assumptions without contradiction.
 
 Elias Okon's 2025 reassessment is especially useful because it directly challenges the strength and novelty of both Brukner's theorem and local friendliness.
+
+Everett-style many-worlds is one of the most direct interpretive exits: keep universal quantum theory, but reject the demand for one single global outcome. For the fuller tie-in, see [Many-Worlds, Wheeler, and Observer-Dependent Reality](many-worlds-and-observer-dependent-reality.md).
 
 ## Key Sources
 

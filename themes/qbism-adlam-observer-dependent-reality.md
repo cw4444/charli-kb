@@ -3,7 +3,7 @@ title: "QBism, Global Constraints, and Observer-Dependent Reality"
 type: theme
 status: draft
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-05-12
 sources:
   - ../sources/source-index.md
 ---
@@ -147,6 +147,7 @@ But this is a bridge for thinking, not a physics conclusion. The safe version is
 - [Observer-Independent Facts](observer-independent-facts.md)
 - [Local Friendliness](local-friendliness.md)
 - [Frauchiger-Renner](frauchiger-renner.md)
+- [Many-Worlds, Wheeler, and Observer-Dependent Reality](many-worlds-and-observer-dependent-reality.md)
 - [Interpretations](interpretations.md)
 - [AI Observers](ai-observers.md)
 - [Concept Map](../maps/concept-map.md)

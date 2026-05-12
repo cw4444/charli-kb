@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-05-12] synthesis | Many-worlds, Wheeler, and observer-dependent reality
+- Sources: existing Bell/Wigner/local-friendliness package plus added source-index entries for consistent histories, Wheeler's participatory/information framing, Brukner-Zeilinger information-theoretic work, and Markus Muller's observer-first reconstruction.
+- Pages created: [Many-Worlds, Wheeler, and Observer-Dependent Reality](../themes/many-worlds-and-observer-dependent-reality.md)
+- Pages updated: [Interpretations](../themes/interpretations.md), [Wigner's Friend](../themes/wigners-friend.md), [Observer-Independent Facts](../themes/observer-independent-facts.md), [Local Friendliness](../themes/local-friendliness.md), [Frauchiger-Renner](../themes/frauchiger-renner.md), [QBism, Global Constraints, and Observer-Dependent Reality](../themes/qbism-adlam-observer-dependent-reality.md), [Source Index](../sources/source-index.md), [Concept Map](../maps/concept-map.md), [Concept Map Mermaid](../maps/concept-map.mmd), [Glossary](../glossary.md), [Open Questions](../open-questions.md), [Root README](../../README.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Properly tied Everett into the observer-dependent-reality package as a direct response to Wigner's friend, Frauchiger-Renner, and local friendliness rather than a stray list item. Kept Wheeler as philosophical framing rather than evidence, and added consistent histories and information-theoretic approaches as nearby but distinct interpretations.
+
 ## [2026-05-11] synthesis | Enterprise agents and work rearchitecture
 - Sources: OpenAI Frontier, OpenAI B2B Signals, OpenAI Promptfoo acquisition note, Microsoft 2026 Work Trend Index and Frontier Transformation posts, Anthropic Enterprise, PwC/Anthropic enterprise-agent deployment press release, and press-reported OpenAI Deployment Company coverage.
 - Pages created: [Enterprise Agent Deployment 2026](sources/enterprise-agent-deployment-2026.md), [Agentic Work Rearchitecture](concepts/agentic-work-rearchitecture.md)

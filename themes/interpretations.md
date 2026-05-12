@@ -3,7 +3,7 @@ title: "Interpretations"
 type: theme
 status: draft
 created: 2026-05-10
-updated: 2026-05-11
+updated: 2026-05-12
 sources:
   - ../sources/source-index.md
 ---
@@ -44,6 +44,8 @@ Relational quantum mechanics says states and properties are relative to physical
 
 Source: Rovelli 1996, https://doi.org/10.1007/BF02302261
 
+See also: [Many-Worlds, Wheeler, and Observer-Dependent Reality](many-worlds-and-observer-dependent-reality.md).
+
 ## Copenhagen / Collapse-Style Views
 
 Copenhagen-style views often place a boundary between quantum system and classical measurement context. Collapse-style views treat outcome selection as real or at least operationally fundamental.
@@ -61,6 +63,8 @@ Many-worlds keeps universal unitary quantum mechanics and rejects single global 
 - Cost: probability, preferred-basis, and ontology questions.
 
 Source: Everett 1957, https://doi.org/10.1103/RevModPhys.29.454
+
+See also: [Many-Worlds, Wheeler, and Observer-Dependent Reality](many-worlds-and-observer-dependent-reality.md).
 
 ## Objective Collapse
 
@@ -98,6 +102,8 @@ Wheeler's participatory universe is philosophically adjacent: observers and info
 - Useful for framing questions about observer participation.
 - Not a substitute for Bell, Brukner, or local-friendliness theorems.
 - Treat as inspiration, not evidence.
+
+See also: [Many-Worlds, Wheeler, and Observer-Dependent Reality](many-worlds-and-observer-dependent-reality.md).
 
 ## Practical Summary
 

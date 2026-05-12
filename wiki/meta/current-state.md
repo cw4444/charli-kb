@@ -3,7 +3,7 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-05-11
+updated: 2026-05-12
 ---
 
 # Current State
@@ -43,6 +43,7 @@ This repo is a plain Markdown personal knowledge base based on Karpathy's LLM Wi
 
 ## Recent Additions
 
+- Added [Many-Worlds, Wheeler, and Observer-Dependent Reality](../../themes/many-worlds-and-observer-dependent-reality.md), which finally ties Everett properly into the Bell/Wigner package instead of leaving it as a short paragraph in `Interpretations`. The page compares Everett with Wheeler, QBism, relational quantum mechanics, consistent histories, Frauchiger-Renner, local friendliness, information-theoretic approaches, and Markus Muller's observer-first edge cases.
 - Added [Agentic Work Rearchitecture](../concepts/agentic-work-rearchitecture.md) and [Enterprise Agent Deployment 2026](../sources/enterprise-agent-deployment-2026.md), capturing the 2026 shift from AI as productivity add-on to governed enterprise agents and work redesign.
 - Updated the root [README](../../README.md) so a human or agent can see the repo's two main lanes: AI and reality. The Bell/Wigner package is now a section rather than the whole framing.
 - Added [Cognitive Latency Shock](../concepts/cognitive-latency-shock.md), using the [Bryan Johnson Claude KB Tweet](../sources/bryan-johnson-claude-kb.md) as a source for the felt-speed shift that happens when AI turns raw material into queryable memory and fast artifacts.

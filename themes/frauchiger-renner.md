@@ -3,7 +3,7 @@ title: "Frauchiger-Renner"
 type: theme
 status: draft
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-12
 sources:
   - ../sources/source-index.md
 ---
@@ -38,6 +38,8 @@ Common objections include:
 - The reasoning may illicitly mix collapsed and uncollapsed descriptions.
 - The isolation of measurement-like processes may be physically suspect.
 - Bohmian, many-worlds, relational, QBist, and collapse interpretations each reject a different assumption or inference.
+
+Everett's move is especially direct: preserve universal validity of the quantum formalism and drop the demand for one unique global outcome. See [Many-Worlds, Wheeler, and Observer-Dependent Reality](many-worlds-and-observer-dependent-reality.md).
 
 Lazarovici and Hubert argue that a complete description removes the inconsistency, especially for Bohmian mechanics. Steane argues that reasoning from observations must account for quantum erasure and that the thought experiment does not simply separate single-world from many-world views.
 
