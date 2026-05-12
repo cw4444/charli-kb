@@ -51,6 +51,8 @@ That gives a plausible cognitive bridge:
 - vivid positive simulation makes desired futures feel more real and motivationally relevant
 - decontextualized negative simulation may keep threat from taking over the whole system
 
+Rick Hanson sits near this part of the map. His "taking in the good" approach is basically an attempt to stop ordinary positive experiences from sliding off the mind too quickly. A 2021 paper linked to that framework reported improvements in positive emotions and related resource measures after a structured course, though that should be treated as suggestive intervention evidence rather than a settled general solution.
+
 ### 5. Repetitive negative thinking looks like an opposing process
 
 The older-adult repetitive negative thinking literature is relevant here because it describes a style of future- and self-focused cognition that is hard to control and repeatedly negative.
@@ -81,6 +83,8 @@ It seems to involve:
 This can be adaptive because it supports motivation, resilience, and goal pursuit. It can also become maladaptive if it blocks realistic preparation or error correction.
 
 If you want the blunt version: "Soap Mactavish brain" is probably helpful only if it means high agency, fast recovery from threat, and a bias toward action without complete collapse into catastrophizing. It stops being healthy the moment it becomes invulnerability fantasy or refusal to see obvious danger.
+
+The bills still exist. The better version of optimism is not pretending they do not. It is being able to notice the sad Christmas tree in the bins, laugh anyway, register a decent cup of tea or a kind glance or a tiny win, and actually let that experience land instead of being erased by the next irritation.
 
 ## Do Not Overclaim
 
