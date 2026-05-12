@@ -29,6 +29,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Bryan Johnson Claude KB Tweet](sources/bryan-johnson-claude-kb.md): source note for a public X post about using Claude and Karpathy-style LLM knowledge bases to make a large personal biomarker dataset queryable.
 - [Enterprise Agent Deployment 2026](sources/enterprise-agent-deployment-2026.md): source note on OpenAI, Anthropic, Microsoft, and enterprise-agent deployment as a future-of-work shift.
 - [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md): public-source research note on optimism bias, future simulation, belief updating, positive imagery, and repetitive negative thinking.
+- [Positive Alignment: Artificial Intelligence for Human Flourishing](sources/positive-alignment-human-flourishing.md): source note on a 2026 cross-lab agenda to move AI alignment from pure harm-avoidance toward flourishing-supporting positive attractors.
 
 ## Concepts
 
@@ -47,6 +48,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Reality Threshold](concepts/reality-threshold.md): proposed cutoff at which an imagined or perceptual signal is judged as real.
 - [Perception And Imagination Overlap](concepts/perception-and-imagination-overlap.md): model of shared machinery and signal-strength judgments across imagery and perception.
 - [Optimism](concepts/optimism.md): future-oriented cognitive style tied to vivid positive simulation, selective updating, and representational distance from negative futures.
+- [Positive Alignment](concepts/positive-alignment.md): AI-alignment agenda that aims beyond "not unsafe" toward constructive, flourishing-supportive behavioral attractors.
 - [Sidequest Prototyping](concepts/sidequest-prototyping.md): low-permission prototypes judged by actual adoption rather than roadmap speculation.
 - [Observer-Dependent Facts (Wigner's Friend / Local Friendliness)](concepts/observer-dependent-facts.md): quantum-mechanics framing where a set of “objective facts” assumptions can’t all hold simultaneously.
 

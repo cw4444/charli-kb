@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-05-12] source note | Positive alignment and human flourishing
+- Source: `arXiv: Positive Alignment: Artificial Intelligence for Human Flourishing`
+- Source URLs: `https://arxiv.org/abs/2605.10310`, `https://arxiv.org/pdf/2605.10310`
+- Pages created: [Positive Alignment: Artificial Intelligence for Human Flourishing](sources/positive-alignment-human-flourishing.md), [Positive Alignment](concepts/positive-alignment.md)
+- Pages updated: [AI Character Formation And Persona Safety](../themes/ai-consciousness/character-formation-and-persona-safety.md), [Wiki Index](index.md), [Wiki Log](log.md), [Current State](meta/current-state.md)
+- Notes: Added a cross-lab positive-alignment paper as a new AI-lane concept. Framed it as a move from safety-only failure avoidance toward constructive flourishing-supporting attractors, while keeping explicit warnings about paternalism, vagueness, and not confusing it with consciousness evidence.
+
 ## [2026-05-12] autoresearch | Optimism neuroscience
 - Sources: Sharot et al. 2007 Nature on optimism bias; Sharot, Korn, and Dolan 2011 Nature Neuroscience on asymmetric belief updating; Yanagisawa et al. 2025 PNAS on shared neural representations in optimistic future thinking; Erthal et al. 2021 systematic review; Schacter et al. 2017 episodic future thinking review; Ji et al. 2017 positive prospective imagery and optimism in depression; Schlosser et al. 2020 and Ye et al. 2025 on repetitive negative thinking in older adults.
 - Pages created: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md)

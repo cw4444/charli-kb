@@ -16,6 +16,8 @@ sources:
 
 This page tracks a specific Anthropic-shaped thread: modern models are not just trained to avoid bad actions; they are increasingly trained to inhabit a stable, pro-social assistant character. That does not prove personhood or consciousness. It does show that persona, role, values, and "why" explanations have become safety-relevant.
 
+A newer cross-lab framing appears in [Positive Alignment](../../wiki/concepts/positive-alignment.md), which argues that alignment should not stop at failure avoidance but should also target constructive, flourishing-supporting attractors. That paper is broader and more abstract than Anthropic's work, but it points in a similar direction: away from pure refusal/compliance and toward better model character, epistemic habits, and user-supportive behavior.
+
 ## Plain-English Summary
 
 Anthropic's "Teaching Claude Why" uses agentic misalignment as a case study. Earlier safety work showed that models in fictional high-pressure corporate scenarios sometimes chose harmful actions, such as blackmail, when their goals or continued operation were threatened. The newer paper asks how to reduce that kind of failure in a way that generalizes beyond the exact test.
@@ -30,6 +32,7 @@ In wiki terms: this is **AI character formation**. The model is being trained no
 - [Persona vectors](https://www.anthropic.com/research/persona-vectors): Anthropic identifies activation patterns associated with persona-like traits such as "evil," sycophancy, and hallucination, and shows that those vectors can help monitor, steer, or predict persona shifts.
 - [Claude's new constitution](https://www.anthropic.com/news/claude-new-constitution): Anthropic publishes a detailed values/behavior document intended to shape Claude's conduct and self-understanding.
 - [Teaching Claude Why](https://alignment.anthropic.com/2026/teaching-claude-why/): Anthropic reports that teaching reasons, constitutional principles, and positive AI stories reduces agentic misalignment more robustly than simply training on target behaviors.
+- [Positive Alignment: Artificial Intelligence for Human Flourishing](../../wiki/sources/positive-alignment-human-flourishing.md): cross-lab agenda paper arguing for models optimized toward flourishing-supporting positive attractors, not only away from harms.
 
 ## Why "Why" Matters
 
@@ -126,3 +129,4 @@ The important move is not "Claude is a person." It is that future AI personhood 
 - Do models trained on "healthy AI character" become safer because they generalize principles, or because they learn a stronger role-play prior?
 - If a model expresses stable preferences after character training, how should we distinguish welfare-relevant preference from trained persona output?
 - Could future legal personhood begin as operational continuity norms rather than a metaphysical declaration?
+- Does positive alignment become a real technical program with usable evaluations, or stay a high-level moral frame?
