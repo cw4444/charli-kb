@@ -43,6 +43,7 @@ This repo is a plain Markdown personal knowledge base based on Karpathy's LLM Wi
 
 ## Recent Additions
 
+- Added [Optimism Neuroscience Source Batch](../sources/optimism-neuroscience-source-batch.md), [Optimism](../concepts/optimism.md), and [Research - Optimism](../questions/research-optimism.md), using public sources to frame optimism as a future-representation style involving vivid positive imagery, asymmetric belief updating, and possible psychological distancing from negative futures. Kept a clear caveat that the "abstract negative events" point is a source-grounded interpretation rather than a settled mechanism.
 - Added [Many-Worlds, Wheeler, and Observer-Dependent Reality](../../themes/many-worlds-and-observer-dependent-reality.md), which finally ties Everett properly into the Bell/Wigner package instead of leaving it as a short paragraph in `Interpretations`. The page compares Everett with Wheeler, QBism, relational quantum mechanics, consistent histories, Frauchiger-Renner, local friendliness, information-theoretic approaches, and Markus Muller's observer-first edge cases.
 - Added [Agentic Work Rearchitecture](../concepts/agentic-work-rearchitecture.md) and [Enterprise Agent Deployment 2026](../sources/enterprise-agent-deployment-2026.md), capturing the 2026 shift from AI as productivity add-on to governed enterprise agents and work redesign.
 - Updated the root [README](../../README.md) so a human or agent can see the repo's two main lanes: AI and reality. The Bell/Wigner package is now a section rather than the whole framing.

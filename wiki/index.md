@@ -28,6 +28,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Mind Children - Hans Moravec](sources/mind-children-hans-moravec.md): source note for Moravec's 1988 AI/posthumanist book on machine intelligence, mind uploading, substrate independence, and postbiological successors.
 - [Bryan Johnson Claude KB Tweet](sources/bryan-johnson-claude-kb.md): source note for a public X post about using Claude and Karpathy-style LLM knowledge bases to make a large personal biomarker dataset queryable.
 - [Enterprise Agent Deployment 2026](sources/enterprise-agent-deployment-2026.md): source note on OpenAI, Anthropic, Microsoft, and enterprise-agent deployment as a future-of-work shift.
+- [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md): public-source research note on optimism bias, future simulation, belief updating, positive imagery, and repetitive negative thinking.
 
 ## Concepts
 
@@ -45,6 +46,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Queryable Organization](concepts/queryable-organization.md): organization whose work artifacts let humans and agents ask evidence-backed operational questions.
 - [Reality Threshold](concepts/reality-threshold.md): proposed cutoff at which an imagined or perceptual signal is judged as real.
 - [Perception And Imagination Overlap](concepts/perception-and-imagination-overlap.md): model of shared machinery and signal-strength judgments across imagery and perception.
+- [Optimism](concepts/optimism.md): future-oriented cognitive style tied to vivid positive simulation, selective updating, and representational distance from negative futures.
 - [Sidequest Prototyping](concepts/sidequest-prototyping.md): low-permission prototypes judged by actual adoption rather than roadmap speculation.
 - [Observer-Dependent Facts (Wigner's Friend / Local Friendliness)](concepts/observer-dependent-facts.md): quantum-mechanics framing where a set of “objective facts” assumptions can’t all hold simultaneously.
 
@@ -65,6 +67,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [How Should charli-kb Triage Notion Dumps?](questions/how-should-charli-kb-triage-notion-dumps.md): criteria for deciding what earns a place in the wiki.
 - [How Should charli-kb Work With Agents?](questions/how-should-charli-kb-work-with-agents.md): working loop for maintaining this repo with AI agents.
 - [How Should charli-kb Handle Video Sources?](questions/how-should-charli-kb-handle-video-sources.md): policy for deciding when a full video transcript is necessary.
+- [Research - Optimism](questions/research-optimism.md): bounded neuroscience-focused research note on optimism, future thinking, and repetitive negative thinking.
 
 ## Meta
 

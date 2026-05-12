@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-05-12] autoresearch | Optimism neuroscience
+- Sources: Sharot et al. 2007 Nature on optimism bias; Sharot, Korn, and Dolan 2011 Nature Neuroscience on asymmetric belief updating; Yanagisawa et al. 2025 PNAS on shared neural representations in optimistic future thinking; Erthal et al. 2021 systematic review; Schacter et al. 2017 episodic future thinking review; Ji et al. 2017 positive prospective imagery and optimism in depression; Schlosser et al. 2020 and Ye et al. 2025 on repetitive negative thinking in older adults.
+- Pages created: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md)
+- Pages updated: [Wiki Index](index.md), [Wiki Log](log.md), [Current State](meta/current-state.md)
+- Notes: Built a bounded public-source package around optimism as a future-representation style rather than manifestation language. Preserved a caveat that the "negative futures are processed more abstractly and with more psychological distance" point is source-grounded but still interpretive rather than a fully settled mechanism.
+
 ## [2026-05-12] synthesis | Many-worlds, Wheeler, and observer-dependent reality
 - Sources: existing Bell/Wigner/local-friendliness package plus added source-index entries for consistent histories, Wheeler's participatory/information framing, Brukner-Zeilinger information-theoretic work, and Markus Muller's observer-first reconstruction.
 - Pages created: [Many-Worlds, Wheeler, and Observer-Dependent Reality](../themes/many-worlds-and-observer-dependent-reality.md)
