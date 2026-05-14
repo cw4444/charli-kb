@@ -3,7 +3,7 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-05-12
+updated: 2026-05-14
 ---
 
 # Current State
@@ -43,6 +43,7 @@ This repo is a plain Markdown personal knowledge base based on Karpathy's LLM Wi
 
 ## Recent Additions
 
+- Added [Feynman, Calculation, and Reality Stories](../../themes/feynman-calculation-and-reality-stories.md) and [Feynman - Calculation And Reality Stories](../sources/feynman-calculation-and-reality-stories.md), using public primary sources to position Feynman as a bridge figure: useful not as a generic genius page, but as a disciplined distinction between what quantum theory lets you calculate and what metaphysical or psychological story people add afterward. Cross-linked it to [Reality Threshold](../concepts/reality-threshold.md) and [Perception And Imagination Overlap](../concepts/perception-and-imagination-overlap.md) so the physics lane now connects more explicitly to brain-level fact-making.
 - Added [Positive Alignment: Artificial Intelligence for Human Flourishing](../sources/positive-alignment-human-flourishing.md) and [Positive Alignment](../concepts/positive-alignment.md), based on the May 11, 2026 arXiv paper by a cross-lab author group spanning Oxford, DeepMind, OpenAI, Anthropic, Stanford, and others. Framed it as a constructive-alignment agenda aimed at flourishing-supporting positive attractors, with explicit cautions about paternalism, vagueness, and not confusing alignment rhetoric with consciousness evidence.
 - Updated the optimism package with Taylor and Brown's positive-illusions framing plus critiques and methodological cautions, so the repo now distinguishes adaptive optimism, unrealistic optimism, positive illusions, and denial instead of flattening them into generic positivity.
 - Added [Optimism Neuroscience Source Batch](../sources/optimism-neuroscience-source-batch.md), [Optimism](../concepts/optimism.md), and [Research - Optimism](../questions/research-optimism.md), using public sources to frame optimism as a future-representation style involving vivid positive imagery, asymmetric belief updating, and possible psychological distancing from negative futures. Kept a clear caveat that the "abstract negative events" point is a source-grounded interpretation rather than a settled mechanism.

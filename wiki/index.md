@@ -14,6 +14,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Beginner To Advanced Reading Path](../reading-paths/beginner-to-advanced.md): route through the topic from conceptual orientation to recent critiques.
 - [QBism, Global Constraints, and Observer-Dependent Reality](../themes/qbism-adlam-observer-dependent-reality.md): careful comparison of QBism, Emily Adlam's all-at-once/global-constraint ideas, observer-dependence, Wigner's friend, and overclaim boundaries.
 - [Many-Worlds, Wheeler, and Observer-Dependent Reality](../themes/many-worlds-and-observer-dependent-reality.md): Everett-centered tie-in connecting many-worlds with Wigner's friend, Wheeler's participatory universe, QBism, relational quantum mechanics, consistent histories, Frauchiger-Renner, local friendliness, and information-theoretic approaches.
+- [Feynman, Calculation, and Reality Stories](../themes/feynman-calculation-and-reality-stories.md): bridge page on where formal predictive success ends and interpretation, ontology, and human fact-making begin.
 - [AI Character Formation And Persona Safety](../themes/ai-consciousness/character-formation-and-persona-safety.md): Anthropic-centered thread connecting Teaching Claude Why, persona vectors, agentic misalignment, constitutions, and model character as a safety surface.
 
 ## Sources
@@ -30,6 +31,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Enterprise Agent Deployment 2026](sources/enterprise-agent-deployment-2026.md): source note on OpenAI, Anthropic, Microsoft, and enterprise-agent deployment as a future-of-work shift.
 - [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md): public-source research note on optimism bias, future simulation, belief updating, positive imagery, and repetitive negative thinking.
 - [Positive Alignment: Artificial Intelligence for Human Flourishing](sources/positive-alignment-human-flourishing.md): source note on a 2026 cross-lab agenda to move AI alignment from pure harm-avoidance toward flourishing-supporting positive attractors.
+- [Feynman - Calculation And Reality Stories](sources/feynman-calculation-and-reality-stories.md): source note on using Feynman as a boundary marker between quantum calculation, interpretation, and reality-story creep.
 
 ## Concepts
 

@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-05-14] synthesis | Feynman, calculation, and reality stories
+- Sources: Feynman 1948 path-integral paper, Feynman 1949 QED paper, Wheeler-Feynman 1945 absorber paper, and Feynman's 1965 Nobel lecture.
+- Pages created: [Feynman - Calculation And Reality Stories](sources/feynman-calculation-and-reality-stories.md), [Feynman, Calculation, and Reality Stories](../themes/feynman-calculation-and-reality-stories.md)
+- Pages updated: [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added Feynman as a bridge page rather than a celebrity biography. Kept the focus on the boundary between predictive formalism and extra interpretation, then tied that caution to neuroscience pages on reality monitoring and felt fact.
+
 ## [2026-05-12] source note | Positive alignment and human flourishing
 - Source: `arXiv: Positive Alignment: Artificial Intelligence for Human Flourishing`
 - Source URLs: `https://arxiv.org/abs/2605.10310`, `https://arxiv.org/pdf/2605.10310`
