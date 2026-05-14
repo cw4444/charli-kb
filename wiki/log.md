@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-05-14] synthesis | Rovelli, relational quantum mechanics, and reality
+- Sources: Rovelli 1996 on relational quantum mechanics, Rovelli 2021 overview, Martin-Dussaud/Rovelli/Zalamea 2019 on locality in RQM, and the SEP relational quantum mechanics entry.
+- Pages created: [Rovelli And Relational Quantum Mechanics](sources/rovelli-relational-quantum-mechanics.md), [Rovelli, Relational Quantum Mechanics, and Reality](../themes/rovelli-relational-quantum-mechanics-and-reality.md)
+- Pages updated: [Interpretations](../themes/interpretations.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Promoted RQM from a thin subsection to a real page because it is one of the strongest fits for the repo's reality lane. Kept the Yoneda/category-theory resonance as a clearly labeled thinking bridge rather than presenting it as a literal formal equivalence.
+
 ## [2026-05-14] synthesis | Feynman, calculation, and reality stories
 - Sources: Feynman 1948 path-integral paper, Feynman 1949 QED paper, Wheeler-Feynman 1945 absorber paper, and Feynman's 1965 Nobel lecture.
 - Pages created: [Feynman - Calculation And Reality Stories](sources/feynman-calculation-and-reality-stories.md), [Feynman, Calculation, and Reality Stories](../themes/feynman-calculation-and-reality-stories.md)

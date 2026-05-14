@@ -44,7 +44,7 @@ Relational quantum mechanics says states and properties are relative to physical
 
 Source: Rovelli 1996, https://doi.org/10.1007/BF02302261
 
-See also: [Many-Worlds, Wheeler, and Observer-Dependent Reality](many-worlds-and-observer-dependent-reality.md).
+See also: [Rovelli, Relational Quantum Mechanics, and Reality](rovelli-relational-quantum-mechanics-and-reality.md), [Many-Worlds, Wheeler, and Observer-Dependent Reality](many-worlds-and-observer-dependent-reality.md).
 
 ## Copenhagen / Collapse-Style Views
 
