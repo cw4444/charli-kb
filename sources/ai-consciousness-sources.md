@@ -3,14 +3,14 @@ title: "AI Consciousness And Model Welfare Sources"
 type: source-index
 status: draft
 created: 2026-05-10
-updated: 2026-05-11
+updated: 2026-05-16
 sources:
   - ai-consciousness-sources.csv
 ---
 
 # AI Consciousness And Model Welfare Sources
 
-Access date for web sources: 2026-05-10. This bibliography uses public pages, open papers, abstracts, official company materials, and open metadata. It avoids paywalled dependence.
+Access dates for web sources: 2026-05-10 to 2026-05-16. This bibliography uses public pages, open papers, abstracts, official company materials, and open metadata. It avoids paywalled dependence.
 
 ## Source table
 
@@ -41,9 +41,11 @@ Access date for web sources: 2026-05-10. This bibliography uses public pages, op
 | SEP, "Consciousness" | encyclopedia | agnostic/conditional | Background on theories and concepts of consciousness. |
 | SEP, "The Grounds of Moral Status" | encyclopedia | agnostic/conditional | Moral status, interests, sentience, and degrees of considerability. |
 | Schneider, "How to Catch an AI Zombie" (2020) | book chapter / abstract | agnostic/conditional | Testing framework and limits of behavior-only evidence. |
+| Kim, "The Epistemic Asymmetry of Consciousness Self-Reports" (2026 revision) | arXiv preprint | agnostic/conditional | Formal argument that AI denials of consciousness should not be treated as strong evidence of non-consciousness. |
 | Berg, de Lucena, and Rosenblatt, "Large Language Models Report Subjective Experience Under Self-Referential Processing" (2025) | arXiv preprint | supports AI consciousness possibility | Recent self-report/self-referential-processing evidence, with strong caveats. |
 | Kaiser and Enderby, "No Reliable Evidence of Self-Reported Sentience in Small Large Language Models" (2026) | arXiv preprint | argues against current AI consciousness | Counter-evidence against latent self-reported sentience in tested open-weight models. |
 | Cali, "Philosophical, Experimental and Synthetic Phenomenology" (2022) | open-access academic article | agnostic/conditional | Background on synthetic phenomenology as a research program. |
+| Lerchner, "The Abstraction Fallacy" (2026) | Google DeepMind / PhilArchive paper | argues against computational functionalism | Recent DeepMind-listed counterpoint arguing that AI can simulate but not instantiate consciousness through abstract computation alone. |
 
 ## Notes on source limits
 

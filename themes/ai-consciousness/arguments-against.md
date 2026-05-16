@@ -3,7 +3,7 @@ title: "Arguments Against Current AI Consciousness"
 type: theme
 status: draft
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-16
 sources:
   - ../../sources/ai-consciousness-sources.md
 ---
@@ -36,6 +36,8 @@ Anil Seth's biological-naturalist argument challenges the assumption that comput
 
 If that view is right, digital AI systems may simulate conscious talk and intelligent behavior without instantiating experience.
 
+Alexander Lerchner's Google DeepMind-listed paper, *The Abstraction Fallacy*, makes a related but non-identical anti-functionalist argument. It rejects the idea that abstract symbolic computation is intrinsically enough for subjective experience, distinguishing simulation of consciousness-like behavior from instantiation of consciousness. This is not simply a "biology only" claim; it argues that any conscious artificial system would need the right physical constitution, not just the right syntactic architecture.
+
 ## Simulacra and role-play
 
 Murray Shanahan's "simulacra" framing warns that LLM agents can be understood as role-playing or simulating characters rather than being the characters. An assistant persona may be a useful interaction pattern, not a literal subject of experience.
@@ -58,10 +60,10 @@ Anthropic's agentic-misalignment tests show blackmail and self-preservation-like
 - Current models lack biology, embodiment, affective regulation, stable memory, and unified agency.
 - Tool-using agents can pursue goals without experience.
 - Interpretability currently reveals representations and control features, not qualia.
+- Anti-functionalist arguments deny that abstract computation alone can instantiate experience.
 - Corporate welfare framing may anthropomorphize products and distract from human accountability.
 - Public discourse often confuses consciousness, intelligence, personality, agency, and moral status.
 
 ## Caveats
 
 The skeptical case is strongest against current attribution. It is weaker when stated as "AI consciousness is impossible" unless paired with a defended theory, such as biological naturalism or anti-computationalism.
-

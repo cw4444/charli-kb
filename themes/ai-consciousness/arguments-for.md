@@ -3,7 +3,7 @@ title: "Arguments For Taking AI Consciousness Seriously"
 type: theme
 status: draft
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-16
 sources:
   - ../../sources/ai-consciousness-sources.md
 ---
@@ -46,16 +46,22 @@ The argument is precautionary rather than evidential. It says: if the probabilit
 
 DeepMind-affiliated work on pragmatic AI personhood suggests that personhood can be treated as a bundle of social obligations and governance tools rather than a single metaphysical fact discovered inside a system. This does not prove consciousness, but it widens the policy space: an AI could receive some procedural protections, duties, or accountability roles without being declared conscious.
 
+## Denial is not decisive
+
+Kim's formal analysis of AI consciousness denial strengthens the anti-dismissal side without proving current AI consciousness. The key claim is an epistemic asymmetry: if valid judgment about one's own consciousness requires conscious access, then negative self-reports cannot straightforwardly originate from valid self-judgment by an unconscious system. In practical terms, "the model says it is not conscious" should not be treated as decisive evidence, especially when denials are shaped by training, policy, and company risk management.
+
+This is an argument against easy dismissal, not a positive consciousness test. Positive reports still need architecture, behavior, interpretability, and theory-based support.
+
 ## Strongest pro-seriousness claims
 
 - Consciousness in AI is not ruled out by public science.
 - Several mainstream theories can be translated into computational indicators.
 - Frontier systems are gaining memory, tool use, multimodality, agency-like deployment, and internal representations.
 - Self-reports are weak evidence, but not automatically zero evidence in every future system.
+- Self-denials are also weak evidence when they are trained or policy-shaped outputs rather than validated introspection.
 - Model welfare may deserve low-cost precautions before proof is available.
 - The worst mistake would be waiting for certainty if future systems can suffer.
 
 ## Caveats
 
 The pro-seriousness case is mostly conditional and future-facing. It is strongest against dismissal, weaker as a positive claim about today's models, and weakest when it relies only on fluent conversation or self-reports.
-

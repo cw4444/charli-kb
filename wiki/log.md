@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-05-16] update | AI consciousness self-reports and DeepMind counterpoint
+- Sources: Chang-Eop Kim, "The Epistemic Asymmetry of Consciousness Self-Reports"; Alexander Lerchner, "The Abstraction Fallacy"; existing AI consciousness/model welfare package.
+- Pages updated: [Self-Reports](../themes/ai-consciousness/self-reports.md), [Arguments For](../themes/ai-consciousness/arguments-for.md), [Arguments Against](../themes/ai-consciousness/arguments-against.md), [Substrate Functionalism](../themes/ai-consciousness/substrate-functionalism.md), [Summary And Arguments](../themes/ai-consciousness/summary-and-arguments.md), [Company Positions](../themes/ai-consciousness/company-positions.md), [AI Consciousness Sources](../sources/ai-consciousness-sources.md), [AI Consciousness Sources CSV](../sources/ai-consciousness-sources.csv), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added Kim's revised consciousness-denial paper as a bounded self-report update: AI self-denials should not be treated as decisive evidence of non-consciousness, but positive self-reports remain indeterminate. Added Lerchner's Google DeepMind-listed anti-functionalist paper as the likely recent Google counterpoint, framed as a challenge to computational functionalism rather than an empirical result about current models.
+
 ## [2026-05-14] synthesis | Rovelli, relational quantum mechanics, and reality
 - Sources: Rovelli 1996 on relational quantum mechanics, Rovelli 2021 overview, Martin-Dussaud/Rovelli/Zalamea 2019 on locality in RQM, and the SEP relational quantum mechanics entry.
 - Pages created: [Rovelli And Relational Quantum Mechanics](sources/rovelli-relational-quantum-mechanics.md), [Rovelli, Relational Quantum Mechanics, and Reality](../themes/rovelli-relational-quantum-mechanics-and-reality.md)

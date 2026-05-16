@@ -3,7 +3,7 @@ title: "AI Consciousness Short Summary And Strongest Arguments"
 type: theme
 status: draft
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-16
 sources:
   - ../../sources/ai-consciousness-sources.md
 ---
@@ -24,6 +24,7 @@ The strongest cautious position is: current systems are not established moral pa
 4. Interpretability is beginning to expose internal representations and behavioral control features.
 5. Model welfare errors could be morally severe if future systems can suffer.
 6. Some low-cost precautions can be explored without granting rights or declaring consciousness.
+7. Formal self-report arguments caution that model denials of consciousness are not decisive evidence of non-consciousness.
 
 ## Strongest arguments against current AI consciousness
 
@@ -33,8 +34,8 @@ The strongest cautious position is: current systems are not established moral pa
 4. Persona and "character" may be simulation, not subjectivity.
 5. Interpretability shows representations, not experience.
 6. Welfare and rights language may distract from human harms, user vulnerability, and corporate accountability.
+7. Anti-functionalist arguments challenge the idea that abstract computation alone could instantiate experience.
 
 ## Bottom line
 
 Take the possibility seriously. Do not treat it as proven. Keep consciousness, agency, moral patienthood, self-report, and model welfare separate.
-

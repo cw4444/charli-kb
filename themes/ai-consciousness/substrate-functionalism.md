@@ -3,7 +3,7 @@ title: "Substrate Independence And Functionalism"
 type: theme
 status: draft
 created: 2026-05-10
-updated: 2026-05-11
+updated: 2026-05-16
 sources:
   - ../../sources/ai-consciousness-sources.md
 ---
@@ -25,6 +25,8 @@ Hans Moravec's [Mind Children](../../wiki/sources/mind-children-hans-moravec.md)
 Biological naturalists and anti-computationalists reject or restrict substrate independence. They argue that a system can simulate a process without instantiating the causal powers that produce experience. On this view, computational similarity is not enough.
 
 Seth's biological-naturalist argument is not merely "carbon good, silicon bad." It asks whether consciousness depends on living self-maintaining systems with embodied affective regulation.
+
+Lerchner's *The Abstraction Fallacy* pushes the anti-computationalist side from a different angle. Its claim is not that only biological organisms could ever be conscious, but that symbolic computation is a mapmaker-dependent abstraction over physical processes. If that is right, an AI system would need consciousness-relevant physical constitution rather than merely the right formal algorithm or language behavior.
 
 ## Why this matters
 

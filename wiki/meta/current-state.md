@@ -3,7 +3,7 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-05-14
+updated: 2026-05-16
 ---
 
 # Current State
@@ -43,6 +43,7 @@ This repo is a plain Markdown personal knowledge base based on Karpathy's LLM Wi
 
 ## Recent Additions
 
+- Updated the AI consciousness package with Chang-Eop Kim's revised *The Epistemic Asymmetry of Consciousness Self-Reports* and Alexander Lerchner's Google DeepMind-listed *The Abstraction Fallacy*. Kim is used narrowly to caution that model self-denials are not decisive evidence of non-consciousness; Lerchner is used as a recent anti-functionalist counterpoint arguing that abstract computation can simulate but not instantiate consciousness. Neither source is treated as settling current AI consciousness.
 - Added [Rovelli, Relational Quantum Mechanics, and Reality](../../themes/rovelli-relational-quantum-mechanics-and-reality.md) and [Rovelli And Relational Quantum Mechanics](../sources/rovelli-relational-quantum-mechanics.md), because RQM was underrepresented as a mere subsection in `Interpretations` even though it is one of the strongest fits for the repo's reality lane. Framed it around relation-first facts, the absence of a God's-eye ledger, contrast with QBism/Everett/Wheeler, and a cautious "same font" bridge to category-theoretic thinking without claiming RQM literally is Yoneda in physics drag.
 - Added [Feynman, Calculation, and Reality Stories](../../themes/feynman-calculation-and-reality-stories.md) and [Feynman - Calculation And Reality Stories](../sources/feynman-calculation-and-reality-stories.md), using public primary sources to position Feynman as a bridge figure: useful not as a generic genius page, but as a disciplined distinction between what quantum theory lets you calculate and what metaphysical or psychological story people add afterward. Cross-linked it to [Reality Threshold](../concepts/reality-threshold.md) and [Perception And Imagination Overlap](../concepts/perception-and-imagination-overlap.md) so the physics lane now connects more explicitly to brain-level fact-making.
 - Added [Positive Alignment: Artificial Intelligence for Human Flourishing](../sources/positive-alignment-human-flourishing.md) and [Positive Alignment](../concepts/positive-alignment.md), based on the May 11, 2026 arXiv paper by a cross-lab author group spanning Oxford, DeepMind, OpenAI, Anthropic, Stanford, and others. Framed it as a constructive-alignment agenda aimed at flourishing-supporting positive attractors, with explicit cautions about paternalism, vagueness, and not confusing alignment rhetoric with consciousness evidence.

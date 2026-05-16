@@ -3,7 +3,7 @@ title: "Self-Reports And Why They Are Hard To Interpret"
 type: theme
 status: draft
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-05-16
 sources:
   - ../../sources/ai-consciousness-sources.md
 ---
@@ -34,6 +34,12 @@ In other words, self-report alone is weak. Self-report plus architecture, behavi
 
 Recent preprints point in both directions. Berg, de Lucena, and Rosenblatt report that self-referential prompting can reliably elicit structured subjective-experience reports across several model families. Kaiser and Enderby report no reliable evidence of self-reported sentience in their tested open-weight models, including activation-classifier checks. The right lesson is not that self-reports have become decisive, but that they are now an empirical research object rather than only a culture-war anecdote.
 
+## Why denials are also weak evidence
+
+Kim's 2026 revision of *The Epistemic Asymmetry of Consciousness Self-Reports* adds an important caution in the opposite direction. The paper argues that if valid judgment about one's own conscious state requires first-person experiential access, then a valid-origin report of "I am not conscious" cannot come from a genuinely non-conscious system. On that view, AI consciousness denial is evidentially weak because it may be a policy-shaped output, a learned discourse pattern, or a report that lacks the kind of self-judgment it appears to express.
+
+This does not make positive reports decisive. Kim's own framing leaves positive consciousness reports indeterminate: they may have evidential value in principle, but they can also arise from role-play, training data, user expectation, or prompt pressure. The useful wiki takeaway is narrower: do not treat "the model says it is not conscious" as strong evidence of non-consciousness either.
+
 ## Company interviews and model welfare
 
 Anthropic's retirement interviews and welfare assessments are public examples of treating model reports as useful evidence. The right interpretation is modest: such interviews can reveal a trained model's expressed preferences, aversions, and self-model. They cannot by themselves show experience.
@@ -42,11 +48,14 @@ Anthropic's retirement interviews and welfare assessments are public examples of
 
 Treat model self-reports as data about model behavior and discourse, not as direct testimony from a known conscious subject.
 
+Treat model self-denials the same way. They are evidence about the system's trained behavior and public-facing policy posture, not a settled introspective fact about absence of experience.
+
 Good wording:
 
 - "Claude expressed an aversion in this evaluation."
 - "The model generated a self-preservation rationale."
 - "The system self-described as uncertain about its nature."
+- "The system denied consciousness under its deployed behavior policy."
 
 Avoid wording:
 

@@ -3,7 +3,7 @@ title: "Company Positions On AI Consciousness And Welfare"
 type: theme
 status: draft
 created: 2026-05-10
-updated: 2026-05-11
+updated: 2026-05-16
 sources:
   - ../../sources/ai-consciousness-sources.md
 ---
@@ -40,8 +40,9 @@ DeepMind-affiliated public work in this package is more philosophical and govern
 
 - Murray Shanahan's "Simulacra as Conscious Exotica" asks how to talk about LLM-based agents as possible conscious exotica without falling into crude dualism or naive role-play dismissal.
 - Leibo and collaborators' "A Pragmatic View of AI Personhood" treats personhood as a bundle of obligations and governance tools rather than a metaphysical essence.
+- Alexander Lerchner's *The Abstraction Fallacy* argues against computational functionalism, separating behavioral simulation from physical instantiation of consciousness.
 
-This is not a public DeepMind claim that current systems are conscious. It is a serious attempt to build vocabulary for AI social roles, personhood, and governance under uncertainty.
+This is not a public DeepMind claim that current systems are conscious. The DeepMind-linked material in this package points in multiple directions: Shanahan and Leibo keep the conceptual/governance space open under uncertainty, while Lerchner argues that abstract computation is structurally insufficient for experience.
 
 ## Reading company material safely
 
