@@ -6,6 +6,7 @@ created: 2026-05-20
 updated: 2026-05-20
 sources:
   - ../sources/antikythera-mechanism-source-batch.md
+  - ../sources/michael-levin-unconventional-cognition.md
 ---
 
 # Mechanical World Models
@@ -56,6 +57,16 @@ Modern AI systems also turn large bodies of pattern into queryable interfaces. A
 
 The similarity is not agency. It is compression plus queryability.
 
+Michael Levin's unconventional-cognition framing sharpens the AI side of this. In a 2026 public transcript, he argues that theories of computation describe the front-end interface of algorithms but may not be complete theories of every pattern or competency that comes through a system. His strongest AI-relevant point is that new AI systems may be exploring regions of cognition-space that have not previously been embodied.
+
+For this wiki, the useful synthesis is:
+
+- "just gears" is not a full account of the Antikythera mechanism;
+- "just chemistry" is not a full account of a mind;
+- "just linear algebra" may not be a full account of an AI system's behavioral competencies.
+
+That does not mean current AI is conscious. It means substrate descriptions and functional ontology should not be confused. Predictive compression can be real before ontology catches up.
+
 ## Lost Lineages
 
 The mechanism also matters because it disrupts a neat progress story. An artifact of this complexity implies a background of tools, workshops, mathematical practice, and predecessor devices. Most of that lineage did not survive.
@@ -78,6 +89,7 @@ That is why this concept belongs near [Cognitive Latency Shock](cognitive-latenc
 - Do not call the Antikythera mechanism AI.
 - Do not imply accurate prediction requires correct underlying ontology.
 - Do not imply wrong ontology makes prediction useless.
+- Do not cite Michael Levin as proof that AI is conscious.
 - Do not treat missing historical evidence as permission for fantasy.
 - Do not collapse mechanical, symbolic, statistical, and agentic systems into one category.
 
@@ -88,3 +100,4 @@ That is why this concept belongs near [Cognitive Latency Shock](cognitive-latenc
 - [Inference Speed Development](inference-speed-development.md)
 - [Reality Threshold](reality-threshold.md)
 - [Perception And Imagination Overlap](perception-and-imagination-overlap.md)
+- [Michael Levin](../people/michael-levin.md)

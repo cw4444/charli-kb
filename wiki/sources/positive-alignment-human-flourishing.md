@@ -105,6 +105,8 @@ The Anthropic-centered [AI Character Formation And Persona Safety](../../themes/
 - beyond patching harms one by one
 - toward stable pro-social or flourishing-oriented attractors
 
+Michael Levin is one of the paper's co-authors. That matters for this wiki because his adjacent work and commentary emphasize unconventional cognition, agency across biological scales, and the risk of judging systems only by their substrate story. This does not make the Positive Alignment paper a Levin paper, and it does not import all of his metaphysics into the alignment agenda. It does make him a useful bridge figure for thinking about AI behavior, agency, and flourishing without assuming current categories are final.
+
 ## Do Not Overclaim
 
 - This is an agenda paper, not proof that positive alignment works.
@@ -123,3 +125,5 @@ This paper looks like an explicit cross-lab attempt to move AI alignment from "m
 
 - [Positive Alignment](../concepts/positive-alignment.md)
 - [AI Character Formation And Persona Safety](../../themes/ai-consciousness/character-formation-and-persona-safety.md)
+- [Michael Levin](../people/michael-levin.md)
+- [Michael Levin - Unconventional Cognition And AI](michael-levin-unconventional-cognition.md)

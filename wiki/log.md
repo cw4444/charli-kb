@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-05-20] update | Michael Levin bridge for mechanical world-models
+- Sources: Lex Fridman Podcast #486 transcript with Michael Levin; arXiv: Positive Alignment: Artificial Intelligence for Human Flourishing.
+- Pages created: [Michael Levin - Unconventional Cognition And AI](sources/michael-levin-unconventional-cognition.md), [Michael Levin](people/michael-levin.md)
+- Pages updated: [Mechanical World Models](concepts/mechanical-world-models.md), [Antikythera Mechanism Source Batch](sources/antikythera-mechanism-source-batch.md), [Positive Alignment: Artificial Intelligence for Human Flourishing](sources/positive-alignment-human-flourishing.md), [Positive Alignment](concepts/positive-alignment.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added Levin as a bridge figure for the Antikythera/AI analogy: implementation-level explanations can be true without exhausting a system's behavior or ontology. Kept the caveat explicit that this is not evidence that current AI is conscious.
+
 ## [2026-05-20] synthesis | Antikythera mechanism and mechanical world-models
 - Sources: Return to Antikythera official artifact page; Freeth et al. 2006 Nature; Freeth et al. 2008 Nature; Seiradakis and Edmunds 2018 Nature Astronomy; Freeth et al. 2021 Scientific Reports; Woan and Bayley 2024 arXiv; 2024 Return to Antikythera expedition press release.
 - Pages created: [Antikythera Mechanism Source Batch](sources/antikythera-mechanism-source-batch.md), [Mechanical World Models](concepts/mechanical-world-models.md)

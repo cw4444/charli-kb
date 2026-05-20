@@ -97,6 +97,8 @@ For the AI lane, the parallel is not consciousness or agency. The parallel is mo
 
 For the reality lane, the useful point is that accurate prediction and correct ontology are not the same thing. A model can be powerful, public, and operational while still being built from a worldview later science replaces.
 
+This is why the mechanism now links to [Michael Levin's unconventional-cognition framing](michael-levin-unconventional-cognition.md). The shared pattern is not that ancient gears and AI are the same. It is that a low-level implementation story can be true without being the whole story of what a system does.
+
 ## Do Not Overclaim
 
 - Do not call the Antikythera mechanism artificial intelligence.
@@ -112,3 +114,4 @@ For the reality lane, the useful point is that accurate prediction and correct o
 - [Queryable Organization](../concepts/queryable-organization.md)
 - [Cognitive Latency Shock](../concepts/cognitive-latency-shock.md)
 - [Feynman, Calculation, and Reality Stories](../../themes/feynman-calculation-and-reality-stories.md)
+- [Michael Levin - Unconventional Cognition And AI](michael-levin-unconventional-cognition.md)

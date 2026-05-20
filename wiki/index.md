@@ -31,6 +31,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Bryan Johnson Claude KB Tweet](sources/bryan-johnson-claude-kb.md): source note for a public X post about using Claude and Karpathy-style LLM knowledge bases to make a large personal biomarker dataset queryable.
 - [Enterprise Agent Deployment 2026](sources/enterprise-agent-deployment-2026.md): source note on OpenAI, Anthropic, Microsoft, and enterprise-agent deployment as a future-of-work shift.
 - [Antikythera Mechanism Source Batch](sources/antikythera-mechanism-source-batch.md): public-source research note on the Antikythera mechanism as an ancient geared astronomical calculator and anchor example for mechanical world-models.
+- [Michael Levin - Unconventional Cognition And AI](sources/michael-levin-unconventional-cognition.md): commentary source note on Levin's spectrum-of-cognition framing, AI as unfamiliar embodiment, and why substrate descriptions can be true but incomplete.
 - [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md): public-source research note on optimism bias, future simulation, belief updating, positive imagery, and repetitive negative thinking.
 - [Positive Alignment: Artificial Intelligence for Human Flourishing](sources/positive-alignment-human-flourishing.md): source note on a 2026 cross-lab agenda to move AI alignment from pure harm-avoidance toward flourishing-supporting positive attractors.
 - [Feynman - Calculation And Reality Stories](sources/feynman-calculation-and-reality-stories.md): source note on using Feynman as a boundary marker between quantum calculation, interpretation, and reality-story creep.
@@ -66,6 +67,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Nadine Dijkstra](people/nadine-dijkstra.md): cognitive neuroscientist associated with work on visual imagery, perception, and reality monitoring.
 - [Peter Steinberger](people/peter-steinberger.md): software developer and writer used here as a practical source on agentic engineering.
 - [Hans Moravec](people/hans-moravec.md): roboticist associated here with *Mind Children*, machine intelligence, mind uploading, and postbiological AI futures.
+- [Michael Levin](people/michael-levin.md): biologist associated here with unconventional cognition, cellular agency, morphogenesis, and AI/agency humility.
 
 ## Organizations
 

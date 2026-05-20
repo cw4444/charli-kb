@@ -41,3 +41,4 @@ Positive alignment gives a name to a shift already happening implicitly in front
 
 - [Positive Alignment: Artificial Intelligence for Human Flourishing](../sources/positive-alignment-human-flourishing.md)
 - [AI Character Formation And Persona Safety](../../themes/ai-consciousness/character-formation-and-persona-safety.md)
+- [Michael Levin](../people/michael-levin.md)
