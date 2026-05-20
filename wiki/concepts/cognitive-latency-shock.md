@@ -8,6 +8,7 @@ sources:
   - ../sources/bryan-johnson-claude-kb.md
   - ../sources/peter-steinberger-agentic-engineering-batch.md
   - ../sources/antikythera-mechanism-source-batch.md
+  - ../sources/devs-prediction-determinism.md
 ---
 
 # Cognitive Latency Shock
@@ -65,6 +66,8 @@ This does not mean AI reveals reality perfectly. It means AI changes the perceiv
 
 [Mechanical World Models](mechanical-world-models.md) are an older version of the same broad pressure. The Antikythera mechanism did not accelerate thought with language or agents, but it collapsed specialist astronomical calculation into a usable interface. AI does this at a different scale: it collapses search, synthesis, structure, and production into a conversational tool.
 
+*Devs* adds a cultural reference for the acceleration side. Forest's cave-art monologue contrasts millennia of symbolic stability with a modern world whose update cycle keeps shrinking from years to months to days and hours. That is cognitive latency shock at civilization scale: not just faster tools, but a changed experience of time, agency, and reality.
+
 ## Risks
 
 - **Over-absorption:** the loop is so rewarding that sleep, relationships, and ordinary obligations get displaced.
@@ -78,6 +81,7 @@ This does not mean AI reveals reality perfectly. It means AI changes the perceiv
 - Do not say everyone should live at inference speed.
 - Do not say AI makes ordinary human life obsolete.
 - Do not confuse speed with truth, wisdom, care, or integration.
+- Do not confuse acceleration with progress.
 - Do not pathologize people who prefer slower social or embodied modes.
 - Do not turn personality types into destiny. Some people will feel this shock more strongly, but that needs better evidence than vibes.
 
@@ -101,3 +105,4 @@ At organization scale, the same pressure shows up as [Agentic Work Rearchitectur
 - [Project Based Self Direction](project-based-self-direction.md)
 - [AI Native Company](ai-native-company.md)
 - [Mechanical World Models](mechanical-world-models.md)
+- [Devs - Prediction, Determinism, And Acceleration](../sources/devs-prediction-determinism.md)

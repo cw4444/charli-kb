@@ -7,6 +7,7 @@ updated: 2026-05-20
 sources:
   - ../sources/antikythera-mechanism-source-batch.md
   - ../sources/michael-levin-unconventional-cognition.md
+  - ../sources/devs-prediction-determinism.md
 ---
 
 # Mechanical World Models
@@ -67,6 +68,18 @@ For this wiki, the useful synthesis is:
 
 That does not mean current AI is conscious. It means substrate descriptions and functional ontology should not be confused. Predictive compression can be real before ontology catches up.
 
+## Cultural Reference: Devs
+
+Alex Garland's *Devs* is useful here as fiction about a prediction machine pushed to metaphysical extremes. Forest wants a deterministic system that can recover the past and forecast the future from complete state information. Lyndon's many-worlds move makes the machine work better but breaks Forest's single-world emotional demand.
+
+The contrast is useful:
+
+- Antikythera shows prediction before correct ontology.
+- *Devs* imagines prediction as complete ontology.
+- AI gives us prediction powerful enough to disturb ontology.
+
+Forest's argument that total state information would allow total reconstruction is the extreme version of the same pattern. The wiki should not endorse hard determinism from this, but it should keep the deeper question: when a model becomes powerful enough, people start treating prediction as access to reality itself.
+
 ## Lost Lineages
 
 The mechanism also matters because it disrupts a neat progress story. An artifact of this complexity implies a background of tools, workshops, mathematical practice, and predecessor devices. Most of that lineage did not survive.
@@ -90,6 +103,7 @@ That is why this concept belongs near [Cognitive Latency Shock](cognitive-latenc
 - Do not imply accurate prediction requires correct underlying ontology.
 - Do not imply wrong ontology makes prediction useless.
 - Do not cite Michael Levin as proof that AI is conscious.
+- Do not use *Devs* as evidence for real quantum computing or hard determinism.
 - Do not treat missing historical evidence as permission for fantasy.
 - Do not collapse mechanical, symbolic, statistical, and agentic systems into one category.
 
@@ -101,3 +115,4 @@ That is why this concept belongs near [Cognitive Latency Shock](cognitive-latenc
 - [Reality Threshold](reality-threshold.md)
 - [Perception And Imagination Overlap](perception-and-imagination-overlap.md)
 - [Michael Levin](../people/michael-levin.md)
+- [Devs - Prediction, Determinism, And Acceleration](../sources/devs-prediction-determinism.md)

@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-05-20] update | Devs as prediction-machine cultural reference
+- Sources: Alex Garland interviews and commentary in GQ, Den of Geek, SYFY Wire, and Men's Health.
+- Pages created: [Devs - Prediction, Determinism, And Acceleration](sources/devs-prediction-determinism.md)
+- Pages updated: [Mechanical World Models](concepts/mechanical-world-models.md), [Cognitive Latency Shock](concepts/cognitive-latency-shock.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added *Devs* as a cultural reference, not evidence. Framed Forest's prediction machine as the totalizing opposite of Antikythera: complete-state prediction as grief-driven ontology. Preserved the user's anti-determinism/MWI note by distinguishing single-world determinism from Lyndon's many-worlds correction.
+
 ## [2026-05-20] update | Michael Levin bridge for mechanical world-models
 - Sources: Lex Fridman Podcast #486 transcript with Michael Levin; arXiv: Positive Alignment: Artificial Intelligence for Human Flourishing.
 - Pages created: [Michael Levin - Unconventional Cognition And AI](sources/michael-levin-unconventional-cognition.md), [Michael Levin](people/michael-levin.md)
