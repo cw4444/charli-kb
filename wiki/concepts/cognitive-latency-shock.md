@@ -3,10 +3,11 @@ title: "Cognitive Latency Shock"
 type: concept
 status: draft
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-05-20
 sources:
   - ../sources/bryan-johnson-claude-kb.md
   - ../sources/peter-steinberger-agentic-engineering-batch.md
+  - ../sources/antikythera-mechanism-source-batch.md
 ---
 
 # Cognitive Latency Shock
@@ -62,6 +63,8 @@ Cognitive latency shock belongs in the AI/reality lane because it changes felt r
 
 This does not mean AI reveals reality perfectly. It means AI changes the perceived action-distance between idea and world.
 
+[Mechanical World Models](mechanical-world-models.md) are an older version of the same broad pressure. The Antikythera mechanism did not accelerate thought with language or agents, but it collapsed specialist astronomical calculation into a usable interface. AI does this at a different scale: it collapses search, synthesis, structure, and production into a conversational tool.
+
 ## Risks
 
 - **Over-absorption:** the loop is so rewarding that sleep, relationships, and ordinary obligations get displaced.
@@ -97,3 +100,4 @@ At organization scale, the same pressure shows up as [Agentic Work Rearchitectur
 - [Agent Friendly Repositories](agent-friendly-repositories.md)
 - [Project Based Self Direction](project-based-self-direction.md)
 - [AI Native Company](ai-native-company.md)
+- [Mechanical World Models](mechanical-world-models.md)

@@ -31,6 +31,7 @@ This is not an Obsidian vault and not a dumping ground. Raw material goes in `ra
 - [Queryable Organization](wiki/concepts/queryable-organization.md): work artifacts structured so humans and agents can ask evidence-backed questions.
 - [Inference Speed Development](wiki/concepts/inference-speed-development.md): development where model runtime, context quality, and human judgment become the bottlenecks.
 - [Cognitive Latency Shock](wiki/concepts/cognitive-latency-shock.md): felt disorientation when AI collapses the loop between thought, search, synthesis, structure, and artifact.
+- [Mechanical World Models](wiki/concepts/mechanical-world-models.md): physical artifacts, anchored by the Antikythera mechanism, that encode predictive models of reality into queryable interfaces.
 
 ### Quantum Foundations And Observer-Dependent Reality
 

@@ -3,9 +3,10 @@ title: "Queryable Organization"
 type: concept
 status: draft
 created: 2026-04-28
-updated: 2026-05-11
+updated: 2026-05-20
 sources:
   - ../sources/ai-native-company-and-sidequest-prototyping-batch.md
+  - ../sources/antikythera-mechanism-source-batch.md
 ---
 
 # Queryable Organization
@@ -30,6 +31,8 @@ A personal version of this pattern appears in the [Bryan Johnson Claude KB Tweet
 
 The enterprise version is [Agentic Work Rearchitecture](agentic-work-rearchitecture.md): organizations need queryable work artifacts before agents can reliably do high-context work.
 
+The deep historical version is [Mechanical World Models](mechanical-world-models.md). The Antikythera mechanism made astronomical cycles queryable through gears, dials, and inscriptions; modern organizations try to do something similar with records, workflows, metrics, and agents.
+
 ## Related
 
 - [AI Native Company](ai-native-company.md)
@@ -37,3 +40,4 @@ The enterprise version is [Agentic Work Rearchitecture](agentic-work-rearchitect
 - [Agentic Work Rearchitecture](agentic-work-rearchitecture.md)
 - [How Should charli-kb Work With Agents?](../questions/how-should-charli-kb-work-with-agents.md)
 - [Cognitive Latency Shock](cognitive-latency-shock.md)
+- [Mechanical World Models](mechanical-world-models.md)

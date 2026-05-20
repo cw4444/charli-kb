@@ -3,7 +3,7 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-05-16
+updated: 2026-05-20
 ---
 
 # Current State
@@ -43,6 +43,7 @@ This repo is a plain Markdown personal knowledge base based on Karpathy's LLM Wi
 
 ## Recent Additions
 
+- Added [Antikythera Mechanism Source Batch](../sources/antikythera-mechanism-source-batch.md) and [Mechanical World Models](../concepts/mechanical-world-models.md), using public research and official archaeology sources. The page frames the Antikythera mechanism as a hand-powered astronomical calculator and a bridge concept for computation as model-mediated reality, not as ancient AI. The key lunar-motion point is preserved carefully: the mechanism could approximate the Moon's variable apparent speed through cyclic theory and gearing without the makers needing modern knowledge of elliptical orbits.
 - Updated the AI consciousness package with Chang-Eop Kim's revised *The Epistemic Asymmetry of Consciousness Self-Reports* and Alexander Lerchner's Google DeepMind-listed *The Abstraction Fallacy*. Kim is used narrowly to caution that model self-denials are not decisive evidence of non-consciousness; Lerchner is used as a recent anti-functionalist counterpoint arguing that abstract computation can simulate but not instantiate consciousness. Neither source is treated as settling current AI consciousness.
 - Added [Rovelli, Relational Quantum Mechanics, and Reality](../../themes/rovelli-relational-quantum-mechanics-and-reality.md) and [Rovelli And Relational Quantum Mechanics](../sources/rovelli-relational-quantum-mechanics.md), because RQM was underrepresented as a mere subsection in `Interpretations` even though it is one of the strongest fits for the repo's reality lane. Framed it around relation-first facts, the absence of a God's-eye ledger, contrast with QBism/Everett/Wheeler, and a cautious "same font" bridge to category-theoretic thinking without claiming RQM literally is Yoneda in physics drag.
 - Added [Feynman, Calculation, and Reality Stories](../../themes/feynman-calculation-and-reality-stories.md) and [Feynman - Calculation And Reality Stories](../sources/feynman-calculation-and-reality-stories.md), using public primary sources to position Feynman as a bridge figure: useful not as a generic genius page, but as a disciplined distinction between what quantum theory lets you calculate and what metaphysical or psychological story people add afterward. Cross-linked it to [Reality Threshold](../concepts/reality-threshold.md) and [Perception And Imagination Overlap](../concepts/perception-and-imagination-overlap.md) so the physics lane now connects more explicitly to brain-level fact-making.

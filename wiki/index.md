@@ -30,6 +30,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Mind Children - Hans Moravec](sources/mind-children-hans-moravec.md): source note for Moravec's 1988 AI/posthumanist book on machine intelligence, mind uploading, substrate independence, and postbiological successors.
 - [Bryan Johnson Claude KB Tweet](sources/bryan-johnson-claude-kb.md): source note for a public X post about using Claude and Karpathy-style LLM knowledge bases to make a large personal biomarker dataset queryable.
 - [Enterprise Agent Deployment 2026](sources/enterprise-agent-deployment-2026.md): source note on OpenAI, Anthropic, Microsoft, and enterprise-agent deployment as a future-of-work shift.
+- [Antikythera Mechanism Source Batch](sources/antikythera-mechanism-source-batch.md): public-source research note on the Antikythera mechanism as an ancient geared astronomical calculator and anchor example for mechanical world-models.
 - [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md): public-source research note on optimism bias, future simulation, belief updating, positive imagery, and repetitive negative thinking.
 - [Positive Alignment: Artificial Intelligence for Human Flourishing](sources/positive-alignment-human-flourishing.md): source note on a 2026 cross-lab agenda to move AI alignment from pure harm-avoidance toward flourishing-supporting positive attractors.
 - [Feynman - Calculation And Reality Stories](sources/feynman-calculation-and-reality-stories.md): source note on using Feynman as a boundary marker between quantum calculation, interpretation, and reality-story creep.
@@ -47,6 +48,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Creative Recovery And Input Fasting](concepts/creative-recovery-and-input-fasting.md): creativity improves when excess input is reduced and the mind has time to digest.
 - [Identity Change As Goal Reprogramming](concepts/identity-change-as-goal-reprogramming.md): behavior change is framed as changing the goals and identity patterns the mind protects.
 - [Inference Speed Development](concepts/inference-speed-development.md): development mode where model runtime, context quality, and human judgment become the bottlenecks.
+- [Mechanical World Models](concepts/mechanical-world-models.md): physical artifacts that encode predictive models of reality, with the Antikythera mechanism as the anchor example.
 - [Project Based Self Direction](concepts/project-based-self-direction.md): concrete projects create useful learning loops and filter what knowledge is worth keeping.
 - [Queryable Organization](concepts/queryable-organization.md): organization whose work artifacts let humans and agents ask evidence-backed operational questions.
 - [Reality Threshold](concepts/reality-threshold.md): proposed cutoff at which an imagined or perceptual signal is judged as real.
