@@ -140,6 +140,8 @@ QBism and Adlam's global-constraint direction look like two different ways of br
 
 But this is a bridge for thinking, not a physics conclusion. The safe version is: quantum foundations gives several independent reasons to be suspicious of simple observer-independent fact talk, and different interpretations locate the problem in different places.
 
+For the agency question, see [Practical Agency Inside Constraint](../wiki/concepts/practical-agency-inside-constraint.md). The useful bridge is that constraint does not automatically mean passivity. Even inside a globally constrained or relation-dependent picture, local agents can still improve their models, identify live interventions, and test which changes propagate.
+
 ## Related Concepts
 
 - [Bell Inequalities](bell-inequalities.md)
@@ -150,6 +152,7 @@ But this is a bridge for thinking, not a physics conclusion. The safe version is
 - [Many-Worlds, Wheeler, and Observer-Dependent Reality](many-worlds-and-observer-dependent-reality.md)
 - [Interpretations](interpretations.md)
 - [AI Observers](ai-observers.md)
+- [Practical Agency Inside Constraint](../wiki/concepts/practical-agency-inside-constraint.md)
 - [Concept Map](../maps/concept-map.md)
 - [Open Questions](../open-questions.md)
 

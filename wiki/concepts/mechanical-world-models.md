@@ -96,6 +96,8 @@ They are not passive descriptions. They are instruments that make some patterns 
 
 That is why this concept belongs near [Cognitive Latency Shock](cognitive-latency-shock.md): both involve reducing the action-distance between a question and an answer.
 
+It also belongs near [Practical Agency Inside Constraint](practical-agency-inside-constraint.md). A mechanical world-model does not free a person from reality. It gives them a better handle on which relations, cycles, inputs, or boundary conditions matter.
+
 ## Do Not Overclaim
 
 - Do not call every model a computer in the same sense.
@@ -112,6 +114,7 @@ That is why this concept belongs near [Cognitive Latency Shock](cognitive-latenc
 - [Queryable Organization](queryable-organization.md)
 - [Cognitive Latency Shock](cognitive-latency-shock.md)
 - [Inference Speed Development](inference-speed-development.md)
+- [Practical Agency Inside Constraint](practical-agency-inside-constraint.md)
 - [Reality Threshold](reality-threshold.md)
 - [Perception And Imagination Overlap](perception-and-imagination-overlap.md)
 - [Michael Levin](../people/michael-levin.md)

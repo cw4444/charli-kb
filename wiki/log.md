@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-05-20] synthesis | Practical agency inside constraint
+- Sources: existing Rovelli/RQM page, QBism/Adlam global-constraint page, and Mechanical World Models.
+- Pages created: [Practical Agency Inside Constraint](concepts/practical-agency-inside-constraint.md)
+- Pages updated: [Rovelli, Relational Quantum Mechanics, and Reality](../themes/rovelli-relational-quantum-mechanics-and-reality.md), [QBism, Global Constraints, and Observer-Dependent Reality](../themes/qbism-adlam-observer-dependent-reality.md), [Mechanical World Models](concepts/mechanical-world-models.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Captured Charli's "Yoneda-brain" agency frame as working interpretation: not metaphysical freedom or manifestation, but practical leverage from better relational understanding and model-guided intervention inside constraint.
+
 ## [2026-05-20] update | Devs as prediction-machine cultural reference
 - Sources: Alex Garland interviews and commentary in GQ, Den of Geek, SYFY Wire, and Men's Health.
 - Pages created: [Devs - Prediction, Determinism, And Acceleration](sources/devs-prediction-determinism.md)

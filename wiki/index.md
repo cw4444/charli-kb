@@ -57,6 +57,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Perception And Imagination Overlap](concepts/perception-and-imagination-overlap.md): model of shared machinery and signal-strength judgments across imagery and perception.
 - [Optimism](concepts/optimism.md): future-oriented cognitive style tied to vivid positive simulation, selective updating, and representational distance from negative futures.
 - [Positive Alignment](concepts/positive-alignment.md): AI-alignment agenda that aims beyond "not unsafe" toward constructive, flourishing-supportive behavioral attractors.
+- [Practical Agency Inside Constraint](concepts/practical-agency-inside-constraint.md): Charli's working interpretation of agency as model-improvement and intervention inside relational constraint.
 - [Sidequest Prototyping](concepts/sidequest-prototyping.md): low-permission prototypes judged by actual adoption rather than roadmap speculation.
 - [Observer-Dependent Facts (Wigner's Friend / Local Friendliness)](concepts/observer-dependent-facts.md): quantum-mechanics framing where a set of “objective facts” assumptions can’t all hold simultaneously.
 

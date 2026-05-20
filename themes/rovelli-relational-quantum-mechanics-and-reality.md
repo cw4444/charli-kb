@@ -142,6 +142,8 @@ That is why the Yoneda comparison feels alive. Not because RQM literally is cate
 
 If Feynman is the warning that calculation is not the same as metaphysics, Rovelli is the proposal that metaphysics itself may need to become relational.
 
+The adjacent agency move is captured in [Practical Agency Inside Constraint](../wiki/concepts/practical-agency-inside-constraint.md): if outcomes depend on relations, then better understanding of relations can create leverage without requiring metaphysical escape from the system.
+
 ## Related Pages
 
 - [Interpretations](interpretations.md)
@@ -149,4 +151,5 @@ If Feynman is the warning that calculation is not the same as metaphysics, Rovel
 - [Many-Worlds, Wheeler, and Observer-Dependent Reality](many-worlds-and-observer-dependent-reality.md)
 - [Reality Threshold](../wiki/concepts/reality-threshold.md)
 - [Perception And Imagination Overlap](../wiki/concepts/perception-and-imagination-overlap.md)
+- [Practical Agency Inside Constraint](../wiki/concepts/practical-agency-inside-constraint.md)
 - [Rovelli And Relational Quantum Mechanics](../wiki/sources/rovelli-relational-quantum-mechanics.md)
