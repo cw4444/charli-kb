@@ -22,6 +22,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 
 - [OpenAI Codex For Everyday Work](sources/openai-codex-for-everyday-work.md): official OpenAI Codex docs translated into practical everyday-work concepts for non-developers.
 - [Current AI Agent Landscape 2026](sources/current-ai-agent-landscape-2026.md): current public-source snapshot of OpenAI, Anthropic, Google, xAI, OpenClaw, and the practical agent capability/safety pattern.
+- [Anthropic Compute And Talent Signal 2026](sources/anthropic-compute-and-talent-signal-2026.md): source note on Andrej Karpathy joining Anthropic pre-training and Anthropic's SpaceX/Colossus compute deal.
 - [OpenAI Prompt Guidance](sources/openai-prompt-guidance.md): official OpenAI guidance on prompting newer models and agentic workflows.
 - [AI-Native Company And Sidequest Prototyping Batch](sources/ai-native-company-and-sidequest-prototyping-batch.md): source batch on AI-native company design, queryable organizations, and sidequest prototyping.
 - [Dan Koe focus, creativity, and life reset batch](sources/dan-koe-focus-creativity-life-reset-batch.md): combined summary of five raw Dan Koe exports on focus, creativity, identity change, and project-based self-direction.

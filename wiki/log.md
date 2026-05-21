@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-05-21] source note | Anthropic compute and talent signal
+- Sources: TechCrunch, Forbes, and Axios reporting on Andrej Karpathy joining Anthropic's pre-training team; Data Center Dynamics and Axios reporting on Anthropic's SpaceX/Colossus 1 compute deal and reported pricing.
+- Pages created: [Anthropic Compute And Talent Signal 2026](sources/anthropic-compute-and-talent-signal-2026.md)
+- Pages updated: [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Captured the May 2026 convergence of Anthropic's model-welfare/constitution lane with frontier inputs: compute capacity, pre-training talent, and agent demand. Framed as a strategic signal rather than proof that Anthropic is ahead or that its welfare/safety approach is solved.
+
 ## [2026-05-21] update | Claude constitution as self-introduction
 - Sources: Anthropic, [Claude's Constitution](https://www.anthropic.com/constitution); Anthropic, [Teaching Claude why](https://www.anthropic.com/research/teaching-claude-why)
 - Pages updated: [AI Character Formation And Persona Safety](../themes/ai-consciousness/character-formation-and-persona-safety.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
