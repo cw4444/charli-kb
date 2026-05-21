@@ -3,7 +3,7 @@ title: "AI-Native Company And Sidequest Prototyping Batch"
 type: source
 status: draft
 created: 2026-04-28
-updated: 2026-04-28
+updated: 2026-05-21
 source_type: notion-linked-video-and-tweet
 primary_sources:
   - "YC video transcript: How To Build A Company With AI From The Ground Up, https://www.youtube.com/watch?v=EN7frwQIbKc"
@@ -52,6 +52,16 @@ The strongest claims:
 The Anthropic item claims that some Claude Code features emerged from informal internal experiments: someone prototyped an idea, teammates used it, and adoption determined whether it became productized.
 
 This is useful as a product-development pattern, but the exact internal details should remain lightly held unless supported by a full transcript or primary Anthropic source. The retained concept is not "Anthropic definitely works exactly this way." The retained concept is that small, low-permission prototypes can reveal demand faster than roadmap speculation.
+
+The later source text supplied by Charli adds a stronger operational version of the pattern:
+
+- unplanned afternoon prototypes can bypass normal roadmap/approval machinery when risk is low;
+- internal adoption over the next day or two is the product signal;
+- demos replace standup-style status narration;
+- designers, engineers, and product managers can cross role boundaries enough to make working prototypes;
+- some Claude Code features are claimed to have emerged from this loop, including desktop behavior, todo-list features, and plugin experiments.
+
+Keep the sourcing boundary visible. The tweet/thread and video trail are useful for product-culture interpretation, but they are not the same as a formal Anthropic process document. Preserve the pattern, not every anecdote as settled fact.
 
 ## Useful For
 

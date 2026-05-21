@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-05-21] update | Sidequest prototyping detail
+- Sources: existing Anthropic Cat Wu sidequest-maxxing source trail; user-supplied summary of the X/Twitter thread and original video.
+- Pages updated: [Sidequest Prototyping](concepts/sidequest-prototyping.md), [AI-Native Company And Sidequest Prototyping Batch](sources/ai-native-company-and-sidequest-prototyping-batch.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Expanded the sidequest concept with the operational details Charli cares about: afternoon prototypes, dogfooding, repeated internal use as the product signal, demos over standups, and cross-functional people shipping working prototypes. Preserved caveats that specific Claude Code feature-origin anecdotes remain commentary unless verified by a primary transcript/source.
+
 ## [2026-05-21] meta | Daily AI timeline refresh automation brief
 - Pages created: [Daily AI Timeline Refresh](meta/daily-ai-timeline-refresh.md)
 - Pages updated: [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
