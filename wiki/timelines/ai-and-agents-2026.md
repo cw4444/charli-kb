@@ -13,6 +13,9 @@ sources:
   - https://help.openai.com/en/articles/20001051
   - https://github.com/openclaw/openclaw
   - https://github.com/torvalds/linux
+  - https://apnews.com/article/block-dorsey-layoffs-ai-jobs-18e00a0b278977b0a87893f55e3db7bb
+  - https://www.theguardian.com/technology/2026/feb/27/block-ai-layoffs-jack-dorsey
+  - https://www.axios.com/2026/02/26/block-layoffs-ebay-dorsey-amazon-facebook
   - https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/
   - https://www.theguardian.com/technology/2026/may/19/meta-jobs-ai-transfers
   - https://www.latimes.com/business/story/2026-05-20/meta-begins-8-000-global-job-cuts-in-ai-efficiency-push
@@ -42,6 +45,7 @@ The first five months of 2026 already show several converging threads:
 - OpenAI and Anthropic kept shipping Codex/Claude Code-style agent updates.
 - Google pushed Gemini CLI, subagents, Deep Research, computer-use, and enterprise agents.
 - OpenClaw became a viral open-source local-agent gateway, reportedly passing Linux in GitHub stars in February and showing 250k+ stars by May.
+- Block cut more than 4,000 jobs, roughly 40% of staff, while Dorsey explicitly argued that "intelligence tools" had changed how companies can be built and run.
 - Karpathy's LLM Wiki pattern gave this repo a direct structural ancestor.
 - Karpathy then joined Anthropic's pre-training team.
 - Anthropic paired its constitution/model-welfare/character-formation lane with major compute access from SpaceX/Colossus.
@@ -84,6 +88,24 @@ Sources:
 - [GitHub: openclaw/openclaw](https://github.com/openclaw/openclaw)
 - [GitHub: torvalds/linux](https://github.com/torvalds/linux)
 - [OpenClaw.report: OpenClaw Just Passed Linux on GitHub](https://openclaw.report/community/openclaw-passes-linux-github-what-it-means)
+
+### 2026-02-26 to 2026-02-27 - Block cuts more than 4,000 jobs in AI-driven reset
+
+Block, the parent company of Square and Cash App, announced it would cut more than 4,000 jobs, reducing headcount from more than 10,000 to just under 6,000. AP, Reuters, Guardian, TechCrunch, and Axios all reported the cuts as explicitly tied to AI or "intelligence tools" changing how the company could operate.
+
+Dorsey's public framing was unusually direct. He argued that intelligence tools had changed what it means to build and run a company, that smaller teams using those tools could do more, and that many companies would eventually make similar structural changes.
+
+Why it matters: Block is an early 2026 example of a CEO openly using AI-enabled productivity as the stated reason for a drastic headcount reset, rather than burying the story under generic efficiency language. It belongs next to Meta in this timeline as a workplace-rearchitecture signal: AI is being used not only as a tool for workers, but as an argument for fewer workers and flatter teams.
+
+Careful read: do not treat this as proof that AI literally replaced all 4,000 jobs one-for-one. Reporting also notes overhiring, prior restructuring, investor pressure, and profitability expectations. The durable signal is the explicit CEO-level claim that AI/intelligence tools justify a much smaller organization.
+
+Sources:
+
+- [AP: Fintech company Block lays off more than 4,000 people, citing AI](https://apnews.com/article/block-dorsey-layoffs-ai-jobs-18e00a0b278977b0a87893f55e3db7bb)
+- [The Guardian: Jack Dorsey to cut 4,000 jobs due to AI advances at Square parent Block](https://www.theguardian.com/technology/2026/feb/27/block-ai-layoffs-jack-dorsey)
+- [Reuters via Investing.com: Jack Dorsey's Block to cut nearly half its workforce in AI overhaul](https://www.investing.com/news/economy-news/jack-dorseys-block-to-cut-over-4000-jobs-as-ai-use-expands-shares-surge-4529839)
+- [TechCrunch: Jack Dorsey just halved the size of Block's employee base](https://techcrunch.com/2026/02/26/jack-dorsey-block-layoffs-4000-halved-employees-your-company-is-next/)
+- [Axios: Block, eBay, Amazon: The past year's mass layoffs across tech](https://www.axios.com/2026/02/26/block-layoffs-ebay-dorsey-amazon-facebook)
 
 ### 2026-04-04 - Karpathy publishes the LLM Wiki pattern
 

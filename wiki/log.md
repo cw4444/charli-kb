@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-05-21] update | Block AI layoff signal added to timeline
+- Sources: AP, Guardian, Reuters/Investing.com, TechCrunch, and Axios reporting on Block's February 2026 layoffs and Jack Dorsey's AI/intelligence-tools framing.
+- Pages updated: [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added Block as an early 2026 workforce-rearchitecture anchor: more than 4,000 jobs cut, roughly 40% of staff, with Dorsey explicitly arguing that intelligence tools allow smaller teams to build and run companies differently. Preserved caveat that this does not prove AI replaced every role one-for-one.
+
 ## [2026-05-21] update | Meta AI restructuring added to timeline
 - Sources: TechCrunch, Guardian, Los Angeles Times, Investing.com/Reuters, and Common Dreams reporting on Meta's May 2026 layoffs, AI-role reassignments, and leaked audio about employee computer-use data for AI training.
 - Pages updated: [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
