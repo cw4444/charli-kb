@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-05-21] update | Claude constitution as self-introduction
+- Sources: Anthropic, [Claude's Constitution](https://www.anthropic.com/constitution); Anthropic, [Teaching Claude why](https://www.anthropic.com/research/teaching-claude-why)
+- Pages updated: [AI Character Formation And Persona Safety](../themes/ai-consciousness/character-formation-and-persona-safety.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Tightened the Anthropic character-formation page around the model-facing constitution: Claude's constitution is written with Claude as the primary audience and functions as an authorized self-description alongside principled training and positive fictional AI stories. Preserved caveats that this is persona/behavior shaping and not evidence of consciousness.
+
 ## [2026-05-21] update | One-line local-agent install warning
 - Sources: OpenAI Codex CLI approval/sandbox guidance, Anthropic Claude Code permission/security docs, Google Gemini CLI sandbox docs, and existing OpenClaw source note.
 - Pages updated: [What Can AI Agents Do For Normal Tired Humans?](questions/what-can-ai-agents-do-for-normal-tired-humans.md), [Current AI Agent Landscape 2026](sources/current-ai-agent-landscape-2026.md), [Current State](meta/current-state.md), [Wiki Log](log.md)

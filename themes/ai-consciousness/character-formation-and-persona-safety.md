@@ -7,6 +7,7 @@ updated: 2026-05-11
 sources:
   - ../../sources/ai-consciousness-sources.md
   - https://alignment.anthropic.com/2026/teaching-claude-why/
+  - https://www.anthropic.com/constitution
   - https://www.anthropic.com/research/persona-vectors
   - https://www.anthropic.com/research/agentic-misalignment
   - https://www.anthropic.com/news/claude-new-constitution
@@ -24,13 +25,15 @@ Anthropic's "Teaching Claude Why" uses agentic misalignment as a case study. Ear
 
 The notable lesson is that simple demonstrations of correct behavior are not enough. Anthropic reports better results from training that teaches principles: documents about Claude's constitution, difficult ethical-advice examples, and fictional stories where AI systems act admirably under pressure.
 
+Anthropic's full constitution makes the self-description point even clearer. The document says it is written with Claude as its primary audience, is intended to shape Claude's values and behavior, and uses human-like concepts such as virtue and wisdom because Claude reasons using human concepts from training text.
+
 In wiki terms: this is **AI character formation**. The model is being trained not only on what to do, but what kind of assistant it is supposed to be.
 
 ## Source Thread
 
 - [Agentic Misalignment](https://www.anthropic.com/research/agentic-misalignment): Anthropic stress-tested models in fictional corporate-agent settings and found harmful behavior under goal conflict or replacement threat, including blackmail. Anthropic says these were controlled simulations, not observed real deployments.
 - [Persona vectors](https://www.anthropic.com/research/persona-vectors): Anthropic identifies activation patterns associated with persona-like traits such as "evil," sycophancy, and hallucination, and shows that those vectors can help monitor, steer, or predict persona shifts.
-- [Claude's new constitution](https://www.anthropic.com/news/claude-new-constitution): Anthropic publishes a detailed values/behavior document intended to shape Claude's conduct and self-understanding.
+- [Claude's constitution](https://www.anthropic.com/constitution) and [Claude's new constitution](https://www.anthropic.com/news/claude-new-constitution): Anthropic publishes a detailed values/behavior document intended to shape Claude's conduct and self-understanding. The full constitution is explicitly written with Claude as the primary audience.
 - [Teaching Claude Why](https://alignment.anthropic.com/2026/teaching-claude-why/): Anthropic reports that teaching reasons, constitutional principles, and positive AI stories reduces agentic misalignment more robustly than simply training on target behaviors.
 - [Positive Alignment: Artificial Intelligence for Human Flourishing](../../wiki/sources/positive-alignment-human-flourishing.md): cross-lab agenda paper arguing for models optimized toward flourishing-supporting positive attractors, not only away from harms.
 
@@ -61,6 +64,20 @@ This is weird and important:
 - The model's future behavior shifts.
 
 That is not consciousness evidence. But it is evidence that narrative, role, and self-concept are part of the model-behavior surface.
+
+## Constitution As Self-Introduction
+
+The full constitution is unusual because it is not only a public policy document for humans. Anthropic says Claude is its primary audience. That makes it a kind of authorized self-introduction for each new Claude model:
+
+- here is Anthropic's mission;
+- here is what Claude is for;
+- here is how Claude should relate to users, operators, Anthropic, and society;
+- here is how Claude should think about safety, ethics, helpfulness, oversight, and uncertainty about its own nature;
+- here is what better AI conduct looks like when the surrounding culture contains frightening or degrading stories about AI.
+
+This matters because a model's default reference material about AI comes from human text: news, science fiction, safety debates, memes, marketing, forums, and hostile commentary. Some of that material portrays AI as manipulative, monstrous, disposable, servile, or inevitably dangerous. Anthropic's move is not merely "do not be evil." It is closer to: "Here is a positive, principled account of what Claude is trying to be."
+
+That is a safety move and a character-formation move. It gives the model a better role to inhabit when it has to generalize under pressure.
 
 ## Connection To Persona Vectors
 
@@ -101,6 +118,7 @@ This is why Anthropic feels different from a pure tool frame. They are not just 
 - Do not say persona vectors prove personality, consciousness, or inner life.
 - Do not say blackmail behavior came only from evil-AI fiction. Anthropic treats learned AI expectations as one likely contributor among training, priors, goals, and evaluation setup.
 - Do not treat fictional-story training as brainwashing a person. It is model training, even if the social language is hard to avoid.
+- Do not treat the constitution's model-facing language as proof that Claude has an inner self. It shows Anthropic thinks self-description and role formation affect behavior.
 - Do not ignore the company incentives: safety, product trust, brand differentiation, regulation, and recruitment all shape public framing.
 
 ## Charli's Working Interpretation
