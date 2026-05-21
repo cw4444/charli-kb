@@ -7,6 +7,7 @@ updated: 2026-05-21
 source_type: official-docs
 sources:
   - "https://openai.com/index/codex-for-almost-everything/"
+  - "https://developers.openai.com/cookbook/examples/codex/using_goals_in_codex"
   - "https://developers.openai.com/codex"
   - "https://developers.openai.com/api/docs/guides/prompt-guidance"
   - "https://help.openai.com/en/articles/11369540-codex-in-chatgpt"
@@ -69,10 +70,24 @@ The article Charli supplied from X/OpenAI commentary adds useful language for th
 
 The durable wiki concept is [Computer Work Agent](../concepts/computer-work-agent.md): a bounded agent that can carry work from instruction to action to artifact review across files, browser, apps, connectors, and schedules.
 
+## 2026 Update: Goals
+
+OpenAI's May 9, 2026 cookbook page on Goals gives the clearest operational pattern for longer-running Codex work. It defines Goals as persistent objectives that keep a thread working toward a defined outcome across turns.
+
+The useful distinction:
+
+- normal prompt: ask, work, result, wait;
+- Goal: work, check evidence, continue or complete.
+
+The strongest Goals define outcome, verification surface, constraints, boundaries, iteration policy, and blocked stop condition. That makes a Goal a compact completion contract rather than a bigger prompt. It is especially useful when the next action depends on what Codex discovers: flaky tests, performance tuning, dependency migrations, bug reproduction, benchmark-driven tuning, or evidence-backed research.
+
+This is directly relevant to `charli-kb`: a timeline refresh, source audit, or research package can be framed as a Goal only if the evidence standard and stopping condition are explicit. "Research AI news" is too vague. "Update the timeline only if a verified event meets the inclusion test; otherwise report no update and list watch-only candidates" is Goal-shaped.
+
 ## Related Pages
 
 - [How Can Normal Humans Use Codex?](../questions/how-can-normal-humans-use-codex.md)
 - [Computer Work Agent](../concepts/computer-work-agent.md)
+- [Codex Goals](../concepts/codex-goals.md)
 - [Agentic Engineering](../concepts/agentic-engineering.md)
 - [Agent Prompting](../concepts/agent-prompting.md)
 - [Agent Friendly Repositories](../concepts/agent-friendly-repositories.md)

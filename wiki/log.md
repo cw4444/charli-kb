@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-05-21] update | Codex Goals concept
+- Sources: OpenAI Cookbook, [Using Goals in Codex](https://developers.openai.com/cookbook/examples/codex/using_goals_in_codex)
+- Pages created: [Codex Goals](concepts/codex-goals.md)
+- Pages updated: [OpenAI Codex For Everyday Work](sources/openai-codex-for-everyday-work.md), [How Can Normal Humans Use Codex?](questions/how-can-normal-humans-use-codex.md), [Computer Work Agent](concepts/computer-work-agent.md), [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added Goals as a thread-scoped completion contract: outcome, verification surface, constraints, boundaries, iteration policy, and blocked stop condition. Connected it to daily timeline refresh and research-audit workflows, with caveats against treating Goals as unbounded autonomy.
+
 ## [2026-05-21] update | Codex as computer work agent
 - Sources: OpenAI, [Codex for (almost) everything](https://openai.com/index/codex-for-almost-everything/); official Codex app docs on features, automations, computer use, memories, and use cases; user-supplied OpenAI/X article excerpt.
 - Pages created: [Computer Work Agent](concepts/computer-work-agent.md)

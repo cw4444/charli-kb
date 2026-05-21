@@ -124,6 +124,21 @@ Goals are longer-running Codex tasks with a finish line. They work best when the
 
 Without a verifier, a goal is just a wish. With a verifier, Codex can keep pushing toward a defined outcome.
 
+A strong Goal should include:
+
+- what should be true when done;
+- what evidence proves it;
+- what must not break;
+- what files/tools/sources Codex may use;
+- how Codex should choose the next attempt;
+- when Codex should stop and say it is blocked.
+
+Good everyday pattern:
+
+```text
+/goal Update the 2026 AI timeline if, and only if, a verified event from trusted sources meets the inclusion test. If no event qualifies, report "No timeline update today" with watch-only candidates and reasons.
+```
+
 ### Memories
 
 Memories are optional local context Codex can carry across threads. They are useful for stable preferences and recurring workflows.
@@ -227,6 +242,7 @@ Do not add integrations for sport. Add them when a real recurring task needs the
 - [OpenAI Codex app features](https://developers.openai.com/codex/app/features)
 - [OpenAI Codex automations](https://developers.openai.com/codex/app/automations)
 - [OpenAI Codex computer use](https://developers.openai.com/codex/app/computer-use)
+- [OpenAI Cookbook: Using Goals in Codex](https://developers.openai.com/cookbook/examples/codex/using_goals_in_codex)
 - [OpenAI AGENTS.md guidance](https://developers.openai.com/codex/guides/agents-md)
 - [OpenAI Codex skills](https://developers.openai.com/codex/skills)
 - [OpenAI Codex plugins](https://developers.openai.com/codex/plugins)

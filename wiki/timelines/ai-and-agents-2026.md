@@ -172,6 +172,16 @@ Sources:
 - [Anthropic: Teaching Claude why](https://www.anthropic.com/research/teaching-claude-why)
 - [AI Character Formation And Persona Safety](../../themes/ai-consciousness/character-formation-and-persona-safety.md)
 
+### 2026-05-09 - OpenAI publishes "Using Goals in Codex"
+
+OpenAI published a cookbook guide for Goals in Codex. The guide frames Goals as persistent objectives that keep a thread working toward a defined outcome across turns, with explicit success evidence, constraints, boundaries, iteration policy, and blocked stop conditions.
+
+Why it matters: Goals make long-running agent work more operational. They are not "just keep going"; they are a thread-scoped completion contract. This helps distinguish useful persistence from vague autonomy.
+
+Source:
+
+- [OpenAI Cookbook: Using Goals in Codex](https://developers.openai.com/cookbook/examples/codex/using_goals_in_codex)
+
 ### 2026-05-14 - OpenAI expands Codex access and mobile/remote work
 
 OpenAI announced "Work with Codex from anywhere," part of a fast-moving Codex product line that includes cloud tasks, code review, automation, local/CLI workflows, and workspace agents.

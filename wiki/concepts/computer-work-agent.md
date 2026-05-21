@@ -86,6 +86,7 @@ The safe version is bounded, reviewable computer work with explicit permissions 
 ## Related Pages
 
 - [OpenAI Codex For Everyday Work](../sources/openai-codex-for-everyday-work.md)
+- [Codex Goals](codex-goals.md)
 - [How Can Normal Humans Use Codex?](../questions/how-can-normal-humans-use-codex.md)
 - [Agentic Work Rearchitecture](agentic-work-rearchitecture.md)
 - [Agentic Engineering](agentic-engineering.md)
