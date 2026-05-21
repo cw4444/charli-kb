@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-05-21] source note | Interpretable Context Methodology
+- Sources: arXiv, [Interpretable Context Methodology: Folder Structure as Agentic Architecture](https://arxiv.org/abs/2603.16021), and ar5iv HTML rendering.
+- Pages created: [Interpretable Context Methodology](sources/interpretable-context-methodology.md), [Filesystem Agent Architecture](concepts/filesystem-agent-architecture.md)
+- Pages updated: [Agentic Engineering](concepts/agentic-engineering.md), [Agent Friendly Repositories](concepts/agent-friendly-repositories.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added the useful bit from Van Clief and McDermott's paper: for sequential, human-reviewed agent workflows, folders and Markdown contracts can serve as architecture, while scripts handle mechanical work and Git provides auditability. Preserved limitations around informal evidence, self-selected practitioners, Claude-only testing, and poor fit for real-time multi-agent or high-concurrency systems.
+
 ## [2026-05-21] update | How OpenAI uses Codex
 - Sources: OpenAI PDF, [How OpenAI uses Codex](https://cdn.openai.com/pdf/6a2631dc-783e-479b-b1a4-af0cfbd38630/how-openai-uses-codex.pdf)
 - Pages updated: [OpenAI Codex For Everyday Work](sources/openai-codex-for-everyday-work.md), [Agentic Engineering](concepts/agentic-engineering.md), [How Can Normal Humans Use Codex?](questions/how-can-normal-humans-use-codex.md), [Current State](meta/current-state.md), [Wiki Log](log.md)

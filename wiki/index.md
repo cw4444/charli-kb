@@ -20,6 +20,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 
 ## Sources
 
+- [Interpretable Context Methodology](sources/interpretable-context-methodology.md): arXiv source note on using folder structure, Markdown contracts, stage-scoped context, and local scripts as a lightweight architecture for sequential agent workflows.
 - [OpenAI Codex For Everyday Work](sources/openai-codex-for-everyday-work.md): official OpenAI Codex docs translated into practical everyday-work concepts for non-developers.
 - [Current AI Agent Landscape 2026](sources/current-ai-agent-landscape-2026.md): current public-source snapshot of OpenAI, Anthropic, Google, xAI, OpenClaw, and the practical agent capability/safety pattern.
 - [Anthropic Compute And Talent Signal 2026](sources/anthropic-compute-and-talent-signal-2026.md): source note on Andrej Karpathy joining Anthropic pre-training and Anthropic's SpaceX/Colossus compute deal.
@@ -46,6 +47,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 
 ## Concepts
 
+- [Filesystem Agent Architecture](concepts/filesystem-agent-architecture.md): pattern where folders, Markdown contracts, scripts, logs, and Git provide the control surface for sequential, reviewable agent workflows.
 - [Agentic Engineering](concepts/agentic-engineering.md): software work organized around steering AI agents, managing context, and verifying outputs.
 - [Agentic Work Rearchitecture](concepts/agentic-work-rearchitecture.md): redesigning work so agents take on execution while humans own direction, judgment, verification, and consequences.
 - [Agent Friendly Repositories](concepts/agent-friendly-repositories.md): repository conventions that make agent work easier to inspect, execute, and verify.

@@ -3,10 +3,11 @@ title: "Agentic Engineering"
 type: concept
 status: draft
 created: 2026-04-28
-updated: 2026-04-28
+updated: 2026-05-21
 sources:
   - ../sources/peter-steinberger-agentic-engineering-batch.md
   - ../sources/openai-codex-for-everyday-work.md
+  - ../sources/interpretable-context-methodology.md
 ---
 
 # Agentic Engineering
@@ -28,11 +29,14 @@ OpenAI's internal Codex usage reinforces the same pattern from the vendor side. 
 
 The phrase can become hype quickly. The practical version is calmer: agents are useful when the environment lets them observe, act, and check their work.
 
+Van Clief and McDermott's Interpretable Context Methodology adds a useful architectural version of this point. For sequential, human-reviewed workflows, folders and Markdown can carry much of the orchestration burden: stage folders define the workflow, `CONTEXT.md` files define contracts, local scripts handle non-AI mechanics, and Git makes changes inspectable. This is [Filesystem Agent Architecture](filesystem-agent-architecture.md): not a rejection of frameworks, but a reminder that the simplest useful control surface may already be the repo.
+
 At an organization level, this becomes [AI Native Company](ai-native-company.md): the whole system is designed so agents can read artifacts, close loops, and reduce coordination loss.
 
 ## Related
 
 - [Agent Friendly Repositories](agent-friendly-repositories.md)
 - [Agent Prompting](agent-prompting.md)
+- [Filesystem Agent Architecture](filesystem-agent-architecture.md)
 - [Inference Speed Development](inference-speed-development.md)
 - [Project Based Self Direction](project-based-self-direction.md)
