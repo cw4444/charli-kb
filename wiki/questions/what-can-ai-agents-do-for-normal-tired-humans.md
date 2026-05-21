@@ -146,6 +146,38 @@ Recurring agents need boring rules. The more often something runs, the more expl
 
 ## The Tired-Human Safety Rules
 
+### One-Line Install Is Not Onboarding
+
+If a tutorial for a powerful local agent starts with a one-line terminal install and does not explain permissions, sandboxing, API budgets, logs, and what the agent can touch, stop.
+
+Commands such as:
+
+- `curl ... | bash`
+- `sudo ...`
+- `chmod ...`
+- `npm install -g ...`
+- `docker run ...`
+
+are not automatically bad. They are also not cute onboarding steps for someone who does not know what Command Prompt, PowerShell, Terminal, Docker, or a VPS is.
+
+The risk is not that the agent has a romantic or friendly personality. The risk is that a human may think they installed "an AI that texts me first" when they actually installed a local automation gateway that may be able to read files, run commands, use browser sessions, connect to accounts, spend API credits, or act inside messaging and email tools.
+
+For a non-technical person, a safe tutorial should explain, in plain language:
+
+- where the agent runs: browser, local computer, Docker container, VPS, or managed cloud;
+- what accounts it can access;
+- whether it can read local files;
+- whether it can run shell commands;
+- whether it can send messages or emails;
+- whether it can install software;
+- whether it can spend money or API credits;
+- where logs are stored;
+- how to stop it;
+- how to revoke access;
+- what actions require explicit approval.
+
+If those answers are missing, do not install it. Start with a bounded browser-based agent or a read-only/sandboxed setup instead.
+
 ### Start Read-Only
 
 First run:
@@ -247,6 +279,8 @@ Use Codex, Claude Code, Gemini CLI, or Grok Build when the work belongs in a fol
 Use enterprise/workspace agents when a team needs shared agents, audit trails, permissions, internal data, and compliance.
 
 Use OpenClaw-style local agents only when you understand the blast radius or have configured strict boundaries. They can be powerful because they operate on the real machine. That is also why they need more care.
+
+This is where mature agent products provide a useful contrast. OpenAI, Anthropic, and Google all publish permission and sandbox guidance around their coding agents: approval modes, cautious defaults, read-only planning, sandboxed execution, or enterprise controls. The exact defaults vary by product and mode, but the pattern is clear: serious agent tooling makes the human aware of what is being allowed. A viral one-line install that skips this context is not equivalent.
 
 ## Good First Prompts
 

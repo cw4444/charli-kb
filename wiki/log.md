@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-05-21] update | One-line local-agent install warning
+- Sources: OpenAI Codex CLI approval/sandbox guidance, Anthropic Claude Code permission/security docs, Google Gemini CLI sandbox docs, and existing OpenClaw source note.
+- Pages updated: [What Can AI Agents Do For Normal Tired Humans?](questions/what-can-ai-agents-do-for-normal-tired-humans.md), [Current AI Agent Landscape 2026](sources/current-ai-agent-landscape-2026.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added a blunt warning that `curl ... | bash`, `sudo`, global installs, and local automation gateways are not cute beginner onboarding when the audience does not understand command prompts, sandboxing, permissions, Docker/VPS isolation, logs, or API budgets. Framed the risk as over-permission and mushy consent, not emotional attachment itself.
+
 ## [2026-05-21] research | Current AI agent landscape and tired-human guide
 - Sources: OpenAI ChatGPT agent, Codex safety, workspace agents, and Codex updates; Anthropic Claude Code, Agent SDK, subagents, skills, MCP, and agentic-misalignment research; Google Deep Research Max, Gemini CLI subagents, plan mode, Gemini Enterprise, and computer-use model; xAI Grok Build, connectors, Grok 4.1 Fast, and Agent Tools API; GitHub `openclaw/openclaw`.
 - Pages created: [Current AI Agent Landscape 2026](sources/current-ai-agent-landscape-2026.md), [What Can AI Agents Do For Normal Tired Humans?](questions/what-can-ai-agents-do-for-normal-tired-humans.md)

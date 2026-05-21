@@ -11,6 +11,7 @@ sources:
   - "Anthropic: Claude Code product page and Agent SDK docs"
   - "Anthropic: Agentic Misalignment, 2025-06-20"
   - "Google: Deep Research Max, Gemini CLI subagents, Gemini Enterprise agents"
+  - "Google Gemini CLI sandbox documentation"
   - "xAI: Grok Build, Connectors, Grok 4.1 Fast and Agent Tools API"
   - "GitHub: openclaw/openclaw"
 ---
@@ -96,6 +97,7 @@ Sources:
 - [Google Developers: Plan mode in Gemini CLI](https://developers.googleblog.com/en/plan-mode-now-available-in-gemini-cli/)
 - [Google Cloud: Gemini Enterprise agents](https://cloud.google.com/gemini-enterprise/agents)
 - [Google DeepMind: Gemini 2.5 Computer Use model](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-computer-use-model/)
+- [Google Gemini CLI docs: sandboxing](https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/sandbox.md)
 
 ## xAI
 
@@ -121,6 +123,8 @@ OpenClaw is the useful open-source contrast case. Its GitHub README describes a 
 
 The important lesson is not "OpenClaw good" or "OpenClaw bad." It is blast radius. A local agent that can run shell commands, read files, use browser sessions, and connect to messaging or email can be extremely useful, but the safety boundary is now the user's actual computer and accounts.
 
+This makes one-line install culture risky. A command like `curl ... | bash` or an install that requires broad local permissions may be acceptable for a technical user who understands the script, filesystem access, Docker/VPS isolation, API billing, and rollback path. It is not responsible beginner onboarding when the user is being sold "your own AI companion" and has not been told what the agent can access or do.
+
 For normal users, OpenClaw-style systems should be treated as power tools:
 
 - start with read-only or sandboxed workflows;
@@ -129,10 +133,16 @@ For normal users, OpenClaw-style systems should be treated as power tools:
 - prefer dry runs and audit logs;
 - keep API budgets and spending alerts visible.
 
+The contrast with official agent tooling matters. OpenAI's Codex safety material emphasizes identity, credentials, approvals, network policy, logs, and telemetry. Anthropic documents cautious Claude Code defaults and permission modes. Google documents Gemini CLI sandboxing and warns that sandbox expansion may be needed for restricted paths or network/tool actions. Those details are not decorative; they are the operating boundary between useful delegation and accidental over-permission.
+
 Sources:
 
 - [GitHub: openclaw/openclaw](https://github.com/openclaw/openclaw)
 - [OpenClaw project site](https://openclaw.ai/)
+- [OpenAI Help Center: Codex CLI](https://help.openai.com/en/articles/11096431)
+- [Anthropic Claude Code docs: permission modes](https://code.claude.com/docs/en/permission-modes)
+- [Anthropic Claude Code docs: security](https://docs.anthropic.com/en/docs/claude-code/security)
+- [Google Gemini CLI docs: sandboxing](https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/sandbox.md)
 
 ## What Agents Can Currently Do
 
