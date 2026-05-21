@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-05-21] research | Current AI agent landscape and tired-human guide
+- Sources: OpenAI ChatGPT agent, Codex safety, workspace agents, and Codex updates; Anthropic Claude Code, Agent SDK, subagents, skills, MCP, and agentic-misalignment research; Google Deep Research Max, Gemini CLI subagents, plan mode, Gemini Enterprise, and computer-use model; xAI Grok Build, connectors, Grok 4.1 Fast, and Agent Tools API; GitHub `openclaw/openclaw`.
+- Pages created: [Current AI Agent Landscape 2026](sources/current-ai-agent-landscape-2026.md), [What Can AI Agents Do For Normal Tired Humans?](questions/what-can-ai-agents-do-for-normal-tired-humans.md)
+- Pages updated: [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added a current cross-lab agent snapshot and a practical guide for non-technical/tired users. Framed agents as bounded execution loops with tools, state, permissions, and feedback rather than autonomous adults. Preserved explicit consent boundaries for deletion, sending, spending, credentials, publishing, and broad local access.
+
 ## [2026-05-20] synthesis | Practical agency inside constraint
 - Sources: existing Rovelli/RQM page, QBism/Adlam global-constraint page, and Mechanical World Models.
 - Pages created: [Practical Agency Inside Constraint](concepts/practical-agency-inside-constraint.md)
