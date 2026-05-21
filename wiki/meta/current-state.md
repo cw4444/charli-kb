@@ -43,6 +43,7 @@ This repo is a plain Markdown personal knowledge base based on Karpathy's LLM Wi
 
 ## Recent Additions
 
+- Added [Daily AI Timeline Refresh](daily-ai-timeline-refresh.md), a checked-in operating brief for a daily Codex automation that checks trusted AI/agent sources and updates the 2026 timeline only when a verified event is historically useful. It includes source priorities, inclusion rules, watch-only handling, and a completion report format.
 - Updated [AI And Agents 2026 Timeline](../timelines/ai-and-agents-2026.md) with Block's February 2026 AI-linked workforce reset: more than 4,000 roles cut, roughly 40% of staff, with Jack Dorsey explicitly framing "intelligence tools" as changing how companies can be built and run. Keep the caveat visible: this is a CEO-level workplace-rearchitecture signal, not proof that AI replaced every affected role one-for-one.
 - Updated [AI And Agents 2026 Timeline](../timelines/ai-and-agents-2026.md) with Meta's May 2026 AI restructuring: roughly 8,000 layoffs, roughly 7,000 AI-focused reassignments, and leaked-audio/reporting controversy around employee computer-use data being used to train AI systems. Keep the wording careful: this is a workplace-rearchitecture signal, not proof that every Meta employee moved into AI or that every layoff was directly automated.
 - Added [AI And Agents 2026 Timeline](../timelines/ai-and-agents-2026.md) to preserve the sequence of fast-moving AI/agent events without overpromoting every news flare into canon. It includes explicit future-lint guidance: update if historically useful, collapse or delete if it becomes stale noise.
@@ -92,6 +93,7 @@ This repo is a plain Markdown personal knowledge base based on Karpathy's LLM Wi
 
 ## Next Useful Steps
 
+- Create the daily AI timeline refresh automation in the Codex app using [Daily AI Timeline Refresh](daily-ai-timeline-refresh.md) as the prompt/brief.
 - Update `AGENTS.md` later to reflect the repo-first research default and demote the Notion queue to optional intake.
 - Consider trimming or rewriting old Notion-centric guide pages so they do not imply Notion is required for research.
 - Periodically lint the wiki for dead links, duplicate concepts, stale source notes, and public/private boundary issues.

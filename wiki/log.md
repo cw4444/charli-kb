@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-05-21] meta | Daily AI timeline refresh automation brief
+- Pages created: [Daily AI Timeline Refresh](meta/daily-ai-timeline-refresh.md)
+- Pages updated: [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added a checked-in operating brief for a daily Codex automation to check trusted AI/agent sources and update the 2026 timeline only when a verified event is historically useful. Includes source list, inclusion criteria, watch-only behavior, and report format.
+
 ## [2026-05-21] update | Block AI layoff signal added to timeline
 - Sources: AP, Guardian, Reuters/Investing.com, TechCrunch, and Axios reporting on Block's February 2026 layoffs and Jack Dorsey's AI/intelligence-tools framing.
 - Pages updated: [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
