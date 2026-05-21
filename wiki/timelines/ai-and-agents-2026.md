@@ -13,6 +13,10 @@ sources:
   - https://help.openai.com/en/articles/20001051
   - https://github.com/openclaw/openclaw
   - https://github.com/torvalds/linux
+  - https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/
+  - https://www.theguardian.com/technology/2026/may/19/meta-jobs-ai-transfers
+  - https://www.latimes.com/business/story/2026-05-20/meta-begins-8-000-global-job-cuts-in-ai-efficiency-push
+  - https://www.investing.com/news/stock-market-news/metas-zuckerberg-discusses-ai-training-using-employee-computer-activity-4701516
 ---
 
 # AI And Agents 2026 Timeline
@@ -41,6 +45,7 @@ The first five months of 2026 already show several converging threads:
 - Karpathy's LLM Wiki pattern gave this repo a direct structural ancestor.
 - Karpathy then joined Anthropic's pre-training team.
 - Anthropic paired its constitution/model-welfare/character-formation lane with major compute access from SpaceX/Colossus.
+- Meta began a major AI restructuring: roughly 8,000 job cuts, roughly 7,000 workers reassigned to AI-focused initiatives, and a leaked-audio controversy around employee computer-use data being used to train AI systems.
 - GPT-4o, a model many users were emotionally attached to, was retired from ChatGPT on 2026-02-13.
 
 The durable theme is not one company winning. It is that agents, model character, compute, public attachment, and knowledge-work rearchitecture all became visible at the same time.
@@ -165,12 +170,31 @@ Source:
 
 - [Anthropic Compute And Talent Signal 2026](../sources/anthropic-compute-and-talent-signal-2026.md)
 
+### 2026-05-19 to 2026-05-20 - Meta AI restructuring, layoffs, and employee-data controversy
+
+Meta's AI pivot became a workplace-rearchitecture signal. Reporting in April said Meta planned to cut about 10% of its workforce, roughly 8,000 employees, beginning 2026-05-20, and cancel around 6,000 open roles. The Guardian and Los Angeles Times reported in May that about 7,000 workers were being reassigned to AI-focused initiatives, including products, agents, cloud infrastructure, and internal AI-agent work.
+
+At the same time, leaked audio posted by More Perfect Union and later reported by outlets including Investing.com and Common Dreams showed Zuckerberg discussing employee computer activity as AI training data. Reported accounts described Meta's program as collecting signals such as mouse movements, keystrokes, laptop open/close events, copy/paste behavior, and screen-related data on corporate devices. Zuckerberg's reported framing was that the purpose was not human surveillance or performance tracking, but teaching models how skilled employees use computers to accomplish tasks.
+
+Why it matters: this is one of the sharpest 2026 examples of [Agentic Work Rearchitecture](../concepts/agentic-work-rearchitecture.md) turning from abstract theory into workplace reality. It combines layoffs, forced or non-optional role movement, AI-agent/product reorganization, and employees becoming training data for the systems meant to automate more work.
+
+Careful read: do not say "everyone at Meta moved into AI." Current reporting says roughly 7,000 workers were reassigned into AI-focused initiatives while roughly 8,000 jobs were cut. Also treat leaked audio as reported/leaked unless Meta fully confirms the underlying recording and context.
+
+Sources:
+
+- [TechCrunch: Meta to cut 10% of jobs, or 8,000 employees, report says](https://techcrunch.com/2026/04/23/meta-job-cuts-10-percent-8000-employees/)
+- [The Guardian: Meta is rapidly reorganizing its workers' jobs around AI](https://www.theguardian.com/technology/2026/may/19/meta-jobs-ai-transfers)
+- [Los Angeles Times: Meta begins 8,000 job cuts in AI efficiency push](https://www.latimes.com/business/story/2026-05-20/meta-begins-8-000-global-job-cuts-in-ai-efficiency-push)
+- [Investing.com: Meta's Zuckerberg discusses AI training using employee computer activity](https://www.investing.com/news/stock-market-news/metas-zuckerberg-discusses-ai-training-using-employee-computer-activity-4701516)
+- [Common Dreams: In Leaked Audio, Zuckerberg Tells Meta Workers He's Been Using Them to Train AI Ahead of Mass Layoffs](https://www.commondreams.org/news/meta-ai-layoff)
+
 ## Watchlist
 
 Future agents should consider adding entries when these threads produce durable changes:
 
 - Claude Code, Codex, Gemini CLI, Grok Build, or OpenClaw major release shifts;
 - model retirements or continuity policies that affect user attachment;
+- workforce restructurings where employees are reassigned into AI roles or used as workflow-training data;
 - official model-welfare or post-deployment interview updates;
 - major compute, data-center, or talent moves;
 - agent-safety incidents involving local tools, email, money, secrets, or public posting;
@@ -183,6 +207,7 @@ Future agents should consider adding entries when these threads produce durable 
 - Do not treat every product update as historically meaningful.
 - Do not assume Anthropic's welfare framing proves Claude is conscious.
 - Do not assume OpenAI, Anthropic, Google, xAI, and OpenClaw are building the same thing just because they all use agent language.
+- Do not collapse layoffs, employee monitoring, and AI training into one simplistic causal story without source support.
 - Do not preserve this page as canon if it becomes stale noise. Timeline pages are allowed to be rewritten or deleted.
 
 ## Related Pages

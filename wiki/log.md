@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-05-21] update | Meta AI restructuring added to timeline
+- Sources: TechCrunch, Guardian, Los Angeles Times, Investing.com/Reuters, and Common Dreams reporting on Meta's May 2026 layoffs, AI-role reassignments, and leaked audio about employee computer-use data for AI training.
+- Pages updated: [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added Meta as a workplace-rearchitecture signal: roughly 8,000 job cuts, roughly 7,000 AI-focused reassignments, and controversy over employee computer-use data being used to train AI systems. Corrected the stronger informal claim by noting current reporting says 7,000 reassigned, not literally everyone at Meta.
+
 ## [2026-05-21] timeline | AI and agents 2026
 - Sources: existing agent landscape and Anthropic signal pages; Karpathy LLM Wiki gist; OpenAI GPT-4o retirement pages; OpenClaw and Linux GitHub pages; OpenClaw.report star-history writeup; OpenAI, Anthropic, Google, and xAI agent update pages.
 - Pages created: [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md)
