@@ -41,6 +41,22 @@ This repo is a plain Markdown personal knowledge base based on Karpathy's LLM Wi
 - Keep GitHub as the clean distilled knowledge base, not a second Notion or bulk Markdown export target.
 - The durable subject lanes are AI, reality, and their overlap: perception, belief, expectation, action, agents, knowledge systems, reality monitoring, and related source-backed concepts.
 
+## Latest Session Handoff
+
+On 2026-05-21, Charli and Codex built out the AI/agents lane heavily. The session theme was: 2026 AI is moving too fast for isolated notes, so the wiki now needs a living historical timeline plus practical agent-use guides.
+
+Key additions and updates:
+
+- [AI And Agents 2026 Timeline](../timelines/ai-and-agents-2026.md) is now the main fast-moving history page. It tracks GPT-4o retirement, OpenClaw's GitHub-star surge, Karpathy's LLM Wiki gist, Codex/Claude/Gemini/Grok agent updates, Anthropic's SpaceX/Colossus compute deal, Karpathy joining Anthropic, Meta's AI restructuring, and Block's AI-linked layoffs. Future agents should update it only for verified durable events, not every news flare.
+- [Daily AI Timeline Refresh](daily-ai-timeline-refresh.md) is the operating brief for a future daily Codex automation. It includes trusted sources, inclusion criteria, watch-only behavior, and report format. The actual hosted automation still needs to be created in the Codex app.
+- [Current AI Agent Landscape 2026](../sources/current-ai-agent-landscape-2026.md) and [What Can AI Agents Do For Normal Tired Humans?](../questions/what-can-ai-agents-do-for-normal-tired-humans.md) now summarize OpenAI, Anthropic, Google, xAI, OpenClaw, and practical tired-human safety. Keep the one-line local-agent install warning visible: `curl ... | bash`, `sudo`, global installs, broad local permissions, API budgets, logs, and revocation are not cute beginner details.
+- [Computer Work Agent](../concepts/computer-work-agent.md), [Codex Goals](../concepts/codex-goals.md), [OpenAI Codex For Everyday Work](../sources/openai-codex-for-everyday-work.md), and [How Can Normal Humans Use Codex?](../questions/how-can-normal-humans-use-codex.md) now frame Codex as moving from coding assistant toward bounded computer-work agent: durable threads, side panel, browser/computer use, MCP/connectors, skills, memories, thread automations, goals, steering/queuing, verifiers, and explicit shared memory.
+- [AI Character Formation And Persona Safety](../../themes/ai-consciousness/character-formation-and-persona-safety.md) now includes Anthropic's constitution-as-self-introduction point and "Teaching Claude why" / positive fictional AI stories. Keep the boundary clear: this is evidence that persona, narrative, and role self-description affect model behavior, not evidence that Claude is conscious.
+- [Anthropic Compute And Talent Signal 2026](../sources/anthropic-compute-and-talent-signal-2026.md) captures Karpathy joining Anthropic pre-training plus Anthropic's SpaceX/Colossus compute deal. Treat as a strategic signal, not a conclusion.
+- [Sidequest Prototyping](../concepts/sidequest-prototyping.md) now captures the stronger Anthropic/Cat Wu "sidequest maxxing" pattern: afternoon prototypes, dogfooding, demos over standups, adoption as filter, and cross-functional people shipping working demos. Preserve the workflow pattern; do not overstate every Claude Code origin anecdote as verified fact.
+
+Session caveat: many of these pages intentionally preserve "this felt significant in May 2026" while keeping lint-friendly caveats. Future lint should update, collapse, or delete timeline entries and signal notes if they stop being useful.
+
 ## Recent Additions
 
 - Added [Codex Goals](../concepts/codex-goals.md), based on OpenAI's May 9, 2026 cookbook guide. Treat Goals as thread-scoped completion contracts, not vague autonomy: outcome, verifier, constraints, boundaries, iteration policy, and blocked stop condition. This is directly useful for daily timeline refreshes and research audits because it forces explicit evidence standards before Codex keeps going.
