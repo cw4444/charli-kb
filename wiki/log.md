@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-05-21] timeline | AI and agents 2026
+- Sources: existing agent landscape and Anthropic signal pages; Karpathy LLM Wiki gist; OpenAI GPT-4o retirement pages; OpenClaw and Linux GitHub pages; OpenClaw.report star-history writeup; OpenAI, Anthropic, Google, and xAI agent update pages.
+- Pages created: [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md)
+- Pages updated: [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added a lightweight historical timeline for 2026 AI/agent acceleration so fast-moving signals can be preserved without forcing every news item into a permanent concept page. Included an explicit future-lint rule to update, collapse, or delete entries if they become stale noise.
+
 ## [2026-05-21] source note | Anthropic compute and talent signal
 - Sources: TechCrunch, Forbes, and Axios reporting on Andrej Karpathy joining Anthropic's pre-training team; Data Center Dynamics and Axios reporting on Anthropic's SpaceX/Colossus 1 compute deal and reported pricing.
 - Pages created: [Anthropic Compute And Talent Signal 2026](sources/anthropic-compute-and-talent-signal-2026.md)

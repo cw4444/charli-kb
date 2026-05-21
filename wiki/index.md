@@ -40,6 +40,10 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Feynman - Calculation And Reality Stories](sources/feynman-calculation-and-reality-stories.md): source note on using Feynman as a boundary marker between quantum calculation, interpretation, and reality-story creep.
 - [Rovelli And Relational Quantum Mechanics](sources/rovelli-relational-quantum-mechanics.md): source note on RQM as a relation-first interpretation of quantum facts and states.
 
+## Timelines
+
+- [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md): lightweight historical timeline for the fast-moving 2026 AI/agent acceleration, including GPT-4o retirement, OpenClaw, Karpathy's LLM Wiki, Codex/Claude/Gemini/Grok agent updates, and Anthropic compute/talent signals.
+
 ## Concepts
 
 - [Agentic Engineering](concepts/agentic-engineering.md): software work organized around steering AI agents, managing context, and verifying outputs.
