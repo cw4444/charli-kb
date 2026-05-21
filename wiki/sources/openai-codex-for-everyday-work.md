@@ -3,9 +3,10 @@ title: "OpenAI Codex For Everyday Work"
 type: source
 status: draft
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-21
 source_type: official-docs
 sources:
+  - "https://openai.com/index/codex-for-almost-everything/"
   - "https://developers.openai.com/codex"
   - "https://developers.openai.com/api/docs/guides/prompt-guidance"
   - "https://help.openai.com/en/articles/11369540-codex-in-chatgpt"
@@ -25,8 +26,8 @@ sources:
 ## Source Metadata
 
 - Source set: official OpenAI Codex and Help Center documentation.
-- Accessed: 2026-05-03.
-- Scope: Codex app, use cases, automations, AGENTS.md, skills, plugins, MCP, memories, and workflows.
+- Accessed: 2026-05-03 and refreshed 2026-05-21.
+- Scope: Codex app, use cases, automations, AGENTS.md, skills, plugins, MCP, memories, workflows, computer use, in-app browser, goals, thread automations, and side-panel artifact review.
 - Access note: public official documentation.
 
 ## Safe Summary
@@ -52,9 +53,26 @@ The guide should include small starter prompts because the main barrier for non-
 
 OpenAI's prompt guidance also supports a non-developer framing: define the outcome and constraints, then let the model choose appropriate implementation details. This is useful because normal users should not need to know whether a task calls for Python, HTML, a script, a spreadsheet formula, or a Markdown workflow.
 
+## 2026 Update: Codex For Computer Work
+
+OpenAI's April 16, 2026 "Codex for (almost) everything" post makes the broader direction explicit. Codex is still centered on software work, but OpenAI frames it as expanding across the whole software-development and computer-work lifecycle:
+
+- background computer use, so Codex can see, click, and type in apps on a Mac;
+- in-app browser review, including commenting on web surfaces;
+- more than 90 plugins combining skills, app integrations, and MCP servers;
+- richer side-panel review for PDFs, spreadsheets, slides, docs, files, plans, sources, and artifacts;
+- thread automations that can return to an existing conversation and preserve context;
+- preview memory, including preferences, corrections, and hard-won context;
+- context-aware suggestions for picking work back up across projects, plugins, and memory.
+
+The article Charli supplied from X/OpenAI commentary adds useful language for this shift: Codex starts as a coding agent, but much computer work is already mediated by code-shaped surfaces such as shell commands, web pages, APIs, exports, documents, events, and automations. When those surfaces become reachable, Codex feels less like a narrow coding assistant and more like a system for getting computer work done.
+
+The durable wiki concept is [Computer Work Agent](../concepts/computer-work-agent.md): a bounded agent that can carry work from instruction to action to artifact review across files, browser, apps, connectors, and schedules.
+
 ## Related Pages
 
 - [How Can Normal Humans Use Codex?](../questions/how-can-normal-humans-use-codex.md)
+- [Computer Work Agent](../concepts/computer-work-agent.md)
 - [Agentic Engineering](../concepts/agentic-engineering.md)
 - [Agent Prompting](../concepts/agent-prompting.md)
 - [Agent Friendly Repositories](../concepts/agent-friendly-repositories.md)

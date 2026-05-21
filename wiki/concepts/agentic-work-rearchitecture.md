@@ -7,6 +7,7 @@ updated: 2026-05-11
 sources:
   - ../sources/enterprise-agent-deployment-2026.md
   - ../sources/ai-native-company-and-sidequest-prototyping-batch.md
+  - computer-work-agent.md
 ---
 
 # Agentic Work Rearchitecture
@@ -33,6 +34,8 @@ The 2026 enterprise-agent push from OpenAI, Anthropic, Microsoft, consultancies,
 - old workflows are often too illegible for agents to help much.
 
 This is why enterprise AI work is shifting toward deployment companies, frontier suites, managed agents, plugins, stateful runtimes, evaluations, and consulting alliances.
+
+A concrete version of this shift is the [Computer Work Agent](computer-work-agent.md): a coding-centered agent that moves outward into shell commands, browsers, desktop apps, documents, spreadsheets, connectors, MCP servers, automations, memories, and artifact review. This makes "agentic work" less abstract. The unit of delegation becomes a bounded computer-mediated workflow, not just a code diff.
 
 ## What Changes
 
@@ -117,5 +120,6 @@ The bad version is the same beige sludge, but faster and more monitored.
 - [Queryable Organization](queryable-organization.md)
 - [Agentic Engineering](agentic-engineering.md)
 - [Agent Friendly Repositories](agent-friendly-repositories.md)
+- [Computer Work Agent](computer-work-agent.md)
 - [Inference Speed Development](inference-speed-development.md)
 - [Cognitive Latency Shock](cognitive-latency-shock.md)

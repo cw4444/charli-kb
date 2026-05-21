@@ -117,6 +117,16 @@ Source:
 
 - [Karpathy gist: llm-wiki.md](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
 
+### 2026-04-16 - OpenAI publishes "Codex for (almost) everything"
+
+OpenAI published "Codex for (almost) everything," a major Codex app update that pushed Codex beyond narrow code editing into computer use, in-app browser review, image generation, richer side-panel artifact review, 90+ plugins, memory preview, context-aware suggestions, and automations that can reuse existing threads.
+
+Why it matters: this is the clearest OpenAI source for the [Computer Work Agent](../concepts/computer-work-agent.md) pattern. Codex still starts from code, but OpenAI is moving it toward the surrounding computer work: browser surfaces, documents, tools, apps, schedules, and longer-running context.
+
+Source:
+
+- [OpenAI: Codex for (almost) everything](https://openai.com/index/codex-for-almost-everything/)
+
 ### 2026-04-22 - OpenAI introduces workspace agents in ChatGPT
 
 OpenAI introduced workspace agents in ChatGPT for Business, Enterprise, Edu, and Teachers plans. The important shift is from single-user chat to shared, Codex-powered agents with organizational context, runs, updates, permissions, and admin visibility.

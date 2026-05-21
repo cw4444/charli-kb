@@ -50,6 +50,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Agentic Work Rearchitecture](concepts/agentic-work-rearchitecture.md): redesigning work so agents take on execution while humans own direction, judgment, verification, and consequences.
 - [Agent Friendly Repositories](concepts/agent-friendly-repositories.md): repository conventions that make agent work easier to inspect, execute, and verify.
 - [Agent Prompting](concepts/agent-prompting.md): operational prompting patterns for tool-using agents, including goals, boundaries, verification, and follow-through.
+- [Computer Work Agent](concepts/computer-work-agent.md): coding-centered agent pattern where Codex-style systems move outward into browsers, desktop apps, connectors, MCP, schedules, memories, and artifact review.
 - [AI Native Company](concepts/ai-native-company.md): organization designed around AI as an operating layer rather than a productivity add-on.
 - [Cognitive Latency Shock](concepts/cognitive-latency-shock.md): felt disorientation when AI collapses the loop between thought, search, synthesis, structure, and artifact.
 - [Focus Through Goal Structure](concepts/focus-through-goal-structure.md): focus emerges from vision, anti-vision, projects, and daily lever-moving tasks.

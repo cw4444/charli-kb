@@ -3,7 +3,7 @@ title: "How Can Normal Humans Use Codex?"
 type: question
 status: draft
 created: 2026-05-03
-updated: 2026-05-03
+updated: 2026-05-21
 question: "How can non-developers use Codex for everyday work?"
 sources:
   - ../sources/openai-codex-for-everyday-work.md
@@ -15,6 +15,8 @@ sources:
 Codex is officially described as an AI agent for code, but the useful non-developer translation is simpler: Codex is a work agent that can read a workspace, follow instructions, use tools, change files, verify outputs, and come back on a schedule.
 
 That makes it useful for people who do not want to "code" but do want help maintaining a knowledge base, cleaning spreadsheets, generating reports, preparing documents, checking an intake queue, or connecting apps.
+
+OpenAI's 2026 Codex direction makes this broader framing more explicit: Codex is becoming a [Computer Work Agent](../concepts/computer-work-agent.md). It still starts from code, but it can also work through browsers, files, documents, spreadsheets, terminal commands, connectors, MCP servers, computer use, side-panel artifact review, memories, and automations.
 
 ## What Codex Is For
 
@@ -108,11 +110,43 @@ Use automations for:
 
 For project-scoped automations, the Codex app needs access to the project on disk. In a Git repo, automations can run in the local project or in a separate worktree. Worktrees are safer when the automation may change files because they keep background changes away from unfinished work.
 
+Thread automations are different from fresh scheduled runs. They return to the same conversation on a schedule, preserving the thread's context. Use them for heartbeat loops: checking whether a reviewer replied, polling for a source update, watching a pull request, or continuing a monitoring task until a condition is met.
+
+### Goals
+
+Goals are longer-running Codex tasks with a finish line. They work best when the success condition is concrete:
+
+- tests pass;
+- the report is generated;
+- the broken workflow reproduces and then stops failing;
+- a validation matrix is complete;
+- the daily timeline refresh finds and commits a verified update or reports no update.
+
+Without a verifier, a goal is just a wish. With a verifier, Codex can keep pushing toward a defined outcome.
+
 ### Memories
 
 Memories are optional local context Codex can carry across threads. They are useful for stable preferences and recurring workflows.
 
 Do not use memories as the only place for important rules. Put rules that must always apply in `AGENTS.md` or checked-in documentation.
+
+### Durable Threads And Side Panel
+
+Durable threads are useful for recurring work streams: a wiki-maintenance thread, a release thread, a daily-monitoring thread, or a documentation-review thread. A pinned or recurring thread keeps the working context close instead of forcing the human to rebuild it every session.
+
+The side panel matters because Codex can keep the artifact next to the conversation that produced it. That artifact might be a diff, a browser page, a spreadsheet, a PDF, a slide deck, a Markdown file, or a data table. Review happens inside the loop instead of becoming a separate handoff.
+
+### Steering And Queuing
+
+Steering means interrupting Codex while it is working because it is going the wrong way.
+
+Queuing means adding the next task for Codex to do after the current step finishes.
+
+For normal humans, this is the useful control model:
+
+- steer when the current work needs correction;
+- queue when the current work is fine but there is an obvious next step;
+- approve when the action affects files, messages, money, accounts, publication, or other people.
 
 ## The Useful Mental Model
 
@@ -128,7 +162,9 @@ The handoff looks like this:
 4. Connect needed apps with plugins or MCP.
 5. Use skills for repeatable workflows.
 6. Use automations for scheduled work.
-7. Let Codex report what it changed.
+7. Use goals when there is a concrete verifier.
+8. Review artifacts in the side panel when possible.
+9. Let Codex report what it changed.
 
 ## Example: A Phone-To-Wiki Bridge
 
@@ -185,10 +221,12 @@ Do not add integrations for sport. Add them when a real recurring task needs the
 ## Sources
 
 - [OpenAI Help Center: Using Codex with your ChatGPT plan](https://help.openai.com/en/articles/11369540-codex-in-chatgpt)
+- [OpenAI: Codex for (almost) everything](https://openai.com/index/codex-for-almost-everything/)
 - [OpenAI prompt guidance](https://developers.openai.com/api/docs/guides/prompt-guidance)
 - [OpenAI Codex use cases](https://developers.openai.com/codex/use-cases)
 - [OpenAI Codex app features](https://developers.openai.com/codex/app/features)
 - [OpenAI Codex automations](https://developers.openai.com/codex/app/automations)
+- [OpenAI Codex computer use](https://developers.openai.com/codex/app/computer-use)
 - [OpenAI AGENTS.md guidance](https://developers.openai.com/codex/guides/agents-md)
 - [OpenAI Codex skills](https://developers.openai.com/codex/skills)
 - [OpenAI Codex plugins](https://developers.openai.com/codex/plugins)

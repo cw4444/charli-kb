@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-05-21] update | Codex as computer work agent
+- Sources: OpenAI, [Codex for (almost) everything](https://openai.com/index/codex-for-almost-everything/); official Codex app docs on features, automations, computer use, memories, and use cases; user-supplied OpenAI/X article excerpt.
+- Pages created: [Computer Work Agent](concepts/computer-work-agent.md)
+- Pages updated: [OpenAI Codex For Everyday Work](sources/openai-codex-for-everyday-work.md), [How Can Normal Humans Use Codex?](questions/how-can-normal-humans-use-codex.md), [Agentic Work Rearchitecture](concepts/agentic-work-rearchitecture.md), [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added the durable concept from the OpenAI article: Codex is shifting from a narrow coding assistant toward a computer-work agent with durable threads, steering/queuing, goals, thread automations, browser/computer use, MCP/connectors, side-panel artifact review, and explicit shared memory. Kept approval and verifier boundaries visible.
+
 ## [2026-05-21] update | Sidequest prototyping detail
 - Sources: existing Anthropic Cat Wu sidequest-maxxing source trail; user-supplied summary of the X/Twitter thread and original video.
 - Pages updated: [Sidequest Prototyping](concepts/sidequest-prototyping.md), [AI-Native Company And Sidequest Prototyping Batch](sources/ai-native-company-and-sidequest-prototyping-batch.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
