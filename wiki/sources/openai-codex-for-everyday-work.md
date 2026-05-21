@@ -7,6 +7,7 @@ updated: 2026-05-21
 source_type: official-docs
 sources:
   - "https://openai.com/index/codex-for-almost-everything/"
+  - "https://cdn.openai.com/pdf/6a2631dc-783e-479b-b1a4-af0cfbd38630/how-openai-uses-codex.pdf"
   - "https://developers.openai.com/cookbook/examples/codex/using_goals_in_codex"
   - "https://developers.openai.com/codex"
   - "https://developers.openai.com/api/docs/guides/prompt-guidance"
@@ -28,7 +29,7 @@ sources:
 
 - Source set: official OpenAI Codex and Help Center documentation.
 - Accessed: 2026-05-03 and refreshed 2026-05-21.
-- Scope: Codex app, use cases, automations, AGENTS.md, skills, plugins, MCP, memories, workflows, computer use, in-app browser, goals, thread automations, and side-panel artifact review.
+- Scope: Codex app, use cases, automations, AGENTS.md, skills, plugins, MCP, memories, workflows, computer use, in-app browser, goals, thread automations, side-panel artifact review, and OpenAI internal usage patterns.
 - Access note: public official documentation.
 
 ## Safe Summary
@@ -82,6 +83,32 @@ The useful distinction:
 The strongest Goals define outcome, verification surface, constraints, boundaries, iteration policy, and blocked stop condition. That makes a Goal a compact completion contract rather than a bigger prompt. It is especially useful when the next action depends on what Codex discovers: flaky tests, performance tuning, dependency migrations, bug reproduction, benchmark-driven tuning, or evidence-backed research.
 
 This is directly relevant to `charli-kb`: a timeline refresh, source audit, or research package can be framed as a Goal only if the evidence standard and stopping condition are explicit. "Research AI news" is too vague. "Update the timeline only if a verified event meets the inclusion test; otherwise report no update and list watch-only candidates" is Goal-shaped.
+
+## 2026 Update: How OpenAI Uses Codex Internally
+
+OpenAI's official PDF "How OpenAI uses Codex" is useful because it shows Codex as everyday engineering infrastructure inside OpenAI, not only a demo product. The PDF says Codex is used daily across Security, Product Engineering, Frontend, API, Infrastructure, and Performance Engineering.
+
+The seven internal use cases are:
+
+- **Code understanding:** locating core logic, mapping service/module relationships, tracing data flow, and triaging incidents.
+- **Refactoring and migrations:** changing patterns across many files, preparing code for testability, and opening PRs.
+- **Performance optimization:** finding hot paths, repeated expensive operations, inefficient loops, costly queries, and risky/deprecated patterns.
+- **Improving test coverage:** writing missing unit/integration tests, edge cases, boundary conditions, and failure-path tests.
+- **Increasing development velocity:** scaffolding features, filling launch blockers, generating rollout scripts, telemetry hooks, configs, and starter code from product feedback.
+- **Staying in flow:** spinning off drive-by fixes, capturing unfinished work, summarizing files, and letting Codex work in the background while the human stays focused.
+- **Exploration and ideation:** pressure-testing design options, finding related bugs, exploring alternative architectures, and rewriting code in different styles.
+
+The best-practice section is especially useful for this wiki:
+
+- start large changes in Ask Mode and use the plan as input before switching into Code Mode;
+- keep tasks well-scoped, roughly an hour of human work or a few hundred lines of code;
+- iteratively improve the Codex development environment with startup scripts, environment variables, and internet access where appropriate;
+- structure prompts like GitHub issues, with files, components, diffs, docs, and local patterns;
+- use the Codex task queue as a lightweight backlog for tangents, partial work, or incidental fixes;
+- maintain `AGENTS.md` for persistent repo context;
+- use Best-of-N when multiple candidate approaches would be useful.
+
+For `charli-kb`, the durable lesson is that Codex works best when the workspace is legible and the task has a clear shape. This reinforces the repo's current operating style: `AGENTS.md`, source notes, index/log updates, concrete diffs, verification, and small commits.
 
 ## Related Pages
 

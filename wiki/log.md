@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-05-21] update | How OpenAI uses Codex
+- Sources: OpenAI PDF, [How OpenAI uses Codex](https://cdn.openai.com/pdf/6a2631dc-783e-479b-b1a4-af0cfbd38630/how-openai-uses-codex.pdf)
+- Pages updated: [OpenAI Codex For Everyday Work](sources/openai-codex-for-everyday-work.md), [Agentic Engineering](concepts/agentic-engineering.md), [How Can Normal Humans Use Codex?](questions/how-can-normal-humans-use-codex.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added OpenAI's own internal Codex use cases and best practices: code understanding, migrations, performance, tests, velocity, flow, exploration, Ask Mode first, issue-shaped prompts, environment tuning, task queue as backlog, AGENTS.md, and Best-of-N. This reinforces Codex as everyday engineering infrastructure rather than just a demo coding assistant.
+
 ## [2026-05-21] update | Codex Goals concept
 - Sources: OpenAI Cookbook, [Using Goals in Codex](https://developers.openai.com/cookbook/examples/codex/using_goals_in_codex)
 - Pages created: [Codex Goals](concepts/codex-goals.md)

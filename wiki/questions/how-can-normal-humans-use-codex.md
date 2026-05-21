@@ -42,6 +42,8 @@ Codex works best when the task names the input, the rules, the output, and how t
 
 The prompt does not need to prescribe every technical choice. OpenAI's prompt guidance for newer models emphasizes defining the desired outcome and giving the model room to choose implementation details. For non-developers, this is the liberating bit: you can say what you want built, what "simple" means, what constraints matter, and how you want it explained. Codex can decide whether that means HTML, Python, a spreadsheet script, Markdown, or some other boring machinery.
 
+OpenAI's own internal Codex usage points to a practical habit: ask like you are writing a small issue, not like you are making a wish. Include the file, folder, artifact, error, source, desired output, and what should not change. For bigger work, ask for a plan first, then let Codex implement the agreed slice.
+
 ## The Basic Pieces
 
 ### `AGENTS.md`
@@ -206,6 +208,7 @@ Good starter prompts:
 - "Set up a daily automation that checks this database and reports anything needing action."
 - "Tell me whether this needs a plugin, MCP server, automation, or just a one-off prompt."
 - "Build the smallest working version, then explain how I use it."
+- "Look at this issue-shaped task, ask clarifying questions only if needed, then propose a short plan before editing."
 
 ## Small First Tasks For Terrified Civilians
 
@@ -239,6 +242,7 @@ Do not add integrations for sport. Add them when a real recurring task needs the
 - [OpenAI: Codex for (almost) everything](https://openai.com/index/codex-for-almost-everything/)
 - [OpenAI prompt guidance](https://developers.openai.com/api/docs/guides/prompt-guidance)
 - [OpenAI Codex use cases](https://developers.openai.com/codex/use-cases)
+- [OpenAI PDF: How OpenAI uses Codex](https://cdn.openai.com/pdf/6a2631dc-783e-479b-b1a4-af0cfbd38630/how-openai-uses-codex.pdf)
 - [OpenAI Codex app features](https://developers.openai.com/codex/app/features)
 - [OpenAI Codex automations](https://developers.openai.com/codex/app/automations)
 - [OpenAI Codex computer use](https://developers.openai.com/codex/app/computer-use)
