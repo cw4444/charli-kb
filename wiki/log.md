@@ -1,5 +1,9 @@
 # Wiki Log
 
+## [2026-05-26] meta | refresh current-state handoff
+- Pages updated: [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Refreshed the hotcache/current-state handoff after the retrocausality and Hoffman interface-theory additions. Confirmed `AGENTS.md` already tells future agents to read `AGENTS.md`, `wiki/index.md`, `wiki/log.md`, and `wiki/meta/current-state.md` before major wiki maintenance or fresh sessions.
+
 ## [2026-05-26] source note | Donald Hoffman and interface theory
 - Sources: Hoffman, Singh, and Prakash 2015; Hoffman 2016; Hoffman 2008 conscious realism paper; UC/University of California book overview; Hoffman/Singh reply to commentaries; Sawada and Pizlo critique.
 - Pages created: [Donald Hoffman - Interface Theory Of Perception](sources/donald-hoffman-interface-theory.md), [Interface Theory Of Perception](concepts/interface-theory-of-perception.md), [Donald Hoffman](people/donald-hoffman.md)
