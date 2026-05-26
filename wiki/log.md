@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-05-26] synthesis | Retrocausality, delayed choice, and two roads
+- Sources: Wheeler 1978 delayed-choice paper via "Law Without Law"; Adlam 2022 "Two Roads to Retrocausality"; Adlam 2018 temporal nonlocality; Leifer and Pusey 2017; SEP retrocausality overview; Wharton and Argaman 2020; Aharonov-Bergmann-Lebowitz 1964; Cramer 1986.
+- Pages created: [Retrocausality, Delayed Choice, and Two Roads](../themes/retrocausality-delayed-choice-and-two-roads.md)
+- Pages updated: [Source Index](../sources/source-index.md), [Sources CSV](../sources/sources.csv), [Sources JSON](../sources/sources.json), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Compared Wheeler's measurement-context delayed-choice intuition with Adlam's modern locality/nonlocality routes to retrocausality. Kept the main guardrail explicit: delayed choice does not prove backward signalling or mind-over-past claims; Adlam's strongest route is all-at-once/global constraint rather than little causal arrows travelling from future to past.
+
 ## [2026-05-21] source note | Interpretable Context Methodology
 - Sources: arXiv, [Interpretable Context Methodology: Folder Structure as Agentic Architecture](https://arxiv.org/abs/2603.16021), and ar5iv HTML rendering.
 - Pages created: [Interpretable Context Methodology](sources/interpretable-context-methodology.md), [Filesystem Agent Architecture](concepts/filesystem-agent-architecture.md)

@@ -3,7 +3,7 @@ title: "Source Index"
 type: source-index
 status: draft
 created: 2026-05-10
-updated: 2026-05-12
+updated: 2026-05-26
 sources:
   - sources.json
   - sources.csv
@@ -333,6 +333,106 @@ This bibliography is organized around the path from Bell inequalities to observe
 - Tags: Emily Adlam, laws as constraints, all-at-once, block universe, retrocausality
 - Confidence / caveats: medium-high from metadata and abstract; full paper should be ingested before detailed claims.
 - Mode: philosophical / foundations
+
+### Wheeler 1978 - "The 'Past' and the 'Delayed-Choice' Double-Slit Experiment"
+
+- Authors: John Archibald Wheeler
+- Year: 1978
+- Source type: conference paper / philosophical physics
+- Link: https://gwern.net/doc/science/physics/1983-wheeler.pdf
+- Summary: Introduces Wheeler's delayed-choice framing: the choice of measurement arrangement can be delayed until after the quantum system has passed through the earlier part of the apparatus.
+- Core claim: The past of a quantum phenomenon should not be described as a fixed classical route independent of the final measurement context.
+- Observer-dependent relevance: Historical anchor for measurement-context and participatory-universe thinking, but not by itself a proof of retrocausality.
+- Assumptions used/challenged: context-free past history, passive observer, classical route talk.
+- Tags: Wheeler, delayed choice, measurement context, participatory universe
+- Confidence / caveats: high as historical source; philosophical interpretation should be kept separate from experimental prediction.
+- Mode: theoretical / philosophical
+
+### Adlam 2022 - "Two Roads to Retrocausality"
+
+- Authors: Emily Adlam
+- Year: 2022
+- Source type: arXiv preprint / philosophy of physics
+- Link / arXiv: https://arxiv.org/abs/2201.12934
+- Summary: Distinguishes two routes to retrocausality: using retrocausality to rescue locality, and accepting nonlocality while rejecting a preferred reference frame.
+- Core claim: The more natural motivation for retrocausality may come from nonlocality plus relativity rather than from trying to preserve locality at all costs.
+- Observer-dependent relevance: Gives the cleanest source for comparing delayed-choice intuitions with modern retrocausal/global-constraint arguments.
+- Assumptions used/challenged: locality, temporal locality, preferred frames, dynamical backward influence.
+- Tags: Emily Adlam, retrocausality, locality, nonlocality, all-at-once
+- Confidence / caveats: medium-high; interpretive/philosophical argument, not experimental proof.
+- Mode: philosophical / foundations
+
+### Leifer and Pusey 2017 - "Is a Time Symmetric Interpretation of Quantum Theory Possible Without Retrocausality?"
+
+- Authors: Matthew S. Leifer, Matthew F. Pusey
+- Year: 2017
+- Source type: peer-reviewed theoretical paper
+- Link / DOI: https://doi.org/10.1098/rspa.2016.0607
+- arXiv: https://arxiv.org/abs/1607.07871
+- Summary: Reformulates Price's argument and argues that under assumptions including time symmetry and lambda-mediation, quantum theory rules out a non-retrocausal time-symmetric ontology.
+- Core claim: A certain package of time-symmetric ontology assumptions appears to require retrocausal dependence.
+- Observer-dependent relevance: Provides a theorem-like neighbour to Adlam's temporal nonlocality and all-at-once lawhood work.
+- Assumptions used/challenged: time symmetry, lambda-mediation, non-retrocausal ontology.
+- Tags: Leifer, Pusey, time symmetry, retrocausality
+- Confidence / caveats: high under assumptions; not a standalone proof that reality is retrocausal.
+- Mode: theoretical / philosophical
+
+### SEP 2024 - "Retrocausality in Quantum Mechanics"
+
+- Authors: Simon Friederich, Peter W. Evans
+- Year: 2024 edition
+- Source type: scholarly encyclopedia
+- Link: https://plato.stanford.edu/archives/win2024/entries/qm-retrocausality/
+- Summary: Surveys motivations, models, objections, and terminology around retrocausal approaches to quantum mechanics.
+- Core claim: Retrocausality is a serious interpretive option in quantum foundations, especially around Bell, no-go theorems, and time symmetry, but it is not a settled consensus.
+- Observer-dependent relevance: Good secondary map for keeping retrocausality distinct from delayed-choice rhetoric, superdeterminism, and signalling-to-the-past claims.
+- Assumptions used/challenged: varies by model.
+- Tags: retrocausality, quantum foundations, overview
+- Confidence / caveats: high as secondary synthesis.
+- Mode: scholarly overview
+
+### Wharton and Argaman 2020 - "Bell's Theorem and Locally Mediated Reformulations of Quantum Mechanics"
+
+- Authors: Ken B. Wharton, Nathan Argaman
+- Year: 2020
+- Source type: peer-reviewed review / colloquium
+- Link / DOI: https://doi.org/10.1103/RevModPhys.92.021002
+- arXiv: https://arxiv.org/abs/1906.04313
+- Summary: Reviews locally mediated models where entanglement correlations are mediated through spacetime-local parameters, but some parameters depend on future measurement settings.
+- Core claim: Bell's theorem does not rule out every locally mediated reformulation if the usual arrow-of-time assumption is relaxed.
+- Observer-dependent relevance: Important technical neighbour for retrocausality as a route to local mediation and all-at-once modelling.
+- Assumptions used/challenged: measurement-setting independence, arrow of time, standard local hidden-variable framework.
+- Tags: Wharton, Argaman, Bell, locally mediated, retrocausality
+- Confidence / caveats: medium-high; research programme and toy-model survey, not a complete replacement for quantum theory.
+- Mode: theoretical / review
+
+### Aharonov, Bergmann, and Lebowitz 1964 - "Time Symmetry in the Quantum Process of Measurement"
+
+- Authors: Yakir Aharonov, Peter G. Bergmann, Joel L. Lebowitz
+- Year: 1964
+- Source type: peer-reviewed theoretical paper
+- Link: https://www.tau.ac.il/~yakir/yahp/yh150
+- Summary: Develops a time-symmetric treatment of quantum measurement using both initial and final boundary conditions for pre- and post-selected systems.
+- Core claim: Quantum measurement probabilities can be formulated in a way that treats past and future boundary conditions symmetrically.
+- Observer-dependent relevance: Formal ancestor for two-state-vector and post-selection discussions adjacent to retrocausality.
+- Assumptions used/challenged: one-sided initial-state-only description.
+- Tags: ABL rule, time symmetry, post-selection, TSVF
+- Confidence / caveats: high as formal source; time symmetry should not be automatically equated with physical backward causation.
+- Mode: theoretical
+
+### Cramer 1986 - "The Transactional Interpretation of Quantum Mechanics"
+
+- Authors: John G. Cramer
+- Year: 1986
+- Source type: peer-reviewed interpretation paper
+- Link / DOI: https://doi.org/10.1103/RevModPhys.58.647
+- Summary: Presents the transactional interpretation, using offer and confirmation waves to describe quantum events as completed transactions across spacetime.
+- Core claim: A time-symmetric account with advanced and retarded waves can address some quantum interpretive puzzles.
+- Observer-dependent relevance: Classic explicitly retrocausal interpretation and useful comparison point for Wheeler-Feynman absorber theory.
+- Assumptions used/challenged: standard collapse story, one-way causal description.
+- Tags: transactional interpretation, Cramer, advanced waves, retrocausality
+- Confidence / caveats: medium-high as interpretation source; not consensus physics.
+- Mode: interpretive / theoretical
 
 ### Rovelli 1996 - "Relational Quantum Mechanics"
 

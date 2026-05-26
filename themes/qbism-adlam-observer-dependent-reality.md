@@ -150,6 +150,7 @@ For the agency question, see [Practical Agency Inside Constraint](../wiki/concep
 - [Local Friendliness](local-friendliness.md)
 - [Frauchiger-Renner](frauchiger-renner.md)
 - [Many-Worlds, Wheeler, and Observer-Dependent Reality](many-worlds-and-observer-dependent-reality.md)
+- [Retrocausality, Delayed Choice, and Two Roads](retrocausality-delayed-choice-and-two-roads.md)
 - [Interpretations](interpretations.md)
 - [AI Observers](ai-observers.md)
 - [Practical Agency Inside Constraint](../wiki/concepts/practical-agency-inside-constraint.md)

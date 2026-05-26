@@ -184,5 +184,6 @@ That is the tie-in. Everett is not outside the observer-dependent-reality packag
 - [Local Friendliness](local-friendliness.md)
 - [Frauchiger-Renner](frauchiger-renner.md)
 - [QBism, Global Constraints, and Observer-Dependent Reality](qbism-adlam-observer-dependent-reality.md)
+- [Retrocausality, Delayed Choice, and Two Roads](retrocausality-delayed-choice-and-two-roads.md)
 - [Concept Map](../maps/concept-map.md)
 - [Open Questions](../open-questions.md)

@@ -3,7 +3,7 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-05-21
+updated: 2026-05-26
 ---
 
 # Current State
@@ -61,6 +61,7 @@ Session caveat: many of these pages intentionally preserve "this felt significan
 
 ## Recent Additions
 
+- Added [Retrocausality, Delayed Choice, and Two Roads](../../themes/retrocausality-delayed-choice-and-two-roads.md), comparing Wheeler's delayed-choice experiment with Emily Adlam's "Two Roads to Retrocausality" and nearby work by Leifer/Pusey, Price, Wharton/Argaman, Aharonov-Bergmann-Lebowitz, and Cramer. Keep the guardrail visible: Wheeler is a measurement-context intuition pump, not proof of backward signalling; Adlam's strongest route is all-at-once/global constraint rather than little causal arrows travelling from future to past.
 - Updated [OpenAI Codex For Everyday Work](../sources/openai-codex-for-everyday-work.md), [Agentic Engineering](../concepts/agentic-engineering.md), and [How Can Normal Humans Use Codex?](../questions/how-can-normal-humans-use-codex.md) with OpenAI's official "How OpenAI uses Codex" PDF. Preserve the practical pattern: code understanding, migrations, performance, tests, velocity, staying in flow, exploration, Ask Mode first, issue-shaped prompts, task queue as backlog, AGENTS.md, and Best-of-N.
 - Added [Codex Goals](../concepts/codex-goals.md), based on OpenAI's May 9, 2026 cookbook guide. Treat Goals as thread-scoped completion contracts, not vague autonomy: outcome, verifier, constraints, boundaries, iteration policy, and blocked stop condition. This is directly useful for daily timeline refreshes and research audits because it forces explicit evidence standards before Codex keeps going.
 - Added [Computer Work Agent](../concepts/computer-work-agent.md) and refreshed [OpenAI Codex For Everyday Work](../sources/openai-codex-for-everyday-work.md) / [How Can Normal Humans Use Codex?](../questions/how-can-normal-humans-use-codex.md) around OpenAI's "Codex for (almost) everything" direction. The durable concept is Codex moving outward from code into browser surfaces, desktop apps, documents, spreadsheets, connectors, MCP, schedules, memories, goals, thread automations, steering/queuing, and side-panel artifact review. Keep the approval/verifier boundary visible.
