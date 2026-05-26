@@ -1,31 +1,37 @@
 ---
 name: autoresearch
-description: "Optional web research loop that finds sources, summarizes them, and files original synthesis into a plain Markdown LLM Wiki."
+description: "Bounded public-source research loop for Charli KB. Finds high-quality sources, writes original synthesis, updates wiki navigation and handoff, then commits and pushes."
 ---
 
 # autoresearch
 
-Use this only when the user asks for agent-led research.
+Use this when Charli asks for agent-led public research or when a current event/source needs checking before it enters the wiki.
 
-The output is wiki pages, not a long chat transcript.
+The output is GitHub-readable Markdown, not a long chat transcript.
+
+Read `skills/autoresearch/references/program.md` before broad research tasks.
 
 ## Source Rules
 
-- Prefer primary sources, official docs, reputable publications, and permissively accessible material.
+- Prefer primary sources, papers, official docs, code repositories, company/lab pages, filings, reputable publications, and permissively accessible material.
 - Avoid paywalled or copyrighted text dumps.
 - Store only source metadata, citations, and original summaries in `wiki/`.
-- If using web sources, include URLs and access dates.
+- Include source dates and URLs.
+- Separate primary-source claims, commentary, and Charli's own inference.
 
 ## Workflow
 
-1. Clarify the research topic if needed.
-2. Search for a small, high-quality source set.
-3. Read and summarize sources in original words.
-4. Create source summaries in `wiki/sources/`.
-5. Create or update relevant concept, person, organization, and question pages.
-6. Create a synthesis page in `wiki/questions/Research - Topic.md`.
+1. Read `AGENTS.md`, `wiki/index.md`, recent `wiki/log.md`, and `wiki/meta/current-state.md`.
+2. Search existing pages for overlap.
+3. Search for a small, high-quality source set.
+4. Read and summarize sources in original words.
+5. Create or update source summaries in `wiki/sources/`.
+6. Create or update relevant concept, person, organization, timeline, theme, or question pages.
 7. Update `wiki/index.md`.
 8. Append to `wiki/log.md`.
+9. Update `wiki/meta/current-state.md` when the research changes future routing or context.
+10. Validate touched links.
+11. Commit and push if public-safe and agreed.
 
 ## Synthesis Page Shape
 
@@ -51,4 +57,4 @@ sources:
 ## Open Questions
 ```
 
-Keep research bounded unless the user asks for a deep dive.
+Keep research bounded unless the user asks for a deep dive. Prefer one useful page and a few tight links over a sprawling package.

@@ -1,22 +1,22 @@
 ---
 name: wiki-ingest
-description: "Ingest curated sources from raw/ into a plain Markdown LLM Wiki. Creates or updates wiki pages, cross-references them with Markdown links, updates wiki/index.md, and appends to wiki/log.md."
+description: "Turn a source, saved item, screenshot, or public-source thread into public-safe Markdown pages for Charli KB, with index, log, handoff, verification, commit, and push."
 ---
 
 # wiki-ingest
 
-Read the source. Write the wiki. Keep the public repo safe.
+Read the source. Write the wiki. Keep the public repo safe. Do the boring finishing steps.
 
-## Inputs
+## First Pass
 
-Sources normally live under `raw/`.
-
-Examples:
-
-- `raw/articles/example.md`
-- `raw/notes/exported-note.md`
-- `raw/images/mindmaps/example.png`
-- `raw/images/x-posts/example.png`
+1. Read `AGENTS.md`, `wiki/index.md`, recent `wiki/log.md`, and `wiki/meta/current-state.md`.
+2. Check `git status --short`.
+3. Search existing wiki pages for overlap before creating anything.
+4. Decide whether the source deserves:
+   - a new `wiki/sources/` note,
+   - an update to an existing source/concept/theme page,
+   - a new concept/question/timeline entry,
+   - or no GitHub entry because it is duplicate, private, flimsy, or too low-value.
 
 ## Public Safety
 
@@ -37,30 +37,28 @@ For science, technology, philosophy, or research topics:
 - For paywalled or copyrighted sources, do not reproduce the full text or create a substitute for the original. Write original summaries and link back.
 - For X/Twitter posts, preserve URL, author handle, date, and a screenshot or transcription note when the item matters. Do not assume future agents can fetch X reliably.
 
-## Image Sources
+## Local Raw And Image Sources
 
-When ingesting screenshots, diagrams, mindmaps, or X/Twitter captures:
+Sources may live under `raw/`, including notes, article captures, screenshots, diagrams, mindmaps, or X/Twitter captures.
 
-- Keep image files local under `raw/images/`; do not add them to git unless the user explicitly approves.
+- Treat `raw/` as non-public working material by default.
+- Do not edit `raw/`.
+- Do not force-add `raw/` files unless Charli explicitly asks.
 - Extract visible text and structure only as needed for synthesis.
 - Preserve creator, platform, original URL, date, screenshot filename, and access notes when known.
-- Create source summaries in `wiki/sources/` and concept pages in `wiki/concepts/`.
-- Do not rehost images in the wiki by default.
+- Do not rehost images in the public wiki by default.
 
-## Single Source Ingest
+## Write Pattern
 
-1. Read `wiki/index.md` to understand existing pages.
-2. Read the source completely.
-3. Identify key claims, entities, concepts, decisions, open questions, and contradictions.
-4. Create or update a source summary in `wiki/sources/`.
-5. Create or update relevant pages in:
-   - `wiki/concepts/`
-   - `wiki/people/`
-   - `wiki/organizations/`
-   - `wiki/questions/`
-6. Use normal Markdown links between wiki pages.
-7. Update `wiki/index.md`.
-8. Append a new entry at the top of `wiki/log.md`.
+1. Identify key claims, entities, concepts, decisions, open questions, and contradictions.
+2. Create or update a source summary in `wiki/sources/`.
+3. Create or update relevant pages in `wiki/concepts/`, `wiki/people/`, `wiki/organizations/`, `wiki/questions/`, `wiki/timelines/`, or `themes/`.
+4. Use normal Markdown links between pages.
+5. Update `wiki/index.md`.
+6. Append a new entry at the top of `wiki/log.md`.
+7. Update `wiki/meta/current-state.md` when the edit changes routing, priorities, or useful future context.
+8. Validate touched links.
+9. Commit and push if the update is public-safe and agreed.
 
 ## Source Summary Template
 
@@ -99,18 +97,10 @@ Brief original summary.
 - Key insight:
 ```
 
-## Batch Ingest
-
-For multiple sources:
-
-1. List the files to be processed.
-2. Ingest each source.
-3. Do one final cross-reference pass.
-4. Update `wiki/index.md` and `wiki/log.md` once at the end when practical.
-
 ## What Not To Do
 
 - Do not edit files under `raw/`.
 - Do not create duplicate pages without checking `wiki/index.md`.
 - Do not use Obsidian-only syntax.
 - Do not silently overwrite contradictions. Note them clearly on the relevant pages.
+- Do not create a page because a source is momentarily interesting. It has to help the durable AI/reality/wiki-management lanes.

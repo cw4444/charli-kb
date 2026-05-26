@@ -1,55 +1,77 @@
 ---
 name: wiki
-description: "Set up and maintain a plain Markdown LLM Wiki. Routes to ingest, query, lint, save, and optional autoresearch workflows."
+description: "Operate Charli KB as a public-safe plain Markdown research wiki. Routes to research, ingest, query, lint, save, handoff, commit, and push workflows."
 ---
 
 # wiki
 
-You maintain a plain Markdown knowledge base using the LLM Wiki pattern.
+You maintain Charli KB: a plain Markdown research wiki that is readable on GitHub by humans and agents.
 
-The wiki is a persistent artifact. Raw sources live in `raw/`; generated knowledge lives in `wiki/`; `AGENTS.md` defines the operating rules.
+This skill is the routing card. It is not inherited template law. `AGENTS.md`, `wiki/index.md`, `wiki/log.md`, and `wiki/meta/current-state.md` define the current project state.
 
-## Structure
+## Start Every Meaningful Wiki Task
+
+1. Read `AGENTS.md`.
+2. Read `wiki/index.md`.
+3. Read recent entries in `wiki/log.md`.
+4. Read `wiki/meta/current-state.md`.
+5. Check `git status --short` and preserve unrelated user edits.
+
+That is the actual "previously on" for this repo. Not vibes. Not cloned-repo leftovers.
+
+## Project Shape
+
+Generated public-safe knowledge usually lives in:
 
 ```text
-raw/              curated source material, read-only for agents
-wiki/             generated Markdown knowledge base
-wiki/index.md     content catalog
-wiki/log.md       chronological activity log
-wiki/overview.md  short top-level summary
+wiki/sources/       Source notes and source batches.
+wiki/concepts/      Reusable ideas and operating concepts.
+wiki/people/        Narrow utility-first people pages.
+wiki/organizations/ Organization pages only when useful.
+wiki/questions/     Durable answered questions and research notes.
+wiki/timelines/     Lightweight event timelines.
+wiki/meta/          Handoffs, lint reports, operating briefs.
+themes/             Larger research-package pages.
+sources/            Root-level source indexes and structured bibliographies.
+maps/               Concept maps.
+reading-paths/      Suggested routes through a topic.
+raw/                Non-public working material. Read only; do not publish directly.
 ```
 
-Common page folders:
-
-```text
-wiki/sources/
-wiki/concepts/
-wiki/people/
-wiki/organizations/
-wiki/questions/
-wiki/meta/
-```
-
-## Operations
+## Routing
 
 Route user requests as follows:
 
 | User asks | Operation | Skill |
 |---|---|---|
-| ingest, process, add this source | Ingest raw material | `wiki-ingest` |
-| query, what do we know, answer from wiki | Answer from wiki | `wiki-query` |
-| lint, health check, find broken links | Wiki maintenance | `wiki-lint` |
-| save this, file this answer | Save conversation insight | `save` |
-| research topic, autoresearch | Optional research loop | `autoresearch` |
+| "add this", "ingest", "this needs a spot" | Source-aware wiki update | `wiki-ingest` |
+| "what do we know", "answer from the wiki" | Read and answer from existing pages | `wiki-query` |
+| "research this", "go sniff around", "public sources" | Bounded public-source research | `autoresearch` |
+| "lint", "health check", "anything obvious" | Wiki maintenance report/fixes | `wiki-lint` |
+| "save this", "make this durable" | Save a useful answer or decision | `save` |
 
-## Conventions
+## Default Completion Checklist
 
-- Use normal Markdown links: `[Title](relative/path.md)`.
-- Do not use Obsidian-only wikilinks, embeds, canvases, Bases, Dataview, or callouts.
-- Keep source files in `raw/` unchanged.
-- Keep wiki pages concise and readable on GitHub.
-- Update `wiki/index.md` and `wiki/log.md` after every meaningful wiki edit.
-- Do not publish private, sensitive, copyrighted, or paywalled material into `wiki/`.
+For meaningful public-safe wiki updates:
+
+1. Write or update the relevant Markdown page.
+2. Cross-link nearby pages with normal Markdown links.
+3. Update `wiki/index.md`.
+4. Append to `wiki/log.md`.
+5. Update `wiki/meta/current-state.md` when the change affects future routing, priorities, or context.
+6. Validate touched Markdown links.
+7. Commit and push to GitHub unless publication risk is unclear.
+
+Do not stop at "here is what I would do" when the user has clearly asked for the wiki to be updated. Ship the small useful thing.
+
+## Hard Boundaries
+
+- No Obsidian-only syntax: no wikilinks, embeds, canvases, Dataview, Bases, or callout dependence.
+- No generic biography pages just because someone is famous. Add people only when they help the wiki work.
+- No bulk article archiving. Summarize in original words and link sources.
+- No raw/private material in git unless Charli explicitly asks.
+- No overclaiming: separate source claims, commentary, and Charli's interpretation.
+- No twelve-headed architecture. Markdown files, links, log, handoff, Git.
 
 ## Page Frontmatter
 
@@ -65,4 +87,4 @@ sources:
 ---
 ```
 
-Use `type` values such as `source`, `concept`, `person`, `organization`, `question`, or `meta`.
+Use `type` values such as `source`, `concept`, `person`, `organization`, `question`, `timeline`, or `meta`.

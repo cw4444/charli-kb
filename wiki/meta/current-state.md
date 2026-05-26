@@ -43,6 +43,15 @@ This repo is a plain Markdown personal knowledge base based on Karpathy's LLM Wi
 
 ## Latest Session Handoff
 
+On 2026-05-26, Charli and Codex cleaned the local `skills/` folder so future agents do not inherit cloned-template sludge. The useful workflow is now explicit: read `AGENTS.md`, `wiki/index.md`, recent `wiki/log.md`, and this file; produce public-safe Markdown for GitHub; update index/log/current-state; validate links; commit and push when publication risk is clear. The `defuddle` skill was removed because article-cleaning dependency bait is not part of the default workflow. The remaining skills are `wiki`, `wiki-ingest`, `wiki-query`, `wiki-lint`, `save`, and `autoresearch`.
+
+Key skill cleanup points:
+
+- `skills/wiki/SKILL.md` is now the router for this repo's actual workflow, not a generic cloned LLM Wiki template.
+- `skills/wiki-ingest/SKILL.md`, `skills/autoresearch/SKILL.md`, and `skills/autoresearch/references/program.md` now emphasize repo-first public sources, original synthesis, public/private boundaries, and GitHub finishing steps.
+- `skills/wiki-query/SKILL.md`, `skills/wiki-lint/SKILL.md`, and `skills/save/SKILL.md` now point agents toward current-state context and away from Obsidian or bulk-archive behavior.
+- `AGENTS.md` now says skills should support repo-first public research and GitHub-readable Markdown, not Notion-first or editor-specific workflows.
+
 On 2026-05-26, Charli and Codex also updated the AI/agents lane around Chris Olah speaking at the Vatican presentation of Pope Leo XIV's AI-focused encyclical, *Magnifica Humanitas*. The main theme was: this is a durable Anthropic / interpretability / model-character / civil-society governance signal, but do not turn it into "the Pope endorsed Anthropic" or "AI consciousness proved, pack it up."
 
 Key additions and updates:
@@ -133,7 +142,6 @@ Session caveat: many of these pages intentionally preserve "this felt significan
 ## Next Useful Steps
 
 - Create the daily AI timeline refresh automation in the Codex app using [Daily AI Timeline Refresh](daily-ai-timeline-refresh.md) as the prompt/brief.
-- Update `AGENTS.md` later to reflect the repo-first research default and demote the Notion queue to optional intake.
 - Consider trimming or rewriting old Notion-centric guide pages so they do not imply Notion is required for research.
 - Periodically lint the wiki for dead links, duplicate concepts, stale source notes, and public/private boundary issues.
 - Consider consolidating overlapping concepts only after several more ingest batches reveal real repetition.

@@ -1,25 +1,27 @@
 ---
 name: wiki-query
-description: "Answer questions from a plain Markdown LLM Wiki. Reads wiki/index.md first, then relevant pages, and cites supporting wiki pages with Markdown links."
+description: "Answer questions from Charli KB by reading the index, current handoff, and relevant Markdown pages, with clear source boundaries."
 ---
 
 # wiki-query
 
-Answer from the wiki first. Do not re-derive from raw sources unless the wiki is missing needed evidence.
+Answer from the wiki first. Do not re-derive from raw sources unless the wiki is missing needed evidence or the user asks for fresh research.
 
 ## Workflow
 
 1. Read `wiki/index.md`.
-2. Identify the most relevant wiki pages.
-3. Read only those pages unless the user asks for a deep synthesis.
-4. Answer with Markdown links to supporting pages.
-5. If the wiki lacks enough evidence, say exactly what is missing.
-6. If the answer is valuable, offer to save it as a page in `wiki/questions/`.
+2. Read `wiki/meta/current-state.md` when current routing or context matters.
+3. Identify the most relevant wiki pages.
+4. Read only those pages unless the user asks for a deep synthesis.
+5. Answer with Markdown links to supporting pages.
+6. Separate wiki-backed facts from inference or speculation.
+7. If the wiki lacks enough evidence, say exactly what is missing.
+8. If the answer is valuable and public-safe, offer to save it as a page in `wiki/questions/`.
 
 ## Query Depth
 
 - Quick: use `wiki/index.md` and maybe one page.
-- Standard: read `wiki/index.md` plus 3-5 relevant pages.
+- Standard: read `wiki/index.md`, `wiki/meta/current-state.md`, and 3-5 relevant pages.
 - Deep: read all relevant pages and optionally inspect raw sources if needed.
 
 ## Filing Answers Back

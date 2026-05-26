@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-05-26] maintenance | local skills cleanup
+- Pages updated: [Current State](meta/current-state.md), [Wiki Log](log.md), [AGENTS](../AGENTS.md), `skills/wiki/SKILL.md`, `skills/wiki-ingest/SKILL.md`, `skills/wiki-query/SKILL.md`, `skills/wiki-lint/SKILL.md`, `skills/save/SKILL.md`, `skills/autoresearch/SKILL.md`, `skills/autoresearch/references/program.md`
+- Pages removed: `skills/defuddle/SKILL.md`
+- Notes: Rewrote the local skills around Charli KB's real workflow: repo-first public research, original Markdown synthesis, public/private boundaries, index/log/current-state updates, touched-link validation, commit, and push. Removed the optional defuddle article-cleaning skill because it encouraged dependency/tool drift rather than helping manage the GitHub wiki.
+
 ## [2026-05-26] source note | Olah Vatican AI discernment signal
 - Sources: Anthropic, [Chris Olah's remarks on Pope Leo XIV's encyclical Magnifica humanitas](https://www.anthropic.com/news/chris-olah-pope-leo-encyclical); Holy See, [Magnifica Humanitas](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html).
 - Pages created: [Anthropic Olah Vatican AI Discernment 2026](sources/anthropic-olah-vatican-ai-discernment-2026.md)
