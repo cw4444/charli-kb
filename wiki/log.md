@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-05-26] source note | Donald Hoffman and interface theory
+- Sources: Hoffman, Singh, and Prakash 2015; Hoffman 2016; Hoffman 2008 conscious realism paper; UC/University of California book overview; Hoffman/Singh reply to commentaries; Sawada and Pizlo critique.
+- Pages created: [Donald Hoffman - Interface Theory Of Perception](sources/donald-hoffman-interface-theory.md), [Interface Theory Of Perception](concepts/interface-theory-of-perception.md), [Donald Hoffman](people/donald-hoffman.md)
+- Pages updated: [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added Hoffman as a perception-side reality-lane bridge. Kept the useful desktop-interface metaphor while explicitly separating it from stronger conscious-realism claims, simulation-theory overreach, and "nothing is real" sludge.
+
 ## [2026-05-26] synthesis | Retrocausality, delayed choice, and two roads
 - Sources: Wheeler 1978 delayed-choice paper via "Law Without Law"; Adlam 2022 "Two Roads to Retrocausality"; Adlam 2018 temporal nonlocality; Leifer and Pusey 2017; SEP retrocausality overview; Wharton and Argaman 2020; Aharonov-Bergmann-Lebowitz 1964; Cramer 1986.
 - Pages created: [Retrocausality, Delayed Choice, and Two Roads](../themes/retrocausality-delayed-choice-and-two-roads.md)

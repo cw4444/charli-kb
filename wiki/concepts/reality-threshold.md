@@ -28,4 +28,5 @@ Reality threshold does not mean the external world is fake or that all experienc
 ## Related
 
 - [Perception And Imagination Overlap](perception-and-imagination-overlap.md)
+- [Interface Theory Of Perception](interface-theory-of-perception.md)
 - [Nadine Dijkstra](../people/nadine-dijkstra.md)

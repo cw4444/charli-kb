@@ -24,4 +24,5 @@ This is still early evidence. The safest use of the concept is as a model for re
 ## Related
 
 - [Reality Threshold](reality-threshold.md)
+- [Interface Theory Of Perception](interface-theory-of-perception.md)
 - [Nadine Dijkstra](../people/nadine-dijkstra.md)
