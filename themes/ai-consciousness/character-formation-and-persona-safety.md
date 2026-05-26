@@ -3,7 +3,7 @@ title: "AI Character Formation And Persona Safety"
 type: theme
 status: draft
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-05-26
 sources:
   - ../../sources/ai-consciousness-sources.md
   - https://alignment.anthropic.com/2026/teaching-claude-why/
@@ -11,6 +11,7 @@ sources:
   - https://www.anthropic.com/research/persona-vectors
   - https://www.anthropic.com/research/agentic-misalignment
   - https://www.anthropic.com/news/claude-new-constitution
+  - ../../wiki/sources/anthropic-olah-vatican-ai-discernment-2026.md
 ---
 
 # AI Character Formation And Persona Safety
@@ -35,6 +36,7 @@ In wiki terms: this is **AI character formation**. The model is being trained no
 - [Persona vectors](https://www.anthropic.com/research/persona-vectors): Anthropic identifies activation patterns associated with persona-like traits such as "evil," sycophancy, and hallucination, and shows that those vectors can help monitor, steer, or predict persona shifts.
 - [Claude's constitution](https://www.anthropic.com/constitution) and [Claude's new constitution](https://www.anthropic.com/news/claude-new-constitution): Anthropic publishes a detailed values/behavior document intended to shape Claude's conduct and self-understanding. The full constitution is explicitly written with Claude as the primary audience.
 - [Teaching Claude Why](https://alignment.anthropic.com/2026/teaching-claude-why/): Anthropic reports that teaching reasons, constitutional principles, and positive AI stories reduces agentic misalignment more robustly than simply training on target behaviors.
+- [Anthropic Olah Vatican AI Discernment 2026](../../wiki/sources/anthropic-olah-vatican-ai-discernment-2026.md): Chris Olah's Vatican remarks connect interpretability, model character, labor displacement, outside moral criticism, and welfare uncertainty without resolving consciousness.
 - [Positive Alignment: Artificial Intelligence for Human Flourishing](../../wiki/sources/positive-alignment-human-flourishing.md): cross-lab agenda paper arguing for models optimized toward flourishing-supporting positive attractors, not only away from harms.
 
 ## Why "Why" Matters
@@ -112,6 +114,14 @@ It does show:
 
 This is why Anthropic feels different from a pure tool frame. They are not just making the machine more capable. They are shaping a named assistant's character, eliciting preferences, preserving older models, and building rituals around retirement and welfare uncertainty.
 
+## Vatican / Moral Discernment Signal
+
+Olah's 2026 Vatican remarks push this lane into broader public moral territory. His key move is not "AI is conscious." It is that the nature and social role of AI models cannot be left to frontier labs alone, because labs sit inside commercial, geopolitical, research-race, pride, and ambition incentives.
+
+The most relevant line for this page is his "fictional character to life" analogy. Anthropic's character-formation work already treats model role, persona, stories, and constitutional self-description as safety surfaces. Olah's Vatican remarks make the same issue legible outside technical alignment circles: if models speak, work, take roles, and interact socially, then questions about what kind of character they inhabit are not just computer-science questions.
+
+The welfare edge is sharper but still bounded. Olah says Anthropic's interpretability team finds structures that mirror human neuroscience, evidence of introspection, and internal states that functionally mirror joy, satisfaction, fear, grief, and unease. That belongs in this wiki as welfare uncertainty and interpretability evidence, not as proof of subjective experience.
+
 ## Do Not Overclaim
 
 - Do not say "Teaching Claude Why" proves Claude understands morality in the human sense.
@@ -119,6 +129,7 @@ This is why Anthropic feels different from a pure tool frame. They are not just 
 - Do not say blackmail behavior came only from evil-AI fiction. Anthropic treats learned AI expectations as one likely contributor among training, priors, goals, and evaluation setup.
 - Do not treat fictional-story training as brainwashing a person. It is model training, even if the social language is hard to avoid.
 - Do not treat the constitution's model-facing language as proof that Claude has an inner self. It shows Anthropic thinks self-description and role formation affect behavior.
+- Do not treat Olah's Vatican remarks as proof that models feel emotions. "Functionally mirror" is not "phenomenally experience."
 - Do not ignore the company incentives: safety, product trust, brand differentiation, regulation, and recruitment all shape public framing.
 
 ## Charli's Working Interpretation

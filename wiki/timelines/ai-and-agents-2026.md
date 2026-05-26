@@ -3,10 +3,11 @@ title: "AI And Agents 2026 Timeline"
 type: timeline
 status: draft
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-05-26
 sources:
   - ../sources/current-ai-agent-landscape-2026.md
   - ../sources/anthropic-compute-and-talent-signal-2026.md
+  - ../sources/anthropic-olah-vatican-ai-discernment-2026.md
   - ../../themes/ai-consciousness/character-formation-and-persona-safety.md
   - https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
   - https://openai.com/index/retiring-gpt-4o-and-older-models/
@@ -37,7 +38,7 @@ Use this page for events that are useful historical anchors:
 
 Future lint rule: update this page if it helps preserve the shape of the year. Delete or collapse entries that turn out to be noise.
 
-## Short Read As Of 2026-05-21
+## Short Read As Of 2026-05-26
 
 The first five months of 2026 already show several converging threads:
 
@@ -49,6 +50,7 @@ The first five months of 2026 already show several converging threads:
 - Karpathy's LLM Wiki pattern gave this repo a direct structural ancestor.
 - Karpathy then joined Anthropic's pre-training team.
 - Anthropic paired its constitution/model-welfare/character-formation lane with major compute access from SpaceX/Colossus.
+- Anthropic co-founder Chris Olah spoke at the Vatican presentation of Pope Leo XIV's AI-focused encyclical, putting interpretability, model character, labor displacement, welfare uncertainty, and outside moral criticism into one very visible public frame.
 - Meta began a major AI restructuring: roughly 8,000 job cuts, roughly 7,000 workers reassigned to AI-focused initiatives, and a leaked-audio controversy around employee computer-use data being used to train AI systems.
 - GPT-4o, a model many users were emotionally attached to, was retired from ChatGPT on 2026-02-13.
 
@@ -211,6 +213,20 @@ Why it matters: coming after the LLM Wiki gist and during the agent/coding-tool 
 Source:
 
 - [Anthropic Compute And Talent Signal 2026](../sources/anthropic-compute-and-talent-signal-2026.md)
+
+### 2026-05-25 - Chris Olah speaks at Vatican presentation of AI encyclical
+
+Anthropic published Chris Olah's remarks at the Vatican City presentation of Pope Leo XIV's AI-focused encyclical, *Magnifica Humanitas*. Anthropic dates the remarks and presentation to Monday 2026-05-25; the Holy See encyclical page itself is dated 2026-05-15.
+
+Why it matters: this is a major public signal that frontier AI is no longer being framed only as product, compute, and lab safety. Olah explicitly asked for critics outside frontier-lab incentives, described models as partly mysterious systems "grown" from human language, used a "fictional character to life" analogy, and named labor displacement, global inequality, human flourishing, and model nature as questions requiring broader discernment.
+
+Careful read: do not turn this into "the Pope endorsed Anthropic" or "Olah proved AI is conscious." The useful signal is that Anthropic's interpretability/model-character lane is now intersecting with religious, moral, and civil-society governance frames at a very high public level.
+
+Sources:
+
+- [Anthropic Olah Vatican AI Discernment 2026](../sources/anthropic-olah-vatican-ai-discernment-2026.md)
+- [Anthropic: Chris Olah's remarks on Pope Leo XIV's encyclical Magnifica humanitas](https://www.anthropic.com/news/chris-olah-pope-leo-encyclical)
+- [Holy See: Magnifica Humanitas](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)
 
 ### 2026-05-19 to 2026-05-20 - Meta AI restructuring, layoffs, and employee-data controversy
 

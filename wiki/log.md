@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-05-26] source note | Olah Vatican AI discernment signal
+- Sources: Anthropic, [Chris Olah's remarks on Pope Leo XIV's encyclical Magnifica humanitas](https://www.anthropic.com/news/chris-olah-pope-leo-encyclical); Holy See, [Magnifica Humanitas](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html).
+- Pages created: [Anthropic Olah Vatican AI Discernment 2026](sources/anthropic-olah-vatican-ai-discernment-2026.md)
+- Pages updated: [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [AI Character Formation And Persona Safety](../themes/ai-consciousness/character-formation-and-persona-safety.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added the Vatican / Anthropic event as a durable 2026 timeline signal. Preserved the date wrinkle: Anthropic dates Olah's remarks and the presentation to 2026-05-25, while the Holy See encyclical page is dated 2026-05-15. Framed the event as interpretability, model character, welfare uncertainty, labor displacement, and outside moral criticism entering a high-level religious/civil-society governance frame, not as proof of AI consciousness or papal endorsement of Anthropic.
+
 ## [2026-05-26] meta | refresh current-state handoff
 - Pages updated: [Current State](meta/current-state.md), [Wiki Log](log.md)
 - Notes: Refreshed the hotcache/current-state handoff after the retrocausality and Hoffman interface-theory additions. Confirmed `AGENTS.md` already tells future agents to read `AGENTS.md`, `wiki/index.md`, `wiki/log.md`, and `wiki/meta/current-state.md` before major wiki maintenance or fresh sessions.

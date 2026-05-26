@@ -43,7 +43,15 @@ This repo is a plain Markdown personal knowledge base based on Karpathy's LLM Wi
 
 ## Latest Session Handoff
 
-On 2026-05-26, Charli and Codex extended the reality lane around retrocausality, perception-as-interface, and the "custard brain" model of reality access. The main theme was: do not treat experienced reality as raw reality, and do not let that insight slide into simulation-theory sludge.
+On 2026-05-26, Charli and Codex also updated the AI/agents lane around Chris Olah speaking at the Vatican presentation of Pope Leo XIV's AI-focused encyclical, *Magnifica Humanitas*. The main theme was: this is a durable Anthropic / interpretability / model-character / civil-society governance signal, but do not turn it into "the Pope endorsed Anthropic" or "AI consciousness proved, pack it up."
+
+Key additions and updates:
+
+- [Anthropic Olah Vatican AI Discernment 2026](../sources/anthropic-olah-vatican-ai-discernment-2026.md) records the event, main claims, source dates, and guardrails. Preserve the date wrinkle: Anthropic dates Olah's remarks and the presentation to Monday 2026-05-25; the Holy See encyclical page itself is dated 2026-05-15.
+- [AI And Agents 2026 Timeline](../timelines/ai-and-agents-2026.md) now includes the 2026-05-25 Olah/Vatican entry. It belongs next to Anthropic's compute/talent/character-formation thread because the same month includes SpaceX/xAI Colossus compute, Karpathy joining pre-training, and Anthropic's model-character work.
+- [AI Character Formation And Persona Safety](../../themes/ai-consciousness/character-formation-and-persona-safety.md) now has a Vatican / moral discernment section. Keep the boundary: Olah's "functionally mirror joy, satisfaction, fear, grief, and unease" point is welfare-relevant uncertainty and interpretability evidence, not proof of subjective experience.
+
+Earlier on 2026-05-26, Charli and Codex extended the reality lane around retrocausality, perception-as-interface, and the "custard brain" model of reality access. The main theme was: do not treat experienced reality as raw reality, and do not let that insight slide into simulation-theory sludge.
 
 Key additions and updates:
 
