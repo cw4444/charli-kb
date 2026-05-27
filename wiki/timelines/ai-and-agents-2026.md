@@ -213,15 +213,15 @@ Source:
 
 - [OpenAI: Work with Codex from anywhere](https://openai.com/index/work-with-codex-from-anywhere/)
 
-### 2026-05-14 - xAI launches Grok Build early beta
+### 2026-05-25 - xAI makes Grok Build available to SuperGrok and X Premium Plus subscribers
 
-xAI launched Grok Build early beta as a terminal coding agent with plan mode, diffs, AGENTS.md, plugins, hooks, skills, MCP servers, and parallel subagents.
+xAI launched Grok Build early beta as a terminal coding agent with plan mode, diffs, AGENTS.md, plugins, hooks, skills, MCP servers, parallel subagents, headless mode, and ACP support. The launch page says it is available to all SuperGrok and X Premium Plus subscribers and can be installed with one command: `curl -fsSL https://x.ai/cli/install.sh | bash`.
 
 Why it matters: by May 2026, the coding-agent pattern is no longer an OpenAI/Anthropic-only story. Multiple labs are converging on terminals, repo instructions, tools, subagents, and reviewable diffs.
 
 Source:
 
-- [xAI: Introducing Grok Build Early Beta](https://x.ai/news/grok-build-cli)
+- [xAI: Introducing Grok Build](https://x.ai/news/grok-build-cli)
 
 ### 2026-05-19 - Karpathy joins Anthropic
 

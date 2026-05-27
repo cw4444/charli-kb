@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-05-27] timeline | Grok Build access correction
+- Source: xAI, [Introducing Grok Build](https://x.ai/news/grok-build-cli).
+- Pages updated: [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Wiki Log](log.md)
+- Notes: Corrected the Grok Build entry from the earlier "early beta" framing to xAI's current launch-page wording: May 25, 2026; available to all SuperGrok and X Premium Plus subscribers; installable with `curl -fsSL https://x.ai/cli/install.sh | bash`; includes plan/review/approve, AGENTS.md/SKILL.md-style workflow support, plugins/hooks/MCP, subagents, headless mode, and ACP support.
+
 ## [2026-05-27] timeline | daily AI digest triage
 - Source: `raw/2026-05-27-ai-digest.md`
 - Pages updated: [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
