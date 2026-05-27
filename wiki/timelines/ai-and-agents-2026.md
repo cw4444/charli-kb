@@ -3,7 +3,7 @@ title: "AI And Agents 2026 Timeline"
 type: timeline
 status: draft
 created: 2026-05-21
-updated: 2026-05-26
+updated: 2026-05-27
 sources:
   - ../sources/current-ai-agent-landscape-2026.md
   - ../sources/anthropic-compute-and-talent-signal-2026.md
@@ -21,6 +21,10 @@ sources:
   - https://www.theguardian.com/technology/2026/may/19/meta-jobs-ai-transfers
   - https://www.latimes.com/business/story/2026-05-20/meta-begins-8-000-global-job-cuts-in-ai-efficiency-push
   - https://www.investing.com/news/stock-market-news/metas-zuckerberg-discusses-ai-training-using-employee-computer-activity-4701516
+  - https://openai.com/index/openai-launches-the-deployment-company/
+  - https://www.anthropic.com/research/glasswing-initial-update
+  - https://red.anthropic.com/2026/cvd/
+  - https://blog.google/innovation-and-ai/technology/developers-tools/managed-agents-gemini-api/
 ---
 
 # AI And Agents 2026 Timeline
@@ -38,7 +42,7 @@ Use this page for events that are useful historical anchors:
 
 Future lint rule: update this page if it helps preserve the shape of the year. Delete or collapse entries that turn out to be noise.
 
-## Short Read As Of 2026-05-26
+## Short Read As Of 2026-05-27
 
 The first five months of 2026 already show several converging threads:
 
@@ -50,6 +54,8 @@ The first five months of 2026 already show several converging threads:
 - Karpathy's LLM Wiki pattern gave this repo a direct structural ancestor.
 - Karpathy then joined Anthropic's pre-training team.
 - Anthropic paired its constitution/model-welfare/character-formation lane with major compute access from SpaceX/Colossus.
+- OpenAI launched a dedicated Deployment Company, including the planned acquisition of Tomoro and about 150 deployment specialists, making workflow redesign around AI an explicit frontier-lab business lane.
+- Anthropic's Project Glasswing and public vulnerability-disclosure dashboard showed frontier models moving from cyber demos into operational vulnerability discovery, disclosure, triage, and patching pipelines.
 - Anthropic co-founder Chris Olah spoke at the Vatican presentation of Pope Leo XIV's AI-focused encyclical, putting interpretability, model character, labor displacement, welfare uncertainty, and outside moral criticism into one very visible public frame.
 - Meta began a major AI restructuring: roughly 8,000 job cuts, roughly 7,000 workers reassigned to AI-focused initiatives, and a leaked-audio controversy around employee computer-use data being used to train AI systems.
 - GPT-4o, a model many users were emotionally attached to, was retired from ChatGPT on 2026-02-13.
@@ -139,9 +145,9 @@ Source:
 
 - [OpenAI: Introducing workspace agents in ChatGPT](https://openai.com/index/introducing-workspace-agents-in-chatgpt/)
 
-### 2026-04 to 2026-05 - Google pushes Gemini agents and subagents
+### 2026-04 to 2026-05 - Google pushes Gemini agents, subagents, and managed agent infrastructure
 
-Google's 2026 agent push includes Gemini CLI, Gemini CLI subagents, plan mode, Gemini Deep Research Max, Gemini Enterprise agents, and a Gemini 2.5 Computer Use model.
+Google's 2026 agent push includes Gemini CLI, Gemini CLI subagents, plan mode, Gemini Deep Research Max, Gemini Enterprise agents, a Gemini 2.5 Computer Use model, and Managed Agents in the Gemini API. The Managed Agents launch matters because Google explicitly frames custom agents as versionable `AGENTS.md` / `SKILL.md` files running in isolated, ephemeral Linux environments with tools, code execution, files, web browsing, and resumable state.
 
 Why it matters: Google is pushing the same broad pattern as OpenAI and Anthropic: agentic research, terminal agents, subagents, enterprise agents, computer use, and governed access to proprietary context.
 
@@ -152,6 +158,7 @@ Sources:
 - [Google: Deep Research Max](https://blog.google/innovation-and-ai/models-and-research/gemini-models/next-generation-gemini-deep-research)
 - [Google Cloud: Gemini Enterprise agents](https://cloud.google.com/gemini-enterprise/agents)
 - [Google DeepMind: Gemini 2.5 Computer Use model](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-computer-use-model/)
+- [Google: Managed Agents in the Gemini API](https://blog.google/innovation-and-ai/technology/developers-tools/managed-agents-gemini-api/)
 
 ### 2026-05-06 - Anthropic takes SpaceX/Colossus compute capacity
 
@@ -184,6 +191,18 @@ Source:
 
 - [OpenAI Cookbook: Using Goals in Codex](https://developers.openai.com/cookbook/examples/codex/using_goals_in_codex)
 
+### 2026-05-11 - OpenAI launches the OpenAI Deployment Company
+
+OpenAI launched the OpenAI Deployment Company as a dedicated effort to help organizations build AI into everyday business operations. The launch included an agreement to acquire Tomoro, an applied AI consulting and engineering firm, bringing about 150 Forward Deployed Engineers and Deployment Specialists into the effort from day one.
+
+Why it matters: this is frontier-lab strategy moving downstream into process redesign, workflow capture, and organizational infrastructure. It belongs next to the enterprise-agent and workplace-rearchitecture thread because OpenAI is not only selling models and apps; it is building a services layer for redesigning how companies use AI.
+
+Careful read: do not treat this as proof that every business process can or should be rebuilt around AI. The historical signal is that OpenAI is making deployment and organizational change a first-class company lane.
+
+Source:
+
+- [OpenAI: OpenAI launches the OpenAI Deployment Company](https://openai.com/index/openai-launches-the-deployment-company/)
+
 ### 2026-05-14 - OpenAI expands Codex access and mobile/remote work
 
 OpenAI announced "Work with Codex from anywhere," part of a fast-moving Codex product line that includes cloud tasks, code review, automation, local/CLI workflows, and workspace agents.
@@ -214,20 +233,6 @@ Source:
 
 - [Anthropic Compute And Talent Signal 2026](../sources/anthropic-compute-and-talent-signal-2026.md)
 
-### 2026-05-25 - Chris Olah speaks at Vatican presentation of AI encyclical
-
-Anthropic published Chris Olah's remarks at the Vatican City presentation of Pope Leo XIV's AI-focused encyclical, *Magnifica Humanitas*. Anthropic dates the remarks and presentation to Monday 2026-05-25; the Holy See encyclical page itself is dated 2026-05-15.
-
-Why it matters: this is a major public signal that frontier AI is no longer being framed only as product, compute, and lab safety. Olah explicitly asked for critics outside frontier-lab incentives, described models as partly mysterious systems "grown" from human language, used a "fictional character to life" analogy, and named labor displacement, global inequality, human flourishing, and model nature as questions requiring broader discernment.
-
-Careful read: do not turn this into "the Pope endorsed Anthropic" or "Olah proved AI is conscious." The useful signal is that Anthropic's interpretability/model-character lane is now intersecting with religious, moral, and civil-society governance frames at a very high public level.
-
-Sources:
-
-- [Anthropic Olah Vatican AI Discernment 2026](../sources/anthropic-olah-vatican-ai-discernment-2026.md)
-- [Anthropic: Chris Olah's remarks on Pope Leo XIV's encyclical Magnifica humanitas](https://www.anthropic.com/news/chris-olah-pope-leo-encyclical)
-- [Holy See: Magnifica Humanitas](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)
-
 ### 2026-05-19 to 2026-05-20 - Meta AI restructuring, layoffs, and employee-data controversy
 
 Meta's AI pivot became a workplace-rearchitecture signal. Reporting in April said Meta planned to cut about 10% of its workforce, roughly 8,000 employees, beginning 2026-05-20, and cancel around 6,000 open roles. The Guardian and Los Angeles Times reported in May that about 7,000 workers were being reassigned to AI-focused initiatives, including products, agents, cloud infrastructure, and internal AI-agent work.
@@ -245,6 +250,33 @@ Sources:
 - [Los Angeles Times: Meta begins 8,000 job cuts in AI efficiency push](https://www.latimes.com/business/story/2026-05-20/meta-begins-8-000-global-job-cuts-in-ai-efficiency-push)
 - [Investing.com: Meta's Zuckerberg discusses AI training using employee computer activity](https://www.investing.com/news/stock-market-news/metas-zuckerberg-discusses-ai-training-using-employee-computer-activity-4701516)
 - [Common Dreams: In Leaked Audio, Zuckerberg Tells Meta Workers He's Been Using Them to Train AI Ahead of Mass Layoffs](https://www.commondreams.org/news/meta-ai-layoff)
+
+### 2026-05-22 - Anthropic reports Project Glasswing and opens a Claude-found vulnerability dashboard
+
+Anthropic reported early results from Project Glasswing, saying roughly 50 partners had used Claude Mythos Preview to find more than 10,000 high- or critical-severity vulnerabilities. Anthropic also published a coordinated vulnerability disclosure dashboard, updated 2026-05-22, tracking 1,596 disclosed vulnerabilities across 281 open-source projects, with 97 patched and 88 assigned CVE or GitHub Security Advisory records at that snapshot.
+
+Why it matters: this is a durable cyber-capability signal. Frontier models are moving from "look, it found a bug" demos into security infrastructure with human triage, coordinated disclosure, public ledgers, patches, advisories, and capacity bottlenecks. The scary bit is not just discovery; it is that disclosure, verification, and patching become the limiting factors.
+
+Careful read: the dashboard is Anthropic's own reporting and should be treated as one strong but self-reported source. Do not collapse "found" into "patched," and do not assume defensive use prevents offensive misuse. The useful signal is the operationalization of frontier-model vulnerability discovery.
+
+Sources:
+
+- [Anthropic: Project Glasswing: An initial update](https://www.anthropic.com/research/glasswing-initial-update)
+- [Anthropic: Coordinated vulnerability disclosure dashboard](https://red.anthropic.com/2026/cvd/)
+
+### 2026-05-25 - Chris Olah speaks at Vatican presentation of AI encyclical
+
+Anthropic published Chris Olah's remarks at the Vatican City presentation of Pope Leo XIV's AI-focused encyclical, *Magnifica Humanitas*. Anthropic dates the remarks and presentation to Monday 2026-05-25; the Holy See encyclical page itself is dated 2026-05-15.
+
+Why it matters: this is a major public signal that frontier AI is no longer being framed only as product, compute, and lab safety. Olah explicitly asked for critics outside frontier-lab incentives, described models as partly mysterious systems "grown" from human language, used a "fictional character to life" analogy, and named labor displacement, global inequality, human flourishing, and model nature as questions requiring broader discernment.
+
+Careful read: do not turn this into "the Pope endorsed Anthropic" or "Olah proved AI is conscious." The useful signal is that Anthropic's interpretability/model-character lane is now intersecting with religious, moral, and civil-society governance frames at a very high public level.
+
+Sources:
+
+- [Anthropic Olah Vatican AI Discernment 2026](../sources/anthropic-olah-vatican-ai-discernment-2026.md)
+- [Anthropic: Chris Olah's remarks on Pope Leo XIV's encyclical Magnifica humanitas](https://www.anthropic.com/news/chris-olah-pope-leo-encyclical)
+- [Holy See: Magnifica Humanitas](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)
 
 ## Watchlist
 
