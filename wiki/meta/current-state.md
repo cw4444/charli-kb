@@ -43,6 +43,13 @@ This repo is a plain Markdown personal knowledge base based on Karpathy's LLM Wi
 
 ## Latest Session Handoff
 
+On 2026-05-28, Charli and Codex processed `raw/2026-05-28-ai-digest.md` as a follow-up daily AI digest and updated [AI And Agents 2026 Timeline](../timelines/ai-and-agents-2026.md). The promoted items were:
+
+- Robinhood's 2026-05-27 launch of Agentic Trading and Agentic Credit Card flows for third-party AI agents, because this is a real high-stakes consumer delegation surface with trading, spending, MCP servers, dedicated balances/cards, activity feeds, and explicit third-party-agent liability caveats.
+- Cognition's 2026-05-27 funding and adoption announcement: more than $1B raised at a $26B valuation, $492M run-rate revenue, and 10x enterprise usage growth since the start of 2026. Treat this as a market-structure signal for cloud coding agents, not proof that Devin or any one architecture has won.
+
+Watch-only from the same digest: OpenAI's 2026 election-safeguards posture, Anthropic's survey on coding agents in the social sciences, and Microsoft's AI-generated intimate-image abuse enforcement update. They may matter later, but today they were governance/adoption background rather than timeline anchors. Keep the same rule: promote durable structural shifts, not every worthy-looking post with a date on it.
+
 On 2026-05-28, Charli and Codex added a bounded quantum-computing research package. The useful framing is: quantum computing belongs in the wiki as an engineered-reality bridge, but it should stay separate from quantum-foundations interpretation pages. Foundations ask what quantum theory means; quantum computing asks what controllable quantum systems can be engineered to do.
 
 New pages:
@@ -101,6 +108,7 @@ Session caveat: many of these pages intentionally preserve "this felt significan
 
 ## Recent Additions
 
+- Updated [AI And Agents 2026 Timeline](../timelines/ai-and-agents-2026.md) from the 2026-05-28 daily AI digest. Added Robinhood's public agentic trading/card launch as a high-stakes consumer delegation milestone and Cognition's funding/revenue announcement as an enterprise coding-agent market signal. Parked OpenAI election safeguards, Anthropic's social-science adoption survey, and Microsoft's synthetic intimate-image abuse enforcement update as watch-only.
 - Updated [AI And Agents 2026 Timeline](../timelines/ai-and-agents-2026.md) from the first daily AI digest. Added OpenAI's Deployment Company as a frontier-lab workflow-redesign signal, added Anthropic Project Glasswing / coordinated vulnerability disclosure as a frontier-model cyber-capability signal, and folded Google's Managed Agents in the Gemini API into the existing Google agent-infrastructure entry. Keep the caveat visible: disclosure counts are not patch counts, defensive use does not remove offensive misuse risk, and not every agent-security governance post deserves a timeline slot.
 - Added [Donald Hoffman - Interface Theory Of Perception](../sources/donald-hoffman-interface-theory.md), [Interface Theory Of Perception](../concepts/interface-theory-of-perception.md), and [Donald Hoffman](../people/donald-hoffman.md). Hoffman is now the perception-side anchor for Charli's "Windows desktop version of reality" metaphor: perception as an action-ready, fitness-shaped interface rather than raw reality. Keep the caveat visible: this does not prove simulation theory, arbitrary perception, or Hoffman's stronger conscious-realism metaphysics.
 - Added [Retrocausality, Delayed Choice, and Two Roads](../../themes/retrocausality-delayed-choice-and-two-roads.md), comparing Wheeler's delayed-choice experiment with Emily Adlam's "Two Roads to Retrocausality" and nearby work by Leifer/Pusey, Price, Wharton/Argaman, Aharonov-Bergmann-Lebowitz, and Cramer. Keep the guardrail visible: Wheeler is a measurement-context intuition pump, not proof of backward signalling; Adlam's strongest route is all-at-once/global constraint rather than little causal arrows travelling from future to past.

@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-05-28] timeline | daily AI digest follow-up
+- Source: `raw/2026-05-28-ai-digest.md`
+- Pages created: none
+- Pages updated: [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Wiki Index](index.md), [Current State](meta/current-state.md)
+- Notes: Promoted Robinhood's agentic trading/card launch as a high-stakes consumer-delegation milestone and Cognition's $1B+ / $26B / $492M run-rate announcement as an enterprise coding-agent market signal. Parked OpenAI election safeguards, Anthropic social-science adoption survey, and Microsoft intimate-image-abuse enforcement posture as watch-only for now.
+
 ## [2026-05-28] research | quantum computing 2026
 - Sources: Google Quantum AI Willow announcement and Nature paper, Pichai quantum-timeline commentary via Bloomberg/Economic Times and Quantum Zeitgeist/BBC summary, Microsoft Majorana 1 announcement and Nature paper, Henry F. Legg's two 2025 arXiv comments on Microsoft's topological gap protocol and parity-readout paper, IBM Quantum roadmap and roadmap update, DARPA US2QC program page.
 - Pages created: [Current Quantum Computing 2026](sources/current-quantum-computing-2026.md), [Fault-Tolerant Quantum Computing](concepts/fault-tolerant-quantum-computing.md), [Research - Quantum Computing 2026](questions/research-quantum-computing-2026.md)

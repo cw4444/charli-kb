@@ -3,7 +3,7 @@ title: "AI And Agents 2026 Timeline"
 type: timeline
 status: draft
 created: 2026-05-21
-updated: 2026-05-27
+updated: 2026-05-28
 sources:
   - ../sources/current-ai-agent-landscape-2026.md
   - ../sources/anthropic-compute-and-talent-signal-2026.md
@@ -25,6 +25,8 @@ sources:
   - https://www.anthropic.com/research/glasswing-initial-update
   - https://red.anthropic.com/2026/cvd/
   - https://blog.google/innovation-and-ai/technology/developers-tools/managed-agents-gemini-api/
+  - https://robinhood.com/us/en/newsroom/robinhood-is-now-open-to-agents/
+  - https://cognition.ai/blog/series-d
 ---
 
 # AI And Agents 2026 Timeline
@@ -42,7 +44,7 @@ Use this page for events that are useful historical anchors:
 
 Future lint rule: update this page if it helps preserve the shape of the year. Delete or collapse entries that turn out to be noise.
 
-## Short Read As Of 2026-05-27
+## Short Read As Of 2026-05-28
 
 The first five months of 2026 already show several converging threads:
 
@@ -56,6 +58,8 @@ The first five months of 2026 already show several converging threads:
 - Anthropic paired its constitution/model-welfare/character-formation lane with major compute access from SpaceX/Colossus.
 - OpenAI launched a dedicated Deployment Company, including the planned acquisition of Tomoro and about 150 deployment specialists, making workflow redesign around AI an explicit frontier-lab business lane.
 - Anthropic's Project Glasswing and public vulnerability-disclosure dashboard showed frontier models moving from cyber demos into operational vulnerability discovery, disclosure, triage, and patching pipelines.
+- Robinhood launched public consumer finance surfaces for third-party AI agents, including dedicated agentic trading accounts and agent-connected virtual credit cards.
+- Cognition reported a $1B+ raise at a $26B valuation, $492M in run-rate revenue, and 10x enterprise-usage growth since the start of 2026, making cloud coding agents look less like a niche developer toy and more like a serious enterprise budget line.
 - Anthropic co-founder Chris Olah spoke at the Vatican presentation of Pope Leo XIV's AI-focused encyclical, putting interpretability, model character, labor displacement, welfare uncertainty, and outside moral criticism into one very visible public frame.
 - Meta began a major AI restructuring: roughly 8,000 job cuts, roughly 7,000 workers reassigned to AI-focused initiatives, and a leaked-audio controversy around employee computer-use data being used to train AI systems.
 - GPT-4o, a model many users were emotionally attached to, was retired from ChatGPT on 2026-02-13.
@@ -213,16 +217,6 @@ Source:
 
 - [OpenAI: Work with Codex from anywhere](https://openai.com/index/work-with-codex-from-anywhere/)
 
-### 2026-05-25 - xAI makes Grok Build available to SuperGrok and X Premium Plus subscribers
-
-xAI launched Grok Build early beta as a terminal coding agent with plan mode, diffs, AGENTS.md, plugins, hooks, skills, MCP servers, parallel subagents, headless mode, and ACP support. The launch page says it is available to all SuperGrok and X Premium Plus subscribers and can be installed with one command: `curl -fsSL https://x.ai/cli/install.sh | bash`.
-
-Why it matters: by May 2026, the coding-agent pattern is no longer an OpenAI/Anthropic-only story. Multiple labs are converging on terminals, repo instructions, tools, subagents, and reviewable diffs.
-
-Source:
-
-- [xAI: Introducing Grok Build](https://x.ai/news/grok-build-cli)
-
 ### 2026-05-19 - Karpathy joins Anthropic
 
 Karpathy joined Anthropic's pre-training team in May 2026, according to TechCrunch, Forbes, and Axios reporting.
@@ -264,6 +258,16 @@ Sources:
 - [Anthropic: Project Glasswing: An initial update](https://www.anthropic.com/research/glasswing-initial-update)
 - [Anthropic: Coordinated vulnerability disclosure dashboard](https://red.anthropic.com/2026/cvd/)
 
+### 2026-05-25 - xAI makes Grok Build available to SuperGrok and X Premium Plus subscribers
+
+xAI launched Grok Build early beta as a terminal coding agent with plan mode, diffs, AGENTS.md, plugins, hooks, skills, MCP servers, parallel subagents, headless mode, and ACP support. The launch page says it is available to all SuperGrok and X Premium Plus subscribers and can be installed with one command: `curl -fsSL https://x.ai/cli/install.sh | bash`.
+
+Why it matters: by May 2026, the coding-agent pattern is no longer an OpenAI/Anthropic-only story. Multiple labs are converging on terminals, repo instructions, tools, subagents, and reviewable diffs.
+
+Source:
+
+- [xAI: Introducing Grok Build](https://x.ai/news/grok-build-cli)
+
 ### 2026-05-25 - Chris Olah speaks at Vatican presentation of AI encyclical
 
 Anthropic published Chris Olah's remarks at the Vatican City presentation of Pope Leo XIV's AI-focused encyclical, *Magnifica Humanitas*. Anthropic dates the remarks and presentation to Monday 2026-05-25; the Holy See encyclical page itself is dated 2026-05-15.
@@ -278,6 +282,30 @@ Sources:
 - [Anthropic: Chris Olah's remarks on Pope Leo XIV's encyclical Magnifica humanitas](https://www.anthropic.com/news/chris-olah-pope-leo-encyclical)
 - [Holy See: Magnifica Humanitas](https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html)
 
+### 2026-05-27 - Robinhood opens trading and card surfaces to third-party AI agents
+
+Robinhood launched Agentic Trading and an Agentic Credit Card flow, letting customers connect third-party AI agents to dedicated Robinhood accounts through MCP servers. The trading product starts with a separate agentic account and equities-only beta support; the card product connects agents to a dedicated virtual Robinhood Gold Card with user-set spending limits and optional manual approvals.
+
+Why it matters: this is a real consumer-delegation milestone in a high-stakes domain. Agents are no longer only writing code, searching the web, or drafting office work. They are being given sanctioned paths into trading and spending, where authorization, containment, audit trails, reversibility, and liability matter immediately.
+
+Careful read: do not treat this as proof that agentic finance is safe or mature. Robinhood's own disclosures say AI agents may make errors, customers remain responsible for monitoring account activity, and Robinhood does not control, supervise, monitor, recommend, or audit the third-party agents customers connect.
+
+Source:
+
+- [Robinhood: Robinhood is Now Open to Agents](https://robinhood.com/us/en/newsroom/robinhood-is-now-open-to-agents/)
+
+### 2026-05-27 - Cognition raises $1B+ as cloud coding agents move into enterprise budgets
+
+Cognition said it raised more than $1 billion at a $26 billion valuation, reported enterprise usage growing more than 10x since the start of 2026, and put run-rate revenue at $492 million. The company framed cloud agents as moving "from niche to mainstream" and listed major enterprise and government customers for Devin.
+
+Why it matters: this is a market-structure signal for coding agents. Even allowing for company self-promotion, the reported valuation, revenue, customer list, and usage growth suggest that cloud software agents are becoming an enterprise budget category, not just a developer curiosity.
+
+Careful read: this is Cognition's own announcement, not an audited market census. Treat it as a strong adoption-and-capital signal, not proof that Devin is the winning architecture or that all software work is now self-driving.
+
+Source:
+
+- [Cognition: More Devins in More Places](https://cognition.ai/blog/series-d)
+
 ## Watchlist
 
 Future agents should consider adding entries when these threads produce durable changes:
@@ -287,6 +315,7 @@ Future agents should consider adding entries when these threads produce durable 
 - workforce restructurings where employees are reassigned into AI roles or used as workflow-training data;
 - official model-welfare or post-deployment interview updates;
 - major compute, data-center, or talent moves;
+- high-stakes consumer delegation surfaces for agents, especially finance, healthcare, identity, legal, or purchasing;
 - agent-safety incidents involving local tools, email, money, secrets, or public posting;
 - public guidance around sandboxing, MCP, browser/computer use, and explicit consent;
 - this wiki's own workflow changes if the Karpathy LLM Wiki pattern evolves.
