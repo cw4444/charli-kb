@@ -17,6 +17,9 @@ primary_sources:
   - "IBM, Quantum-centric supercomputing: The next wave of computing, 2026, https://www.ibm.com/quantum/blog/quantum-centric-supercomputing"
   - "IBM Quantum, IBM Quantum roadmap, accessed 2026-05-28, https://www.ibm.com/roadmaps/quantum"
   - "DARPA, US2QC program information, accessed 2026-05-28, https://www.darpa.mil/research/programs/underexplored-systems-for-utility-scale-quantum-computing"
+commentary_sources:
+  - "Bloomberg via Economic Times, Google CEO Sundar Pichai sees useful quantum computers 5 to 10 years away, 2025-02-12, https://economictimes.indiatimes.com/industry/tech/google-ceo-sundar-pichai-sees-useful-quantum-computers-5-to-10-years-away/articleshow/118188180.cms"
+  - "Quantum Zeitgeist, Quantum Computing: Pichai Sees AI-Like Growth, 2025-12-01, https://quantumzeitgeist.com/google-ceo-sundar-pichai-quantum-computing-is-where-ai-was-five-years-ago/"
 sources:
   - https://blog.google/technology/research/google-willow-quantum-chip/
   - https://www.nature.com/articles/s41586-024-08449-y
@@ -29,6 +32,8 @@ sources:
   - https://www.ibm.com/quantum/blog/quantum-centric-supercomputing
   - https://www.ibm.com/roadmaps/quantum
   - https://www.darpa.mil/research/programs/underexplored-systems-for-utility-scale-quantum-computing
+  - https://economictimes.indiatimes.com/industry/tech/google-ceo-sundar-pichai-sees-useful-quantum-computers-5-to-10-years-away/articleshow/118188180.cms
+  - https://quantumzeitgeist.com/google-ceo-sundar-pichai-quantum-computing-is-where-ai-was-five-years-ago/
 ---
 
 # Current Quantum Computing 2026
@@ -52,6 +57,12 @@ The careful summary: quantum computing is advancing, but useful fault-tolerant q
 Google announced Willow in December 2024. Hartmut Neven framed it around two claims: a benchmark result that would take an impractically long time on a leading classical supercomputer, and a more important error-correction result where larger surface-code patches performed better than smaller ones.
 
 The Nature paper is the stronger source for this wiki. It reports quantum error correction below the surface-code threshold using superconducting qubits, meaning that scaling the code distance reduced logical error rates rather than making the system worse. That is the serious bit. The benchmark headline is flashy; below-threshold error correction is the road-to-usefulness signal.
+
+Willow also produced the headline random-circuit-sampling result: Google says the chip performed a standard benchmark in under five minutes that would take one of today's fastest supercomputers about `10^25`, or 10 septillion, years. That is technically impressive as a beyond-classical benchmark, but Google itself says RCS has no known real-world applications. It is a stress test and progress marker, not a useful commercial workload.
+
+Hartmut Neven's official Willow post also makes the Deutsch/multiverse move, saying the result lends credence to quantum computation occurring in many parallel universes. That belongs in this wiki as interpretation-signalling, not as proof. It shows Google is willing to gesture at Deutsch-style many-worlds language in official communication, but the operational claim still rests on benchmark performance and error correction, not on proving the multiverse.
+
+Sundar Pichai has separately framed useful quantum computers as roughly 5-to-10 years away and compared quantum's current stage to earlier AI development. Later reporting quotes him saying quantum may be where AI was about five years earlier. Treat that as company-leader strategic framing, not a timetable. The analogy is useful only if paired with the caveat that quantum has a narrower application profile and much harder hardware error-correction problem than consumer AI software.
 
 ### Microsoft Majorana 1
 
@@ -95,6 +106,8 @@ That makes this a good bridge topic for the wiki. Quantum foundations ask what q
 
 - Do not treat quantum computing as proof of many-worlds, observer-dependent reality, or consciousness-linked physics.
 - Do not treat benchmark supremacy claims as the same thing as practical usefulness.
+- Do not treat RCS as a useful application. It is a beyond-classical benchmark, and Google explicitly says it has no known practical commercial use.
+- Do not treat Neven's Deutsch/multiverse line as proof of many-worlds. It is an interpretive flourish attached to a real benchmark result.
 - Do not treat Microsoft's topological-qubit announcement as settled until the hardware claims survive independent validation and scaling.
 - Do not reduce the Microsoft criticism to vibes. Legg's critique is specifically about the reliability of the topological gap protocol and the evidence for a superconducting/topological gap in the relevant device regions.
 - Do not treat IBM's roadmap as a guarantee; it is a public engineering plan.

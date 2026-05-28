@@ -30,6 +30,12 @@ The primary Nature paper reports below-threshold quantum error correction using 
 
 This does not mean Google has delivered a useful general-purpose quantum computer. It means one of the most important scaling tests moved in the right direction.
 
+The other Willow headline is random circuit sampling: under five minutes on Willow versus Google's estimate of `10^25`, or 10 septillion, years on one of today's fastest supercomputers. That number is absurdly impressive, in the "fine, you have my attention" sense. But RCS is not a practical application. Google's own post says it has no known real-world commercial use. It is a benchmark for beyond-classical behaviour and hardware progress.
+
+Bonus weirdness: Hartmut Neven used the official Google blog to gesture at David Deutsch's many-worlds-style idea that quantum computation occurs across many parallel universes. This is exactly the sort of line the wiki should preserve, because it shows how quickly engineering results attract metaphysical story. But it should stay in the "interpretation/story" box, not the "proved by Willow" box.
+
+Sundar Pichai's broader framing is that useful quantum computing may be 5-to-10 years away and that quantum is at a stage reminiscent of earlier AI. That may be directionally useful as a strategic comparison, but it is not a guarantee of an AI-like adoption curve. Quantum computing still needs reliable logical qubits and has a much narrower likely application set.
+
 ### 2. Microsoft's Majorana claim is interesting but should stay under suspicion
 
 Microsoft's February 2025 Majorana 1 announcement says the company has built a topological-qubit processor based on a topoconductor platform.
@@ -76,6 +82,8 @@ The foundations pages ask what quantum theory means. Quantum computing asks what
 The current sober view:
 
 - Google has the strongest recent public error-correction milestone.
+- Willow's RCS benchmark is spectacular but not practically useful by itself.
+- Neven's Deutsch/multiverse line is worth tracking as official interpretation-flavoured rhetoric, not evidence that Willow proved many-worlds.
 - Microsoft has the most dramatic high-risk hardware bet.
 - Henry Legg's critique gives a technical reason for skepticism about Microsoft's Majorana/topoconductor claims, not merely a sour reaction to corporate marketing.
 - IBM has the clearest public infrastructure roadmap.
