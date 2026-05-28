@@ -1,10 +1,10 @@
 # Wiki Log
 
 ## [2026-05-28] research | quantum computing 2026
-- Sources: Google Quantum AI Willow announcement and Nature paper, Microsoft Majorana 1 announcement and Nature paper, IBM Quantum roadmap and roadmap update, DARPA US2QC program page.
+- Sources: Google Quantum AI Willow announcement and Nature paper, Microsoft Majorana 1 announcement and Nature paper, Henry F. Legg's two 2025 arXiv comments on Microsoft's topological gap protocol and parity-readout paper, IBM Quantum roadmap and roadmap update, DARPA US2QC program page.
 - Pages created: [Current Quantum Computing 2026](sources/current-quantum-computing-2026.md), [Fault-Tolerant Quantum Computing](concepts/fault-tolerant-quantum-computing.md), [Research - Quantum Computing 2026](questions/research-quantum-computing-2026.md)
 - Pages updated: [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
-- Notes: Added quantum computing as an engineered-reality bridge topic. Framed the current field around logical qubits, error correction, and fault tolerance rather than raw physical-qubit counts. Kept Google Willow, Microsoft Majorana 1, and IBM's roadmap distinct, with an explicit raised-eyebrow caveat for Microsoft topological-qubit claims.
+- Notes: Added quantum computing as an engineered-reality bridge topic. Framed the current field around logical qubits, error correction, and fault tolerance rather than raw physical-qubit counts. Kept Google Willow, Microsoft Majorana 1, and IBM's roadmap distinct, with an explicit raised-eyebrow caveat for Microsoft topological-qubit claims. Legg's critique was added as a technical caveat about the topological gap protocol rather than generic skepticism.
 
 ## [2026-05-27] timeline | Grok Build access correction
 - Source: xAI, [Introducing Grok Build](https://x.ai/news/grok-build-cli).

@@ -10,6 +10,8 @@ primary_sources:
   - "Google Quantum AI and collaborators, Quantum error correction below the surface code threshold, Nature, 2024-12-09, https://www.nature.com/articles/s41586-024-08449-y"
   - "Microsoft, Majorana 1: The world's first quantum processor powered by topological qubits, 2025-02-19, https://azure.microsoft.com/en-us/blog/quantum/2025/02/19/majorana-1-the-worlds-first-quantum-processor-powered-by-topological-qubits/"
   - "Microsoft and collaborators, Interferometric single-shot parity measurement in InAs-Al hybrid devices, Nature, 2025-02-19, https://www.nature.com/articles/s41586-024-08445-2"
+  - "Henry F. Legg, Comment on InAs-Al hybrid devices passing the topological gap protocol, arXiv, 2025-02-26, https://arxiv.org/abs/2502.19560"
+  - "Henry F. Legg, Comment on Interferometric single-shot parity measurement in InAs-Al hybrid devices, arXiv, 2025-03-11, https://arxiv.org/abs/2503.08944"
   - "IBM, The next era of quantum computing is here: IBM Quantum System Two, 2023-12-04, https://www.ibm.com/quantum/blog/quantum-roadmap-2033"
   - "IBM, IBM charts path to practical quantum advantage, 2025-06-10, https://www.ibm.com/quantum/blog/large-scale-ftqc"
   - "IBM, Quantum-centric supercomputing: The next wave of computing, 2026, https://www.ibm.com/quantum/blog/quantum-centric-supercomputing"
@@ -20,6 +22,8 @@ sources:
   - https://www.nature.com/articles/s41586-024-08449-y
   - https://azure.microsoft.com/en-us/blog/quantum/2025/02/19/majorana-1-the-worlds-first-quantum-processor-powered-by-topological-qubits/
   - https://www.nature.com/articles/s41586-024-08445-2
+  - https://arxiv.org/abs/2502.19560
+  - https://arxiv.org/abs/2503.08944
   - https://www.ibm.com/quantum/blog/quantum-roadmap-2033
   - https://www.ibm.com/quantum/blog/large-scale-ftqc
   - https://www.ibm.com/quantum/blog/quantum-centric-supercomputing
@@ -55,6 +59,10 @@ Microsoft announced Majorana 1 in February 2025 as a topological-qubit processor
 
 The Nature paper reports interferometric single-shot parity measurement in InAs-Al hybrid devices. That supports part of Microsoft's topological-qubit program, but it is not the same as demonstrating a large, useful, fault-tolerant quantum computer. Microsoft's framing is strategically important and scientifically interesting, but it needs the harsh caveat: this is exactly where "trust me bro" instincts are useful. Topological quantum computing has a history of difficult claims, retractions, and replication pressure.
 
+Henry F. Legg published two 2025 arXiv comments that sharpen the caveat. The first challenges Microsoft's 2023 topological gap protocol, arguing that the protocol lacks stable definitions of "gap" and "topological" and can depend heavily on parameter choices such as magnetic-field range, bias-voltage range, data resolution, and cutter-voltage pairs. The second targets the 2025 Nature parity-readout paper more directly, arguing that the same protocol can classify the relevant regions differently depending on parameters and that public conductance data do not show a clear superconducting gap in the regions where parity readout occurred.
+
+This does not by itself prove Microsoft is wrong. It does mean the Microsoft claim is contested at the level that matters: the diagnostic machinery used to say the device is in the right topological regime.
+
 ### IBM Roadmap
 
 IBM's public roadmap matters because it gives the field an industrial structure: modular systems, quantum-centric supercomputing, middleware, error mitigation, and a path toward larger error-corrected machines.
@@ -88,6 +96,7 @@ That makes this a good bridge topic for the wiki. Quantum foundations ask what q
 - Do not treat quantum computing as proof of many-worlds, observer-dependent reality, or consciousness-linked physics.
 - Do not treat benchmark supremacy claims as the same thing as practical usefulness.
 - Do not treat Microsoft's topological-qubit announcement as settled until the hardware claims survive independent validation and scaling.
+- Do not reduce the Microsoft criticism to vibes. Legg's critique is specifically about the reliability of the topological gap protocol and the evidence for a superconducting/topological gap in the relevant device regions.
 - Do not treat IBM's roadmap as a guarantee; it is a public engineering plan.
 - Do not say "quantum computers break all encryption now." Useful cryptanalytic quantum computers remain a future threat, though serious enough for post-quantum cryptography migration.
 - Do not collapse quantum foundations and quantum computing into the same topic. They share formal machinery, but the questions are different.

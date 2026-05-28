@@ -38,6 +38,8 @@ If topological qubits work at scale, they could reduce error-correction overhead
 
 The caution is equally important. The Nature paper supports a piece of the measurement and device story, not a finished utility-scale computer. Topological quantum computing has a long history of hard-to-verify claims. The right stance is not dismissal, but raised-eyebrow patience: show the scaling, show the validation, show the logical qubits.
 
+Henry F. Legg's 2025 arXiv comments make the skepticism concrete. He argues that Microsoft's topological gap protocol can change outcome depending on analysis choices, and that the public data behind the 2025 Nature paper do not clearly show the superconducting gap needed for the parity-readout claim. That is why the "new state of matter" marketing claim should be treated as unsettled until stronger public data and independent validation arrive.
+
 ### 3. IBM is trying to make quantum computing look like infrastructure
 
 IBM's roadmap is less cinematic but more system-shaped.
@@ -75,6 +77,7 @@ The current sober view:
 
 - Google has the strongest recent public error-correction milestone.
 - Microsoft has the most dramatic high-risk hardware bet.
+- Henry Legg's critique gives a technical reason for skepticism about Microsoft's Majorana/topoconductor claims, not merely a sour reaction to corporate marketing.
 - IBM has the clearest public infrastructure roadmap.
 - Nobody has yet delivered the boring, undeniable thing: a broadly useful fault-tolerant quantum computer.
 
