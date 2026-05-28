@@ -21,6 +21,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 
 ## Sources
 
+- [Current Quantum Computing 2026](sources/current-quantum-computing-2026.md): public-source snapshot of Google Willow, Microsoft Majorana 1, IBM's roadmap, and why logical qubits/error correction matter more than quantum-computing press-release theatre.
 - [Interpretable Context Methodology](sources/interpretable-context-methodology.md): arXiv source note on using folder structure, Markdown contracts, stage-scoped context, and local scripts as a lightweight architecture for sequential agent workflows.
 - [OpenAI Codex For Everyday Work](sources/openai-codex-for-everyday-work.md): official OpenAI Codex docs translated into practical everyday-work concepts for non-developers.
 - [Current AI Agent Landscape 2026](sources/current-ai-agent-landscape-2026.md): current public-source snapshot of OpenAI, Anthropic, Google, xAI, OpenClaw, and the practical agent capability/safety pattern.
@@ -50,6 +51,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 
 ## Concepts
 
+- [Fault-Tolerant Quantum Computing](concepts/fault-tolerant-quantum-computing.md): concept note on logical qubits, error correction, and why useful quantum computing depends on reliable scalable computation rather than raw physical-qubit counts.
 - [Filesystem Agent Architecture](concepts/filesystem-agent-architecture.md): pattern where folders, Markdown contracts, scripts, logs, and Git provide the control surface for sequential, reviewable agent workflows.
 - [Agentic Engineering](concepts/agentic-engineering.md): software work organized around steering AI agents, managing context, and verifying outputs.
 - [Agentic Work Rearchitecture](concepts/agentic-work-rearchitecture.md): redesigning work so agents take on execution while humans own direction, judgment, verification, and consequences.
@@ -90,6 +92,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 
 ## Questions
 
+- [Research - Quantum Computing 2026](questions/research-quantum-computing-2026.md): bounded research note on the latest useful quantum-computing developments, including Google Willow, Microsoft Majorana 1, IBM's roadmap, and the broader fault-tolerance race.
 - [How Can Normal Humans Use Codex?](questions/how-can-normal-humans-use-codex.md): plain-English guide to Codex concepts such as AGENTS.md, skills, plugins, MCP, automations, and memories.
 - [What Can AI Agents Do For Normal Tired Humans?](questions/what-can-ai-agents-do-for-normal-tired-humans.md): plain-English guide to current agent capabilities, useful first tasks, and explicit consent boundaries.
 - [How Should charli-kb Triage Notion Dumps?](questions/how-should-charli-kb-triage-notion-dumps.md): criteria for deciding what earns a place in the wiki.

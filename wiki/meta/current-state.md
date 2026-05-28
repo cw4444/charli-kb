@@ -3,7 +3,7 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-05-27
+updated: 2026-05-28
 ---
 
 # Current State
@@ -42,6 +42,16 @@ This repo is a plain Markdown personal knowledge base based on Karpathy's LLM Wi
 - The durable subject lanes are AI, reality, and their overlap: perception, belief, expectation, action, agents, knowledge systems, reality monitoring, and related source-backed concepts.
 
 ## Latest Session Handoff
+
+On 2026-05-28, Charli and Codex added a bounded quantum-computing research package. The useful framing is: quantum computing belongs in the wiki as an engineered-reality bridge, but it should stay separate from quantum-foundations interpretation pages. Foundations ask what quantum theory means; quantum computing asks what controllable quantum systems can be engineered to do.
+
+New pages:
+
+- [Current Quantum Computing 2026](../sources/current-quantum-computing-2026.md) summarizes Google Willow, Microsoft Majorana 1, IBM's roadmap, and DARPA-style validation context.
+- [Fault-Tolerant Quantum Computing](../concepts/fault-tolerant-quantum-computing.md) explains logical qubits, error correction, and why raw physical-qubit counts are not the serious test.
+- [Research - Quantum Computing 2026](../questions/research-quantum-computing-2026.md) gives the plain-English synthesis: Google has the strongest recent public error-correction milestone; Microsoft has the dramatic high-risk topological-qubit bet; IBM has the clearest public infrastructure roadmap; nobody has delivered a broadly useful fault-tolerant quantum computer yet.
+
+Keep the caveats visible: do not treat Willow as proof that useful quantum computing has arrived, do not treat Microsoft's Majorana 1/topological-qubit claims as settled without independent validation and scaling, do not treat IBM roadmap dates as guarantees, and do not use quantum computing as evidence for many-worlds, consciousness-causes-collapse, manifestation, or "the universe is a computer" sludge.
 
 On 2026-05-27, Charli and Codex processed the first raw daily AI digest at `raw/2026-05-27-ai-digest.md` and updated [AI And Agents 2026 Timeline](../timelines/ai-and-agents-2026.md) only for items that looked structurally durable. The promoted items were OpenAI launching the OpenAI Deployment Company, with Tomoro and about 150 deployment specialists, and Anthropic's Project Glasswing / public vulnerability-disclosure dashboard for Claude Mythos Preview findings. Google's Managed Agents in the Gemini API was folded into the existing Google agent-infrastructure timeline entry rather than promoted as a standalone event.
 
