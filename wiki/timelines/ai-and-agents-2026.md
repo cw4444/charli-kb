@@ -27,6 +27,7 @@ sources:
   - https://blog.google/innovation-and-ai/technology/developers-tools/managed-agents-gemini-api/
   - https://robinhood.com/us/en/newsroom/robinhood-is-now-open-to-agents/
   - https://cognition.ai/blog/series-d
+  - https://www.anthropic.com/news/claude-opus-4-8
 ---
 
 # AI And Agents 2026 Timeline
@@ -60,6 +61,7 @@ The first five months of 2026 already show several converging threads:
 - Anthropic's Project Glasswing and public vulnerability-disclosure dashboard showed frontier models moving from cyber demos into operational vulnerability discovery, disclosure, triage, and patching pipelines.
 - Robinhood launched public consumer finance surfaces for third-party AI agents, including dedicated agentic trading accounts and agent-connected virtual credit cards.
 - Cognition reported a $1B+ raise at a $26B valuation, $492M in run-rate revenue, and 10x enterprise-usage growth since the start of 2026, making cloud coding agents look less like a niche developer toy and more like a serious enterprise budget line.
+- Anthropic released Claude Opus 4.8 alongside Claude Code dynamic workflows, effort controls, cheaper fast mode, and a public note that broader Mythos-class model access is expected after stronger cyber safeguards.
 - Anthropic co-founder Chris Olah spoke at the Vatican presentation of Pope Leo XIV's AI-focused encyclical, putting interpretability, model character, labor displacement, welfare uncertainty, and outside moral criticism into one very visible public frame.
 - Meta began a major AI restructuring: roughly 8,000 job cuts, roughly 7,000 workers reassigned to AI-focused initiatives, and a leaked-audio controversy around employee computer-use data being used to train AI systems.
 - GPT-4o, a model many users were emotionally attached to, was retired from ChatGPT on 2026-02-13.
@@ -305,6 +307,20 @@ Careful read: this is Cognition's own announcement, not an audited market census
 Source:
 
 - [Cognition: More Devins in More Places](https://cognition.ai/blog/series-d)
+
+### 2026-05-28 - Anthropic releases Claude Opus 4.8 and Claude Code dynamic workflows
+
+Anthropic released Claude Opus 4.8 on 2026-05-28. The launch framed it as a same-price Opus upgrade with benchmark and collaboration improvements, a 2.5x-speed fast mode that is three times cheaper than previous models' fast mode, effort controls in Claude.ai and Cowork, and a Messages API change allowing system entries inside the messages array so agent harnesses can update instructions mid-task.
+
+The agent-infrastructure part matters most for this timeline: Claude Code now has dynamic workflows in research preview for Enterprise, Team, and Max plans. Anthropic says this lets Claude plan very large work, run hundreds of parallel subagents in a single session, verify outputs, and report back. The launch also says Opus 4.8 is less likely than Opus 4.7 to let flaws in its own code pass unremarked, and that Anthropic's alignment assessment found lower rates of misaligned behavior than Opus 4.7.
+
+Why it matters: this is a frontier-lab agent milestone, not just a benchmark bump. The direction is toward longer-running, higher-effort, more parallel Claude Code work with explicit verification, mid-task instruction updates, and model-level honesty/alignment claims.
+
+Careful read: do not treat partner quotes or launch benchmarks as neutral third-party proof. Also do not treat "hundreds of subagents" as safe autonomy by default. The useful signal is that Anthropic is packaging model capability, effort controls, subagent orchestration, verification, and cyber-release gating as one product and safety story.
+
+Source:
+
+- [Anthropic: Introducing Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8)
 
 ## Watchlist
 

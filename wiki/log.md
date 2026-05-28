@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-05-28] timeline | Claude Opus 4.8
+- Source: Anthropic, [Introducing Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8)
+- Pages created: none
+- Pages updated: [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Wiki Index](index.md), [Current State](meta/current-state.md)
+- Notes: Added Opus 4.8 as a same-day Anthropic model/agent-infrastructure milestone: Opus upgrade, Claude Code dynamic workflows with parallel subagents, effort controls, cheaper fast mode, mid-task system-message updates in the Messages API, and public Mythos-class release pressure tied to cyber safeguards. Kept caveats around launch benchmarks, partner quotes, and subagent autonomy.
+
 ## [2026-05-28] timeline | daily AI digest follow-up
 - Source: `raw/2026-05-28-ai-digest.md`
 - Pages created: none
