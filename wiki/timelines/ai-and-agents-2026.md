@@ -12,6 +12,9 @@ sources:
   - https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f
   - https://openai.com/index/retiring-gpt-4o-and-older-models/
   - https://help.openai.com/en/articles/20001051
+  - https://openai.com/index/industrial-policy-for-the-intelligence-age/
+  - https://cdn.openai.com/pdf/561e7512-253e-424b-9734-ef4098440601/Industrial%20Policy%20for%20the%20Intelligence%20Age.pdf
+  - https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age/
   - https://github.com/openclaw/openclaw
   - https://github.com/torvalds/linux
   - https://apnews.com/article/block-dorsey-layoffs-ai-jobs-18e00a0b278977b0a87893f55e3db7bb
@@ -55,6 +58,7 @@ The first five months of 2026 already show several converging threads:
 - OpenAI and Anthropic kept shipping Codex/Claude Code-style agent updates.
 - Google pushed Gemini CLI, subagents, Deep Research, computer-use, and enterprise agents.
 - OpenClaw became a viral open-source local-agent gateway, reportedly passing Linux in GitHub stars in February and showing 250k+ stars by May.
+- OpenAI published *Industrial Policy for the Intelligence Age*, proposing Public Wealth Fund, tax, safety-net, workforce, access, grid, and governance ideas while also launching fellowships/research grants tied to those policy proposals.
 - Block cut more than 4,000 jobs, roughly 40% of staff, while Dorsey explicitly argued that "intelligence tools" had changed how companies can be built and run.
 - Karpathy's LLM Wiki pattern gave this repo a direct structural ancestor.
 - Karpathy then joined Anthropic's pre-training team.
@@ -135,6 +139,22 @@ Why it matters: this is one of the cleanest practical patterns for agent-readabl
 Source:
 
 - [Karpathy gist: llm-wiki.md](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
+
+### 2026-04-06 - OpenAI publishes industrial policy paper for the Intelligence Age
+
+OpenAI published *Industrial Policy for the Intelligence Age: Ideas to Keep People First*, a policy paper arguing that the transition toward superintelligence will require more than incremental regulation. The paper proposes a broad agenda around access, worker voice, entrepreneurship, tax reform, a Public Wealth Fund, grid expansion, four-day workweek pilots, adaptive safety nets, portable benefits, care-economy pathways, scientific discovery infrastructure, frontier-risk governance, public input, incident reporting, and international coordination.
+
+The "fund" detail is worth preserving carefully. OpenAI proposes a Public Wealth Fund so citizens can share in AI-driven economic growth, but that is a policy proposal, not an already-created fund. Separately, OpenAI says it is establishing a pilot program of fellowships and focused research grants of up to `$100,000`, plus up to `$1 million` in API credits, for work building on these and related policy ideas.
+
+Why it matters: OpenAI is positioning itself not only as a model company, but as an industrial-policy actor arguing about how democratic societies should distribute AI gains, manage disruption, build compute and energy infrastructure, and govern frontier risk.
+
+Careful read: this is not neutral policy analysis. It is a frontier lab proposing rules for a world shaped by the technology it is building. Treat it as a major strategic signal, not democratic settlement.
+
+Sources:
+
+- [OpenAI Industrial Policy For The Intelligence Age](../sources/openai-industrial-policy-intelligence-age.md)
+- [OpenAI: Industrial policy for the Intelligence Age](https://openai.com/index/industrial-policy-for-the-intelligence-age/)
+- [OpenAI PDF: Industrial Policy for the Intelligence Age](https://cdn.openai.com/pdf/561e7512-253e-424b-9734-ef4098440601/Industrial%20Policy%20for%20the%20Intelligence%20Age.pdf)
 
 ### 2026-04-16 - OpenAI publishes "Codex for (almost) everything"
 

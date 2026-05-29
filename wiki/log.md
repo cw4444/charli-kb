@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-05-29] source note | OpenAI industrial policy and fund clarification
+- Sources: OpenAI, [Industrial policy for the Intelligence Age](https://openai.com/index/industrial-policy-for-the-intelligence-age/); OpenAI PDF, [Industrial Policy for the Intelligence Age](https://cdn.openai.com/pdf/561e7512-253e-424b-9734-ef4098440601/Industrial%20Policy%20for%20the%20Intelligence%20Age.pdf); OpenAI, [Building the compute infrastructure for the Intelligence Age](https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age/); OpenAI, [Introducing OpenAI for Countries](https://openai.com/global-affairs/openai-for-countries/)
+- Pages created: [OpenAI Industrial Policy For The Intelligence Age](sources/openai-industrial-policy-intelligence-age.md)
+- Pages updated: [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Verified Charli's memory of the "fund" item. OpenAI's April 6 paper proposes a Public Wealth Fund, but does not say OpenAI has created one. The concrete OpenAI-backed funding attached to the paper is a pilot of fellowships/focused research grants up to `$100,000`, plus up to `$1 million` in API credits. Kept the separate OpenAI for Countries national startup-fund language distinct.
+
 ## [2026-05-29] timeline | OpenAI survey personal note
 - Source: Charli user report, 2026-05-29, about an OpenAI product survey received on 2026-05-28.
 - Pages created: none
