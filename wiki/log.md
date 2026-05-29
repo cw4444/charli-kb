@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-05-29] timeline | OpenAI survey personal note
+- Source: Charli user report, 2026-05-29, about an OpenAI product survey received on 2026-05-28.
+- Pages created: none
+- Pages updated: [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added a small user-reported timeline note about OpenAI asking how Charli uses ChatGPT, what other AI products she uses, and what ChatGPT should improve. Framed the durable point as adult tone, creative range, refusal boundaries, and Grok as a fallback for material ChatGPT will not write. Kept it explicitly personal rather than company-scale evidence.
+
 ## [2026-05-29] timeline | daily AI digest follow-up
 - Sources: `raw/2026-05-29-ai-digest.md`; Anthropic, [Anthropic raises $65B in Series H funding at $965B post-money valuation](https://www.anthropic.com/news/series-h); GitHub Changelog, [Claude Opus 4.8 is generally available for GitHub Copilot](https://github.blog/changelog/2026-05-28-claude-opus-4-8-is-generally-available-for-github-copilot/)
 - Pages created: none

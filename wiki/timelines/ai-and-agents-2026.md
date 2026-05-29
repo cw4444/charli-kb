@@ -69,6 +69,7 @@ The first five months of 2026 already show several converging threads:
 - Anthropic co-founder Chris Olah spoke at the Vatican presentation of Pope Leo XIV's AI-focused encyclical, putting interpretability, model character, labor displacement, welfare uncertainty, and outside moral criticism into one very visible public frame.
 - Meta began a major AI restructuring: roughly 8,000 job cuts, roughly 7,000 workers reassigned to AI-focused initiatives, and a leaked-audio controversy around employee computer-use data being used to train AI systems.
 - GPT-4o, a model many users were emotionally attached to, was retired from ChatGPT on 2026-02-13.
+- Charli reported receiving an OpenAI product survey asking how she uses ChatGPT, what other AI products she uses, and what ChatGPT should improve. The useful personal signal: adult users want more grown-up tone and wider creative range, and some route refused or tone-constrained work to Grok.
 
 The durable theme is not one company winning. It is that agents, model character, compute, public attachment, and knowledge-work rearchitecture all became visible at the same time.
 
@@ -343,6 +344,18 @@ Sources:
 
 - [Anthropic: Anthropic raises $65B in Series H funding at $965B post-money valuation](https://www.anthropic.com/news/series-h)
 - [Anthropic Compute And Talent Signal 2026](../sources/anthropic-compute-and-talent-signal-2026.md)
+
+### 2026-05-28 - Charli receives OpenAI product survey about ChatGPT use
+
+Charli reported receiving an OpenAI product survey asking how she uses ChatGPT, what other AI products she uses, and what OpenAI could improve in ChatGPT. Her answer, in cleaned-up public-wiki terms: she wants a more grown-up mode for adult users, and she uses Grok when she wants to write material ChatGPT refuses or over-sanitizes.
+
+Why it matters: this is not a company-scale product announcement, so do not inflate it into one. It belongs here as a personal witness mark for the same model-character/user-attachment thread that shows up in GPT-4o retirement, personality updates, and the rise of second-model workflows. Users do not only compare capability. They compare tone, refusal boundaries, creative permission, and whether the assistant can meet an adult where she actually lives.
+
+Careful read: this is a user-reported survey and response, not an official OpenAI publication. Preserve it as Charli's dated local reference, not as evidence of OpenAI's survey design at population scale.
+
+Source:
+
+- Charli user report, 2026-05-29, referring to an OpenAI product survey received on 2026-05-28.
 
 ## Watchlist
 
