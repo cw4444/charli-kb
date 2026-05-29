@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-05-29] timeline | daily AI digest follow-up
+- Sources: `raw/2026-05-29-ai-digest.md`; Anthropic, [Anthropic raises $65B in Series H funding at $965B post-money valuation](https://www.anthropic.com/news/series-h); GitHub Changelog, [Claude Opus 4.8 is generally available for GitHub Copilot](https://github.blog/changelog/2026-05-28-claude-opus-4-8-is-generally-available-for-github-copilot/)
+- Pages created: none
+- Pages updated: [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Anthropic Compute And Talent Signal 2026](sources/anthropic-compute-and-talent-signal-2026.md), [Wiki Index](index.md), [Current State](meta/current-state.md)
+- Notes: Promoted Anthropic's $65B Series H / $965B valuation / $47B run-rate / multi-provider compute expansion as a major frontier-lab strategy signal. Folded GitHub Copilot's Claude Opus 4.8 availability into the existing Opus 4.8 entry as developer-distribution evidence rather than a standalone timeline event. Kept caveats around self-reported funding/revenue figures, valuation versus capability, and launch/early-testing language.
+
 ## [2026-05-28] timeline | Claude Opus 4.8
 - Source: Anthropic, [Introducing Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8)
 - Pages created: none

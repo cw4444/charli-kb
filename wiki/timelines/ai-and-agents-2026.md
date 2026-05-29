@@ -3,7 +3,7 @@ title: "AI And Agents 2026 Timeline"
 type: timeline
 status: draft
 created: 2026-05-21
-updated: 2026-05-28
+updated: 2026-05-29
 sources:
   - ../sources/current-ai-agent-landscape-2026.md
   - ../sources/anthropic-compute-and-talent-signal-2026.md
@@ -28,6 +28,8 @@ sources:
   - https://robinhood.com/us/en/newsroom/robinhood-is-now-open-to-agents/
   - https://cognition.ai/blog/series-d
   - https://www.anthropic.com/news/claude-opus-4-8
+  - https://www.anthropic.com/news/series-h
+  - https://github.blog/changelog/2026-05-28-claude-opus-4-8-is-generally-available-for-github-copilot/
 ---
 
 # AI And Agents 2026 Timeline
@@ -45,7 +47,7 @@ Use this page for events that are useful historical anchors:
 
 Future lint rule: update this page if it helps preserve the shape of the year. Delete or collapse entries that turn out to be noise.
 
-## Short Read As Of 2026-05-28
+## Short Read As Of 2026-05-29
 
 The first five months of 2026 already show several converging threads:
 
@@ -62,6 +64,8 @@ The first five months of 2026 already show several converging threads:
 - Robinhood launched public consumer finance surfaces for third-party AI agents, including dedicated agentic trading accounts and agent-connected virtual credit cards.
 - Cognition reported a $1B+ raise at a $26B valuation, $492M in run-rate revenue, and 10x enterprise-usage growth since the start of 2026, making cloud coding agents look less like a niche developer toy and more like a serious enterprise budget line.
 - Anthropic released Claude Opus 4.8 alongside Claude Code dynamic workflows, effort controls, cheaper fast mode, and a public note that broader Mythos-class model access is expected after stronger cyber safeguards.
+- GitHub made Claude Opus 4.8 generally available inside Copilot across major developer surfaces, making Anthropic's top coding model available through Microsoft's developer distribution layer.
+- Anthropic announced a $65B Series H at a $965B post-money valuation, with claimed $47B revenue run-rate and expanded compute agreements across Amazon, Google/Broadcom TPUs, and SpaceX Colossus GPU capacity.
 - Anthropic co-founder Chris Olah spoke at the Vatican presentation of Pope Leo XIV's AI-focused encyclical, putting interpretability, model character, labor displacement, welfare uncertainty, and outside moral criticism into one very visible public frame.
 - Meta began a major AI restructuring: roughly 8,000 job cuts, roughly 7,000 workers reassigned to AI-focused initiatives, and a leaked-audio controversy around employee computer-use data being used to train AI systems.
 - GPT-4o, a model many users were emotionally attached to, was retired from ChatGPT on 2026-02-13.
@@ -314,13 +318,31 @@ Anthropic released Claude Opus 4.8 on 2026-05-28. The launch framed it as a same
 
 The agent-infrastructure part matters most for this timeline: Claude Code now has dynamic workflows in research preview for Enterprise, Team, and Max plans. Anthropic says this lets Claude plan very large work, run hundreds of parallel subagents in a single session, verify outputs, and report back. The launch also says Opus 4.8 is less likely than Opus 4.7 to let flaws in its own code pass unremarked, and that Anthropic's alignment assessment found lower rates of misaligned behavior than Opus 4.7.
 
+GitHub also made Claude Opus 4.8 generally available in Copilot on 2026-05-28 for Pro+, Business, and Enterprise users, across VS Code, Visual Studio, Copilot CLI, Copilot cloud agent, the Copilot app, github.com, mobile, JetBrains, Xcode, and Eclipse. GitHub said the model launched with a 15x premium request multiplier until usage-based billing begins on 2026-06-01.
+
 Why it matters: this is a frontier-lab agent milestone, not just a benchmark bump. The direction is toward longer-running, higher-effort, more parallel Claude Code work with explicit verification, mid-task instruction updates, and model-level honesty/alignment claims.
 
-Careful read: do not treat partner quotes or launch benchmarks as neutral third-party proof. Also do not treat "hundreds of subagents" as safe autonomy by default. The useful signal is that Anthropic is packaging model capability, effort controls, subagent orchestration, verification, and cyber-release gating as one product and safety story.
+Careful read: do not treat partner quotes, launch benchmarks, or GitHub's early-testing language as neutral third-party proof. Also do not treat "hundreds of subagents" as safe autonomy by default. The useful signal is that Anthropic is packaging model capability, effort controls, subagent orchestration, verification, cyber-release gating, and broad developer-tool distribution as one product and safety story.
 
-Source:
+Sources:
 
 - [Anthropic: Introducing Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8)
+- [GitHub Changelog: Claude Opus 4.8 is generally available for GitHub Copilot](https://github.blog/changelog/2026-05-28-claude-opus-4-8-is-generally-available-for-github-copilot/)
+
+### 2026-05-28 - Anthropic raises $65B Series H and expands compute commitments
+
+Anthropic announced a $65 billion Series H funding round at a $965 billion post-money valuation. Anthropic says the funding will support safety and interpretability research, compute expansion for Claude demand, and product and partnership scaling. The announcement also says Anthropic's revenue run-rate crossed $47 billion earlier in May.
+
+The compute detail is the durable bit. Anthropic says it has signed agreements with Amazon for up to five gigawatts of new capacity, with Google and Broadcom for five gigawatts of next-generation TPU capacity, and with SpaceX for GPU capacity in Colossus 1 and Colossus 2. It also says Claude is available across AWS, Google Cloud, and Microsoft Azure, while AWS remains Anthropic's primary cloud provider and training partner.
+
+Why it matters: this is not just another valuation headline. It tightens the Anthropic pattern already tracked in this wiki: model-character and safety rhetoric, Claude Code and enterprise demand, enormous capital, and multi-provider compute access are all moving together.
+
+Careful read: these are Anthropic's own claims and investor-facing numbers. Do not treat valuation as technical capability, revenue run-rate as profit, or compute commitments as proof that Anthropic is ahead. The signal is strategic scale and infrastructure pressure.
+
+Sources:
+
+- [Anthropic: Anthropic raises $65B in Series H funding at $965B post-money valuation](https://www.anthropic.com/news/series-h)
+- [Anthropic Compute And Talent Signal 2026](../sources/anthropic-compute-and-talent-signal-2026.md)
 
 ## Watchlist
 

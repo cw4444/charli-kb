@@ -25,7 +25,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Interpretable Context Methodology](sources/interpretable-context-methodology.md): arXiv source note on using folder structure, Markdown contracts, stage-scoped context, and local scripts as a lightweight architecture for sequential agent workflows.
 - [OpenAI Codex For Everyday Work](sources/openai-codex-for-everyday-work.md): official OpenAI Codex docs translated into practical everyday-work concepts for non-developers.
 - [Current AI Agent Landscape 2026](sources/current-ai-agent-landscape-2026.md): current public-source snapshot of OpenAI, Anthropic, Google, xAI, OpenClaw, and the practical agent capability/safety pattern.
-- [Anthropic Compute And Talent Signal 2026](sources/anthropic-compute-and-talent-signal-2026.md): source note on Andrej Karpathy joining Anthropic pre-training and Anthropic's SpaceX/Colossus compute deal.
+- [Anthropic Compute And Talent Signal 2026](sources/anthropic-compute-and-talent-signal-2026.md): source note on Andrej Karpathy joining Anthropic pre-training, Anthropic's SpaceX/Colossus compute deal, and the later $65B Series H / multi-provider compute expansion.
 - [Anthropic Olah Vatican AI Discernment 2026](sources/anthropic-olah-vatican-ai-discernment-2026.md): source note on Chris Olah's Vatican remarks around Pope Leo XIV's AI encyclical, connecting interpretability, model character, labor displacement, welfare uncertainty, and outside moral criticism.
 - [OpenAI Prompt Guidance](sources/openai-prompt-guidance.md): official OpenAI guidance on prompting newer models and agentic workflows.
 - [AI-Native Company And Sidequest Prototyping Batch](sources/ai-native-company-and-sidequest-prototyping-batch.md): source batch on AI-native company design, queryable organizations, and sidequest prototyping.
@@ -47,7 +47,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 
 ## Timelines
 
-- [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md): lightweight historical timeline for the fast-moving 2026 AI/agent acceleration, including GPT-4o retirement, OpenClaw, Karpathy's LLM Wiki, Codex/Claude/Gemini/Grok agent updates, OpenAI deployment strategy, Anthropic compute/talent/cyber signals, Robinhood's agentic finance launch, Cognition's enterprise coding-agent funding signal, Claude Opus 4.8 / Claude Code dynamic workflows, and Olah's Vatican AI-discernment remarks.
+- [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md): lightweight historical timeline for the fast-moving 2026 AI/agent acceleration, including GPT-4o retirement, OpenClaw, Karpathy's LLM Wiki, Codex/Claude/Gemini/Grok agent updates, OpenAI deployment strategy, Anthropic compute/talent/cyber/capital signals, Robinhood's agentic finance launch, Cognition's enterprise coding-agent funding signal, Claude Opus 4.8 / Claude Code dynamic workflows, GitHub Copilot Opus 4.8 distribution, and Olah's Vatican AI-discernment remarks.
 
 ## Concepts
 
