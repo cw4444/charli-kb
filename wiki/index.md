@@ -23,6 +23,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 
 - [Current Quantum Computing 2026](sources/current-quantum-computing-2026.md): public-source snapshot of Google Willow, Microsoft Majorana 1, IBM's roadmap, and why logical qubits/error correction matter more than quantum-computing press-release theatre.
 - [Interpretable Context Methodology](sources/interpretable-context-methodology.md): arXiv source note on using folder structure, Markdown contracts, stage-scoped context, and local scripts as a lightweight architecture for sequential agent workflows.
+- [Cayley-Table Completion And Algorithmic Compression](sources/cayley-table-completion-compression.md): arXiv source note on Cayley-table completion as a machine-learning benchmark for exact discrete/algebraic rule recovery and algorithmic compression.
 - [OpenAI Industrial Policy For The Intelligence Age](sources/openai-industrial-policy-intelligence-age.md): source note on OpenAI's April 2026 industrial-policy paper, proposed Public Wealth Fund, actual fellowship/research-grant pilot, and related compute-infrastructure posture.
 - [OpenAI Codex For Everyday Work](sources/openai-codex-for-everyday-work.md): official OpenAI Codex docs translated into practical everyday-work concepts for non-developers.
 - [Current AI Agent Landscape 2026](sources/current-ai-agent-landscape-2026.md): current public-source snapshot of OpenAI, Anthropic, Google, xAI, OpenClaw, and the practical agent capability/safety pattern.
@@ -53,6 +54,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 ## Concepts
 
 - [Fault-Tolerant Quantum Computing](concepts/fault-tolerant-quantum-computing.md): concept note on logical qubits, error correction, and why useful quantum computing depends on reliable scalable computation rather than raw physical-qubit counts.
+- [Quantum Interpretation Completion Schemes](concepts/quantum-interpretation-completion-schemes.md): Charli's proposed bridge framing quantum interpretations as competing completions over shared empirical constraints, with AI used only if it yields formal constraints, classifications, predictions, or no-go results.
 - [Filesystem Agent Architecture](concepts/filesystem-agent-architecture.md): pattern where folders, Markdown contracts, scripts, logs, and Git provide the control surface for sequential, reviewable agent workflows.
 - [Agentic Engineering](concepts/agentic-engineering.md): software work organized around steering AI agents, managing context, and verifying outputs.
 - [Agentic Work Rearchitecture](concepts/agentic-work-rearchitecture.md): redesigning work so agents take on execution while humans own direction, judgment, verification, and consequences.

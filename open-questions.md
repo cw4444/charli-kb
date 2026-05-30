@@ -3,7 +3,7 @@ title: "Open Questions"
 type: question-index
 status: draft
 created: 2026-05-10
-updated: 2026-05-12
+updated: 2026-05-30
 sources:
   - sources/source-index.md
 ---
@@ -13,6 +13,7 @@ sources:
 ## Physics And Formalism
 
 - Are local-friendliness theorems genuinely stronger than Bell and Kochen-Specker contextuality, or are they another presentation of related constraints?
+- Can quantum interpretations be formalized as competing completion schemes over a shared empirical constraint set, with explicit given entries, missing entries, constraints, and valid completions?
 - What exactly qualifies as an "observed event" in local friendliness?
 - Can any macroscopic observer-like system be coherently controlled in the way extended Wigner's-friend scenarios require?
 - Which assumptions in Proietti et al. are experimental assumptions, and which are interpretive bridge principles?
@@ -33,6 +34,7 @@ sources:
 
 ## AI Observers
 
+- Can machine learning, symbolic reasoning, or theorem-proving systems expose hidden inductive biases in quantum-interpretation completions rather than merely producing analogical prose?
 - Is record-making enough for observerhood, or does observerhood require agency, self-modeling, or embodiment?
 - Could an AI system be an observer in the same operational sense as a detector or lab memory?
 - If quantum facts are agent-relative, can artificial agents have facts relative to them?

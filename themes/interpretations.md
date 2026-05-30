@@ -3,7 +3,7 @@ title: "Interpretations"
 type: theme
 status: draft
 created: 2026-05-10
-updated: 2026-05-12
+updated: 2026-05-30
 sources:
   - ../sources/source-index.md
 ---
@@ -11,6 +11,8 @@ sources:
 # Interpretations
 
 Bell, Wigner's friend, Brukner, and local friendliness do not force one interpretation. They force a cost. Different interpretations choose different costs.
+
+Another useful way to state the same discipline is that interpretations act like competing completion schemes over a shared empirical constraint set. They agree on much of the operational table, then fill in different missing entries: facts, ontology, dynamics, agents, branches, hidden variables, collapse rules, or global constraints. See [Quantum Interpretation Completion Schemes](../wiki/concepts/quantum-interpretation-completion-schemes.md).
 
 ## QBism
 

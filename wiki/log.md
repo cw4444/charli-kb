@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-05-30] concept | quantum interpretation completion schemes
+- Source: arXiv, [Open Problem: Separating Geometric and Algorithmic Compression via Cayley-Table Completion](https://arxiv.org/abs/2605.29885); Charli working hypothesis, 2026-05-30.
+- Pages created: [Cayley-Table Completion And Algorithmic Compression](sources/cayley-table-completion-compression.md), [Quantum Interpretation Completion Schemes](concepts/quantum-interpretation-completion-schemes.md)
+- Pages updated: [Interpretations](../themes/interpretations.md), [Open Questions](../open-questions.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added Charli's cross-domain research frame: quantum interpretations may be compared as competing completion schemes over a shared empirical constraint set. Kept the boundary clear: Huh's paper is about ML/algebraic completion, not quantum foundations; the quantum move is a proposed analogy that must earn its place by yielding formal constraints, classifications, predictions, theorem sketches, counterexamples, or useful no-go results.
+
 ## [2026-05-30] timeline | daily AI digest G7/UK AI governance
 - Sources: `raw/2026-05-30-ai-digest.md`; GOV.UK, [G7 nations agree first-ever joint approach to protecting children online and drive safe AI growth that delivers for all](https://www.gov.uk/government/news/g7-nations-agree-first-ever-joint-approach-to-protecting-children-online-and-drive-safe-ai-growth-that-delivers-for-all); GitHub Changelog, [Copilot usage metrics API adds cohorts for AI adoption](https://github.blog/changelog/2026-05-29-copilot-usage-metrics-api-adds-cohorts-for-ai-adoption/); Microsoft Security Blog, [33 malicious npm packages abuse dependency confusion to profile developer environments](https://www.microsoft.com/en-us/security/blog/2026/05/29/33-malicious-npm-packages-abuse-dependency-confusion-profile-developer-environments/)
 - Pages created: none
