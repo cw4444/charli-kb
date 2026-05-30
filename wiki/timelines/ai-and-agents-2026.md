@@ -3,7 +3,7 @@ title: "AI And Agents 2026 Timeline"
 type: timeline
 status: draft
 created: 2026-05-21
-updated: 2026-05-29
+updated: 2026-05-30
 sources:
   - ../sources/current-ai-agent-landscape-2026.md
   - ../sources/anthropic-compute-and-talent-signal-2026.md
@@ -33,6 +33,7 @@ sources:
   - https://www.anthropic.com/news/claude-opus-4-8
   - https://www.anthropic.com/news/series-h
   - https://github.blog/changelog/2026-05-28-claude-opus-4-8-is-generally-available-for-github-copilot/
+  - https://www.gov.uk/government/news/g7-nations-agree-first-ever-joint-approach-to-protecting-children-online-and-drive-safe-ai-growth-that-delivers-for-all
 ---
 
 # AI And Agents 2026 Timeline
@@ -50,7 +51,7 @@ Use this page for events that are useful historical anchors:
 
 Future lint rule: update this page if it helps preserve the shape of the year. Delete or collapse entries that turn out to be noise.
 
-## Short Read As Of 2026-05-29
+## Short Read As Of 2026-05-30
 
 The first five months of 2026 already show several converging threads:
 
@@ -71,6 +72,7 @@ The first five months of 2026 already show several converging threads:
 - GitHub made Claude Opus 4.8 generally available inside Copilot across major developer surfaces, making Anthropic's top coding model available through Microsoft's developer distribution layer.
 - Anthropic announced a $65B Series H at a $965B post-money valuation, with claimed $47B revenue run-rate and expanded compute agreements across Amazon, Google/Broadcom TPUs, and SpaceX Colossus GPU capacity.
 - Anthropic co-founder Chris Olah spoke at the Vatican presentation of Pope Leo XIV's AI-focused encyclical, putting interpretability, model character, labor displacement, welfare uncertainty, and outside moral criticism into one very visible public frame.
+- G7 Digital Ministers, in a UK-reported Paris agreement, aligned on child online safety, AI-chatbot risks, AI-generated-content detection, AI system security, SME AI adoption, trusted data flows, and resilient AI infrastructure.
 - Meta began a major AI restructuring: roughly 8,000 job cuts, roughly 7,000 workers reassigned to AI-focused initiatives, and a leaked-audio controversy around employee computer-use data being used to train AI systems.
 - GPT-4o, a model many users were emotionally attached to, was retired from ChatGPT on 2026-02-13.
 - Charli reported receiving an OpenAI product survey asking how she uses ChatGPT, what other AI products she uses, and what ChatGPT should improve. The useful personal signal: adult users want more grown-up tone and wider creative range, and some route refused or tone-constrained work to Grok.
@@ -377,6 +379,20 @@ Source:
 
 - Charli user report, 2026-05-29, referring to an OpenAI product survey received on 2026-05-28.
 
+### 2026-05-29 - G7 Digital Ministers align on safe AI growth, child online safety, and AI infrastructure resilience
+
+The UK Department for Science, Innovation and Technology reported that G7 Digital Ministers agreed a common approach in Paris on 2026-05-29. The headline UK framing emphasized child online safety, including digital literacy, age assurance, risks from AI chatbots, and stronger expectations on digital service providers.
+
+The AI parts matter beyond the child-safety headline. The UK release says G7 countries reaffirmed trusted AI development and use, discussed threats including cyberattacks and chemical or biological capabilities, agreed to further work on mutual understanding of AI risk-assessment frameworks, backed an OECD-linked tool to help small and medium-sized enterprises assess AI readiness, and recognized AI openness as part of innovation, scientific discovery, and growth. The notes also mention detection of AI-generated content, securing AI systems against misuse and vulnerabilities, privacy/security/IP-preserving data flows, and resilient, resource-efficient digital and AI infrastructure.
+
+Why it matters: for a UK-centered reader, this is a useful governance anchor. It shows mainstream AI policy converging around safety, provenance, infrastructure, data trust, SME adoption, and child protection rather than treating AI as only a lab race or product market. It also sits near the wiki's existing OpenAI industrial-policy and Vatican/civil-society governance threads: AI is now being argued over by governments, religious institutions, companies, researchers, and ordinary users at the same time.
+
+Careful read: this is not hard law and not a technical standard. It is a ministerial coordination signal reported by the UK government. Treat it as public-policy direction-setting, not proof that G7 countries have solved AI safety, child protection, content provenance, or infrastructure pressure.
+
+Source:
+
+- [GOV.UK: G7 nations agree first-ever joint approach to protecting children online and drive safe AI growth that delivers for all](https://www.gov.uk/government/news/g7-nations-agree-first-ever-joint-approach-to-protecting-children-online-and-drive-safe-ai-growth-that-delivers-for-all)
+
 ## Watchlist
 
 Future agents should consider adding entries when these threads produce durable changes:
@@ -389,6 +405,7 @@ Future agents should consider adding entries when these threads produce durable 
 - high-stakes consumer delegation surfaces for agents, especially finance, healthcare, identity, legal, or purchasing;
 - agent-safety incidents involving local tools, email, money, secrets, or public posting;
 - public guidance around sandboxing, MCP, browser/computer use, and explicit consent;
+- enterprise metrics or governance APIs that make agent adoption measurable as an organization-management surface;
 - this wiki's own workflow changes if the Karpathy LLM Wiki pattern evolves.
 
 ## Do Not Overclaim

@@ -48,7 +48,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 
 ## Timelines
 
-- [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md): lightweight historical timeline for the fast-moving 2026 AI/agent acceleration, including GPT-4o retirement, OpenClaw, Karpathy's LLM Wiki, Codex/Claude/Gemini/Grok agent updates, OpenAI deployment and industrial-policy strategy, Anthropic compute/talent/cyber/capital signals, Robinhood's agentic finance launch, Cognition's enterprise coding-agent funding signal, Claude Opus 4.8 / Claude Code dynamic workflows, GitHub Copilot Opus 4.8 distribution, and Olah's Vatican AI-discernment remarks.
+- [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md): lightweight historical timeline for the fast-moving 2026 AI/agent acceleration, including GPT-4o retirement, OpenClaw, Karpathy's LLM Wiki, Codex/Claude/Gemini/Grok agent updates, OpenAI deployment and industrial-policy strategy, Anthropic compute/talent/cyber/capital signals, Robinhood's agentic finance launch, Cognition's enterprise coding-agent funding signal, Claude Opus 4.8 / Claude Code dynamic workflows, GitHub Copilot Opus 4.8 distribution, Olah's Vatican AI-discernment remarks, and the G7/UK safe-AI-growth governance signal.
 
 ## Concepts
 

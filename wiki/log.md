@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-05-30] timeline | daily AI digest G7/UK AI governance
+- Sources: `raw/2026-05-30-ai-digest.md`; GOV.UK, [G7 nations agree first-ever joint approach to protecting children online and drive safe AI growth that delivers for all](https://www.gov.uk/government/news/g7-nations-agree-first-ever-joint-approach-to-protecting-children-online-and-drive-safe-ai-growth-that-delivers-for-all); GitHub Changelog, [Copilot usage metrics API adds cohorts for AI adoption](https://github.blog/changelog/2026-05-29-copilot-usage-metrics-api-adds-cohorts-for-ai-adoption/); Microsoft Security Blog, [33 malicious npm packages abuse dependency confusion to profile developer environments](https://www.microsoft.com/en-us/security/blog/2026/05/29/33-malicious-npm-packages-abuse-dependency-confusion-profile-developer-environments/)
+- Pages created: none
+- Pages updated: [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Promoted the 2026-05-29 G7 Digital Ministers / GOV.UK safe-AI-growth item as a UK-relevant governance anchor: child online safety, AI-chatbot risks, AI-generated-content detection, AI system security, SME AI adoption, trusted data flows, and resilient AI infrastructure. Parked GitHub's Copilot AI-adoption cohort metrics and Microsoft's malicious npm/dependency-confusion campaign as watch-only: both matter for agent/toolchain governance, but neither needed a standalone timeline monument yet.
+
 ## [2026-05-29] source note | OpenAI industrial policy and fund clarification
 - Sources: OpenAI, [Industrial policy for the Intelligence Age](https://openai.com/index/industrial-policy-for-the-intelligence-age/); OpenAI PDF, [Industrial Policy for the Intelligence Age](https://cdn.openai.com/pdf/561e7512-253e-424b-9734-ef4098440601/Industrial%20Policy%20for%20the%20Intelligence%20Age.pdf); OpenAI, [Building the compute infrastructure for the Intelligence Age](https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age/); OpenAI, [Introducing OpenAI for Countries](https://openai.com/global-affairs/openai-for-countries/)
 - Pages created: [OpenAI Industrial Policy For The Intelligence Age](sources/openai-industrial-policy-intelligence-age.md)

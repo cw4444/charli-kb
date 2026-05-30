@@ -3,7 +3,7 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-05-29
+updated: 2026-05-30
 ---
 
 # Current State
@@ -42,6 +42,10 @@ This repo is a plain Markdown personal knowledge base based on Karpathy's LLM Wi
 - The durable subject lanes are AI, reality, and their overlap: perception, belief, expectation, action, agents, knowledge systems, reality monitoring, and related source-backed concepts.
 
 ## Latest Session Handoff
+
+On 2026-05-30, Charli asked to process `raw/2026-05-30-ai-digest.md` and specifically flagged the G7 item as important because UK AI governance matters for her context. Codex verified the GOV.UK page and added a 2026-05-29 entry to [AI And Agents 2026 Timeline](../timelines/ai-and-agents-2026.md). The durable point is not "G7 solved AI safety"; it is a UK-reported ministerial coordination signal across child online safety, AI-chatbot risks, AI-generated-content detection, AI system security, SME AI adoption, trusted data flows, and resilient/resource-efficient AI infrastructure. Treat it as public-policy direction-setting, not hard law or a technical standard.
+
+The same digest included GitHub adding Copilot usage-metrics cohorts for code-first, agent-first, and multi-agent adoption, plus Microsoft reporting malicious npm packages using dependency confusion to profile developer environments. Parked both as watch-only for now. GitHub's metric may become important if enterprise agent adoption becomes a management surface; the Microsoft item reinforces agent/toolchain security risk, but a single active npm campaign is not enough for a standalone timeline anchor unless it connects to a larger incident, standard, or agent-safety package.
 
 On 2026-05-29, Charli asked whether she had correctly remembered OpenAI putting money into a fund based on its 2026-04-06 [Industrial policy for the Intelligence Age](https://openai.com/index/industrial-policy-for-the-intelligence-age/) paper. Codex verified the official OpenAI page, PDF, compute-infrastructure follow-up, and OpenAI for Countries page, then added [OpenAI Industrial Policy For The Intelligence Age](../sources/openai-industrial-policy-intelligence-age.md) and a 2026-04-06 entry to [AI And Agents 2026 Timeline](../timelines/ai-and-agents-2026.md). Keep the distinction sharp: the paper proposes a Public Wealth Fund, but does not say OpenAI has created one; the actual OpenAI-backed funding attached to the paper is a pilot program of fellowships and focused research grants up to `$100,000`, plus up to `$1 million` in API credits. OpenAI for Countries has separate national startup-fund language from 2025.
 
