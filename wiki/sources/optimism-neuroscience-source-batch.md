@@ -3,7 +3,7 @@ title: "Optimism Neuroscience Source Batch"
 type: source
 status: draft
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-06-01
 source_type: public-research-batch
 authors:
   - Tali Sharot
@@ -41,6 +41,7 @@ commentary_sources:
   - "Rick Hanson, How to Take in the Good, 2017, https://rickhanson.com/how-to-take-in-the-good/"
 sources:
   - "Public web research, accessed 2026-05-12"
+  - "../../raw/optimistic-brain.pdf"
 ---
 
 # Optimism Neuroscience Source Batch
@@ -49,7 +50,7 @@ sources:
 
 - Topic: optimism as a cognitive and neural style rather than a manifestation claim
 - Scope: future-event simulation, optimism bias, belief updating, mental imagery, and repetitive negative thinking
-- Access note: this page keeps original synthesis and metadata only. It does not reproduce paywalled text.
+- Access note: this page keeps original synthesis and metadata only. It does not reproduce paywalled text. `raw/optimistic-brain.pdf` is treated as local access-controlled source material.
 
 ## Core Primary-Source Claims
 
@@ -64,6 +65,8 @@ Yanagisawa et al. 2025 adds a newer angle: more optimistic people showed more si
 Schacter, Benoit, and Szpunar 2017 is broader than optimism specifically, but it matters here because it frames episodic future thinking as a core cognitive system with functions in decision-making, emotion regulation, planning, and prospection. The review also notes that everyday future thought tends to be positively biased.
 
 Schacter and Addis 2007, "The optimistic brain," is a short News & Views article on Sharot et al. 2007. It is useful because Schacter and Addis sit at the memory/future-simulation bridge: optimism is not just pleasant expectation, but is tied to the constructive system that lets people remember, recombine, and simulate possible futures. Treat it as expert commentary on the Sharot paper, not as a separate experiment.
+
+The local PDF adds a useful caveat for this wiki: Schacter and Addis do not treat optimism as an unconditional good. They connect optimism's risks to misleading rosy outlooks, poor preparedness, and cases where more realistic or pessimistic expectations can be adaptive. This supports the current wiki boundary: healthy optimism needs calibration, not a permanent ban on negative prediction.
 
 Ji, Holmes, and Blackwell 2017 links optimism to imagery vividness in a clinical population. In depressed adults, greater vividness of positive prospective imagery was associated with greater current optimism and predicted greater optimism months later.
 
@@ -115,6 +118,8 @@ Richard Wiseman's newspaper experiment belongs here as a practical attention exa
 
 That connects optimism to perception and agency: expectation can act like an attentional policy. A person expecting opportunity may scan more broadly, tolerate surprise, and notice affordances. A person expecting frustration may narrow hard onto the assigned task and miss the sign in front of them. This is not manifestation. It is attention, arousal, openness, and action-readiness.
 
+Charli's "pessimist gratitude" practice fits here as calibrated negative simulation: notice not only what went well, but which plausible bad outcomes did not happen. That lets a threat-scanning mind use its own machinery without letting threat become the whole evidence set.
+
 ## Distinctions That Matter
 
 ### Adaptive optimism
@@ -142,6 +147,7 @@ Refusal or failure to register relevant negative evidence. This is not the same 
 - The literature does not show that optimism means ignoring reality.
 - The literature does not show that all positive illusions are healthy.
 - The literature does not show that vivid positive imagery alone causes broad life improvement.
+- Schacter and Addis explicitly leave room for realism or pessimism when preparedness matters.
 - The Hanson intervention paper is interesting, but it is not strong evidence for a universal everyday optimism protocol.
 - Bortolotti's agency argument does not mean every optimistic distortion helps; some produce invulnerability fantasy, poor preparation, or disengagement after failure.
 - Wiseman's newspaper experiment should be treated as attention/opportunity evidence, not a proof that lucky identity controls external events.

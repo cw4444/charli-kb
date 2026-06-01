@@ -29,6 +29,8 @@ The classic 2007 Nature paper found that imagining positive future events, compa
 
 This is the oldest clean neuroscience anchor for the idea that optimism is not just a self-report label. It is tied to emotionally salient future simulation.
 
+Schacter and Addis's 2007 News & Views article on the Sharot paper is especially useful because it keeps the memory/future-simulation bridge visible. Their framing connects optimism to constructive prospection: the same broad machinery that helps reconstruct past events also helps simulate future ones.
+
 ### 2. Optimism is maintained partly by asymmetric belief updating
 
 The 2011 Nature Neuroscience paper found that people updated beliefs more when outcomes were better than expected than when they were worse. In more optimistic individuals, undesirable estimation errors were tracked less strongly in right inferior frontal gyrus.
@@ -90,6 +92,8 @@ That is not standard gratitude language, but it fits this package. For anxious o
 
 The useful mechanism is attentional recalibration. It does not pretend the world is safe. It asks the system to register non-events as evidence too.
 
+This also fits Schacter and Addis's caution that optimism is not always adaptive. Sometimes the right move is not to erase negative futures, but to simulate them accurately enough to prepare, then update when they do not occur.
+
 ## Working Interpretation
 
 The most defensible synthesis is that optimism is a representational style.
@@ -115,6 +119,7 @@ The bills still exist. The better version of optimism is not pretending they do 
 - The literature does not support manifestation claims.
 - The literature does not show that optimism is always accurate.
 - The literature does not show that toxic positivity is healthy.
+- Schacter and Addis explicitly leave room for realism or pessimism when negative outcomes are likely or preparation matters.
 - The literature does not yet show that training vivid positive imagery alone reliably produces lasting healthy optimism in everyday life.
 - The older-adult repetitive negative thinking findings are important, but the 2025 study is cross-sectional and should not be read as causal proof.
 - The "negative events are represented more abstractly" point is plausible and source-backed, but still stronger as a working interpretation than as a settled law.

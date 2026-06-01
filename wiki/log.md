@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-01] source note | Schacter Addis local PDF check
+- Source: `raw/optimistic-brain.pdf`
+- Pages created: none
+- Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Research - Optimism](questions/research-optimism.md), [Wiki Log](log.md)
+- Notes: Read the local Nature Neuroscience News & Views PDF as access-controlled raw material. Added the useful caveat that Schacter and Addis treat optimism as sometimes beneficial and sometimes misleading, with realism or pessimism adaptive when preparation matters. Did not reproduce paywalled text.
+
 ## [2026-06-01] source note | Schurger, readiness potential, and pessimist gratitude
 - Sources: Schurger, Sitt, and Dehaene 2012 PNAS accumulator model; Schurger et al. 2021 readiness-potential review; related readiness-potential neurofeedback review.
 - Pages created: [Libet, Schurger, Readiness Potential, And Agency](sources/libet-schurger-readiness-potential-agency.md)
