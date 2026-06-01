@@ -7,6 +7,7 @@ updated: 2026-06-01
 question: "What does public neuroscience and adjacent cognitive research suggest about optimism?"
 sources:
   - ../sources/optimism-neuroscience-source-batch.md
+  - ../sources/libet-schurger-readiness-potential-agency.md
   - ../concepts/optimism.md
 ---
 
@@ -81,6 +82,14 @@ Richard Wiseman's newspaper experiment is a nice folk-psychology bridge into the
 
 Use this carefully. It does not prove that lucky people manifest events. It suggests that expectation, anxiety, openness, and attentional breadth change which affordances people notice.
 
+### 9. Pessimist gratitude counts avoided bad outcomes
+
+Charli's Schurger/Libet joke points to a genuinely useful practice: look at all the bad things that could have happened today and did not.
+
+That is not standard gratitude language, but it fits this package. For anxious or pessimistic cognition, "name three good things" can feel like being ordered to lie by a motivational poster. Counterfactual gratitude works from the other side: the mind already simulates threat, so ask it to finish the audit honestly. Which predicted disasters failed to occur? Which feared messages did not arrive? Which bodily, social, financial, technical, or emotional failure modes stayed dormant?
+
+The useful mechanism is attentional recalibration. It does not pretend the world is safe. It asks the system to register non-events as evidence too.
+
 ## Working Interpretation
 
 The most defensible synthesis is that optimism is a representational style.
@@ -93,6 +102,7 @@ It seems to involve:
 - weaker incorporation of some forms of bad news
 - agency-supporting beliefs that preserve action after setbacks
 - attentional openness to unexpected opportunity
+- counterfactual noticing of harms that did not happen
 
 This can be adaptive because it supports motivation, resilience, and goal pursuit. It can also become maladaptive if it blocks realistic preparation or error correction.
 
@@ -111,6 +121,7 @@ The bills still exist. The better version of optimism is not pretending they do 
 - The positive-illusions literature is historically important but contested, so it should be used as a framing argument, not as a trump card.
 - Bortolotti's agency argument supports useful optimistic belief, not reckless self-deception.
 - Wiseman's luck work is best read as attention and opportunity detection, not fate bending.
+- Counterfactual gratitude should not become "other people have it worse." The point is evidence calibration, not guilt.
 
 ## Sources
 
@@ -123,3 +134,4 @@ The bills still exist. The better version of optimism is not pretending they do 
 - How much optimism is helpful before it starts degrading preparedness?
 - Are neural optimism signatures stable traits, trainable habits, or both?
 - Can people train opportunity-detection without becoming credulous or overconfident?
+- Can counterfactual gratitude help pessimists recalibrate threat prediction without suppressing useful caution?

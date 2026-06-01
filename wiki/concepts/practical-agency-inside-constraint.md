@@ -3,11 +3,12 @@ title: "Practical Agency Inside Constraint"
 type: concept
 status: draft
 created: 2026-05-20
-updated: 2026-05-20
+updated: 2026-06-01
 sources:
   - ../../themes/rovelli-relational-quantum-mechanics-and-reality.md
   - ../../themes/qbism-adlam-observer-dependent-reality.md
   - mechanical-world-models.md
+  - ../sources/libet-schurger-readiness-potential-agency.md
 ---
 
 # Practical Agency Inside Constraint
@@ -61,6 +62,14 @@ But practical agency does not need escape. A person inside a constrained system 
 
 This is close to engineering. You do not need to be outside physics to build a bridge. You need enough reliable understanding of constraints, forces, materials, and failure modes.
 
+## Relation To Libet And Readiness Potential
+
+Libet-style readiness-potential experiments often get flattened into "your brain decides before you do." That is too quick.
+
+Aaron Schurger, Sitt, and Dehaene's 2012 accumulator model gives a better caution. In arbitrary self-timed movement tasks, the readiness potential may reflect spontaneous neural fluctuations accumulating toward a threshold, not a completed unconscious decision waiting for consciousness to catch up. Later reviews keep the interpretation open: the readiness potential is real, but it is not a simple meter reading for "the decision has already happened."
+
+This matters for practical agency because meaningful action is not usually "press a button whenever." Agency often involves framing a problem, weighing values, inhibiting impulses, choosing tools, asking for help, retrying after failure, and updating the model. Neural precursors are part of the machinery. They are not automatically a cancellation notice for agency.
+
 ## Relation To Adlam And Global Constraints
 
 Emily Adlam's global-constraint direction is useful here because it weakens the habit of treating reality as a little causal machine pushing forward one moment at a time.
@@ -90,6 +99,7 @@ This is why [Mechanical World Models](mechanical-world-models.md), [Queryable Or
 
 - Do not say Yoneda literally explains physics, determinism, or agency.
 - Do not say relational thinking proves free will.
+- Do not say Schurger proves free will or disproves the readiness potential.
 - Do not say determinism is solved by vibes, manifestation, or optimism.
 - Do not collapse RQM, QBism, Adlam, and category theory into one view.
 - Do not treat "everything is relational" as an excuse for ignoring material constraints.
@@ -100,6 +110,7 @@ This is why [Mechanical World Models](mechanical-world-models.md), [Queryable Or
 - [Mechanical World Models](mechanical-world-models.md)
 - [Queryable Organization](queryable-organization.md)
 - [Cognitive Latency Shock](cognitive-latency-shock.md)
+- [Libet, Schurger, Readiness Potential, And Agency](../sources/libet-schurger-readiness-potential-agency.md)
 - [Positive Alignment](positive-alignment.md)
 - [Agentic Work Rearchitecture](agentic-work-rearchitecture.md)
 - [Rovelli, Relational Quantum Mechanics, and Reality](../../themes/rovelli-relational-quantum-mechanics-and-reality.md)

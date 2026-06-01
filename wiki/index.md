@@ -44,6 +44,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Michael Levin - Unconventional Cognition And AI](sources/michael-levin-unconventional-cognition.md): commentary source note on Levin's spectrum-of-cognition framing, AI as unfamiliar embodiment, and why substrate descriptions can be true but incomplete.
 - [Devs - Prediction, Determinism, And Acceleration](sources/devs-prediction-determinism.md): cultural reference note on prediction machines, many-worlds, grief, determinism, and acceleration shock.
 - [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md): public-source research note on optimism bias, future simulation, belief updating, positive imagery, and repetitive negative thinking.
+- [Libet, Schurger, Readiness Potential, And Agency](sources/libet-schurger-readiness-potential-agency.md): source note on Schurger's accumulator model, readiness-potential overclaims, and practical agency inside neural constraint.
 - [Positive Alignment: Artificial Intelligence for Human Flourishing](sources/positive-alignment-human-flourishing.md): source note on a 2026 cross-lab agenda to move AI alignment from pure harm-avoidance toward flourishing-supporting positive attractors.
 - [Feynman - Calculation And Reality Stories](sources/feynman-calculation-and-reality-stories.md): source note on using Feynman as a boundary marker between quantum calculation, interpretation, and reality-story creep.
 - [Rovelli And Relational Quantum Mechanics](sources/rovelli-relational-quantum-mechanics.md): source note on RQM as a relation-first interpretation of quantum facts and states.
@@ -76,9 +77,9 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Perception And Imagination Overlap](concepts/perception-and-imagination-overlap.md): model of shared machinery and signal-strength judgments across imagery and perception.
 - [Interface Theory Of Perception](concepts/interface-theory-of-perception.md): Donald Hoffman's desktop-interface argument that perception may be useful and fitness-shaped without being a literal view of reality-in-itself.
 - [Pluriverse](concepts/pluriverse.md): bridge concept for shared reality built through interlocking situated perspectives, anchored in QBism, participatory realism, and predictive-processing caveats.
-- [Optimism](concepts/optimism.md): future-oriented cognitive style tied to vivid positive simulation, selective updating, and representational distance from negative futures.
+- [Optimism](concepts/optimism.md): future-oriented cognitive style tied to vivid positive simulation, selective updating, representational distance from negative futures, agency, opportunity attention, and counterfactual gratitude.
 - [Positive Alignment](concepts/positive-alignment.md): AI-alignment agenda that aims beyond "not unsafe" toward constructive, flourishing-supportive behavioral attractors.
-- [Practical Agency Inside Constraint](concepts/practical-agency-inside-constraint.md): Charli's working interpretation of agency as model-improvement and intervention inside relational constraint.
+- [Practical Agency Inside Constraint](concepts/practical-agency-inside-constraint.md): Charli's working interpretation of agency as model-improvement and intervention inside relational, neural, and practical constraint.
 - [Sidequest Prototyping](concepts/sidequest-prototyping.md): low-permission prototypes judged by actual adoption rather than roadmap speculation.
 - [Observer-Dependent Facts (Wigner's Friend / Local Friendliness)](concepts/observer-dependent-facts.md): quantum-mechanics framing where a set of “objective facts” assumptions can’t all hold simultaneously.
 

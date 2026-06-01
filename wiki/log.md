@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-01] source note | Schurger, readiness potential, and pessimist gratitude
+- Sources: Schurger, Sitt, and Dehaene 2012 PNAS accumulator model; Schurger et al. 2021 readiness-potential review; related readiness-potential neurofeedback review.
+- Pages created: [Libet, Schurger, Readiness Potential, And Agency](sources/libet-schurger-readiness-potential-agency.md)
+- Pages updated: [Practical Agency Inside Constraint](concepts/practical-agency-inside-constraint.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md)
+- Notes: Added a cautious Schurger/Libet source note. Preserved the key boundary: Schurger weakens the lazy "brain decided before you" interpretation but does not disprove the RP or prove free will. Added Charli's counterfactual-gratitude bridge: notice the bad things that could have happened today and did not.
+
 ## [2026-06-01] research | optimism, agency, and opportunity attention
 - Sources: Schacter and Addis 2007, "The optimistic brain"; Bortolotti 2018, "Optimism, Agency, and Success"; Scientific American / Wiseman coverage of the newspaper photograph-counting task.
 - Pages created: none
