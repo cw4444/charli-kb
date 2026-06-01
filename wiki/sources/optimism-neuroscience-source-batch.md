@@ -27,11 +27,13 @@ primary_sources:
   - "Ye et al., BMC Psychiatry, 2025, Repetitive negative thinking is associated with cognitive function decline in older adults: a cross-sectional study, https://doi.org/10.1186/s12888-025-06815-2"
   - "Weinstein, Journal of Behavioral Medicine, 1987, Unrealistic optimism about susceptibility to health problems: conclusions from a community-wide sample, https://doi.org/10.1007/BF00846146"
   - "Bortolotti, Ethical Theory and Moral Practice, 2018, Optimism, Agency, and Success, https://doi.org/10.1007/s10677-018-9894-6"
+  - "McKay et al., Cortex, 2013, Vestibular stimulation attenuates unrealistic optimism, https://doi.org/10.1016/j.cortex.2013.04.005"
 counterpoint_sources:
   - "Colvin and Block, Psychological Bulletin, 1994, Do positive illusions foster mental health? An examination of the Taylor and Brown formulation, https://doi.org/10.1037/0033-2909.116.1.3"
   - "Taylor and Brown, Psychological Bulletin, 1994, Positive illusions and well-being revisited: separating fact from fiction, https://doi.org/10.1037/0033-2909.116.1.21"
   - "Shepperd, Pogge, and Howell, Consciousness and Cognition, 2017, Assessing the consequences of unrealistic optimism: Challenges and recommendations, https://doi.org/10.1016/j.concog.2016.07.004"
 commentary_sources:
+  - "Tamagni et al., Nature Precedings, 2010, Vestibular stimulation reduces unrealistic optimism, https://doi.org/10.1038/npre.2010.4519.1"
   - "Schacter and Addis, Nature Neuroscience, 2007, The optimistic brain, https://doi.org/10.1038/nn1107-1345"
   - "Nature News, 2025, The optimistic brain: scans reveal thought patterns shared by positive thinkers, https://doi.org/10.1038/d41586-025-02302-6"
   - "Scientific American, 2006, As Luck Would Have It, https://www.scientificamerican.com/article/as-luck-would-have-it/"
@@ -81,6 +83,8 @@ Bortolotti 2018 adds the agency criterion. Her argument is not that optimistic b
 
 The raw PDF sharpens two useful distinctions. First, Bortolotti argues that optimistic beliefs are not necessarily illusory because they are false; the epistemic problem can be that they are unwarranted or produced by biased reasoning. Second, she rejects both the simple "true beliefs are always better" view and the simple "small distortions are adaptive" trade-off view. Her third view is agency-based: the beliefs that matter are those that sustain motivation at critical times, especially through a sense of competence, control, efficacy, and desirable/attainable goals.
 
+McKay et al. 2013 is the cold-water-in-the-ear counterweight. The paper builds on a 2010 Nature Precedings report from University Hospital Zurich, University of Zurich / ETH Zurich, Oxford-linked authors, and collaborators. In 31 healthy right-handed adults, cold-water caloric vestibular stimulation of the left ear, but not the right ear, raised participants' estimates of their own future illness risk relative to baseline. The authors interpret this as selective attenuation of unrealistic optimism, possibly via right inferior frontal mechanisms also implicated in anosognosia.
+
 ## Counterweight Sources
 
 Colvin and Block 1994 pushed back on Taylor and Brown's thesis. Their review argued that the evidence did not establish that positive illusions broadly foster mental health and warned that the claim had moved faster than the data.
@@ -112,6 +116,7 @@ Taken together, the sources suggest that optimism is not best understood as magi
 - less immersion in repetitive negative loops
 - agency-supporting beliefs that preserve action after setback
 - attentional openness to unexpected opportunity
+- bodily perturbation of risk belief and self-evaluation
 
 Taylor and Brown matter here because they widen the frame: mild positive distortions may sometimes help people function, persist, create, and cope. But the counter-literature matters just as much: once optimism drifts into overconfidence, risk neglect, or refusal to update from evidence, it stops looking like resilience and starts looking like error management gone wrong.
 
@@ -147,6 +152,10 @@ The broader Taylor and Brown category: overly positive self-views, exaggerated c
 
 Refusal or failure to register relevant negative evidence. This is not the same thing as healthy optimism, even if both can look "positive" from a distance.
 
+### Vestibular attenuation of unrealistic optimism
+
+McKay et al.'s caloric vestibular stimulation result suggests that optimism bias is not just a proposition floating in the mind. Body-based vestibular stimulation can temporarily shift illness-risk estimates. That belongs in this package as a reminder that belief updating is embodied, lateralized, and perturbable, not just a motivational slogan in a nicer font.
+
 ## Do Not Overclaim
 
 - The literature does not show that optimism means ignoring reality.
@@ -157,6 +166,7 @@ Refusal or failure to register relevant negative evidence. This is not the same 
 - Bortolotti's agency argument does not mean every optimistic distortion helps; some produce invulnerability fantasy, poor preparation, or disengagement after failure.
 - Bortolotti does not say epistemic irrationality is harmless. Her point is that the link between belief accuracy and success is mediated by agency, motivation, and action.
 - Wiseman's newspaper experiment should be treated as attention/opportunity evidence, not a proof that lucky identity controls external events.
+- The vestibular-stimulation result was small and specific: healthy right-handed adults estimating illness risk during caloric stimulation. Do not generalize it to all optimism, all denial, or a home anti-delusion protocol. Leave people's ears alone.
 - The 2025 RNT paper is cross-sectional, so it does not establish that repetitive negative thinking causes cognitive decline.
 - The "abstract negative events create emotional distance" claim is best treated as a source-grounded interpretation, not a settled mechanism.
 - The Taylor and Brown position is historically influential, but it remains debated rather than canonically settled.

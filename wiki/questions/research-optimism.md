@@ -96,6 +96,12 @@ The useful mechanism is attentional recalibration. It does not pretend the world
 
 This also fits Schacter and Addis's caution that optimism is not always adaptive. Sometimes the right move is not to erase negative futures, but to simulate them accurately enough to prepare, then update when they do not occur.
 
+### 10. Body perturbation can shift optimism bias
+
+McKay et al. 2013 is the glorious cold-water-in-the-ear paper. Thirty-one healthy right-handed adults estimated their own relative risk of future illnesses during baseline, left-ear cold-water caloric vestibular stimulation, and right-ear stimulation. Left-ear stimulation raised illness-risk estimates relative to baseline; right-ear stimulation did not show the same effect. The authors interpret this as selective attenuation of unrealistic optimism, linking optimism bias to right inferior frontal mechanisms also discussed in anosognosia.
+
+Use this as embodied cognition evidence, not as a life hack. The point is that optimism bias is not only a verbal belief or social attitude. It can be perturbed through bodily/vestibular systems, which makes the "human lump of custard" model even more annoying and more interesting.
+
 ## Working Interpretation
 
 The most defensible synthesis is that optimism is a representational style.
@@ -109,6 +115,7 @@ It seems to involve:
 - agency-supporting beliefs that preserve action after setbacks
 - attentional openness to unexpected opportunity
 - counterfactual noticing of harms that did not happen
+- embodied perturbability of risk estimates and self-evaluation
 
 This can be adaptive because it supports motivation, resilience, and goal pursuit. It can also become maladaptive if it blocks realistic preparation or error correction.
 
@@ -130,6 +137,7 @@ The bills still exist. The better version of optimism is not pretending they do 
 - Bortolotti's argument is not "accuracy does not matter"; it is "accuracy is not the only variable, because motivation and agency mediate outcomes."
 - Wiseman's luck work is best read as attention and opportunity detection, not fate bending.
 - Counterfactual gratitude should not become "other people have it worse." The point is evidence calibration, not guilt.
+- The vestibular-stimulation finding is specific and weird: illness-risk estimates during caloric stimulation, not a universal cure for delusion or optimism bias.
 
 ## Sources
 
@@ -143,3 +151,4 @@ The bills still exist. The better version of optimism is not pretending they do 
 - Are neural optimism signatures stable traits, trainable habits, or both?
 - Can people train opportunity-detection without becoming credulous or overconfident?
 - Can counterfactual gratitude help pessimists recalibrate threat prediction without suppressing useful caution?
+- Which optimism biases are primarily motivational, which are attentional, and which are strongly bodily/vestibular or interoceptive?

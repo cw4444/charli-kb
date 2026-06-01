@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-01] research | vestibular stimulation and unrealistic optimism
+- Sources: McKay et al. 2013, "Vestibular stimulation attenuates unrealistic optimism"; Tamagni et al. 2010 Nature Precedings version; PubMed / Nature Precedings / PMC review summaries.
+- Pages created: none
+- Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Log](log.md), [Current State](meta/current-state.md)
+- Notes: Added the cold-water caloric vestibular stimulation counterweight: left-ear stimulation temporarily reduced unrealistic optimism about future illness risk in healthy adults. Framed it as embodied belief-updating evidence, not a DIY anti-delusion protocol.
+
 ## [2026-06-01] research | Bortolotti agency and Wadia imagery neurons
 - Sources: `raw/Optimism, Agency, and Success.pdf`; `raw/neurons-imagination.pdf`; Wadia et al. 2026 Science; Nature Neuroscience / Cell Research / Berkeley / Simons Foundation summaries.
 - Pages created: [Wadia Shared Code For Perception And Imagination](sources/wadia-shared-code-perception-imagination.md)

@@ -35,6 +35,8 @@ Lisa Bortolotti's "Optimism, Agency, and Success" adds a bluntly useful test: do
 
 Bortolotti's extra sting is that "unrealistic" is often the wrong complaint. An optimistic belief may be true by luck but still unwarranted because it came from biased reasoning. The better question is whether the belief helps agency while still allowing enough contact with evidence to correct course.
 
+The vestibular-stimulation result from McKay et al. is the wonderfully rude body-level counterweight. In a small illness-risk study, left-ear cold-water caloric stimulation temporarily reduced unrealistic optimism. Translation: sometimes the skull custard needs not a TED talk, but a vestibular shove. Do not try this at home; the useful point is embodiment, not ear-based enlightenment.
+
 Richard Wiseman's newspaper task is the attention version of the same point. People who saw themselves as lucky were more likely to notice large unexpected messages embedded in a boring counting task, including the answer and a reward prompt. The useful lesson is not "luck is magic." It is that expectation can change what a person is open enough to notice. A narrow, anxious, unlucky-frame search can miss an opportunity sitting in the middle of the page like an idiot sign with a megaphone.
 
 Charli's pessimist-friendly gratitude practice belongs here too: notice the bad things that could have happened today and did not. This is not toxic positivity. It is counterfactual attention. The threat-scanning brain is allowed to stay realistic, but it has to count the avoided harms as part of the evidence.
@@ -46,6 +48,7 @@ Ellen Langer's counterclockwise aging study belongs on the outer edge of this co
 - `Adaptive optimism`: positive future orientation that still updates from evidence.
 - `Agency-supporting optimism`: positive belief that helps someone keep trying, noticing options, and using available resources.
 - `Counterfactual gratitude`: noticing bad outcomes that did not occur, without pretending everything is fine.
+- `Embodied belief updating`: bodily systems such as vestibular input can perturb risk estimates and self-evaluation.
 - `Unrealistic optimism`: better-than-warranted expectation about future outcomes.
 - `Positive illusions`: broader set of positively biased self, control, and future judgments.
 - `Denial`: defensive non-registration or rejection of important negative evidence.
