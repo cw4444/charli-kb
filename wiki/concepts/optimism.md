@@ -7,6 +7,7 @@ updated: 2026-06-01
 sources:
   - ../sources/optimism-neuroscience-source-batch.md
   - ../sources/libet-schurger-readiness-potential-agency.md
+  - ../sources/langer-counterclockwise-aging-mindset.md
 ---
 
 # Optimism
@@ -36,6 +37,8 @@ Richard Wiseman's newspaper task is the attention version of the same point. Peo
 
 Charli's pessimist-friendly gratitude practice belongs here too: notice the bad things that could have happened today and did not. This is not toxic positivity. It is counterfactual attention. The threat-scanning brain is allowed to stay realistic, but it has to count the avoided harms as part of the evidence.
 
+Ellen Langer's counterclockwise aging study belongs on the outer edge of this concept. Its evidence is caveat-heavy, but the useful bridge is that expectation, role, environment, and available action may change what the body actually does. Optimism is not only a thought about the future; it can be an action-setting that changes posture, effort, search, and willingness to use capacities.
+
 ## Related Distinctions
 
 - `Adaptive optimism`: positive future orientation that still updates from evidence.
@@ -48,3 +51,4 @@ Charli's pessimist-friendly gratitude practice belongs here too: notice the bad 
 ## Related
 
 - [Research - Optimism](../questions/research-optimism.md)
+- [Langer Counterclockwise Study And Aging Mindset](../sources/langer-counterclockwise-aging-mindset.md)

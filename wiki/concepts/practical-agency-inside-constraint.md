@@ -9,6 +9,7 @@ sources:
   - ../../themes/qbism-adlam-observer-dependent-reality.md
   - mechanical-world-models.md
   - ../sources/libet-schurger-readiness-potential-agency.md
+  - ../sources/langer-counterclockwise-aging-mindset.md
 ---
 
 # Practical Agency Inside Constraint
@@ -70,6 +71,14 @@ Aaron Schurger, Sitt, and Dehaene's 2012 accumulator model gives a better cautio
 
 This matters for practical agency because meaningful action is not usually "press a button whenever." Agency often involves framing a problem, weighing values, inhibiting impulses, choosing tools, asking for help, retrying after failure, and updating the model. Neural precursors are part of the machinery. They are not automatically a cancellation notice for agency.
 
+## Relation To Langer's Counterclockwise Study
+
+Ellen Langer's counterclockwise study is a caveat-heavy but useful example of agency changing through role and environment. Older men were placed in a setting staged as decades earlier and encouraged to act as if they were younger. Reported improvements included physical and cognitive measures, though the study was tiny and loosely controlled.
+
+The useful point for this page is not "belief reverses aging." It is that the environment can cue a different action-space. When a person is treated as more competent, less fragile, and more agentic, the body may actually move, attend, and coordinate differently.
+
+That is practical agency inside constraint: not escape from biology, but a different coupling between model, role, body, and world.
+
 ## Relation To Adlam And Global Constraints
 
 Emily Adlam's global-constraint direction is useful here because it weakens the habit of treating reality as a little causal machine pushing forward one moment at a time.
@@ -100,6 +109,7 @@ This is why [Mechanical World Models](mechanical-world-models.md), [Queryable Or
 - Do not say Yoneda literally explains physics, determinism, or agency.
 - Do not say relational thinking proves free will.
 - Do not say Schurger proves free will or disproves the readiness potential.
+- Do not say Langer proved aging can be reversed by belief.
 - Do not say determinism is solved by vibes, manifestation, or optimism.
 - Do not collapse RQM, QBism, Adlam, and category theory into one view.
 - Do not treat "everything is relational" as an excuse for ignoring material constraints.
@@ -111,6 +121,7 @@ This is why [Mechanical World Models](mechanical-world-models.md), [Queryable Or
 - [Queryable Organization](queryable-organization.md)
 - [Cognitive Latency Shock](cognitive-latency-shock.md)
 - [Libet, Schurger, Readiness Potential, And Agency](../sources/libet-schurger-readiness-potential-agency.md)
+- [Langer Counterclockwise Study And Aging Mindset](../sources/langer-counterclockwise-aging-mindset.md)
 - [Positive Alignment](positive-alignment.md)
 - [Agentic Work Rearchitecture](agentic-work-rearchitecture.md)
 - [Rovelli, Relational Quantum Mechanics, and Reality](../../themes/rovelli-relational-quantum-mechanics-and-reality.md)

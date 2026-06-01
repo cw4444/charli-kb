@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-01] source note | Langer counterclockwise aging mindset
+- Sources: Harvard Magazine, Greater Good, Scientific American, TIME coverage of Ellen Langer's 1979 counterclockwise study.
+- Pages created: [Langer Counterclockwise Study And Aging Mindset](sources/langer-counterclockwise-aging-mindset.md)
+- Pages updated: [Optimism](concepts/optimism.md), [Practical Agency Inside Constraint](concepts/practical-agency-inside-constraint.md), [Wiki Index](index.md), [Current State](meta/current-state.md)
+- Notes: Added Langer's counterclockwise study as a caveat-heavy example of mindset, role, environment, and embodied action affecting aging-related performance. Kept the boundary: intriguing mind-body evidence, not proof that belief reverses aging.
+
 ## [2026-06-01] source note | Schacter Addis local PDF check
 - Source: `raw/optimistic-brain.pdf`
 - Pages created: none
