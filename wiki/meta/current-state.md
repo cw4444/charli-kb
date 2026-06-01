@@ -3,7 +3,7 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-05-30
+updated: 2026-06-01
 ---
 
 # Current State
@@ -42,6 +42,8 @@ This repo is a plain Markdown personal knowledge base based on Karpathy's LLM Wi
 - The durable subject lanes are AI, reality, and their overlap: perception, belief, expectation, action, agents, knowledge systems, reality monitoring, and related source-backed concepts.
 
 ## Latest Session Handoff
+
+On 2026-06-01, Charli asked about New Scientist's paywalled March 2026 pluriverse article. Codex did not copy the article; it used public metadata as a discovery trail and grounded the wiki update in public sources around Fuchs/QBism, participatory realism, and predictive processing. New pages: [Pluriverse, QBism, And Predictive Reality](../sources/pluriverse-qbism-predictive-reality.md) and [Pluriverse](../concepts/pluriverse.md). The durable framing: pluriverse is useful as a bridge term for interlocking situated perspectives inside a shared resistant world. It is not many-worlds, not block-universe determinism, not manifestation, and not proof that neuroscience settles quantum interpretation. Keep Fuchs/QBism, Rovelli/RQM, Everett/many-worlds, Adlam/global constraints, Hoffman/interface theory, and predictive processing adjacent but distinct.
 
 On 2026-05-30, Charli linked Dongsung Huh's arXiv paper [Open Problem: Separating Geometric and Algorithmic Compression via Cayley-Table Completion](https://arxiv.org/abs/2605.29885) and proposed a research bridge: quantum interpretations can be treated as competing completion schemes over a shared empirical constraint set. Codex added [Cayley-Table Completion And Algorithmic Compression](../sources/cayley-table-completion-compression.md) and [Quantum Interpretation Completion Schemes](../concepts/quantum-interpretation-completion-schemes.md). Keep the caveat sharp: Huh's paper is a machine-learning/algebraic-completion open problem, not a quantum-foundations paper. Charli's useful move is the completion vocabulary: given entries, missing entries, constraints, valid completions, hidden inductive biases, and evaluation by formal output. Do not let future work slide into "quantum interpretations are like tables, therefore vibes." The analogy only pays rent if it yields constraints, classifications, theorem sketches, counterexamples, predictions, or a clear negative result.
 

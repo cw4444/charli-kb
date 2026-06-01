@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-06-01] autoresearch | Pluriverse, QBism, and predictive reality
+- Source: `New Scientist: Forget the multiverse. In the pluriverse, we create reality together` (paywalled; used only as discovery trail)
+- Source URLs: `https://www.newscientist.com/article/2518470-forget-the-multiverse-in-the-pluriverse-we-create-reality-together/`, `https://milled.com/newscientist/welcome-to-the-pluriverse-tpKUGMfW_e2cvjJZ`, `https://arxiv.org/abs/1601.04360`, `https://arxiv.org/abs/1412.4211`, `https://arxiv.org/abs/1612.07308`, `https://arxiv.org/abs/2512.14122`
+- Pages created: [Pluriverse, QBism, And Predictive Reality](sources/pluriverse-qbism-predictive-reality.md), [Pluriverse](concepts/pluriverse.md)
+- Pages updated: [QBism, Global Constraints, and Observer-Dependent Reality](../themes/qbism-adlam-observer-dependent-reality.md), [Interface Theory Of Perception](concepts/interface-theory-of-perception.md), [Wiki Index](index.md), [Current State](meta/current-state.md)
+- Notes: Added pluriverse as a bounded bridge term for interlocking situated perspectives, not as many-worlds, manifestation, idealism, or proof that predictive neuroscience settles quantum foundations.
+
 ## [2026-05-30] concept | quantum interpretation completion schemes
 - Source: arXiv, [Open Problem: Separating Geometric and Algorithmic Compression via Cayley-Table Completion](https://arxiv.org/abs/2605.29885); Charli working hypothesis, 2026-05-30.
 - Pages created: [Cayley-Table Completion And Algorithmic Compression](sources/cayley-table-completion-compression.md), [Quantum Interpretation Completion Schemes](concepts/quantum-interpretation-completion-schemes.md)

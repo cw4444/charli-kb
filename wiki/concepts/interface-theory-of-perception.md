@@ -3,7 +3,7 @@ title: "Interface Theory Of Perception"
 type: concept
 status: draft
 created: 2026-05-26
-updated: 2026-05-26
+updated: 2026-06-01
 sources:
   - ../sources/donald-hoffman-interface-theory.md
 ---
@@ -36,6 +36,7 @@ Together they give a useful stack:
 - reality threshold: why this experience feels real rather than imagined;
 - predictive/perceptual inference: how expectation and signal shape experience;
 - interface theory: why the whole experienced scene may be useful without being literal;
+- pluriverse: how many situated model-builders can still share a world;
 - quantum/observer pages: why physics also resists simple view-from-nowhere fact talk.
 
 Same broad family. Not the same theorem. Put that on a mug before the concepts start breeding in the walls.
@@ -79,6 +80,7 @@ The safest version is strong enough: experienced reality is a usable interface u
 - [Donald Hoffman - Interface Theory Of Perception](../sources/donald-hoffman-interface-theory.md)
 - [Reality Threshold](reality-threshold.md)
 - [Perception And Imagination Overlap](perception-and-imagination-overlap.md)
+- [Pluriverse](pluriverse.md)
 - [Practical Agency Inside Constraint](practical-agency-inside-constraint.md)
 - [QBism, Global Constraints, and Observer-Dependent Reality](../../themes/qbism-adlam-observer-dependent-reality.md)
 - [Rovelli, Relational Quantum Mechanics, and Reality](../../themes/rovelli-relational-quantum-mechanics-and-reality.md)

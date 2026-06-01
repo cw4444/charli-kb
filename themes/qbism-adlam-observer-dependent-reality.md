@@ -3,7 +3,7 @@ title: "QBism, Global Constraints, and Observer-Dependent Reality"
 type: theme
 status: draft
 created: 2026-05-11
-updated: 2026-05-12
+updated: 2026-06-01
 sources:
   - ../sources/source-index.md
 ---
@@ -24,6 +24,8 @@ QBism says the quantum state is not a little physical object, a hidden script, o
 The Born rule still matters, but not as a mechanism that takes an objective wavefunction and spits out objective chances. In QBism, the Born rule is a normative constraint on an agent's expectations. It tells an agent how their probability assignments should hang together if they are using quantum theory coherently.
 
 Key source already in the wiki: Fuchs and Schack's "Quantum-Bayesian Coherence" in the [Source Index](../sources/source-index.md#fuchs-and-schack-2013---quantum-bayesian-coherence).
+
+For the newer bridge language around "pluriverse," see [Pluriverse](../wiki/concepts/pluriverse.md) and [Pluriverse, QBism, And Predictive Reality](../wiki/sources/pluriverse-qbism-predictive-reality.md). Use that term as connective tissue for interlocking situated perspectives, not as a claim that Fuchs has abandoned QBism or that predictive neuroscience proves quantum interpretation.
 
 ## Short Plain-English Summary Of Adlam's All-At-Once / Global-Constraint View
 
@@ -151,6 +153,7 @@ For the agency question, see [Practical Agency Inside Constraint](../wiki/concep
 - [Frauchiger-Renner](frauchiger-renner.md)
 - [Many-Worlds, Wheeler, and Observer-Dependent Reality](many-worlds-and-observer-dependent-reality.md)
 - [Retrocausality, Delayed Choice, and Two Roads](retrocausality-delayed-choice-and-two-roads.md)
+- [Pluriverse](../wiki/concepts/pluriverse.md)
 - [Interpretations](interpretations.md)
 - [AI Observers](ai-observers.md)
 - [Practical Agency Inside Constraint](../wiki/concepts/practical-agency-inside-constraint.md)

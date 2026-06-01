@@ -34,6 +34,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Dan Koe focus, creativity, and life reset batch](sources/dan-koe-focus-creativity-life-reset-batch.md): combined summary of five raw Dan Koe exports on focus, creativity, identity change, and project-based self-direction.
 - [Reality Threshold - Dijkstra Source Batch](sources/reality-threshold-dijkstra-batch.md): source batch on Dijkstra and Fleming's reality-threshold model for distinguishing perception from imagination.
 - [Donald Hoffman - Interface Theory Of Perception](sources/donald-hoffman-interface-theory.md): public-source note on perception as a fitness-shaped user interface, with caveats separating the useful interface metaphor from stronger conscious-realism claims.
+- [Pluriverse, QBism, And Predictive Reality](sources/pluriverse-qbism-predictive-reality.md): public-source note using a paywalled New Scientist pluriverse article only as a discovery trail, then grounding the idea in QBism, participatory realism, and predictive-processing sources.
 - [Peter Steinberger Agentic Engineering Batch](sources/peter-steinberger-agentic-engineering-batch.md): two public web articles on practical coding-agent workflows and agent-readable projects.
 - [Observer-Dependent Facts (Wigner's Friend / Local Friendliness) — Source Summary](sources/observer-dependent-facts-wigners-friend.md): source summary of a public explanation and linked primary paper about observer-dependent “facts” constraints in quantum mechanics.
 - [Mind Children - Hans Moravec](sources/mind-children-hans-moravec.md): source note for Moravec's 1988 AI/posthumanist book on machine intelligence, mind uploading, substrate independence, and postbiological successors.
@@ -74,6 +75,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Reality Threshold](concepts/reality-threshold.md): proposed cutoff at which an imagined or perceptual signal is judged as real.
 - [Perception And Imagination Overlap](concepts/perception-and-imagination-overlap.md): model of shared machinery and signal-strength judgments across imagery and perception.
 - [Interface Theory Of Perception](concepts/interface-theory-of-perception.md): Donald Hoffman's desktop-interface argument that perception may be useful and fitness-shaped without being a literal view of reality-in-itself.
+- [Pluriverse](concepts/pluriverse.md): bridge concept for shared reality built through interlocking situated perspectives, anchored in QBism, participatory realism, and predictive-processing caveats.
 - [Optimism](concepts/optimism.md): future-oriented cognitive style tied to vivid positive simulation, selective updating, and representational distance from negative futures.
 - [Positive Alignment](concepts/positive-alignment.md): AI-alignment agenda that aims beyond "not unsafe" toward constructive, flourishing-supportive behavioral attractors.
 - [Practical Agency Inside Constraint](concepts/practical-agency-inside-constraint.md): Charli's working interpretation of agency as model-improvement and intervention inside relational constraint.
