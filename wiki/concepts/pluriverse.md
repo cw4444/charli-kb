@@ -19,6 +19,8 @@ In this wiki, use "pluriverse" narrowly. It is a bridge concept, not a new grand
 - observers, agents, measurements, records, bodies, and models matter;
 - personal perspective is real enough to do work, but not sovereign enough to ignore constraint.
 
+The newest wrinkle is memory. A local screenshot of an Eric Cavalcanti X post, preserved at `raw/cavalcanti.png`, puts the problem plainly: some experiences are not remembered, and some remembered experiences did not happen. That sits neatly between the [Reality Threshold](reality-threshold.md) question and the Wigner/local-friendliness question. The felt event, the remembered event, and the public record are not automatically the same thing.
+
 ## Why It Is Not The Multiverse
 
 The pluriverse is almost the opposite of the usual popular multiverse picture.
@@ -102,6 +104,7 @@ A model can be useful, public, predictive, and action-guiding before anyone has 
 - Do not say personal perspective means private fantasy.
 - Do not say intersubjective agreement is automatic. Shared reality has to be built through communication, records, calibration, and resistance from the world.
 - Do not use this page as a shortcut to idealism, simulation theory, manifestation, or consciousness-causes-collapse.
+- Do not use memory fallibility to pretend public evidence no longer matters. The whole point is to distinguish experience, memory, record, and world-resistance, not blend them into soup.
 
 The sober version is plenty weird already. We needn't add glitter and call it science.
 

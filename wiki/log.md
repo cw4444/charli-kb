@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-01] source note | Cavalcanti screenshot and memory bridge
+- Source: `raw/cavalcanti.png`
+- Pages created: none
+- Pages updated: [Pluriverse, QBism, And Predictive Reality](sources/pluriverse-qbism-predictive-reality.md), [Pluriverse](concepts/pluriverse.md), [Reality Threshold](concepts/reality-threshold.md), [Wiki Log](log.md), [Current State](meta/current-state.md)
+- Notes: Added a screenshot-backed X source note for Eric Cavalcanti's 2025-02-22 comment about experiences that are not remembered and remembered experiences that never happened. Framed it as a memory/observer-record bridge, not as Mandela-effect or "personal reality" sludge.
+
 ## [2026-06-01] autoresearch | Pluriverse, QBism, and predictive reality
 - Source: `New Scientist: Forget the multiverse. In the pluriverse, we create reality together` (paywalled; used only as discovery trail)
 - Source URLs: `https://www.newscientist.com/article/2518470-forget-the-multiverse-in-the-pluriverse-we-create-reality-together/`, `https://milled.com/newscientist/welcome-to-the-pluriverse-tpKUGMfW_e2cvjJZ`, `https://arxiv.org/abs/1601.04360`, `https://arxiv.org/abs/1412.4211`, `https://arxiv.org/abs/1612.07308`, `https://arxiv.org/abs/2512.14122`

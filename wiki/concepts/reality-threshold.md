@@ -3,7 +3,7 @@ title: "Reality Threshold"
 type: concept
 status: draft
 created: 2026-04-28
-updated: 2026-04-28
+updated: 2026-06-01
 sources:
   - ../sources/reality-threshold-dijkstra-batch.md
 ---
@@ -25,8 +25,17 @@ This matters because it gives a concrete model for a messy boundary: imagined im
 
 Reality threshold does not mean the external world is fake or that all experiences are equally real. It means the felt realness of an experience is constructed by the brain and can sometimes be misclassified.
 
+## Relation To Memory And Observer Records
+
+The reality-threshold question is about present classification: does this perceptual or imagined signal feel real?
+
+A neighboring memory question comes afterward: is the experience remembered, forgotten, distorted, or confabulated? A local screenshot of an Eric Cavalcanti X post in `raw/cavalcanti.png` is useful here because it states the bridge cleanly: some experiences happen without being remembered, and some remembered experiences did not happen.
+
+That does not make memory useless. It means experience, later memory, and public record are different layers. This matters for the wiki's quantum-reality lane because Wigner's-friend and local-friendliness debates also ask whether observer records can be merged into one observer-independent ledger.
+
 ## Related
 
 - [Perception And Imagination Overlap](perception-and-imagination-overlap.md)
 - [Interface Theory Of Perception](interface-theory-of-perception.md)
+- [Pluriverse](pluriverse.md)
 - [Nadine Dijkstra](../people/nadine-dijkstra.md)

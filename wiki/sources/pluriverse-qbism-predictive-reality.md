@@ -5,6 +5,7 @@ status: draft
 created: 2026-06-01
 updated: 2026-06-01
 sources:
+  - ../../raw/cavalcanti.png
   - https://www.newscientist.com/article/2518470-forget-the-multiverse-in-the-pluriverse-we-create-reality-together/
   - https://milled.com/newscientist/welcome-to-the-pluriverse-tpKUGMfW_e2cvjJZ
   - https://arxiv.org/abs/1601.04360
@@ -23,6 +24,28 @@ This source note follows Charli's pointer to New Scientist's paywalled March 202
 The article itself should not be copied into the wiki. Public metadata and newsletter text are enough to identify the idea: New Scientist framed the pluriverse as a move away from one external, observer-independent reality toward reality "continually created and woven out of innumerable perspectives." Treat that as a discovery trail, not as a source to quote or reproduce.
 
 ## Source Set
+
+### Cavalcanti X screenshot: experience and memory
+
+- Source: `raw/cavalcanti.png`
+- Type: local screenshot of public X posts
+- Date context: Eric Cavalcanti post shown as 2025-02-22; Charli repost/comment shown as 2025-04-18; Cavalcanti reply shown as 2025-04-19.
+- Access note: X search did not reliably surface the original post; the screenshot is preserved locally under `raw/` and should not itself be published.
+
+The screenshot captures Eric Cavalcanti writing: "Some experiences happen that are not remembered. Some experiences are remembered that never happened."
+
+This is not presented as a technical claim from a paper. Its value here is as a public-commentary bridge between first-person experience, memory, and the repo's existing observer/reality lane. Cavalcanti is already relevant to this wiki through Wigner's-friend and local-friendliness work, where the question is whether observer records can be treated as one absolute event ledger.
+
+The memory line belongs near [Reality Threshold](../concepts/reality-threshold.md), but it is not the same claim. Dijkstra's reality-threshold work asks how an experience is judged real or imagined. Cavalcanti's line points to a neighboring problem: whether an experience is preserved as memory, lost to memory, or apparently remembered despite not having occurred.
+
+Together they give a useful ladder:
+
+- perception: what signal is experienced now;
+- reality monitoring: whether the signal is judged real or imagined;
+- memory: whether the experience is later preserved, distorted, or confabulated;
+- observer records: whether different agents' records can be fused into one public ledger.
+
+Do not use this as Mandela-effect bait. The sober point is already enough: first-person experience, memory, and public record are not the same thing.
 
 ### New Scientist pluriverse article
 
@@ -72,6 +95,8 @@ The useful bridge is this: perception is not passive reception of a finished wor
 
 This fits the existing reality lane because the wiki already has pages on [QBism and global constraints](../../themes/qbism-adlam-observer-dependent-reality.md), [many-worlds](../../themes/many-worlds-and-observer-dependent-reality.md), [relational quantum mechanics](../../themes/rovelli-relational-quantum-mechanics-and-reality.md), [interface theory of perception](../concepts/interface-theory-of-perception.md), and [reality threshold](../concepts/reality-threshold.md).
 
+The Cavalcanti screenshot adds a memory-level caution to the same stack: even after experience happens, the later remembered record can fail in both directions. Experiences can go unremembered, and remembered experiences can be false. This does not make reality optional. It means "what happened," "what was experienced," "what was remembered," and "what can be publicly checked" are different layers.
+
 ## Bounded Synthesis
 
 The safe synthesis is:
@@ -96,10 +121,12 @@ The pluriverse is the umbrella mood, not the theorem.
 - Do not collapse pluriverse into many-worlds. They point in nearly opposite directions: many-worlds multiplies branch structure from one universal wavefunction; pluriverse emphasizes interlocking first-person perspectives.
 - Do not use predictive processing as evidence for quantum interpretation. It is an analogy and a cognitive-neuroscience neighbor.
 - Do not use "personal reality" to mean arbitrary reality. The world resists bad models. Tables continue their important public service of hurting shins.
+- Do not use memory fallibility as an excuse to dissolve public evidence. Memory is corrigible partly because records, other agents, and the world push back.
 
 ## Sources
 
 - New Scientist, ["Forget the multiverse. In the pluriverse, we create reality together"](https://www.newscientist.com/article/2518470-forget-the-multiverse-in-the-pluriverse-we-create-reality-together/), March 2026. Paywalled.
+- Eric Cavalcanti, X post screenshot in `raw/cavalcanti.png`, post shown as 2025-02-22; Charli repost/comment shown as 2025-04-18; Cavalcanti reply shown as 2025-04-19.
 - New Scientist newsletter mirror, ["Welcome to the pluriverse"](https://milled.com/newscientist/welcome-to-the-pluriverse-tpKUGMfW_e2cvjJZ), 2026-03-19.
 - Christopher A. Fuchs, ["On Participatory Realism"](https://arxiv.org/abs/1601.04360), arXiv:1601.04360.
 - Christopher A. Fuchs and Ruediger Schack, ["QBism and the Greeks: why a quantum state does not represent an element of physical reality"](https://arxiv.org/abs/1412.4211), arXiv:1412.4211.
