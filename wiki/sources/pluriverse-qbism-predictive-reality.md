@@ -6,6 +6,8 @@ created: 2026-06-01
 updated: 2026-06-01
 sources:
   - ../../raw/cavalcanti.png
+  - https://x.com/ericcavalcanti/status/1893264621680591353?s=20
+  - https://www.netflix.com/tudum/articles/black-mirror-bete-noire-ending-explained
   - https://www.newscientist.com/article/2518470-forget-the-multiverse-in-the-pluriverse-we-create-reality-together/
   - https://milled.com/newscientist/welcome-to-the-pluriverse-tpKUGMfW_e2cvjJZ
   - https://arxiv.org/abs/1601.04360
@@ -28,9 +30,10 @@ The article itself should not be copied into the wiki. Public metadata and newsl
 ### Cavalcanti X screenshot: experience and memory
 
 - Source: `raw/cavalcanti.png`
+- Public URL: <https://x.com/ericcavalcanti/status/1893264621680591353?s=20>
 - Type: local screenshot of public X posts
 - Date context: Eric Cavalcanti post shown as 2025-02-22; Charli repost/comment shown as 2025-04-18; Cavalcanti reply shown as 2025-04-19.
-- Access note: X search did not reliably surface the original post; the screenshot is preserved locally under `raw/` and should not itself be published.
+- Access note: X search did not reliably surface the original post during research; Charli later supplied the direct URL. The screenshot is preserved locally under `raw/` and should not itself be published.
 
 The screenshot captures Eric Cavalcanti writing: "Some experiences happen that are not remembered. Some experiences are remembered that never happened."
 
@@ -46,6 +49,17 @@ Together they give a useful ladder:
 - observer records: whether different agents' records can be fused into one public ledger.
 
 Do not use this as Mandela-effect bait. The sober point is already enough: first-person experience, memory, and public record are not the same thing.
+
+### Black Mirror: Bete Noire
+
+- Source: Netflix Tudum, ["Black Mirror's 'Bete Noire' Ending Explained"](https://www.netflix.com/tudum/articles/black-mirror-bete-noire-ending-explained)
+- Date: 2025-04-10
+- Type: official entertainment/source context
+- Useful role: cultural intuition pump for memory, gaslighting, private continuity, alternate-reality fiction, and the danger of misusing quantum language as magic.
+
+In *Black Mirror* season 7 episode 2, "Bete Noire," Maria is the only person who remembers a prior version of events after Verity uses a pendant-linked system to move through realities where Verity's claims have always been true. Netflix's official explainer frames the episode as a workplace dark comedy about gaslighting, bullying, revenge, and different memories or truths. The episode's fictional "quantum compiler" is useful here because it dramatizes the nightmare version of memory/public-record mismatch: one person retains continuity while the social world and records disagree.
+
+This belongs in the wiki only as a cultural reference. It is not evidence for many-worlds, QBism, reality shifting, or personal manifestation. It is a neat horror-story version of the same practical stack: experience, memory, public record, and world-model can come apart.
 
 ### New Scientist pluriverse article
 
@@ -126,7 +140,8 @@ The pluriverse is the umbrella mood, not the theorem.
 ## Sources
 
 - New Scientist, ["Forget the multiverse. In the pluriverse, we create reality together"](https://www.newscientist.com/article/2518470-forget-the-multiverse-in-the-pluriverse-we-create-reality-together/), March 2026. Paywalled.
-- Eric Cavalcanti, X post screenshot in `raw/cavalcanti.png`, post shown as 2025-02-22; Charli repost/comment shown as 2025-04-18; Cavalcanti reply shown as 2025-04-19.
+- Eric Cavalcanti, [X post](https://x.com/ericcavalcanti/status/1893264621680591353?s=20), 2025-02-22; screenshot in `raw/cavalcanti.png`; Charli repost/comment shown as 2025-04-18; Cavalcanti reply shown as 2025-04-19.
+- Netflix Tudum, ["Black Mirror's 'Bete Noire' Ending Explained"](https://www.netflix.com/tudum/articles/black-mirror-bete-noire-ending-explained), 2025-04-10.
 - New Scientist newsletter mirror, ["Welcome to the pluriverse"](https://milled.com/newscientist/welcome-to-the-pluriverse-tpKUGMfW_e2cvjJZ), 2026-03-19.
 - Christopher A. Fuchs, ["On Participatory Realism"](https://arxiv.org/abs/1601.04360), arXiv:1601.04360.
 - Christopher A. Fuchs and Ruediger Schack, ["QBism and the Greeks: why a quantum state does not represent an element of physical reality"](https://arxiv.org/abs/1412.4211), arXiv:1412.4211.

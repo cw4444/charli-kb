@@ -33,6 +33,8 @@ A neighboring memory question comes afterward: is the experience remembered, for
 
 That does not make memory useless. It means experience, later memory, and public record are different layers. This matters for the wiki's quantum-reality lane because Wigner's-friend and local-friendliness debates also ask whether observer records can be merged into one observer-independent ledger.
 
+The *Black Mirror* episode "Bete Noire" is a cultural illustration of the extreme fictional version: Maria remembers an earlier reality while everyone else, plus the records, now fit a changed one. Use it as an intuition pump about memory/social-record mismatch, not as evidence for alternate realities or quantum wishcraft.
+
 ## Related
 
 - [Perception And Imagination Overlap](perception-and-imagination-overlap.md)

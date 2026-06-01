@@ -21,6 +21,8 @@ In this wiki, use "pluriverse" narrowly. It is a bridge concept, not a new grand
 
 The newest wrinkle is memory. A local screenshot of an Eric Cavalcanti X post, preserved at `raw/cavalcanti.png`, puts the problem plainly: some experiences are not remembered, and some remembered experiences did not happen. That sits neatly between the [Reality Threshold](reality-threshold.md) question and the Wigner/local-friendliness question. The felt event, the remembered event, and the public record are not automatically the same thing.
 
+Charli's *Black Mirror: Bete Noire* connection is useful as fiction, not evidence. Maria is the only one who remembers an original reality after Verity uses a pendant-linked "quantum compiler" to move through realities where Verity's claims have always been true. That is the nightmare version of this page's sober point: private continuity, memory, social consensus, and public record can be pulled apart. The episode is a metaphor, not a physics source. Obviously. Apparently that has to be said.
+
 ## Why It Is Not The Multiverse
 
 The pluriverse is almost the opposite of the usual popular multiverse picture.

@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-01] source note | Cavalcanti URL and Bete Noire bridge
+- Sources: Eric Cavalcanti X post, `https://x.com/ericcavalcanti/status/1893264621680591353?s=20`; Netflix Tudum, `https://www.netflix.com/tudum/articles/black-mirror-bete-noire-ending-explained`
+- Pages created: none
+- Pages updated: [Pluriverse, QBism, And Predictive Reality](sources/pluriverse-qbism-predictive-reality.md), [Pluriverse](concepts/pluriverse.md), [Reality Threshold](concepts/reality-threshold.md), [Wiki Log](log.md)
+- Notes: Added the direct Cavalcanti tweet URL and framed *Black Mirror: Bete Noire* as a cultural intuition pump for memory/public-record mismatch, not as physics evidence or reality-shifting bait.
+
 ## [2026-06-01] source note | Cavalcanti screenshot and memory bridge
 - Source: `raw/cavalcanti.png`
 - Pages created: none
