@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-01] source note | Bete Noire many-worlds framing
+- Source: Charli note on *Black Mirror: Bete Noire* dialogue, supported by Netflix Tudum episode explainer.
+- Pages created: none
+- Pages updated: [Pluriverse, QBism, And Predictive Reality](sources/pluriverse-qbism-predictive-reality.md), [Pluriverse](concepts/pluriverse.md), [Wiki Log](log.md)
+- Notes: Added a paraphrased note that Verity's pendant/quantum-compiler explanation is MWI-catnip because it frames the device as selecting a parallel reality where the claim was already true. Kept the boundary: pop-fiction metaphor, not Everettian physics.
+
 ## [2026-06-01] source note | Cavalcanti URL and Bete Noire bridge
 - Sources: Eric Cavalcanti X post, `https://x.com/ericcavalcanti/status/1893264621680591353?s=20`; Netflix Tudum, `https://www.netflix.com/tudum/articles/black-mirror-bete-noire-ending-explained`
 - Pages created: none

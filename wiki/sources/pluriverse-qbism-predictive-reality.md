@@ -59,6 +59,8 @@ Do not use this as Mandela-effect bait. The sober point is already enough: first
 
 In *Black Mirror* season 7 episode 2, "Bete Noire," Maria is the only person who remembers a prior version of events after Verity uses a pendant-linked system to move through realities where Verity's claims have always been true. Netflix's official explainer frames the episode as a workplace dark comedy about gaslighting, bullying, revenge, and different memories or truths. The episode's fictional "quantum compiler" is useful here because it dramatizes the nightmare version of memory/public-record mismatch: one person retains continuity while the social world and records disagree.
 
+The MWI-catnip part is Verity's explanation that the pendant is a remote for a downstairs quantum system. In the episode's fiction, it does not rewrite a single world so much as move the user into a parallel reality where the claimed state of affairs was already true. That is exactly why it feels adjacent to [Many-Worlds, Wheeler, and Observer-Dependent Reality](../../themes/many-worlds-and-observer-dependent-reality.md), while still being pop-fiction rather than a serious account of Everettian branching.
+
 This belongs in the wiki only as a cultural reference. It is not evidence for many-worlds, QBism, reality shifting, or personal manifestation. It is a neat horror-story version of the same practical stack: experience, memory, public record, and world-model can come apart.
 
 ### New Scientist pluriverse article
