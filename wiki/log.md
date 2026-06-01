@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-01] research | optimism, agency, and opportunity attention
+- Sources: Schacter and Addis 2007, "The optimistic brain"; Bortolotti 2018, "Optimism, Agency, and Success"; Scientific American / Wiseman coverage of the newspaper photograph-counting task.
+- Pages created: none
+- Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Log](log.md), [Current State](meta/current-state.md)
+- Notes: Added optimism-as-agency and optimism-as-attentional-openness framing. Kept the boundary clear: this is not manifestation, lucky identity magic, or denial; the useful mechanism is future simulation, evidence-sensitive agency, and noticing affordances.
+
 ## [2026-06-01] source note | Bete Noire many-worlds framing
 - Source: Charli note on *Black Mirror: Bete Noire* dialogue, supported by Netflix Tudum episode explainer.
 - Pages created: none

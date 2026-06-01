@@ -3,7 +3,7 @@ title: "Optimism"
 type: concept
 status: draft
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-06-01
 sources:
   - ../sources/optimism-neuroscience-source-batch.md
 ---
@@ -29,9 +29,14 @@ The 2025 PNAS work adds a useful nuance: optimism may involve not only expecting
 
 The careful version of the claim is important. Optimism is not the same as denial, and the current evidence does not prove that all optimistic people consciously choose abstract construals for bad outcomes. But it does support the idea that optimism has a representational style, not just a mood label.
 
+Lisa Bortolotti's "Optimism, Agency, and Success" adds a bluntly useful test: does the optimistic belief help the person keep acting as a competent agent? Optimism earns its keep when it supports goal pursuit, persistence, resourcefulness, and recovery after setbacks. It stops earning its keep when it becomes invulnerability fantasy or refusal to prepare.
+
+Richard Wiseman's newspaper task is the attention version of the same point. People who saw themselves as lucky were more likely to notice large unexpected messages embedded in a boring counting task, including the answer and a reward prompt. The useful lesson is not "luck is magic." It is that expectation can change what a person is open enough to notice. A narrow, anxious, unlucky-frame search can miss an opportunity sitting in the middle of the page like an idiot sign with a megaphone.
+
 ## Related Distinctions
 
 - `Adaptive optimism`: positive future orientation that still updates from evidence.
+- `Agency-supporting optimism`: positive belief that helps someone keep trying, noticing options, and using available resources.
 - `Unrealistic optimism`: better-than-warranted expectation about future outcomes.
 - `Positive illusions`: broader set of positively biased self, control, and future judgments.
 - `Denial`: defensive non-registration or rejection of important negative evidence.

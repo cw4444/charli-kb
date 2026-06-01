@@ -3,7 +3,7 @@ title: "Research - Optimism"
 type: question
 status: draft
 created: 2026-05-12
-updated: 2026-05-12
+updated: 2026-06-01
 question: "What does public neuroscience and adjacent cognitive research suggest about optimism?"
 sources:
   - ../sources/optimism-neuroscience-source-batch.md
@@ -69,6 +69,18 @@ The follow-up debate matters. Colvin and Block argued that the evidence did not 
 
 So the strongest synthesis is not "delusion is good for you." It is closer to this: some degree of future-positive bias may help action and resilience, but its value depends on whether it coexists with learning, calibration, and preparation.
 
+### 7. Optimism matters when it supports agency
+
+Lisa Bortolotti's 2018 paper is a useful philosophical bridge because it asks what optimism is doing behaviorally. Optimistic beliefs contribute to success when they sustain motivation and agency: the person sees the goal as desirable, sees themselves as sufficiently competent or resourceful, and keeps acting after difficulty.
+
+That gives this wiki a good bullshit filter. The question is not "is this thought positive?" The question is "does this belief help someone act better while staying responsive to evidence?"
+
+### 8. "Luck" may partly be an attentional style
+
+Richard Wiseman's newspaper experiment is a nice folk-psychology bridge into the same package. Participants who self-identified as lucky or unlucky were asked to count photographs in a newspaper. The paper contained large unexpected messages giving the answer and offering a reward for noticing. Self-described lucky people were more likely to notice the opportunity; unlucky people often stayed narrowly locked onto the counting task.
+
+Use this carefully. It does not prove that lucky people manifest events. It suggests that expectation, anxiety, openness, and attentional breadth change which affordances people notice.
+
 ## Working Interpretation
 
 The most defensible synthesis is that optimism is a representational style.
@@ -79,6 +91,8 @@ It seems to involve:
 - cleaner separation between positive and negative possibilities
 - some degree of emotional distancing from negative futures
 - weaker incorporation of some forms of bad news
+- agency-supporting beliefs that preserve action after setbacks
+- attentional openness to unexpected opportunity
 
 This can be adaptive because it supports motivation, resilience, and goal pursuit. It can also become maladaptive if it blocks realistic preparation or error correction.
 
@@ -95,6 +109,8 @@ The bills still exist. The better version of optimism is not pretending they do 
 - The older-adult repetitive negative thinking findings are important, but the 2025 study is cross-sectional and should not be read as causal proof.
 - The "negative events are represented more abstractly" point is plausible and source-backed, but still stronger as a working interpretation than as a settled law.
 - The positive-illusions literature is historically important but contested, so it should be used as a framing argument, not as a trump card.
+- Bortolotti's agency argument supports useful optimistic belief, not reckless self-deception.
+- Wiseman's luck work is best read as attention and opportunity detection, not fate bending.
 
 ## Sources
 
@@ -106,3 +122,4 @@ The bills still exist. The better version of optimism is not pretending they do 
 - What is the best intervention target: imagery vividness, attentional habits, belief updating, or rumination reduction?
 - How much optimism is helpful before it starts degrading preparedness?
 - Are neural optimism signatures stable traits, trainable habits, or both?
+- Can people train opportunity-detection without becoming credulous or overconfident?

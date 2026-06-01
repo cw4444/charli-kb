@@ -11,6 +11,8 @@ authors:
   - Kuniaki Yanagisawa
   - Shelley E. Taylor
   - Jonathon D. Brown
+  - Lisa Bortolotti
+  - Richard Wiseman
   - Rick Hanson
 primary_sources:
   - "Taylor and Brown, Psychological Bulletin, 1988, Illusion and well-being: A social psychological perspective on mental health, https://doi.org/10.1037/0033-2909.103.2.193"
@@ -24,12 +26,16 @@ primary_sources:
   - "Schlosser et al., BMC Psychiatry, 2020, Repetitive negative thinking is associated with subjective cognitive decline in older adults: a cross-sectional study, https://doi.org/10.1186/s12888-020-02884-7"
   - "Ye et al., BMC Psychiatry, 2025, Repetitive negative thinking is associated with cognitive function decline in older adults: a cross-sectional study, https://doi.org/10.1186/s12888-025-06815-2"
   - "Weinstein, Journal of Behavioral Medicine, 1987, Unrealistic optimism about susceptibility to health problems: conclusions from a community-wide sample, https://doi.org/10.1007/BF00846146"
+  - "Bortolotti, Ethical Theory and Moral Practice, 2018, Optimism, Agency, and Success, https://doi.org/10.1007/s10677-018-9894-6"
 counterpoint_sources:
   - "Colvin and Block, Psychological Bulletin, 1994, Do positive illusions foster mental health? An examination of the Taylor and Brown formulation, https://doi.org/10.1037/0033-2909.116.1.3"
   - "Taylor and Brown, Psychological Bulletin, 1994, Positive illusions and well-being revisited: separating fact from fiction, https://doi.org/10.1037/0033-2909.116.1.21"
   - "Shepperd, Pogge, and Howell, Consciousness and Cognition, 2017, Assessing the consequences of unrealistic optimism: Challenges and recommendations, https://doi.org/10.1016/j.concog.2016.07.004"
 commentary_sources:
+  - "Schacter and Addis, Nature Neuroscience, 2007, The optimistic brain, https://doi.org/10.1038/nn1107-1345"
   - "Nature News, 2025, The optimistic brain: scans reveal thought patterns shared by positive thinkers, https://doi.org/10.1038/d41586-025-02302-6"
+  - "Scientific American, 2006, As Luck Would Have It, https://www.scientificamerican.com/article/as-luck-would-have-it/"
+  - "Stanford Center for Internet and Society, 2007, How lucky people think differently than unlucky people, https://cyberlaw.stanford.edu/blog/2007/09/how-lucky-people-think-differently-unlucky-people/"
   - "Kobe University News, 2025, Optimists are alike, every pessimist has their own way, https://www.kobe-u.ac.jp/en/news/article/20250722-66828/"
   - "Rick Hanson, Taking In the Good, Greater Good Magazine, 2009, https://greatergood.berkeley.edu/article/item/taking_in_the_good"
   - "Rick Hanson, How to Take in the Good, 2017, https://rickhanson.com/how-to-take-in-the-good/"
@@ -57,6 +63,8 @@ Yanagisawa et al. 2025 adds a newer angle: more optimistic people showed more si
 
 Schacter, Benoit, and Szpunar 2017 is broader than optimism specifically, but it matters here because it frames episodic future thinking as a core cognitive system with functions in decision-making, emotion regulation, planning, and prospection. The review also notes that everyday future thought tends to be positively biased.
 
+Schacter and Addis 2007, "The optimistic brain," is a short News & Views article on Sharot et al. 2007. It is useful because Schacter and Addis sit at the memory/future-simulation bridge: optimism is not just pleasant expectation, but is tied to the constructive system that lets people remember, recombine, and simulate possible futures. Treat it as expert commentary on the Sharot paper, not as a separate experiment.
+
 Ji, Holmes, and Blackwell 2017 links optimism to imagery vividness in a clinical population. In depressed adults, greater vividness of positive prospective imagery was associated with greater current optimism and predicted greater optimism months later.
 
 Hanson et al. 2021 is relevant because it tries to move from general positivity talk to an intervention logic. The paper argues that people can become more active agents in learning from beneficial experiences, and reports that participants in a "Taking in the Good" course showed increases in composite measures of cognitive resources, positive emotions, and total happiness, plus decreases in negative emotions, with effects persisting two months later. This is not the same as proving a general optimism cure, but it is a useful bridge from negativity-bias theory to practice.
@@ -64,6 +72,8 @@ Hanson et al. 2021 is relevant because it tries to move from general positivity 
 Schlosser et al. 2020 and Ye et al. 2025 are not optimism papers, but they are relevant from the opposite direction. Both support the idea that repetitive negative thinking is associated with worse subjective or objective cognitive outcomes in older adults. The 2025 paper is cross-sectional and explicitly calls for longer-term causal work.
 
 Weinstein 1987 is one of the classic unrealistic-optimism papers in health psychology. It documented a comparative optimism bias for many hazards, while also noting that people often infer future vulnerability from past experience in ways that can distort judgment.
+
+Bortolotti 2018 adds the agency criterion. Her argument is not that optimistic beliefs are good merely because they feel good, or that reality distortion is automatically useful. The useful claim is behavioral: optimistic beliefs contribute to success when they sustain agency by helping people see themselves as competent, efficacious, and pursuing goals that are desirable and attainable. Some optimistic distortions support perseverance after setbacks; others create invulnerability fantasy and make people less prepared.
 
 ## Counterweight Sources
 
@@ -94,16 +104,26 @@ Taken together, the sources suggest that optimism is not best understood as magi
 - stronger segregation between desirable and undesirable future scenarios
 - selective updating in response to bad news
 - less immersion in repetitive negative loops
+- agency-supporting beliefs that preserve action after setback
+- attentional openness to unexpected opportunity
 
 Taylor and Brown matter here because they widen the frame: mild positive distortions may sometimes help people function, persist, create, and cope. But the counter-literature matters just as much: once optimism drifts into overconfidence, risk neglect, or refusal to update from evidence, it stops looking like resilience and starts looking like error management gone wrong.
 
 Rick Hanson's contribution fits best as a practical add-on to this package rather than as a master theory. His "velcro for the bad, teflon for the good" formulation is a popular translation of negativity bias, and "taking in the good" is a way of deliberately helping beneficial experiences linger long enough to be internalized instead of immediately disappearing.
+
+Richard Wiseman's newspaper experiment belongs here as a practical attention example, not as proof that luck is magic. In the reported task, people who self-identified as lucky or unlucky were asked to count photographs in a newspaper. The task contained large messages giving the answer and later offering a reward for noticing the message. The useful finding is that self-described lucky people were more likely to notice unexpected opportunity, while self-described unlucky people often stayed locked onto the narrow counting task.
+
+That connects optimism to perception and agency: expectation can act like an attentional policy. A person expecting opportunity may scan more broadly, tolerate surprise, and notice affordances. A person expecting frustration may narrow hard onto the assigned task and miss the sign in front of them. This is not manifestation. It is attention, arousal, openness, and action-readiness.
 
 ## Distinctions That Matter
 
 ### Adaptive optimism
 
 A future style that supports action, resilience, and persistence without severing contact with evidence.
+
+### Agency-supporting optimism
+
+Optimistic belief that helps a person keep acting, trying, asking, noticing, preparing, and recovering after setback. Bortolotti's useful filter is whether the belief sustains competent action, not whether it is simply pleasant.
 
 ### Unrealistic optimism
 
@@ -123,6 +143,8 @@ Refusal or failure to register relevant negative evidence. This is not the same 
 - The literature does not show that all positive illusions are healthy.
 - The literature does not show that vivid positive imagery alone causes broad life improvement.
 - The Hanson intervention paper is interesting, but it is not strong evidence for a universal everyday optimism protocol.
+- Bortolotti's agency argument does not mean every optimistic distortion helps; some produce invulnerability fantasy, poor preparation, or disengagement after failure.
+- Wiseman's newspaper experiment should be treated as attention/opportunity evidence, not a proof that lucky identity controls external events.
 - The 2025 RNT paper is cross-sectional, so it does not establish that repetitive negative thinking causes cognitive decline.
 - The "abstract negative events create emotional distance" claim is best treated as a source-grounded interpretation, not a settled mechanism.
 - The Taylor and Brown position is historically influential, but it remains debated rather than canonically settled.
