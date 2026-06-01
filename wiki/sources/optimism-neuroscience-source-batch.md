@@ -42,6 +42,7 @@ commentary_sources:
 sources:
   - "Public web research, accessed 2026-05-12"
   - "../../raw/optimistic-brain.pdf"
+  - "../../raw/Optimism, Agency, and Success.pdf"
 ---
 
 # Optimism Neuroscience Source Batch
@@ -50,7 +51,7 @@ sources:
 
 - Topic: optimism as a cognitive and neural style rather than a manifestation claim
 - Scope: future-event simulation, optimism bias, belief updating, mental imagery, and repetitive negative thinking
-- Access note: this page keeps original synthesis and metadata only. It does not reproduce paywalled text. `raw/optimistic-brain.pdf` is treated as local access-controlled source material.
+- Access note: this page keeps original synthesis and metadata only. It does not reproduce paywalled text. `raw/optimistic-brain.pdf` is treated as local access-controlled source material. `raw/Optimism, Agency, and Success.pdf` is an open-access PDF of Bortolotti's article and remains ignored by git with the rest of `raw/`.
 
 ## Core Primary-Source Claims
 
@@ -77,6 +78,8 @@ Schlosser et al. 2020 and Ye et al. 2025 are not optimism papers, but they are r
 Weinstein 1987 is one of the classic unrealistic-optimism papers in health psychology. It documented a comparative optimism bias for many hazards, while also noting that people often infer future vulnerability from past experience in ways that can distort judgment.
 
 Bortolotti 2018 adds the agency criterion. Her argument is not that optimistic beliefs are good merely because they feel good, or that reality distortion is automatically useful. The useful claim is behavioral: optimistic beliefs contribute to success when they sustain agency by helping people see themselves as competent, efficacious, and pursuing goals that are desirable and attainable. Some optimistic distortions support perseverance after setbacks; others create invulnerability fantasy and make people less prepared.
+
+The raw PDF sharpens two useful distinctions. First, Bortolotti argues that optimistic beliefs are not necessarily illusory because they are false; the epistemic problem can be that they are unwarranted or produced by biased reasoning. Second, she rejects both the simple "true beliefs are always better" view and the simple "small distortions are adaptive" trade-off view. Her third view is agency-based: the beliefs that matter are those that sustain motivation at critical times, especially through a sense of competence, control, efficacy, and desirable/attainable goals.
 
 ## Counterweight Sources
 
@@ -130,6 +133,8 @@ A future style that supports action, resilience, and persistence without severin
 
 Optimistic belief that helps a person keep acting, trying, asking, noticing, preparing, and recovering after setback. Bortolotti's useful filter is whether the belief sustains competent action, not whether it is simply pleasant.
 
+This overlaps with preparedness, hardiness, sense of coherence, self-efficacy, and self-affirmation. The common thread is not "feel good." It is resourceful action under pressure.
+
 ### Unrealistic optimism
 
 Expecting a better personal future than the evidence warrants. This can sometimes help motivation, but it can also impair risk preparation and learning.
@@ -150,6 +155,7 @@ Refusal or failure to register relevant negative evidence. This is not the same 
 - Schacter and Addis explicitly leave room for realism or pessimism when preparedness matters.
 - The Hanson intervention paper is interesting, but it is not strong evidence for a universal everyday optimism protocol.
 - Bortolotti's agency argument does not mean every optimistic distortion helps; some produce invulnerability fantasy, poor preparation, or disengagement after failure.
+- Bortolotti does not say epistemic irrationality is harmless. Her point is that the link between belief accuracy and success is mediated by agency, motivation, and action.
 - Wiseman's newspaper experiment should be treated as attention/opportunity evidence, not a proof that lucky identity controls external events.
 - The 2025 RNT paper is cross-sectional, so it does not establish that repetitive negative thinking causes cognitive decline.
 - The "abstract negative events create emotional distance" claim is best treated as a source-grounded interpretation, not a settled mechanism.

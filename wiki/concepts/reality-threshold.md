@@ -6,6 +6,7 @@ created: 2026-04-28
 updated: 2026-06-01
 sources:
   - ../sources/reality-threshold-dijkstra-batch.md
+  - ../sources/wadia-shared-code-perception-imagination.md
 ---
 
 # Reality Threshold
@@ -20,6 +21,8 @@ The core idea is simple but powerful:
 - Reality monitoring may therefore depend partly on signal strength, not only on knowing whether one intended to imagine something.
 
 This matters because it gives a concrete model for a messy boundary: imagined images, dreams, hallucinations, virtual reality, intrusive imagery, and external perception may differ by degree and classification, not by totally separate mental machinery.
+
+Wadia et al. 2026 adds single-neuron support for the overlap problem: imagined and perceived objects can reactivate some of the same object-coding neurons in human ventral temporal cortex. That does not mean imagination normally feels identical to perception. It means the brain has a genuine source-monitoring problem to solve.
 
 ## Not A Claim That Everything Is Arbitrary
 
@@ -38,6 +41,7 @@ The *Black Mirror* episode "Bete Noire" is a cultural illustration of the extrem
 ## Related
 
 - [Perception And Imagination Overlap](perception-and-imagination-overlap.md)
+- [Wadia Shared Code For Perception And Imagination](../sources/wadia-shared-code-perception-imagination.md)
 - [Interface Theory Of Perception](interface-theory-of-perception.md)
 - [Pluriverse](pluriverse.md)
 - [Nadine Dijkstra](../people/nadine-dijkstra.md)

@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-01] research | Bortolotti agency and Wadia imagery neurons
+- Sources: `raw/Optimism, Agency, and Success.pdf`; `raw/neurons-imagination.pdf`; Wadia et al. 2026 Science; Nature Neuroscience / Cell Research / Berkeley / Simons Foundation summaries.
+- Pages created: [Wadia Shared Code For Perception And Imagination](sources/wadia-shared-code-perception-imagination.md)
+- Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Perception And Imagination Overlap](concepts/perception-and-imagination-overlap.md), [Reality Threshold](concepts/reality-threshold.md), [Wiki Index](index.md), [Current State](meta/current-state.md)
+- Notes: Added Bortolotti's sharper agency filter: optimistic beliefs are not merely good when accurate or mildly distorted; they help when they sustain agency under setback while preserving enough evidence contact. Added Wadia et al. as single-neuron evidence that seeing and imagining objects can reuse a shared object code in human ventral temporal cortex.
+
 ## [2026-06-01] source note | Langer counterclockwise aging mindset
 - Sources: Harvard Magazine, Greater Good, Scientific American, TIME coverage of Ellen Langer's 1979 counterclockwise study.
 - Pages created: [Langer Counterclockwise Study And Aging Mindset](sources/langer-counterclockwise-aging-mindset.md)

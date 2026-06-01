@@ -33,6 +33,8 @@ The careful version of the claim is important. Optimism is not the same as denia
 
 Lisa Bortolotti's "Optimism, Agency, and Success" adds a bluntly useful test: does the optimistic belief help the person keep acting as a competent agent? Optimism earns its keep when it supports goal pursuit, persistence, resourcefulness, and recovery after setbacks. It stops earning its keep when it becomes invulnerability fantasy or refusal to prepare.
 
+Bortolotti's extra sting is that "unrealistic" is often the wrong complaint. An optimistic belief may be true by luck but still unwarranted because it came from biased reasoning. The better question is whether the belief helps agency while still allowing enough contact with evidence to correct course.
+
 Richard Wiseman's newspaper task is the attention version of the same point. People who saw themselves as lucky were more likely to notice large unexpected messages embedded in a boring counting task, including the answer and a reward prompt. The useful lesson is not "luck is magic." It is that expectation can change what a person is open enough to notice. A narrow, anxious, unlucky-frame search can miss an opportunity sitting in the middle of the page like an idiot sign with a megaphone.
 
 Charli's pessimist-friendly gratitude practice belongs here too: notice the bad things that could have happened today and did not. This is not toxic positivity. It is counterfactual attention. The threat-scanning brain is allowed to stay realistic, but it has to count the avoided harms as part of the evidence.

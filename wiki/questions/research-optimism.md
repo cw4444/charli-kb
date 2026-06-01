@@ -78,6 +78,8 @@ Lisa Bortolotti's 2018 paper is a useful philosophical bridge because it asks wh
 
 That gives this wiki a good bullshit filter. The question is not "is this thought positive?" The question is "does this belief help someone act better while staying responsive to evidence?"
 
+Her raw PDF sharpens the filter. The problem with some optimistic beliefs is not always that they are false; it is that they can be unwarranted, biased, or resistant to counter-evidence. Conversely, even a substantially idealized belief can sometimes help if it makes a person behave more agentically without denying the setback in front of them. The key test is whether the belief sustains useful action at critical times.
+
 ### 8. "Luck" may partly be an attentional style
 
 Richard Wiseman's newspaper experiment is a nice folk-psychology bridge into the same package. Participants who self-identified as lucky or unlucky were asked to count photographs in a newspaper. The paper contained large unexpected messages giving the answer and offering a reward for noticing. Self-described lucky people were more likely to notice the opportunity; unlucky people often stayed narrowly locked onto the counting task.
@@ -125,6 +127,7 @@ The bills still exist. The better version of optimism is not pretending they do 
 - The "negative events are represented more abstractly" point is plausible and source-backed, but still stronger as a working interpretation than as a settled law.
 - The positive-illusions literature is historically important but contested, so it should be used as a framing argument, not as a trump card.
 - Bortolotti's agency argument supports useful optimistic belief, not reckless self-deception.
+- Bortolotti's argument is not "accuracy does not matter"; it is "accuracy is not the only variable, because motivation and agency mediate outcomes."
 - Wiseman's luck work is best read as attention and opportunity detection, not fate bending.
 - Counterfactual gratitude should not become "other people have it worse." The point is evidence calibration, not guilt.
 
