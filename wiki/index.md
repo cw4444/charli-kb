@@ -26,6 +26,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Cayley-Table Completion And Algorithmic Compression](sources/cayley-table-completion-compression.md): arXiv source note on Cayley-table completion as a machine-learning benchmark for exact discrete/algebraic rule recovery and algorithmic compression.
 - [OpenAI Industrial Policy For The Intelligence Age](sources/openai-industrial-policy-intelligence-age.md): source note on OpenAI's April 2026 industrial-policy paper, proposed Public Wealth Fund, actual fellowship/research-grant pilot, and related compute-infrastructure posture.
 - [OpenAI Foundation AI Resilience Program](sources/openai-foundation-ai-resilience.md): source note on the OpenAI Foundation's 2026 AI Resilience program, bio/cyber/model-safety/youth focus areas, and spring 2026 grant-making arc.
+- [AI, Human Cognition, And Knowledge Collapse](sources/ai-human-cognition-knowledge-collapse.md): MIT economics source note on agentic AI, human learning incentives, shared general knowledge, and the risk that accurate recommendations can erode collective knowledge-building.
 - [OpenAI Codex For Everyday Work](sources/openai-codex-for-everyday-work.md): official OpenAI Codex docs translated into practical everyday-work concepts for non-developers.
 - [Current AI Agent Landscape 2026](sources/current-ai-agent-landscape-2026.md): current public-source snapshot of OpenAI, Anthropic, Google, xAI, OpenClaw, and the practical agent capability/safety pattern.
 - [Anthropic Compute And Talent Signal 2026](sources/anthropic-compute-and-talent-signal-2026.md): source note on Andrej Karpathy joining Anthropic pre-training, Anthropic's SpaceX/Colossus compute deal, and the later $65B Series H / multi-provider compute expansion.
@@ -69,6 +70,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Codex Goals](concepts/codex-goals.md): persistent thread-scoped objectives with outcome, verifier, constraints, boundaries, iteration policy, and blocked stop conditions.
 - [AI Native Company](concepts/ai-native-company.md): organization designed around AI as an operating layer rather than a productivity add-on.
 - [Cognitive Latency Shock](concepts/cognitive-latency-shock.md): felt disorientation when AI collapses the loop between thought, search, synthesis, structure, and artifact.
+- [Knowledge Collapse](concepts/knowledge-collapse.md): failure mode where AI recommendations keep individual decisions working while human learning effort and shared general knowledge decay.
 - [Focus Through Goal Structure](concepts/focus-through-goal-structure.md): focus emerges from vision, anti-vision, projects, and daily lever-moving tasks.
 - [Creative Recovery And Input Fasting](concepts/creative-recovery-and-input-fasting.md): creativity improves when excess input is reduced and the mind has time to digest.
 - [Identity Change As Goal Reprogramming](concepts/identity-change-as-goal-reprogramming.md): behavior change is framed as changing the goals and identity patterns the mind protects.

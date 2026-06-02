@@ -7,6 +7,7 @@ updated: 2026-05-11
 sources:
   - ../sources/enterprise-agent-deployment-2026.md
   - ../sources/ai-native-company-and-sidequest-prototyping-batch.md
+  - ../sources/ai-human-cognition-knowledge-collapse.md
   - computer-work-agent.md
 ---
 
@@ -96,6 +97,14 @@ Human agency shrinks when AI is used mainly for:
 - automated bureaucracy;
 - making bad processes run faster.
 
+## Knowledge Collapse Risk
+
+The 2026 MIT paper [AI, Human Cognition, And Knowledge Collapse](../sources/ai-human-cognition-knowledge-collapse.md) gives a formal model for one version of the downside. Accurate agentic recommendations can improve immediate decisions while reducing the human learning effort that feeds shared general knowledge.
+
+That matters here because agentic work rearchitecture is not automatically learning-preserving. If agents do the work, humans approve outputs, and nobody preserves the source trail, uncertainty, explanation, failure modes, or situated judgment, the organization may become faster while becoming less able to renew its own knowledge.
+
+The safer version is not "keep humans doing busywork." It is to design workflows where agents remove drudge work while humans still build judgment, leave useful traces, and keep the organization queryable.
+
 ## Do Not Overclaim
 
 - Do not say agentic work means humans become irrelevant.
@@ -123,3 +132,4 @@ The bad version is the same beige sludge, but faster and more monitored.
 - [Computer Work Agent](computer-work-agent.md)
 - [Inference Speed Development](inference-speed-development.md)
 - [Cognitive Latency Shock](cognitive-latency-shock.md)
+- [Knowledge Collapse](knowledge-collapse.md)

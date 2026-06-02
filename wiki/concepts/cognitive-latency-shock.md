@@ -9,6 +9,7 @@ sources:
   - ../sources/peter-steinberger-agentic-engineering-batch.md
   - ../sources/antikythera-mechanism-source-batch.md
   - ../sources/devs-prediction-determinism.md
+  - ../sources/ai-human-cognition-knowledge-collapse.md
 ---
 
 # Cognitive Latency Shock
@@ -72,6 +73,7 @@ This does not mean AI reveals reality perfectly. It means AI changes the perceiv
 
 - **Over-absorption:** the loop is so rewarding that sleep, relationships, and ordinary obligations get displaced.
 - **Verification debt:** fast synthesis can outrun fact-checking and taste.
+- **Knowledge collapse:** answers arrive so quickly that humans stop producing the traces and explanations needed to sustain shared knowledge.
 - **Social impatience:** slower human conversation can start to feel defective rather than simply different.
 - **Reality mismatch:** bodies, institutions, trust, grief, craft, and consequence still move on slower clocks.
 - **Hallucination opacity:** when the system is 80% right and fluent, the wrong 20% can be hard to see.
@@ -106,3 +108,4 @@ At organization scale, the same pressure shows up as [Agentic Work Rearchitectur
 - [AI Native Company](ai-native-company.md)
 - [Mechanical World Models](mechanical-world-models.md)
 - [Devs - Prediction, Determinism, And Acceleration](../sources/devs-prediction-determinism.md)
+- [Knowledge Collapse](knowledge-collapse.md)

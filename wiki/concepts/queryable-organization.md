@@ -7,6 +7,7 @@ updated: 2026-05-20
 sources:
   - ../sources/ai-native-company-and-sidequest-prototyping-batch.md
   - ../sources/antikythera-mechanism-source-batch.md
+  - ../sources/ai-human-cognition-knowledge-collapse.md
 ---
 
 # Queryable Organization
@@ -33,6 +34,8 @@ The enterprise version is [Agentic Work Rearchitecture](agentic-work-rearchitect
 
 The deep historical version is [Mechanical World Models](mechanical-world-models.md). The Antikythera mechanism made astronomical cycles queryable through gears, dials, and inscriptions; modern organizations try to do something similar with records, workflows, metrics, and agents.
 
+The resilience version is [Knowledge Collapse](knowledge-collapse.md). If AI systems provide answers but humans stop producing durable explanations, failures, judgments, and source trails, the organization may become faster while starving its future knowledge base.
+
 ## Related
 
 - [AI Native Company](ai-native-company.md)
@@ -41,3 +44,4 @@ The deep historical version is [Mechanical World Models](mechanical-world-models
 - [How Should charli-kb Work With Agents?](../questions/how-should-charli-kb-work-with-agents.md)
 - [Cognitive Latency Shock](cognitive-latency-shock.md)
 - [Mechanical World Models](mechanical-world-models.md)
+- [Knowledge Collapse](knowledge-collapse.md)

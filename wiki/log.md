@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-02] source note | MIT AI cognition and knowledge collapse
+- Sources: Daron Acemoglu, Dingwen Kong, and Asuman Ozdaglar, [AI, Human Cognition and Knowledge Collapse](https://economics.mit.edu/sites/default/files/2026-02/AI%2C%20Human%20Cognition%20and%20Knowledge%20Collapse%2002-20-26.pdf), 2026-02-20.
+- Pages created: [AI, Human Cognition, And Knowledge Collapse](sources/ai-human-cognition-knowledge-collapse.md), [Knowledge Collapse](concepts/knowledge-collapse.md)
+- Pages updated: [Agentic Work Rearchitecture](concepts/agentic-work-rearchitecture.md), [Queryable Organization](concepts/queryable-organization.md), [Cognitive Latency Shock](concepts/cognitive-latency-shock.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added the paper as a formal counterweight to naive agentic-work optimism. Preserved the caveat: this is a theoretical model, not empirical proof that AI is already causing collapse. The useful mechanism is substitution plus externality: context-specific AI recommendations can reduce human learning effort, which can erode shared general knowledge over time.
+
 ## [2026-06-02] timeline | daily AI digest follow-up
 - Sources: `raw/2026-06-02-ai-digest.md`; GitHub Changelog, "Updates to GitHub Copilot billing and plans"; Anthropic, "Anthropic confidentially submits draft S-1 to the SEC"; European Commission, "AI Act enforcement gets independent expert support."
 - Pages created: none
