@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-02] timeline | daily AI digest follow-up
+- Sources: `raw/2026-06-02-ai-digest.md`; GitHub Changelog, "Updates to GitHub Copilot billing and plans"; Anthropic, "Anthropic confidentially submits draft S-1 to the SEC"; European Commission, "AI Act enforcement gets independent expert support."
+- Pages created: none
+- Pages updated: [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Promoted three non-Foundation digest items: GitHub Copilot usage-based billing and code-review Actions-minute consumption as an agentic-coding governance/cost surface; Anthropic's confidential draft S-1 as IPO optionality after major compute/capital signals; and the EU AI Act Scientific Panel / Advisory Forum as enforcement scaffolding. Kept the OpenAI Foundation item separate because it was already processed.
+
 ## [2026-06-02] source note | OpenAI Foundation AI Resilience
 - Sources: OpenAI Foundation, "Resilience in the age of AI"; OpenAI Foundation spring 2026 update, first scientific-discovery grant, and NextGenAI commitment posts.
 - Pages created: [OpenAI Foundation AI Resilience Program](sources/openai-foundation-ai-resilience.md)

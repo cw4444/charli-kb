@@ -33,11 +33,14 @@ sources:
   - https://www.anthropic.com/news/claude-opus-4-8
   - https://www.anthropic.com/news/series-h
   - https://github.blog/changelog/2026-05-28-claude-opus-4-8-is-generally-available-for-github-copilot/
+  - https://github.blog/changelog/2026-05-29-updates-to-github-copilot-billing-and-plans
   - https://www.gov.uk/government/news/g7-nations-agree-first-ever-joint-approach-to-protecting-children-online-and-drive-safe-ai-growth-that-delivers-for-all
   - https://openaifoundation.org/news/update-on-the-openai-foundation
   - https://openaifoundation.org/news/announcing-our-first-grant-to-accelerate-ai-powered-scientific-discovery
   - https://openaifoundation.org/news/openai-foundation-commits-50-million-to-launch-nextgenai
   - https://openaifoundation.org/news/resilience-in-the-age-of-ai
+  - https://www.anthropic.com/news/confidential-draft-s1-sec
+  - https://digital-strategy.ec.europa.eu/en/news/ai-act-enforcement-gets-independent-expert-support
 ---
 
 # AI And Agents 2026 Timeline
@@ -55,9 +58,9 @@ Use this page for events that are useful historical anchors:
 
 Future lint rule: update this page if it helps preserve the shape of the year. Delete or collapse entries that turn out to be noise.
 
-## Short Read As Of 2026-05-30
+## Short Read As Of 2026-06-02
 
-The first five months of 2026 already show several converging threads:
+The first half of 2026 already shows several converging threads:
 
 - AI agents moved from demos into everyday developer and workplace tools.
 - OpenAI and Anthropic kept shipping Codex/Claude Code-style agent updates.
@@ -74,9 +77,12 @@ The first five months of 2026 already show several converging threads:
 - Cognition reported a $1B+ raise at a $26B valuation, $492M in run-rate revenue, and 10x enterprise-usage growth since the start of 2026, making cloud coding agents look less like a niche developer toy and more like a serious enterprise budget line.
 - Anthropic released Claude Opus 4.8 alongside Claude Code dynamic workflows, effort controls, cheaper fast mode, and a public note that broader Mythos-class model access is expected after stronger cyber safeguards.
 - GitHub made Claude Opus 4.8 generally available inside Copilot across major developer surfaces, making Anthropic's top coding model available through Microsoft's developer distribution layer.
+- GitHub Copilot's usage-based billing became active across plans, and Copilot code review began consuming GitHub Actions minutes as well as AI Credits, making agentic coding costs and runner policy an explicit admin surface.
 - Anthropic announced a $65B Series H at a $965B post-money valuation, with claimed $47B revenue run-rate and expanded compute agreements across Amazon, Google/Broadcom TPUs, and SpaceX Colossus GPU capacity.
+- Anthropic confidentially submitted a draft Form S-1 to the SEC, opening an IPO option after a month of major capital, compute, and Claude Code strategy signals.
 - Anthropic co-founder Chris Olah spoke at the Vatican presentation of Pope Leo XIV's AI-focused encyclical, putting interpretability, model character, labor displacement, welfare uncertainty, and outside moral criticism into one very visible public frame.
 - G7 Digital Ministers, in a UK-reported Paris agreement, aligned on child online safety, AI-chatbot risks, AI-generated-content detection, AI system security, SME AI adoption, trusted data flows, and resilient AI infrastructure.
+- The European Commission appointed a 60-member Scientific Panel and an Advisory Forum to support AI Act enforcement, turning general-purpose-AI/systemic-risk oversight into staffed institutional machinery.
 - The OpenAI Foundation made AI Resilience a named funding lane, following its `$50 million` initial commitment, `$15 million` scientific-discovery grant to the Accelerated Research Consortium, and `$50 million` NextGenAI university/research-institution commitment.
 - Meta began a major AI restructuring: roughly 8,000 job cuts, roughly 7,000 workers reassigned to AI-focused initiatives, and a leaked-audio controversy around employee computer-use data being used to train AI systems.
 - GPT-4o, a model many users were emotionally attached to, was retired from ChatGPT on 2026-02-13.
@@ -397,6 +403,42 @@ Careful read: this is not hard law and not a technical standard. It is a ministe
 Source:
 
 - [GOV.UK: G7 nations agree first-ever joint approach to protecting children online and drive safe AI growth that delivers for all](https://www.gov.uk/government/news/g7-nations-agree-first-ever-joint-approach-to-protecting-children-online-and-drive-safe-ai-growth-that-delivers-for-all)
+
+### 2026-06-01 - GitHub Copilot usage-based billing goes live
+
+GitHub said usage-based billing for Copilot is now live for all users and that, as of 2026-06-01, Copilot code review consumes GitHub Actions minutes in addition to GitHub AI Credits. The same changelog post also announced user-level budget controls for organizations and enterprises, default Actions runner configuration for Copilot code review, and Copilot Max upgrades for existing Student, Pro, and Pro+ subscribers.
+
+Why it matters: this is not just pricing trivia. Agentic coding work now has a more explicit operational meter: AI Credits, Actions minutes, budget controls, and runner policy. That matters for teams treating Copilot, code review, and coding agents as working systems rather than occasional autocomplete.
+
+Careful read: billing mechanics are not a capability breakthrough. The durable signal is that agentic coding has become expensive and infrastructure-like enough that spend controls and runner defaults are now part of the governance surface.
+
+Source:
+
+- [GitHub Changelog: Updates to GitHub Copilot billing and plans](https://github.blog/changelog/2026-05-29-updates-to-github-copilot-billing-and-plans)
+
+### 2026-06-01 - Anthropic confidentially submits draft S-1 to the SEC
+
+Anthropic announced that it confidentially submitted a draft Form S-1 registration statement to the U.S. Securities and Exchange Commission for a proposed initial public offering of common stock. The company said the filing gives it the option to go public after SEC review, with share count, pricing, timing, market conditions, and other factors still unsettled.
+
+Why it matters: this is a frontier-lab strategy signal. It comes days after Anthropic announced a `$65 billion` Series H, a `$965 billion` post-money valuation, claimed `$47 billion` revenue run-rate, and expanded compute agreements across Amazon, Google/Broadcom TPUs, and SpaceX Colossus. An IPO path would add public-market scrutiny, financing options, governance pressure, and disclosure obligations to the frontier-lab story.
+
+Careful read: a confidential draft S-1 is not an IPO, not an offer to sell securities, and not proof that the company will list soon. Treat it as optionality and direction of travel, not completion.
+
+Source:
+
+- [Anthropic: Anthropic confidentially submits draft S-1 to the SEC](https://www.anthropic.com/news/confidential-draft-s1-sec)
+
+### 2026-06-01 - EU AI Act enforcement gets Scientific Panel and Advisory Forum support
+
+The European Commission announced a 60-member Scientific Panel and an Advisory Forum to support the AI Office and national authorities in enforcing the AI Act. The Scientific Panel is aimed at general-purpose AI models and systems, systemic risks, model classification, evaluation methodologies, and cross-border market surveillance. The Advisory Forum is meant to provide technical advice on standardisation and implementation challenges, with members from academia, civil society, industry, SMEs, startups, and permanent roles for agencies including the EU Agency for Fundamental Rights and ENISA.
+
+Why it matters: this is enforcement scaffolding. The AI Act is moving from statute and guidance into staffed expert machinery around GPAI, systemic risk, evaluation, standards, and market surveillance. Boring? Yes. Important? Also yes. That is how regulation stops being just PDF theatre.
+
+Careful read: expert bodies do not make enforcement automatically effective, fast, or politically clean. Treat this as institutional capacity being built, not proof that EU AI governance is solved.
+
+Source:
+
+- [European Commission: AI Act enforcement gets independent expert support](https://digital-strategy.ec.europa.eu/en/news/ai-act-enforcement-gets-independent-expert-support)
 
 ### 2026-06-01 - OpenAI Foundation makes AI Resilience a named funding lane
 
