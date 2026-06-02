@@ -41,6 +41,7 @@ sources:
   - https://openaifoundation.org/news/resilience-in-the-age-of-ai
   - https://www.anthropic.com/news/confidential-draft-s1-sec
   - https://digital-strategy.ec.europa.eu/en/news/ai-act-enforcement-gets-independent-expert-support
+  - https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
 ---
 
 # AI And Agents 2026 Timeline
@@ -84,6 +85,7 @@ The first half of 2026 already shows several converging threads:
 - G7 Digital Ministers, in a UK-reported Paris agreement, aligned on child online safety, AI-chatbot risks, AI-generated-content detection, AI system security, SME AI adoption, trusted data flows, and resilient AI infrastructure.
 - The European Commission appointed a 60-member Scientific Panel and an Advisory Forum to support AI Act enforcement, turning general-purpose-AI/systemic-risk oversight into staffed institutional machinery.
 - The OpenAI Foundation made AI Resilience a named funding lane, following its `$50 million` initial commitment, `$15 million` scientific-discovery grant to the Accelerated Research Consortium, and `$50 million` NextGenAI university/research-institution commitment.
+- The White House issued an Executive Order on advanced AI innovation and security, creating voluntary frontier-model evaluation, classified cyber benchmarking, trusted early-access vulnerability discovery, and AI cybersecurity clearinghouse work while rejecting mandatory licensing or pre-release approval.
 - Meta began a major AI restructuring: roughly 8,000 job cuts, roughly 7,000 workers reassigned to AI-focused initiatives, and a leaked-audio controversy around employee computer-use data being used to train AI systems.
 - GPT-4o, a model many users were emotionally attached to, was retired from ChatGPT on 2026-02-13.
 - Charli reported receiving an OpenAI product survey asking how she uses ChatGPT, what other AI products she uses, and what ChatGPT should improve. The useful personal signal: adult users want more grown-up tone and wider creative range, and some route refused or tone-constrained work to Grok.
@@ -454,6 +456,19 @@ Sources:
 
 - [OpenAI Foundation AI Resilience Program](../sources/openai-foundation-ai-resilience.md)
 - [OpenAI Foundation: Resilience in the age of AI](https://openaifoundation.org/news/resilience-in-the-age-of-ai)
+
+### 2026-06-02 - White House issues advanced AI innovation and security order
+
+The White House published [Promoting Advanced Artificial Intelligence Innovation and Security](../sources/white-house-ai-innovation-security-order.md), an Executive Order setting a federal posture around advanced AI models and covered AI companies. The order directs NIST to develop a voluntary capability-maturity framework for covered companies and a process for classified cyber benchmark testing of advanced AI models. It also directs voluntary pre-deployment evaluation offers, trusted early-access partner programs for vulnerability discovery, an AI Cybersecurity Information Clearinghouse, AI-assisted vulnerability scanning and patch development, and reporting on CBRN and cyber capabilities.
+
+Why it matters: this is U.S. federal machinery for frontier-model security and AI-assisted cyber defense. It sits near Anthropic's Project Glasswing, the EU AI Act Scientific Panel / Advisory Forum, the G7 safe-AI-growth governance signal, and the OpenAI Foundation's resilience lane. The common thread is that frontier AI is being treated as a security, infrastructure, standards, and institutional-capacity problem, not only a product market.
+
+Careful read: this is an Executive Order, not legislation. It explicitly says it does not require mandatory licensing, premarket approval, or pre-deployment testing before releasing AI models. Treat it as a major U.S. federal governance signal with voluntary evaluation and classified benchmarking components, not as proof that frontier releases are now fully controlled or safe.
+
+Sources:
+
+- [White House Advanced AI Innovation And Security Order](../sources/white-house-ai-innovation-security-order.md)
+- [White House: Promoting Advanced Artificial Intelligence Innovation and Security](https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/)
 
 ## Watchlist
 

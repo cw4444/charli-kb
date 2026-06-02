@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-02] source note | White House advanced AI innovation and security order
+- Sources: White House, [Promoting Advanced Artificial Intelligence Innovation and Security](https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/), 2026-06-02.
+- Pages created: [White House Advanced AI Innovation And Security Order](sources/white-house-ai-innovation-security-order.md)
+- Pages updated: [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added the Executive Order as a durable U.S. federal governance/security anchor: covered advanced-model companies, voluntary NIST capability framework, classified cyber benchmark testing, voluntary pre-deployment evaluations, trusted early-access vulnerability discovery, AI cybersecurity clearinghouse, AI-assisted scanning/patching, and CBRN/cyber reporting. Preserved the caveat that the order explicitly rejects mandatory licensing or pre-release approval.
+
 ## [2026-06-02] source note | MIT AI cognition and knowledge collapse
 - Sources: Daron Acemoglu, Dingwen Kong, and Asuman Ozdaglar, [AI, Human Cognition and Knowledge Collapse](https://economics.mit.edu/sites/default/files/2026-02/AI%2C%20Human%20Cognition%20and%20Knowledge%20Collapse%2002-20-26.pdf), 2026-02-20.
 - Pages created: [AI, Human Cognition, And Knowledge Collapse](sources/ai-human-cognition-knowledge-collapse.md), [Knowledge Collapse](concepts/knowledge-collapse.md)

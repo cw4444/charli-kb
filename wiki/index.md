@@ -26,6 +26,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Cayley-Table Completion And Algorithmic Compression](sources/cayley-table-completion-compression.md): arXiv source note on Cayley-table completion as a machine-learning benchmark for exact discrete/algebraic rule recovery and algorithmic compression.
 - [OpenAI Industrial Policy For The Intelligence Age](sources/openai-industrial-policy-intelligence-age.md): source note on OpenAI's April 2026 industrial-policy paper, proposed Public Wealth Fund, actual fellowship/research-grant pilot, and related compute-infrastructure posture.
 - [OpenAI Foundation AI Resilience Program](sources/openai-foundation-ai-resilience.md): source note on the OpenAI Foundation's 2026 AI Resilience program, bio/cyber/model-safety/youth focus areas, and spring 2026 grant-making arc.
+- [White House Advanced AI Innovation And Security Order](sources/white-house-ai-innovation-security-order.md): source note on the 2026-06-02 U.S. Executive Order covering advanced AI models, voluntary evaluations, classified cyber benchmarking, trusted early-access vulnerability discovery, and AI cybersecurity coordination.
 - [AI, Human Cognition, And Knowledge Collapse](sources/ai-human-cognition-knowledge-collapse.md): MIT economics source note on agentic AI, human learning incentives, shared general knowledge, and the risk that accurate recommendations can erode collective knowledge-building.
 - [OpenAI Codex For Everyday Work](sources/openai-codex-for-everyday-work.md): official OpenAI Codex docs translated into practical everyday-work concepts for non-developers.
 - [Current AI Agent Landscape 2026](sources/current-ai-agent-landscape-2026.md): current public-source snapshot of OpenAI, Anthropic, Google, xAI, OpenClaw, and the practical agent capability/safety pattern.
@@ -55,7 +56,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 
 ## Timelines
 
-- [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md): lightweight historical timeline for the fast-moving 2026 AI/agent acceleration, including GPT-4o retirement, OpenClaw, Karpathy's LLM Wiki, Codex/Claude/Gemini/Grok agent updates, OpenAI deployment, industrial-policy, and Foundation resilience strategy, Anthropic compute/talent/cyber/capital/IPO signals, GitHub Copilot billing and distribution shifts, Robinhood's agentic finance launch, Cognition's enterprise coding-agent funding signal, Olah's Vatican AI-discernment remarks, G7/UK safe-AI-growth governance, and EU AI Act enforcement scaffolding.
+- [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md): lightweight historical timeline for the fast-moving 2026 AI/agent acceleration, including GPT-4o retirement, OpenClaw, Karpathy's LLM Wiki, Codex/Claude/Gemini/Grok agent updates, OpenAI deployment, industrial-policy, and Foundation resilience strategy, Anthropic compute/talent/cyber/capital/IPO signals, GitHub Copilot billing and distribution shifts, Robinhood's agentic finance launch, Cognition's enterprise coding-agent funding signal, Olah's Vatican AI-discernment remarks, G7/UK safe-AI-growth governance, EU AI Act enforcement scaffolding, and the White House advanced-AI innovation/security order.
 
 ## Concepts
 
