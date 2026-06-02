@@ -3,7 +3,7 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-06-01
+updated: 2026-06-02
 ---
 
 # Current State
@@ -42,6 +42,8 @@ This repo is a plain Markdown personal knowledge base based on Karpathy's LLM Wi
 - The durable subject lanes are AI, reality, and their overlap: perception, belief, expectation, action, agents, knowledge systems, reality monitoring, and related source-backed concepts.
 
 ## Latest Session Handoff
+
+On 2026-06-02, Charli pointed to the OpenAI Foundation's 2026-06-01 [Resilience in the age of AI](https://openaifoundation.org/news/resilience-in-the-age-of-ai) post. Codex added [OpenAI Foundation AI Resilience Program](../sources/openai-foundation-ai-resilience.md) and a 2026-06-01 entry to [AI And Agents 2026 Timeline](../timelines/ai-and-agents-2026.md). Keep the distinction sharp: the Foundation's grant-making and AI Resilience program are real, and include bio-resilience, cyber-resilience, model safety/evaluations, and youth/social impact lanes; they are not the same as OpenAI's proposed Public Wealth Fund in the industrial-policy paper, and funding resilience work does not mean the risks are solved.
 
 On 2026-06-01, Charli flagged the University of Zurich / Oxford-linked caloric vestibular stimulation work on unrealistic optimism. Codex verified the 2010 Nature Precedings version and 2013 Cortex paper by McKay et al., then updated [Optimism Neuroscience Source Batch](../sources/optimism-neuroscience-source-batch.md), [Optimism](../concepts/optimism.md), and [Research - Optimism](../questions/research-optimism.md). Keep the caveat: the study used cold-water caloric vestibular stimulation in 31 healthy right-handed adults estimating illness risk; left-ear stimulation attenuated unrealistic optimism. Use this as embodied belief-updating / risk-estimation evidence, not as a broad cure for delusion, a home protocol, or proof that optimism is bad.
 

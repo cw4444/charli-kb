@@ -3,7 +3,7 @@ title: "AI And Agents 2026 Timeline"
 type: timeline
 status: draft
 created: 2026-05-21
-updated: 2026-05-30
+updated: 2026-06-02
 sources:
   - ../sources/current-ai-agent-landscape-2026.md
   - ../sources/anthropic-compute-and-talent-signal-2026.md
@@ -34,6 +34,10 @@ sources:
   - https://www.anthropic.com/news/series-h
   - https://github.blog/changelog/2026-05-28-claude-opus-4-8-is-generally-available-for-github-copilot/
   - https://www.gov.uk/government/news/g7-nations-agree-first-ever-joint-approach-to-protecting-children-online-and-drive-safe-ai-growth-that-delivers-for-all
+  - https://openaifoundation.org/news/update-on-the-openai-foundation
+  - https://openaifoundation.org/news/announcing-our-first-grant-to-accelerate-ai-powered-scientific-discovery
+  - https://openaifoundation.org/news/openai-foundation-commits-50-million-to-launch-nextgenai
+  - https://openaifoundation.org/news/resilience-in-the-age-of-ai
 ---
 
 # AI And Agents 2026 Timeline
@@ -73,6 +77,7 @@ The first five months of 2026 already show several converging threads:
 - Anthropic announced a $65B Series H at a $965B post-money valuation, with claimed $47B revenue run-rate and expanded compute agreements across Amazon, Google/Broadcom TPUs, and SpaceX Colossus GPU capacity.
 - Anthropic co-founder Chris Olah spoke at the Vatican presentation of Pope Leo XIV's AI-focused encyclical, putting interpretability, model character, labor displacement, welfare uncertainty, and outside moral criticism into one very visible public frame.
 - G7 Digital Ministers, in a UK-reported Paris agreement, aligned on child online safety, AI-chatbot risks, AI-generated-content detection, AI system security, SME AI adoption, trusted data flows, and resilient AI infrastructure.
+- The OpenAI Foundation made AI Resilience a named funding lane, following its `$50 million` initial commitment, `$15 million` scientific-discovery grant to the Accelerated Research Consortium, and `$50 million` NextGenAI university/research-institution commitment.
 - Meta began a major AI restructuring: roughly 8,000 job cuts, roughly 7,000 workers reassigned to AI-focused initiatives, and a leaked-audio controversy around employee computer-use data being used to train AI systems.
 - GPT-4o, a model many users were emotionally attached to, was retired from ChatGPT on 2026-02-13.
 - Charli reported receiving an OpenAI product survey asking how she uses ChatGPT, what other AI products she uses, and what ChatGPT should improve. The useful personal signal: adult users want more grown-up tone and wider creative range, and some route refused or tone-constrained work to Grok.
@@ -392,6 +397,21 @@ Careful read: this is not hard law and not a technical standard. It is a ministe
 Source:
 
 - [GOV.UK: G7 nations agree first-ever joint approach to protecting children online and drive safe AI growth that delivers for all](https://www.gov.uk/government/news/g7-nations-agree-first-ever-joint-approach-to-protecting-children-online-and-drive-safe-ai-growth-that-delivers-for-all)
+
+### 2026-06-01 - OpenAI Foundation makes AI Resilience a named funding lane
+
+The OpenAI Foundation published [Resilience in the age of AI](../sources/openai-foundation-ai-resilience.md), a program statement that frames resilience as both reducing AI-amplified risks and helping public-interest institutions use AI well. The post names four early focus areas: bio-resilience, cyber-resilience, model safety and evaluations, and youth/social impacts.
+
+The resilience post follows several spring 2026 Foundation signals: a 2026-03-31 update describing a `$50 million` initial commitment, a 2026-04-30 `$15 million` grant to the Accelerated Research Consortium for AI-powered scientific discovery, and a 2026-05-29 `$50 million` commitment to launch NextGenAI with universities and research institutions.
+
+Why it matters: this is OpenAI-adjacent institution building. It belongs next to OpenAI's industrial-policy paper, but it is not the same thing. The company is making policy arguments about wealth, work, infrastructure, and risk governance; the Foundation is becoming a grant-making channel around science, education, civil-society capacity, model safety, biosecurity, cybersecurity, and youth impacts.
+
+Careful read: do not treat Foundation grants as neutral public settlement, and do not confuse them with the proposed Public Wealth Fund in OpenAI's industrial-policy paper. Funding resilience work is useful evidence that the risk/capacity problem is being institutionalized, not evidence that the problem is solved.
+
+Sources:
+
+- [OpenAI Foundation AI Resilience Program](../sources/openai-foundation-ai-resilience.md)
+- [OpenAI Foundation: Resilience in the age of AI](https://openaifoundation.org/news/resilience-in-the-age-of-ai)
 
 ## Watchlist
 

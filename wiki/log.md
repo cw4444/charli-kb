@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-02] source note | OpenAI Foundation AI Resilience
+- Sources: OpenAI Foundation, "Resilience in the age of AI"; OpenAI Foundation spring 2026 update, first scientific-discovery grant, and NextGenAI commitment posts.
+- Pages created: [OpenAI Foundation AI Resilience Program](sources/openai-foundation-ai-resilience.md)
+- Pages updated: [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added the OpenAI Foundation's AI Resilience program as a durable governance/institution-building anchor rather than a passing blog post. Preserved the distinction between Foundation grant-making, OpenAI's industrial-policy paper, and the proposed Public Wealth Fund.
+
 ## [2026-06-01] research | vestibular stimulation and unrealistic optimism
 - Sources: McKay et al. 2013, "Vestibular stimulation attenuates unrealistic optimism"; Tamagni et al. 2010 Nature Precedings version; PubMed / Nature Precedings / PMC review summaries.
 - Pages created: none
