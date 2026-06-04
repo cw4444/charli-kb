@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-04] timeline | daily AI digests for agent security and EU technological sovereignty
+- Sources: `raw/2026-06-03-ai-digest.md`; `raw/2026-06-04-ai-digest.md`; GitHub, "Cloud and local sandboxes for GitHub Copilot now in public preview"; Microsoft Foundry, "Build agents you can trust across any framework with open evals and a control standard"; Anthropic, "What we learned mapping a year's worth of AI-enabled cyber threats" and "Expanding Project Glasswing"; European Commission, "Commission proposes tech sovereignty package to strengthen Europe's digital autonomy and resilience."
+- Pages created: [Agent Security Infrastructure 2026](sources/agent-security-infrastructure-2026.md), [EU Technological Sovereignty Package 2026](sources/eu-technological-sovereignty-package-2026.md)
+- Pages updated: [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Promoted three durable anchors from the two digests: agent execution/evaluation/runtime controls becoming infrastructure; Anthropic's lab-reported evidence that AI-enabled attackers are moving deeper into post-compromise work and using agentic orchestration; and the EU treating AI, cloud, chips, open source, energy, dependency, and resilience as one technological-sovereignty package. Folded Project Glasswing's expansion into its existing timeline entry. Parked narrower Copilot-app features, Codex knowledge-work framing, Microsoft observability details, and vendor-reported Copilot seat counts rather than turning the timeline into a news bin.
+
 ## [2026-06-02] source note | White House advanced AI innovation and security order
 - Sources: White House, [Promoting Advanced Artificial Intelligence Innovation and Security](https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/), 2026-06-02.
 - Pages created: [White House Advanced AI Innovation And Security Order](sources/white-house-ai-innovation-security-order.md)

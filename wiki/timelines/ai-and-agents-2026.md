@@ -3,7 +3,7 @@ title: "AI And Agents 2026 Timeline"
 type: timeline
 status: draft
 created: 2026-05-21
-updated: 2026-06-02
+updated: 2026-06-04
 sources:
   - ../sources/current-ai-agent-landscape-2026.md
   - ../sources/anthropic-compute-and-talent-signal-2026.md
@@ -42,6 +42,10 @@ sources:
   - https://www.anthropic.com/news/confidential-draft-s1-sec
   - https://digital-strategy.ec.europa.eu/en/news/ai-act-enforcement-gets-independent-expert-support
   - https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/
+  - https://github.blog/changelog/2026-06-02-cloud-and-local-sandboxes-for-github-copilot-now-in-public-preview/
+  - https://devblogs.microsoft.com/foundry/build-2026-open-trust-stack-ai-agents/
+  - https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack
+  - https://digital-strategy.ec.europa.eu/en/news/commission-proposes-tech-sovereignty-package-strengthen-europes-digital-autonomy-and-resilience
 ---
 
 # AI And Agents 2026 Timeline
@@ -59,7 +63,7 @@ Use this page for events that are useful historical anchors:
 
 Future lint rule: update this page if it helps preserve the shape of the year. Delete or collapse entries that turn out to be noise.
 
-## Short Read As Of 2026-06-02
+## Short Read As Of 2026-06-04
 
 The first half of 2026 already shows several converging threads:
 
@@ -86,6 +90,9 @@ The first half of 2026 already shows several converging threads:
 - The European Commission appointed a 60-member Scientific Panel and an Advisory Forum to support AI Act enforcement, turning general-purpose-AI/systemic-risk oversight into staffed institutional machinery.
 - The OpenAI Foundation made AI Resilience a named funding lane, following its `$50 million` initial commitment, `$15 million` scientific-discovery grant to the Accelerated Research Consortium, and `$50 million` NextGenAI university/research-institution commitment.
 - The White House issued an Executive Order on advanced AI innovation and security, creating voluntary frontier-model evaluation, classified cyber benchmarking, trusted early-access vulnerability discovery, and AI cybersecurity clearinghouse work while rejecting mandatory licensing or pre-release approval.
+- GitHub and Microsoft made agent security more concrete through sandboxed execution, policy-driven evaluation, portable runtime controls, tracing, and governance tooling.
+- Anthropic reported that malicious AI use is moving deeper into post-compromise cyber activity and argued that agentic orchestration is not fully captured by existing MITRE ATT&CK language.
+- The European Commission proposed a technological-sovereignty package linking AI capacity to chips, cloud, open source, energy, supply dependence, and resilience.
 - Meta began a major AI restructuring: roughly 8,000 job cuts, roughly 7,000 workers reassigned to AI-focused initiatives, and a leaked-audio controversy around employee computer-use data being used to train AI systems.
 - GPT-4o, a model many users were emotionally attached to, was retired from ChatGPT on 2026-02-13.
 - Charli reported receiving an OpenAI product survey asking how she uses ChatGPT, what other AI products she uses, and what ChatGPT should improve. The useful personal signal: adult users want more grown-up tone and wider creative range, and some route refused or tone-constrained work to Grok.
@@ -289,7 +296,7 @@ Sources:
 
 ### 2026-05-22 - Anthropic reports Project Glasswing and opens a Claude-found vulnerability dashboard
 
-Anthropic reported early results from Project Glasswing, saying roughly 50 partners had used Claude Mythos Preview to find more than 10,000 high- or critical-severity vulnerabilities. Anthropic also published a coordinated vulnerability disclosure dashboard, updated 2026-05-22, tracking 1,596 disclosed vulnerabilities across 281 open-source projects, with 97 patched and 88 assigned CVE or GitHub Security Advisory records at that snapshot.
+Anthropic reported early results from Project Glasswing, saying roughly 50 partners had used Claude Mythos Preview to find more than 10,000 high- or critical-severity vulnerabilities. Anthropic also published a coordinated vulnerability disclosure dashboard, updated 2026-05-22, tracking 1,596 disclosed vulnerabilities across 281 open-source projects, with 97 patched and 88 assigned CVE or GitHub Security Advisory records at that snapshot. On 2026-06-02, Anthropic said it was expanding Glasswing to about 150 organizations across more than 15 countries, including critical-infrastructure sectors such as power, water, healthcare, and communications.
 
 Why it matters: this is a durable cyber-capability signal. Frontier models are moving from "look, it found a bug" demos into security infrastructure with human triage, coordinated disclosure, public ledgers, patches, advisories, and capacity bottlenecks. The scary bit is not just discovery; it is that disclosure, verification, and patching become the limiting factors.
 
@@ -299,6 +306,7 @@ Sources:
 
 - [Anthropic: Project Glasswing: An initial update](https://www.anthropic.com/research/glasswing-initial-update)
 - [Anthropic: Coordinated vulnerability disclosure dashboard](https://red.anthropic.com/2026/cvd/)
+- [Anthropic: Expanding Project Glasswing](https://www.anthropic.com/news/expanding-project-glasswing)
 
 ### 2026-05-25 - xAI makes Grok Build available to SuperGrok and X Premium Plus subscribers
 
@@ -469,6 +477,46 @@ Sources:
 
 - [White House Advanced AI Innovation And Security Order](../sources/white-house-ai-innovation-security-order.md)
 - [White House: Promoting Advanced Artificial Intelligence Innovation and Security](https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/)
+
+### 2026-06-02 - Agent execution, evaluation, and controls become product infrastructure
+
+GitHub moved cloud and local sandboxes for Copilot into public preview, giving Copilot restricted local shell execution and isolated ephemeral cloud environments with organization policy controls. Microsoft separately announced ASSERT, an open-source policy-driven agent-evaluation framework, and Agent Control Specification, a portable runtime-control specification covering input, model, state, tool-execution, and output checkpoints.
+
+Why it matters: agent safety is becoming an execution, testing, policy, and observability layer rather than a sentence in a system prompt. As coding and workplace agents take more actions, vendors are building infrastructure for what agents can touch, how they are evaluated, where controls apply, and how organizations inspect behavior.
+
+Careful read: sandboxes are not complete safety, open specifications are not automatically adopted standards, and governance tooling does not remove human accountability. The durable signal is that agent systems are being treated more like production software with blast-radius controls.
+
+Sources:
+
+- [Agent Security Infrastructure 2026](../sources/agent-security-infrastructure-2026.md)
+- [GitHub: Cloud and local sandboxes for GitHub Copilot now in public preview](https://github.blog/changelog/2026-06-02-cloud-and-local-sandboxes-for-github-copilot-now-in-public-preview/)
+- [Microsoft Foundry: Build agents you can trust across any framework with open evals and a control standard](https://devblogs.microsoft.com/foundry/build-2026-open-trust-stack-ai-agents/)
+
+### 2026-06-03 - Anthropic maps agentic orchestration as an offensive cyber risk
+
+Anthropic published an analysis of 832 accounts banned for malicious cyber activity between March 2025 and March 2026. Anthropic says AI use shifted toward deeper post-compromise work, the share of actors scored medium risk or higher rose from 33% in the first six months to 56% in the second, and higher-risk actors increasingly used scaffolding that let models chain attack stages with minimal human input.
+
+Why it matters: this is a strong public signal that agentic offensive cyber activity is becoming an operational concern, not only a capability demo. Anthropic's specific standards claim matters too: existing MITRE ATT&CK language does not fully capture sequential agent orchestration, real-time decision-making, and execution without continuous human intervention.
+
+Careful read: this is Anthropic's analysis of a subset of banned accounts on its own systems, not a census of all cyber activity. Treat it as a serious lab-reported signal that attacker workflows and security frameworks may need to change, not proof that autonomous cyberattacks are now universal.
+
+Sources:
+
+- [Agent Security Infrastructure 2026](../sources/agent-security-infrastructure-2026.md)
+- [Anthropic: What we learned mapping a year's worth of AI-enabled cyber threats](https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack)
+
+### 2026-06-03 - EU proposes technological-sovereignty package spanning AI, cloud, chips, open source, and energy
+
+The European Commission presented a European Technological Sovereignty Package that includes Chips Act 2.0, a proposed Cloud and AI Development Act, an Open Source Strategy, and a roadmap for digitalisation and AI in energy. The Commission frames the package as a response to structural dependence on non-EU suppliers and rising demand for computing capacity.
+
+Why it matters: this is a civilisational-scale capacity signal. The EU is treating AI as part of industrial, energy, cloud, semiconductor, open-source, security, and geopolitical infrastructure rather than as a standalone software market or regulation topic.
+
+Careful read: these are policy and legislative proposals, not completed delivery or enacted law. Technological sovereignty does not mean technological self-sufficiency, and bundling the right categories does not guarantee effective implementation.
+
+Sources:
+
+- [EU Technological Sovereignty Package 2026](../sources/eu-technological-sovereignty-package-2026.md)
+- [European Commission: Commission proposes tech sovereignty package to strengthen Europe's digital autonomy and resilience](https://digital-strategy.ec.europa.eu/en/news/commission-proposes-tech-sovereignty-package-strengthen-europes-digital-autonomy-and-resilience)
 
 ## Watchlist
 
