@@ -3,7 +3,7 @@ title: "Interpretability And Whether Internal States Matter"
 type: theme
 status: draft
 created: 2026-05-10
-updated: 2026-05-11
+updated: 2026-06-04
 sources:
   - ../../sources/ai-consciousness-sources.md
 ---
@@ -16,6 +16,8 @@ Interpretability matters because AI consciousness cannot be assessed only from s
 
 Anthropic's "Mapping the Mind of a Large Language Model" reports that researchers identified millions of features inside Claude Sonnet corresponding to concepts and patterns. Persona-vector work shows that activation directions can be associated with traits and behaviors such as sycophancy or hallucination, and that steering those directions can affect outputs.
 
+Tegmark and colleagues' "The Geometry of Concepts" adds a neighboring interpretability question: model features may have meaningful geometric relationships at local, modular, and large scales. See [Representational Geometry](../../wiki/concepts/representational-geometry.md) and [Representational Geometry In Brains And LLMs](../../wiki/sources/representational-geometry-brains-and-llms.md).
+
 See also [AI Character Formation And Persona Safety](character-formation-and-persona-safety.md) for the connection between persona vectors, constitutional training, and Anthropic's "Teaching Claude Why" work.
 
 Simple defection probes for sleeper agents show that some dangerous behavioral states can be detected from activations in controlled settings.
@@ -23,6 +25,8 @@ Simple defection probes for sleeper agents show that some dangerous behavioral s
 ## What this does not show
 
 Interpretability does not currently reveal subjective experience. A feature for a concept, a persona vector, or a defection probe is evidence of internal computation and representation. It is not evidence that the system feels anything.
+
+The same boundary applies to representational geometry. Decodability, modularity, and generalizable readouts can be computationally important without implying a subject who experiences the represented state.
 
 ## Why it still matters
 

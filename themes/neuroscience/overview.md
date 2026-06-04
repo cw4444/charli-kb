@@ -10,6 +10,7 @@ sources:
   - ../../wiki/sources/optimism-neuroscience-source-batch.md
   - ../../wiki/sources/libet-schurger-readiness-potential-agency.md
   - ../../wiki/sources/moretto-tau-axonal-transport-p38alpha.md
+  - ../../wiki/sources/representational-geometry-brains-and-llms.md
 ---
 
 # Neuroscience
@@ -46,6 +47,13 @@ This page gives those ideas a shared map and makes room for lower-level cellular
 - [Perception And Imagination Overlap](../../wiki/concepts/perception-and-imagination-overlap.md)
 
 These pages track the problem of source monitoring: perception and imagination can share neural machinery, so the brain must actively classify experience rather than passively receive a perfect external-world feed.
+
+### How Are Meaningful Variables Organized Across Populations?
+
+- [Representational Geometry In Brains And LLMs](../../wiki/sources/representational-geometry-brains-and-llms.md)
+- [Representational Geometry](../../wiki/concepts/representational-geometry.md)
+
+The representational-geometry thread asks how distributed activity can make variables such as valence, safety, or concept relationships readable even when individual neurons or features do not carry one tidy label.
 
 ### How Does The Brain Build Futures And Update Beliefs?
 

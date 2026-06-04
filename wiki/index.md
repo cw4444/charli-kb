@@ -52,6 +52,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Devs - Prediction, Determinism, And Acceleration](sources/devs-prediction-determinism.md): cultural reference note on prediction machines, many-worlds, grief, determinism, and acceleration shock.
 - [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md): public-source research note on optimism bias, future simulation, belief updating, positive imagery, and repetitive negative thinking.
 - [Moretto et al. - Tau, Axonal Transport, And p38α](sources/moretto-tau-axonal-transport-p38alpha.md): source note on early tau-related axonal transport deficits, enlarged tau envelopes, and p38α inhibition in mouse models.
+- [Representational Geometry In Brains And LLMs](sources/representational-geometry-brains-and-llms.md): source note comparing emotional-state geometry in mouse amygdala with sparse-autoencoder concept geometry in LLMs, with strict boundaries around mechanism and experience.
 - [Libet, Schurger, Readiness Potential, And Agency](sources/libet-schurger-readiness-potential-agency.md): source note on Schurger's accumulator model, readiness-potential overclaims, and practical agency inside neural constraint.
 - [Langer Counterclockwise Study And Aging Mindset](sources/langer-counterclockwise-aging-mindset.md): caveat-heavy source note on Ellen Langer's 1979 aging/mindset study, staged 1959 environment, and embodied prediction.
 - [Positive Alignment: Artificial Intelligence for Human Flourishing](sources/positive-alignment-human-flourishing.md): source note on a 2026 cross-lab agenda to move AI alignment from pure harm-avoidance toward flourishing-supporting positive attractors.
@@ -85,6 +86,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Queryable Organization](concepts/queryable-organization.md): organization whose work artifacts let humans and agents ask evidence-backed operational questions.
 - [Reality Threshold](concepts/reality-threshold.md): proposed cutoff at which an imagined or perceptual signal is judged as real.
 - [Perception And Imagination Overlap](concepts/perception-and-imagination-overlap.md): model of shared machinery and signal-strength judgments across imagery and perception.
+- [Representational Geometry](concepts/representational-geometry.md): concept note on how distributed activity patterns can make variables decodable, separable, generalizable, and usable without one tidy specialized unit.
 - [Interface Theory Of Perception](concepts/interface-theory-of-perception.md): Donald Hoffman's desktop-interface argument that perception may be useful and fitness-shaped without being a literal view of reality-in-itself.
 - [Pluriverse](concepts/pluriverse.md): bridge concept for shared reality built through interlocking situated perspectives, anchored in QBism, participatory realism, and predictive-processing caveats.
 - [Optimism](concepts/optimism.md): future-oriented cognitive style tied to vivid positive simulation, selective updating, representational distance from negative futures, agency, opportunity attention, and counterfactual gratitude.

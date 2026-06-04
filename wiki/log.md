@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-04] synthesis | representational geometry in brains and LLMs
+- Sources: O'Neill, Posani, et al., [The representational geometry of emotional states in basolateral amygdala](https://www.nature.com/articles/s41593-026-02315-y), *Nature Neuroscience*, 2026-06-03; Li, Michaud, Baek, Engels, Sun, and Tegmark, [The Geometry of Concepts: Sparse Autoencoder Feature Structure](https://arxiv.org/abs/2410.19750), arXiv, 2024.
+- Pages created: [Representational Geometry In Brains And LLMs](sources/representational-geometry-brains-and-llms.md), [Representational Geometry](concepts/representational-geometry.md)
+- Pages updated: [Neuroscience](../themes/neuroscience/overview.md), [Interpretability And Whether Internal States Matter](../themes/ai-consciousness/interpretability.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added a bounded neuroscience/AI-interpretability bridge around distributed representations and population geometry. Preserved the proof boundary: mouse amygdala population readouts and sparse-autoencoder LLM feature geometry are computationally adjacent, not evidence of shared emotions, shared mechanisms, or consciousness. Decodability is not consciousness.
+
 ## [2026-06-04] research | neuroscience front door and tau axonal transport
 - Source: Moretto et al., [Aberrant tau accumulation caused by MAPT mutations induces early pathological changes in axonal transport that are rescued by p38α inhibition](https://www.nature.com/articles/s41593-026-02266-4), *Nature Neuroscience*, 2026-06-04.
 - Pages created: [Neuroscience](../themes/neuroscience/overview.md), [Moretto et al. - Tau, Axonal Transport, And p38α](sources/moretto-tau-axonal-transport-p38alpha.md)
