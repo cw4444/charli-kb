@@ -3,11 +3,12 @@ title: "Agentic Work Rearchitecture"
 type: concept
 status: draft
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-06-04
 sources:
   - ../sources/enterprise-agent-deployment-2026.md
   - ../sources/ai-native-company-and-sidequest-prototyping-batch.md
   - ../sources/ai-human-cognition-knowledge-collapse.md
+  - ../sources/anthropic-recursive-self-improvement-2026.md
   - computer-work-agent.md
 ---
 
@@ -105,6 +106,12 @@ That matters here because agentic work rearchitecture is not automatically learn
 
 The safer version is not "keep humans doing busywork." It is to design workflows where agents remove drudge work while humans still build judgment, leave useful traces, and keep the organization queryable.
 
+## AI Development As A Feedback Loop
+
+Anthropic's June 2026 [recursive self-improvement post](../sources/anthropic-recursive-self-improvement-2026.md) shows the sharpest version of agentic work rearchitecture: AI systems helping build later AI systems. Anthropic reports that Claude authors more than `80%` of the code merged into its production codebase and argues that increasing delegation could eventually point toward systems capable of building their own successors.
+
+That is not ordinary office automation. It is a possible capability feedback loop inside the frontier-lab development process. It also makes the human role more, not less, important in the near term: goal choice, research taste, verification, security, and deciding when not to accelerate are still the parts Anthropic says current systems do not own.
+
 ## Do Not Overclaim
 
 - Do not say agentic work means humans become irrelevant.
@@ -112,6 +119,7 @@ The safer version is not "keep humans doing busywork." It is to design workflows
 - Do not assume enterprise deployments are automatically good for workers.
 - Do not confuse vendor strategy with social progress.
 - Do not confuse moving faster with doing better work.
+- Do not confuse AI-assisted AI development with full recursive self-improvement.
 
 ## Charli's Working Interpretation
 

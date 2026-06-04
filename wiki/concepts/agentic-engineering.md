@@ -3,11 +3,12 @@ title: "Agentic Engineering"
 type: concept
 status: draft
 created: 2026-04-28
-updated: 2026-05-21
+updated: 2026-06-04
 sources:
   - ../sources/peter-steinberger-agentic-engineering-batch.md
   - ../sources/openai-codex-for-everyday-work.md
   - ../sources/interpretable-context-methodology.md
+  - ../sources/anthropic-recursive-self-improvement-2026.md
 ---
 
 # Agentic Engineering
@@ -33,10 +34,15 @@ Van Clief and McDermott's Interpretable Context Methodology adds a useful archit
 
 At an organization level, this becomes [AI Native Company](ai-native-company.md): the whole system is designed so agents can read artifacts, close loops, and reduce coordination loss.
 
+Anthropic's June 2026 [When AI builds itself](../sources/anthropic-recursive-self-improvement-2026.md) post adds a more consequential version of the feedback-loop idea. Anthropic says Claude now authors more than `80%` of the code merged into its production codebase and argues that AI-assisted AI development could, taken far enough, lead toward recursive self-improvement.
+
+The careful distinction matters. Current coding agents can accelerate implementation, debugging, and parts of research engineering. Full recursive self-improvement would require a system to choose goals, exercise research judgment, build and train successors, and close the development loop autonomously. Faster agentic engineering is evidence of a feedback loop beginning to matter; it is not evidence that the loop is closed.
+
 ## Related
 
 - [Agent Friendly Repositories](agent-friendly-repositories.md)
 - [Agent Prompting](agent-prompting.md)
 - [Filesystem Agent Architecture](filesystem-agent-architecture.md)
 - [Inference Speed Development](inference-speed-development.md)
+- [Anthropic Recursive Self-Improvement 2026](../sources/anthropic-recursive-self-improvement-2026.md)
 - [Project Based Self Direction](project-based-self-direction.md)

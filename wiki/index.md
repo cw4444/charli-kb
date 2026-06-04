@@ -22,6 +22,8 @@ This is the catalog of generated wiki pages. Agents should update it after every
 
 ## Sources
 
+- [ChatGPT Memory Dreaming 2026](sources/chatgpt-memory-dreaming-2026.md): source note on OpenAI's more scalable long-horizon ChatGPT memory synthesis, including freshness, continuity, user correction, rollout scope, and why maintained personal context is becoming assistant infrastructure.
+- [Anthropic Recursive Self-Improvement 2026](sources/anthropic-recursive-self-improvement-2026.md): source note on Anthropic's public argument that AI-assisted AI development may point toward recursive self-improvement, with internal code/productivity figures and strict caveats that the loop is not closed or inevitable.
 - [Current Quantum Computing 2026](sources/current-quantum-computing-2026.md): public-source snapshot of Google Willow, Microsoft Majorana 1, IBM's roadmap, and why logical qubits/error correction matter more than quantum-computing press-release theatre.
 - [Interpretable Context Methodology](sources/interpretable-context-methodology.md): arXiv source note on using folder structure, Markdown contracts, stage-scoped context, and local scripts as a lightweight architecture for sequential agent workflows.
 - [Cayley-Table Completion And Algorithmic Compression](sources/cayley-table-completion-compression.md): arXiv source note on Cayley-table completion as a machine-learning benchmark for exact discrete/algebraic rule recovery and algorithmic compression.

@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-04] source notes | ChatGPT memory and Anthropic recursive self-improvement
+- Sources: `raw/2026-06-04-ai-digest.md`; OpenAI, [Dreaming: Better memory for a more helpful ChatGPT](https://openai.com/index/chatgpt-memory-dreaming/); Anthropic Institute, [When AI builds itself](https://www.anthropic.com/institute/recursive-self-improvement); GitHub Changelog, [Larger context windows and configurable reasoning levels for GitHub Copilot](https://github.blog/changelog/2026-06-04-larger-context-windows-and-configurable-reasoning-levels-for-github-copilot/).
+- Pages created: [ChatGPT Memory Dreaming 2026](sources/chatgpt-memory-dreaming-2026.md), [Anthropic Recursive Self-Improvement 2026](sources/anthropic-recursive-self-improvement-2026.md)
+- Pages updated: [Computer Work Agent](concepts/computer-work-agent.md), [Agentic Engineering](concepts/agentic-engineering.md), [Agentic Work Rearchitecture](concepts/agentic-work-rearchitecture.md), [Anthropic Compute And Talent Signal 2026](sources/anthropic-compute-and-talent-signal-2026.md), [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added maintained long-horizon ChatGPT memory as working-systems infrastructure and Anthropic's recursive-self-improvement post as a frontier-lab strategy/civilisational-framing signal. Corrected the digest's Anthropic productivity wording to `8x` as much code per quarter versus 2021 to 2025. Added GitHub's one-million-token context and configurable reasoning controls as a timeline anchor, while parking the narrower PR-chat update. Preserved the boundaries: synthesized memory is not perfect recall; larger context and higher reasoning are not correctness; AI-assisted AI development is not full recursive self-improvement.
+
 ## [2026-06-04] source note | psychometric evaluation of LLM self-narratives
 - Source: Eshkenazi, Shapira, and Salomon, [When AI Takes the Couch: Psychometric Evaluation of Large Language Models](https://arxiv.org/abs/2512.04124), arXiv, 2025-12-04.
 - Page created: [Psychometric Evaluation Of LLM Self-Narratives](sources/psychometric-evaluation-llm-self-narratives.md)

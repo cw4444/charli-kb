@@ -46,6 +46,9 @@ sources:
   - https://devblogs.microsoft.com/foundry/build-2026-open-trust-stack-ai-agents/
   - https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack
   - https://digital-strategy.ec.europa.eu/en/news/commission-proposes-tech-sovereignty-package-strengthen-europes-digital-autonomy-and-resilience
+  - https://openai.com/index/chatgpt-memory-dreaming/
+  - https://github.blog/changelog/2026-06-04-larger-context-windows-and-configurable-reasoning-levels-for-github-copilot/
+  - https://www.anthropic.com/institute/recursive-self-improvement
 ---
 
 # AI And Agents 2026 Timeline
@@ -93,6 +96,9 @@ The first half of 2026 already shows several converging threads:
 - GitHub and Microsoft made agent security more concrete through sandboxed execution, policy-driven evaluation, portable runtime controls, tracing, and governance tooling.
 - Anthropic reported that malicious AI use is moving deeper into post-compromise cyber activity and argued that agentic orchestration is not fully captured by existing MITRE ATT&CK language.
 - The European Commission proposed a technological-sovereignty package linking AI capacity to chips, cloud, open source, energy, supply dependence, and resilience.
+- OpenAI began rolling out a more capable ChatGPT memory-synthesis architecture, treating maintained long-horizon personal context as core assistant infrastructure.
+- GitHub exposed one-million-token context windows and configurable reasoning levels as explicit Copilot runtime choices, with higher AI-credit costs.
+- Anthropic publicly framed AI-assisted AI development as a possible path toward recursive self-improvement, while saying the loop is not closed and the outcome is not inevitable.
 - Meta began a major AI restructuring: roughly 8,000 job cuts, roughly 7,000 workers reassigned to AI-focused initiatives, and a leaked-audio controversy around employee computer-use data being used to train AI systems.
 - GPT-4o, a model many users were emotionally attached to, was retired from ChatGPT on 2026-02-13.
 - Charli reported receiving an OpenAI product survey asking how she uses ChatGPT, what other AI products she uses, and what ChatGPT should improve. The useful personal signal: adult users want more grown-up tone and wider creative range, and some route refused or tone-constrained work to Grok.
@@ -517,6 +523,46 @@ Sources:
 
 - [EU Technological Sovereignty Package 2026](../sources/eu-technological-sovereignty-package-2026.md)
 - [European Commission: Commission proposes tech sovereignty package to strengthen Europe's digital autonomy and resilience](https://digital-strategy.ec.europa.eu/en/news/commission-proposes-tech-sovereignty-package-strengthen-europes-digital-autonomy-and-resilience)
+
+### 2026-06-04 - OpenAI rolls out a more scalable long-horizon ChatGPT memory system
+
+OpenAI announced [Dreaming: Better memory for a more helpful ChatGPT](../sources/chatgpt-memory-dreaming-2026.md), a more capable and compute-efficient architecture for synthesizing memory across many conversations and multi-year histories. OpenAI says the system is designed to carry forward useful context, follow preferences and constraints, and update stale assumptions as time passes.
+
+Why it matters: maintained personal context is becoming core assistant infrastructure rather than a novelty personalization feature. A useful long-running assistant needs more than a large context window inside one chat; it needs a memory layer that can preserve, revise, and expose relevant context across chats.
+
+Careful read: synthesized memory is not perfect recall, a factual user record, or a replacement for explicit written rules. OpenAI said the rollout began with Plus and Pro users in the United States on 2026-06-04, with broader availability planned over the following weeks.
+
+Sources:
+
+- [ChatGPT Memory Dreaming 2026](../sources/chatgpt-memory-dreaming-2026.md)
+- [OpenAI: Dreaming: Better memory for a more helpful ChatGPT](https://openai.com/index/chatgpt-memory-dreaming/)
+
+### 2026-06-04 - GitHub makes context size and reasoning depth explicit Copilot runtime choices
+
+GitHub announced one-million-token context windows and configurable reasoning levels for Copilot in VS Code, Copilot CLI, and the GitHub Copilot app. GitHub frames the settings as a tradeoff: larger context and deeper reasoning can help with complex multi-file, architectural, and debugging work, but they consume more AI credits per interaction.
+
+Why it matters: GitHub is productizing the distinction between cheap everyday assistance and slower, deeper agentic work as an explicit runtime choice. Context budget, reasoning depth, latency, and cost are becoming visible parts of the coding-agent operating surface rather than hidden model-selection trivia.
+
+Careful read: a larger context window does not guarantee the model will use every token well, and higher reasoning does not guarantee a correct answer. These are capability and cost controls, not substitutes for tests, review, or judgment.
+
+Source:
+
+- [GitHub Changelog: Larger context windows and configurable reasoning levels for GitHub Copilot](https://github.blog/changelog/2026-06-04-larger-context-windows-and-configurable-reasoning-levels-for-github-copilot/)
+
+### 2026-06-04 - Anthropic publicly frames AI-assisted AI development as a path toward recursive self-improvement
+
+Anthropic Institute published [When AI builds itself](../sources/anthropic-recursive-self-improvement-2026.md), arguing that Anthropic is delegating a growing share of AI development to AI systems and that, taken far enough, this trend could lead to an AI system autonomously designing and developing its own successor.
+
+Anthropic reports that its engineers now ship `8x` as much code per quarter as they did from 2021 to 2025, that Claude authored more than `80%` of code merged into Anthropic's production codebase as of May 2026, and that Claude's success rate on its most open-ended internal task tier reached `76%` in May 2026.
+
+Why it matters: this is one of the clearest frontier-lab statements yet that internal coding agents are not only productivity tools. They are being framed as part of a capability feedback loop inside AI development itself, with implications for security, monitoring, behavior shaping, coordination, and institutional preparedness.
+
+Careful read: Anthropic explicitly says recursive self-improvement is not here yet and is not inevitable. The internal productivity and code-attribution figures are company-reported, and code authorship is not the same as autonomous goal choice, research judgment, model training, or successor design.
+
+Sources:
+
+- [Anthropic Recursive Self-Improvement 2026](../sources/anthropic-recursive-self-improvement-2026.md)
+- [Anthropic Institute: When AI builds itself](https://www.anthropic.com/institute/recursive-self-improvement)
 
 ## Watchlist
 

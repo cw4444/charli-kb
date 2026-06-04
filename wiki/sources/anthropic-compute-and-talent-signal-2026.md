@@ -3,7 +3,7 @@ title: "Anthropic Compute And Talent Signal 2026"
 type: source
 status: draft
 created: 2026-05-21
-updated: 2026-05-29
+updated: 2026-06-04
 sources:
   - "TechCrunch: OpenAI co-founder Andrej Karpathy joins Anthropic's pre-training team, 2026-05-19"
   - "Forbes: OpenAI Cofounder And Former Tesla AI Leader Andrej Karpathy Joins Anthropic, 2026-05-19"
@@ -11,6 +11,7 @@ sources:
   - "Axios: Anthropic will get compute capacity from SpaceX, 2026-05-06"
   - "Axios: Anthropic is paying SpaceX $15 billion per year, 2026-05-20"
   - "Anthropic: Anthropic raises $65B in Series H funding at $965B post-money valuation, 2026-05-28"
+  - "Anthropic Institute: When AI builds itself, 2026-06-04"
 ---
 
 # Anthropic Compute And Talent Signal 2026
@@ -109,6 +110,8 @@ That makes the company feel less like "the cautious lab" and more like a serious
 
 The open question is whether those threads reinforce each other or pull against each other. Scaling pressure can make welfare/safety commitments harder, not easier. But if any lab is trying to make "powerful AI with an explicit character and welfare-safety frame" real, Anthropic is currently the clearest public example.
 
+Anthropic's June 2026 [When AI builds itself](anthropic-recursive-self-improvement-2026.md) post adds a new pressure to this picture. Compute, capital, talent, Claude Code demand, and internal agent use are not separate lanes if AI systems are increasingly used to build later AI systems. Anthropic now publicly frames that development feedback loop as a possible path toward recursive self-improvement, while explicitly saying the loop is not closed and the outcome is not inevitable.
+
 ## Related Pages
 
 - [AI Character Formation And Persona Safety](../../themes/ai-consciousness/character-formation-and-persona-safety.md)
@@ -116,3 +119,4 @@ The open question is whether those threads reinforce each other or pull against 
 - [Agentic Work Rearchitecture](../concepts/agentic-work-rearchitecture.md)
 - [Positive Alignment](../concepts/positive-alignment.md)
 - [Enterprise Agent Deployment 2026](enterprise-agent-deployment-2026.md)
+- [Anthropic Recursive Self-Improvement 2026](anthropic-recursive-self-improvement-2026.md)

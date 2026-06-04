@@ -3,10 +3,11 @@ title: "Computer Work Agent"
 type: concept
 status: draft
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-06-04
 sources:
   - ../sources/openai-codex-for-everyday-work.md
   - ../sources/current-ai-agent-landscape-2026.md
+  - ../sources/chatgpt-memory-dreaming-2026.md
 ---
 
 # Computer Work Agent
@@ -48,6 +49,10 @@ The work loop becomes:
 5. steer or queue the next step;
 6. preserve durable context for the next run.
 
+OpenAI's June 2026 [ChatGPT Memory Dreaming](../sources/chatgpt-memory-dreaming-2026.md) update makes the durable-context part more concrete. A long-running assistant needs more than a large context window inside one conversation. It needs a maintained memory layer that can carry forward relevant facts, follow preferences and constraints, revise stale assumptions, and remain inspectable enough for the user to correct it.
+
+That makes memory a working-systems feature, not just a personalization flourish. It also makes memory quality, privacy, correction, and scope part of the agent's operational boundary.
+
 ## Why This Matters
 
 The old framing was:
@@ -78,6 +83,7 @@ The human provides taste, judgment, source boundaries, and "what matters." Codex
 - Do not say computer work agents can safely operate a whole life unattended.
 - Do not confuse reach with judgment.
 - Do not treat memory as a replacement for explicit written rules.
+- Do not treat synthesized memory as a perfect record of the user or the work.
 - Do not automate high-impact actions without approval gates.
 - Do not assume a GUI action is safe just because it is not code.
 
@@ -86,6 +92,7 @@ The safe version is bounded, reviewable computer work with explicit permissions 
 ## Related Pages
 
 - [OpenAI Codex For Everyday Work](../sources/openai-codex-for-everyday-work.md)
+- [ChatGPT Memory Dreaming 2026](../sources/chatgpt-memory-dreaming-2026.md)
 - [Codex Goals](codex-goals.md)
 - [How Can Normal Humans Use Codex?](../questions/how-can-normal-humans-use-codex.md)
 - [Agentic Work Rearchitecture](agentic-work-rearchitecture.md)
