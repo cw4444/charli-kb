@@ -4,6 +4,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 
 ## Research Packages
 
+- [Neuroscience](../themes/neuroscience/overview.md): front door for the wiki's neuroscience lane, connecting perception, imagination, belief updating, agency, embodiment, cellular maintenance, and neurodegeneration.
 - [AI Consciousness And Model Welfare](../themes/ai-consciousness/overview.md): balanced public-source research package on AI consciousness, model welfare, self-reports, agency, interpretability, moral patienthood, company positions, and skeptical arguments.
 - [AI Consciousness Sources](../sources/ai-consciousness-sources.md): annotated source index and CSV source table for the AI consciousness/model welfare package.
 - [AI Consciousness Concept Map](../maps/ai-consciousness-map.md): Mermaid-backed map separating consciousness, agency, moral patienthood, model welfare, and company positions.
@@ -50,6 +51,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Michael Levin - Unconventional Cognition And AI](sources/michael-levin-unconventional-cognition.md): commentary source note on Levin's spectrum-of-cognition framing, AI as unfamiliar embodiment, and why substrate descriptions can be true but incomplete.
 - [Devs - Prediction, Determinism, And Acceleration](sources/devs-prediction-determinism.md): cultural reference note on prediction machines, many-worlds, grief, determinism, and acceleration shock.
 - [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md): public-source research note on optimism bias, future simulation, belief updating, positive imagery, and repetitive negative thinking.
+- [Moretto et al. - Tau, Axonal Transport, And p38α](sources/moretto-tau-axonal-transport-p38alpha.md): source note on early tau-related axonal transport deficits, enlarged tau envelopes, and p38α inhibition in mouse models.
 - [Libet, Schurger, Readiness Potential, And Agency](sources/libet-schurger-readiness-potential-agency.md): source note on Schurger's accumulator model, readiness-potential overclaims, and practical agency inside neural constraint.
 - [Langer Counterclockwise Study And Aging Mindset](sources/langer-counterclockwise-aging-mindset.md): caveat-heavy source note on Ellen Langer's 1979 aging/mindset study, staged 1959 environment, and embodied prediction.
 - [Positive Alignment: Artificial Intelligence for Human Flourishing](sources/positive-alignment-human-flourishing.md): source note on a 2026 cross-lab agenda to move AI alignment from pure harm-avoidance toward flourishing-supporting positive attractors.

@@ -1,9 +1,10 @@
 # Charli KB
 
-This repository is a plain Markdown research wiki about two durable lanes:
+This repository is a plain Markdown research wiki about three durable lanes:
 
 - **AI:** agents, model welfare, AI consciousness, persona safety, agentic engineering, queryable knowledge systems, and how AI changes the speed and shape of work.
 - **Reality:** quantum foundations, observer-dependent facts, Wigner's friend, Bell inequalities, perception, reality monitoring, and the limits of simple observer-independent fact talk.
+- **Neuroscience:** how brains build experience, imagine futures, update beliefs, support action, maintain cellular machinery, and fail.
 
 The overlap is where the wiki gets most interesting: observers, agents, records, self-models, public facts, private experience, and the question of how minds or machines build reality-facing models.
 
@@ -16,6 +17,11 @@ This is not an Obsidian vault and not a dumping ground. Raw material goes in `ra
 - [Wiki Log](wiki/log.md): append-only record of meaningful changes.
 
 ## Main Research Packages
+
+### Neuroscience
+
+- [Neuroscience](themes/neuroscience/overview.md): front door for perception, imagination, belief updating, agency, embodiment, cellular maintenance, and neurodegeneration.
+- [Moretto et al. - Tau, Axonal Transport, And p38α](wiki/sources/moretto-tau-axonal-transport-p38alpha.md): cellular-neuroscience source note on early tau-related transport deficits and their reversal by p38α inhibition in mouse models.
 
 ### AI Consciousness, Model Welfare, And Personhood
 

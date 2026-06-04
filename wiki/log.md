@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-04] research | neuroscience front door and tau axonal transport
+- Source: Moretto et al., [Aberrant tau accumulation caused by MAPT mutations induces early pathological changes in axonal transport that are rescued by p38α inhibition](https://www.nature.com/articles/s41593-026-02266-4), *Nature Neuroscience*, 2026-06-04.
+- Pages created: [Neuroscience](../themes/neuroscience/overview.md), [Moretto et al. - Tau, Axonal Transport, And p38α](sources/moretto-tau-axonal-transport-p38alpha.md)
+- Pages updated: [Root README](../README.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added a neuroscience front door for the repo's existing perception, imagination, optimism, belief-updating, agency, and embodiment material, plus the first cellular-neuroscience anchor. Preserved the paper's proof boundary: early tau-related axonal transport deficits and p38α rescue in mouse models are a mechanistic preclinical result, not a dementia cure or broad reversal claim.
+
 ## [2026-06-04] timeline | daily AI digests for agent security and EU technological sovereignty
 - Sources: `raw/2026-06-03-ai-digest.md`; `raw/2026-06-04-ai-digest.md`; GitHub, "Cloud and local sandboxes for GitHub Copilot now in public preview"; Microsoft Foundry, "Build agents you can trust across any framework with open evals and a control standard"; Anthropic, "What we learned mapping a year's worth of AI-enabled cyber threats" and "Expanding Project Glasswing"; European Commission, "Commission proposes tech sovereignty package to strengthen Europe's digital autonomy and resilience."
 - Pages created: [Agent Security Infrastructure 2026](sources/agent-security-infrastructure-2026.md), [EU Technological Sovereignty Package 2026](sources/eu-technological-sovereignty-package-2026.md)
