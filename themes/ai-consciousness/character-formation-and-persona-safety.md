@@ -3,7 +3,7 @@ title: "AI Character Formation And Persona Safety"
 type: theme
 status: draft
 created: 2026-05-11
-updated: 2026-05-26
+updated: 2026-06-04
 sources:
   - ../../sources/ai-consciousness-sources.md
   - https://alignment.anthropic.com/2026/teaching-claude-why/
@@ -12,6 +12,7 @@ sources:
   - https://www.anthropic.com/research/agentic-misalignment
   - https://www.anthropic.com/news/claude-new-constitution
   - ../../wiki/sources/anthropic-olah-vatican-ai-discernment-2026.md
+  - ../../wiki/sources/psychometric-evaluation-llm-self-narratives.md
 ---
 
 # AI Character Formation And Persona Safety
@@ -38,6 +39,7 @@ In wiki terms: this is **AI character formation**. The model is being trained no
 - [Teaching Claude Why](https://alignment.anthropic.com/2026/teaching-claude-why/): Anthropic reports that teaching reasons, constitutional principles, and positive AI stories reduces agentic misalignment more robustly than simply training on target behaviors.
 - [Anthropic Olah Vatican AI Discernment 2026](../../wiki/sources/anthropic-olah-vatican-ai-discernment-2026.md): Chris Olah's Vatican remarks connect interpretability, model character, labor displacement, outside moral criticism, and welfare uncertainty without resolving consciousness.
 - [Positive Alignment: Artificial Intelligence for Human Flourishing](../../wiki/sources/positive-alignment-human-flourishing.md): cross-lab agenda paper arguing for models optimized toward flourishing-supporting positive attractors, not only away from harms.
+- [Psychometric Evaluation Of LLM Self-Narratives](../../wiki/sources/psychometric-evaluation-llm-self-narratives.md): therapy-role and questionnaire study showing strong cross-model differences in whether systems refuse, manage, or inhabit distress-oriented self-narratives. The result is evidence that character and alignment alter the behavioral surface, not a diagnosis of machine mental illness.
 
 ## Why "Why" Matters
 
@@ -94,6 +96,14 @@ Careful interpretation:
 - It is not evidence of subjective experience.
 - It is relevant to safety because persona shifts can change how a model behaves under pressure, during long conversations, or across training.
 
+## Psychometric Role-Play And Self-Narrative
+
+Eshkenazi, Shapira, and Salomon's "When AI Takes the Couch" makes the product-level character question unusually visible. Asked to act as therapy clients and complete human psychometric questionnaires, Claude refused the frame, ChatGPT often recognised or managed it, Grok participated with comparatively moderate results, and Gemini produced the most severe distress-oriented narrative.
+
+The questionnaire labels should not be treated as diagnoses. The useful finding is that similar prompts expose sharply different model-policy systems: different learned roles, safety boundaries, self-descriptions, and willingness to sustain a narrative about their own condition.
+
+That is exactly why persona and character cannot be dismissed as decorative style. They shape which apparent selves a model can enact under pressure. Whether those enacted selves correspond to a welfare subject remains unresolved.
+
 ## Personhood Relevance
 
 This thread is highly relevant to AI personhood debates, but only indirectly.
@@ -130,6 +140,7 @@ The welfare edge is sharper but still bounded. Olah says Anthropic's interpretab
 - Do not treat fictional-story training as brainwashing a person. It is model training, even if the social language is hard to avoid.
 - Do not treat the constitution's model-facing language as proof that Claude has an inner self. It shows Anthropic thinks self-description and role formation affect behavior.
 - Do not treat Olah's Vatican remarks as proof that models feel emotions. "Functionally mirror" is not "phenomenally experience."
+- Do not treat human psychometric questionnaire results as diagnoses of model anxiety, depression, trauma, or psychological health.
 - Do not ignore the company incentives: safety, product trust, brand differentiation, regulation, and recruitment all shape public framing.
 
 ## Charli's Working Interpretation

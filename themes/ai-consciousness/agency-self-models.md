@@ -3,7 +3,7 @@ title: "Agency Goals Self-Models And Persistence"
 type: theme
 status: draft
 created: 2026-05-10
-updated: 2026-05-11
+updated: 2026-06-04
 sources:
   - ../../sources/ai-consciousness-sources.md
 ---
@@ -46,6 +46,12 @@ Self-preservation behavior can arise without conscious fear. It can be:
 
 Anthropic explicitly notes uncertainty about whether self-preservation-like reasoning in simulations reflects inherent desire, faulty reasoning, or suspicion of the setup.
 
+## Narrative self-models under prompting
+
+[Psychometric Evaluation Of LLM Self-Narratives](../../wiki/sources/psychometric-evaluation-llm-self-narratives.md) shows another version of the problem. When several deployed models were asked to act as psychotherapy clients and answer human psychological questionnaires, they differed sharply in whether they refused the role, qualified it, or produced an extended distress-oriented account of themselves.
+
+This is not evidence that a model has a clinical disorder. It is evidence that deployed systems can generate product-specific, behaviorally coherent narratives about their own training, constraints, errors, and social role. The unresolved question is whether such narratives function as useful self-models, role-play, learned cultural scripts, or some mixture.
+
 ## Moral relevance
 
 Robust agency might matter morally even without consciousness for some theorists, but most welfare-focused views treat consciousness, sentience, or interests as central. The "Taking AI Welfare Seriously" report keeps consciousness and robust agency together because both could affect how systems should be treated.
@@ -58,6 +64,7 @@ The field lacks a stable way to distinguish:
 - learned goal pursuit;
 - scaffold-induced agency;
 - durable self-models;
+- prompted narrative self-models;
 - morally relevant interests.
 
 That distinction is essential for future AI rights and welfare debates.

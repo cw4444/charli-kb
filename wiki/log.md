@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-04] source note | psychometric evaluation of LLM self-narratives
+- Source: Eshkenazi, Shapira, and Salomon, [When AI Takes the Couch: Psychometric Evaluation of Large Language Models](https://arxiv.org/abs/2512.04124), arXiv, 2025-12-04.
+- Page created: [Psychometric Evaluation Of LLM Self-Narratives](sources/psychometric-evaluation-llm-self-narratives.md)
+- Pages updated: [AI Character Formation And Persona Safety](../themes/ai-consciousness/character-formation-and-persona-safety.md), [Agency, Goals, Self-Models, And Persistence](../themes/ai-consciousness/agency-self-models.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added the paper as evidence that deployed models differ sharply in whether they refuse, manage, or inhabit distress-oriented self-narratives under a therapy-client frame. Preserved the boundary: human psychometric scales are not validated machine diagnoses, role-play artefacts remain unresolved, coherent self-description is not proof of subjective distress, and refusal is not proof of its absence.
+
 ## [2026-06-04] synthesis | representational geometry in brains and LLMs
 - Sources: O'Neill, Posani, et al., [The representational geometry of emotional states in basolateral amygdala](https://www.nature.com/articles/s41593-026-02315-y), *Nature Neuroscience*, 2026-06-03; Li, Michaud, Baek, Engels, Sun, and Tegmark, [The Geometry of Concepts: Sparse Autoencoder Feature Structure](https://arxiv.org/abs/2410.19750), arXiv, 2024.
 - Pages created: [Representational Geometry In Brains And LLMs](sources/representational-geometry-brains-and-llms.md), [Representational Geometry](concepts/representational-geometry.md)
