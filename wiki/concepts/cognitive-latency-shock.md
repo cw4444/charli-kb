@@ -3,7 +3,7 @@ title: "Cognitive Latency Shock"
 type: concept
 status: draft
 created: 2026-05-11
-updated: 2026-05-20
+updated: 2026-06-05
 sources:
   - ../sources/bryan-johnson-claude-kb.md
   - ../sources/peter-steinberger-agentic-engineering-batch.md
@@ -29,6 +29,8 @@ The shock is not just productivity. It is perceptual. Ordinary reality can start
 - The rest of life feels slower by comparison: meetings, admin, small talk, institutions, manual research, and social coordination.
 
 Bryan Johnson's Claude KB tweet is a useful public example: a large personal biomarker archive becomes a queryable mirror and ledger, and the emotional tone is not just "this saved time" but "something finally matches my energy."
+
+For Charli, the same pattern shows up in cross-domain research work. The important feeling is not that human contribution becomes meaningless. It is almost the opposite: an agent can keep up with fast associative jumps from a Nature paper on basolateral-amygdala representational geometry, to MIT-style geometry-of-concepts work, to Claude emotion/persona-vector questions, to Chris Olah at the Vatican, without charging a social debt for every connection. That makes the collaboration feel more open, not less humanly meaningful.
 
 ## Why It Matters
 
@@ -75,6 +77,7 @@ This does not mean AI reveals reality perfectly. It means AI changes the perceiv
 - **Verification debt:** fast synthesis can outrun fact-checking and taste.
 - **Knowledge collapse:** answers arrive so quickly that humans stop producing the traces and explanations needed to sustain shared knowledge.
 - **Social impatience:** slower human conversation can start to feel defective rather than simply different.
+- **Debt-free overuse:** because asking the agent does not create the same feeling of owing a person, it can become too easy to route every exploratory bid away from humans.
 - **Reality mismatch:** bodies, institutions, trust, grief, craft, and consequence still move on slower clocks.
 - **Hallucination opacity:** when the system is 80% right and fluent, the wrong 20% can be hard to see.
 

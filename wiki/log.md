@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-05] update | debt-free agent collaboration nuance
+- Source: Charli working interpretation, 2026-06-05, connected to Bryan Johnson's Claude KB signal and the existing Anthropic recursive-self-improvement human-work note.
+- Pages created: none
+- Pages updated: [Agentic Work Rearchitecture](concepts/agentic-work-rearchitecture.md), [Cognitive Latency Shock](concepts/cognitive-latency-shock.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added the counterweight that agent collaboration does not always feel like lost human connection. For Charli, the lack of social debt is part of the value: an agent can follow fast cross-domain associations without making each exploratory ask feel like a favor owed. Preserved the caution that debt-free asking can still over-route exploratory bids away from humans.
+
 ## [2026-06-05] update | Anthropic recursive self-improvement human-work texture
 - Source: Anthropic Institute, [When AI builds itself](https://www.anthropic.com/institute/recursive-self-improvement), especially employee comments on automation, understanding, and lost small collaboration moments.
 - Pages created: none
