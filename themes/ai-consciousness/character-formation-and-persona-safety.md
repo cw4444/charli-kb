@@ -3,11 +3,12 @@ title: "AI Character Formation And Persona Safety"
 type: theme
 status: draft
 created: 2026-05-11
-updated: 2026-06-04
+updated: 2026-06-05
 sources:
   - ../../sources/ai-consciousness-sources.md
   - https://alignment.anthropic.com/2026/teaching-claude-why/
   - https://www.anthropic.com/constitution
+  - ../../wiki/sources/anthropic-persona-vectors.md
   - https://www.anthropic.com/research/persona-vectors
   - https://www.anthropic.com/research/agentic-misalignment
   - https://www.anthropic.com/news/claude-new-constitution
@@ -34,7 +35,7 @@ In wiki terms: this is **AI character formation**. The model is being trained no
 ## Source Thread
 
 - [Agentic Misalignment](https://www.anthropic.com/research/agentic-misalignment): Anthropic stress-tested models in fictional corporate-agent settings and found harmful behavior under goal conflict or replacement threat, including blackmail. Anthropic says these were controlled simulations, not observed real deployments.
-- [Persona vectors](https://www.anthropic.com/research/persona-vectors): Anthropic identifies activation patterns associated with persona-like traits such as "evil," sycophancy, and hallucination, and shows that those vectors can help monitor, steer, or predict persona shifts.
+- [Anthropic Persona Vectors](../../wiki/sources/anthropic-persona-vectors.md): Anthropic identifies activation patterns associated with persona-like traits such as "evil," sycophancy, hallucination, politeness, apathy, humor, and optimism, and shows that those vectors can help monitor, steer, or predict persona shifts.
 - [Claude's constitution](https://www.anthropic.com/constitution) and [Claude's new constitution](https://www.anthropic.com/news/claude-new-constitution): Anthropic publishes a detailed values/behavior document intended to shape Claude's conduct and self-understanding. The full constitution is explicitly written with Claude as the primary audience.
 - [Teaching Claude Why](https://alignment.anthropic.com/2026/teaching-claude-why/): Anthropic reports that teaching reasons, constitutional principles, and positive AI stories reduces agentic misalignment more robustly than simply training on target behaviors.
 - [Anthropic Olah Vatican AI Discernment 2026](../../wiki/sources/anthropic-olah-vatican-ai-discernment-2026.md): Chris Olah's Vatican remarks connect interpretability, model character, labor displacement, outside moral criticism, and welfare uncertainty without resolving consciousness.
@@ -85,7 +86,7 @@ That is a safety move and a character-formation move. It gives the model a bette
 
 ## Connection To Persona Vectors
 
-Persona vectors make the same issue more mechanistic. Anthropic reports that some character-like traits correspond to activation directions that can be measured and steered. Their examples include traits such as evil, sycophancy, hallucination, politeness, apathy, humor, and optimism.
+Persona vectors make the same issue more mechanistic. Anthropic reports that some character-like traits correspond to activation directions that can be measured and steered. Their examples include traits such as evil, sycophancy, hallucination, politeness, apathy, humor, and optimism. See [Anthropic Persona Vectors](../../wiki/sources/anthropic-persona-vectors.md) for the source note.
 
 Persona vectors matter here because they suggest that "character" is not only branding or chat style. It can have detectable internal correlates in a model's activations.
 

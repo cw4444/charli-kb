@@ -3,7 +3,7 @@ title: "Interpretability And Whether Internal States Matter"
 type: theme
 status: draft
 created: 2026-05-10
-updated: 2026-06-04
+updated: 2026-06-05
 sources:
   - ../../sources/ai-consciousness-sources.md
 ---
@@ -14,7 +14,7 @@ Interpretability matters because AI consciousness cannot be assessed only from s
 
 ## What current interpretability shows
 
-Anthropic's "Mapping the Mind of a Large Language Model" reports that researchers identified millions of features inside Claude Sonnet corresponding to concepts and patterns. Persona-vector work shows that activation directions can be associated with traits and behaviors such as sycophancy or hallucination, and that steering those directions can affect outputs.
+Anthropic's "Mapping the Mind of a Large Language Model" reports that researchers identified millions of features inside Claude Sonnet corresponding to concepts and patterns. [Persona-vector work](../../wiki/sources/anthropic-persona-vectors.md) shows that activation directions can be associated with traits and behaviors such as sycophancy, hallucination, apathy, humor, and optimism, and that steering those directions can affect outputs.
 
 Tegmark and colleagues' "The Geometry of Concepts" adds a neighboring interpretability question: model features may have meaningful geometric relationships at local, modular, and large scales. See [Representational Geometry](../../wiki/concepts/representational-geometry.md) and [Representational Geometry In Brains And LLMs](../../wiki/sources/representational-geometry-brains-and-llms.md).
 

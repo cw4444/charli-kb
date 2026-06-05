@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-05] source note | Anthropic persona vectors
+- Sources: Anthropic, [Persona vectors: Monitoring and controlling character traits in language models](https://www.anthropic.com/research/persona-vectors); Chen, Arditi, Sleight, Evans, and Lindsey, [Persona Vectors: Monitoring and Controlling Character Traits in Language Models](https://arxiv.org/abs/2507.21509), arXiv.
+- Pages created: [Anthropic Persona Vectors](sources/anthropic-persona-vectors.md)
+- Pages updated: [AI Character Formation And Persona Safety](../themes/ai-consciousness/character-formation-and-persona-safety.md), [Interpretability And Whether Internal States Matter](../themes/ai-consciousness/interpretability.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added a proper source note because the paper was already threaded into the character/persona lane but not easy to find as its own source. Framed persona vectors as measurable, steerable activation directions for trait-like behavior, not proof of human-like personality, subjective emotion, or consciousness. Connected the source to representational geometry, self-narratives, and the Olah/Vatican character-formation thread.
+
 ## [2026-06-05] update | debt-free agent collaboration nuance
 - Source: Charli working interpretation, 2026-06-05, connected to Bryan Johnson's Claude KB signal and the existing Anthropic recursive-self-improvement human-work note.
 - Pages created: none
