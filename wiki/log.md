@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-05] timeline | daily AI digest follow-up
+- Sources: `raw/2026-06-05-ai-digest.md`; Microsoft Security Blog, [Updating the taxonomy of failure modes in agentic AI systems](https://www.microsoft.com/en-us/security/blog/2026/06/04/updating-taxonomy-failure-modes-agentic-ai-systems-year-red-teaming-taught-us/); Google DeepMind, [Solipsistic superintelligence is unlikely to be cooperative](https://deepmind.google/research/publications/231466/).
+- Pages created: none
+- Pages updated: [Agent Security Infrastructure 2026](sources/agent-security-infrastructure-2026.md), [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Promoted Microsoft's updated agentic-AI failure-mode taxonomy as a durable security anchor because it extends the existing agent-security lane beyond prompt injection into MCP/plugin abuse, agentic supply-chain compromise, visual computer-use attacks, session contamination, inter-agent trust escalation, and red-team-reported zero-click chains. Added DeepMind's solipsistic-superintelligence paper as a small timeline framing signal around cooperation, institutions, interdependence, and preserved human agency. Parked the Anthropic compliance webinar wrapper and the rest of the digest as watch-only.
+
 ## [2026-06-04] source notes | ChatGPT memory and Anthropic recursive self-improvement
 - Sources: `raw/2026-06-04-ai-digest.md`; OpenAI, [Dreaming: Better memory for a more helpful ChatGPT](https://openai.com/index/chatgpt-memory-dreaming/); Anthropic Institute, [When AI builds itself](https://www.anthropic.com/institute/recursive-self-improvement); GitHub Changelog, [Larger context windows and configurable reasoning levels for GitHub Copilot](https://github.blog/changelog/2026-06-04-larger-context-windows-and-configurable-reasoning-levels-for-github-copilot/).
 - Pages created: [ChatGPT Memory Dreaming 2026](sources/chatgpt-memory-dreaming-2026.md), [Anthropic Recursive Self-Improvement 2026](sources/anthropic-recursive-self-improvement-2026.md)

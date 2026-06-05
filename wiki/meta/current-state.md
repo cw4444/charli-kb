@@ -3,7 +3,7 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-06-04
+updated: 2026-06-05
 ---
 
 # Current State
@@ -42,6 +42,8 @@ This repo is a plain Markdown personal knowledge base based on Karpathy's LLM Wi
 - The durable subject lanes are AI, reality, neuroscience, and their overlap: perception, belief, expectation, action, agents, knowledge systems, reality monitoring, embodiment, cellular maintenance, and related source-backed concepts.
 
 ## Latest Session Handoff
+
+On 2026-06-05, Charli pointed to `raw/2026-06-05-ai-digest.md`, a slim afternoon digest. Codex verified and promoted two June 4 items without creating new standalone pages: Microsoft's [updated agentic-AI failure-mode taxonomy](https://www.microsoft.com/en-us/security/blog/2026/06/04/updating-taxonomy-failure-modes-agentic-ai-systems-year-red-teaming-taught-us/) was folded into [Agent Security Infrastructure 2026](../sources/agent-security-infrastructure-2026.md) and [AI And Agents 2026 Timeline](../timelines/ai-and-agents-2026.md); Google DeepMind's [Solipsistic superintelligence is unlikely to be cooperative](https://deepmind.google/research/publications/231466/) received a small timeline entry only. Keep the framing tight: Microsoft is a system-level agent-security anchor beyond prompt injection, especially MCP/plugin abuse, agentic supply chain, session contamination, visual attacks, inter-agent trust, and zero-click red-team chains. DeepMind is a cooperation/governance design signal, not a product launch or proof about current systems. The Anthropic compliance webinar wrapper stayed watch-only.
 
 On 2026-06-04, Charli pointed to the late updates in `raw/2026-06-04-ai-digest.md`: OpenAI's [Dreaming: Better memory for a more helpful ChatGPT](https://openai.com/index/chatgpt-memory-dreaming/), Anthropic Institute's [When AI builds itself](https://www.anthropic.com/institute/recursive-self-improvement), and GitHub's one-million-token Copilot context / configurable reasoning controls. Codex added [ChatGPT Memory Dreaming 2026](../sources/chatgpt-memory-dreaming-2026.md) and [Anthropic Recursive Self-Improvement 2026](../sources/anthropic-recursive-self-improvement-2026.md), linked them into the agentic-work lane, and updated [AI And Agents 2026 Timeline](../timelines/ai-and-agents-2026.md). Keep the distinctions sharp: maintained memory is assistant infrastructure, not perfect recall or a factual user ledger; one-million-token context and higher reasoning are cost/capability controls, not correctness; Anthropic says recursive self-improvement is not here yet and is not inevitable. The verified Anthropic productivity wording is `8x` as much code per quarter compared with 2021 to 2025, not per day versus 2024.
 

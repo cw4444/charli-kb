@@ -3,12 +3,13 @@ title: "Agent Security Infrastructure 2026"
 type: source
 status: draft
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-06-05
 sources:
   - "GitHub: Cloud and local sandboxes for GitHub Copilot now in public preview, 2026-06-02"
   - "Microsoft Foundry: Build agents you can trust across any framework with open evals and a control standard, 2026-06-02"
   - "Anthropic: What we learned mapping a year's worth of AI-enabled cyber threats, 2026-06-03"
   - "Anthropic: Expanding Project Glasswing, 2026-06-02"
+  - "Microsoft Security Blog: Updating the taxonomy of failure modes in agentic AI systems, 2026-06-04"
 ---
 
 # Agent Security Infrastructure 2026
@@ -46,6 +47,28 @@ Source:
 
 - [Microsoft Foundry: Build agents you can trust across any framework with open evals and a control standard](https://devblogs.microsoft.com/foundry/build-2026-open-trust-stack-ai-agents/)
 
+## Agent Failure Modes Become System-Level
+
+On 2026-06-04, the Microsoft AI Red Team published an updated taxonomy of failure modes in agentic AI systems, based on a year of red-team work against deployed systems.
+
+The update matters because it moves the risk frame beyond ordinary prompt injection. Microsoft added seven new categories:
+
+- agentic supply-chain compromise;
+- goal hijacking;
+- inter-agent trust escalation;
+- computer-use-agent visual attacks;
+- session context contamination;
+- MCP / plugin abuse;
+- capability or architecture disclosure.
+
+The security shape is getting less cute. Agents now ingest plugin registries, MCP servers, prompt templates, tool descriptions, and third-party integrations as operational inputs. Those inputs can become a supply chain even when the payload is natural language rather than executable code.
+
+Microsoft also says several red-team engagements showed zero-click end-to-end chains from external input to high-impact outcomes such as exfiltration or lateral movement. That does not mean every agent is doomed. It does mean model-level evaluation is not enough when the deployed system includes tools, persistent sessions, memory, approvals, subagents, UI surfaces, and external content.
+
+Source:
+
+- [Microsoft Security Blog: Updating the taxonomy of failure modes in agentic AI systems](https://www.microsoft.com/en-us/security/blog/2026/06/04/updating-taxonomy-failure-modes-agentic-ai-systems-year-red-teaming-taught-us/)
+
 ## Offensive Cyber Pressure
 
 Anthropic published an analysis of 832 accounts banned for malicious cyber activity between March 2025 and March 2026.
@@ -72,6 +95,8 @@ Source:
 
 - Do not treat a sandbox as complete safety. Policy configuration, credentials, network access, tool design, and escape vulnerabilities still matter.
 - Do not treat open specifications as adopted standards merely because Microsoft wants broad adoption.
+- Do not treat the updated Microsoft taxonomy as proof of universal compromise. It is a red-team-derived threat model and evidence summary, not a census of all deployments.
+- Do not reduce agent security to prompt injection. MCP/plugin trust, session history, visual computer-use surfaces, approval design, agent identity, and tool provenance are now part of the security boundary.
 - Do not treat Anthropic's banned-account dataset as a census of all AI-enabled cyber activity.
 - Do not confuse defensive capability with harmless capability. The same model skills can matter offensively.
 - Do not assume controls replace human accountability for high-impact agent actions.
@@ -82,4 +107,3 @@ Source:
 - [Current AI Agent Landscape 2026](current-ai-agent-landscape-2026.md)
 - [White House Advanced AI Innovation And Security Order](white-house-ai-innovation-security-order.md)
 - [What Can AI Agents Do For Normal Tired Humans?](../questions/what-can-ai-agents-do-for-normal-tired-humans.md)
-

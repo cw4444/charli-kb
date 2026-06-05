@@ -3,7 +3,7 @@ title: "AI And Agents 2026 Timeline"
 type: timeline
 status: draft
 created: 2026-05-21
-updated: 2026-06-04
+updated: 2026-06-05
 sources:
   - ../sources/current-ai-agent-landscape-2026.md
   - ../sources/anthropic-compute-and-talent-signal-2026.md
@@ -49,6 +49,8 @@ sources:
   - https://openai.com/index/chatgpt-memory-dreaming/
   - https://github.blog/changelog/2026-06-04-larger-context-windows-and-configurable-reasoning-levels-for-github-copilot/
   - https://www.anthropic.com/institute/recursive-self-improvement
+  - https://www.microsoft.com/en-us/security/blog/2026/06/04/updating-taxonomy-failure-modes-agentic-ai-systems-year-red-teaming-taught-us/
+  - https://deepmind.google/research/publications/231466/
 ---
 
 # AI And Agents 2026 Timeline
@@ -66,7 +68,7 @@ Use this page for events that are useful historical anchors:
 
 Future lint rule: update this page if it helps preserve the shape of the year. Delete or collapse entries that turn out to be noise.
 
-## Short Read As Of 2026-06-04
+## Short Read As Of 2026-06-05
 
 The first half of 2026 already shows several converging threads:
 
@@ -99,6 +101,8 @@ The first half of 2026 already shows several converging threads:
 - OpenAI began rolling out a more capable ChatGPT memory-synthesis architecture, treating maintained long-horizon personal context as core assistant infrastructure.
 - GitHub exposed one-million-token context windows and configurable reasoning levels as explicit Copilot runtime choices, with higher AI-credit costs.
 - Anthropic publicly framed AI-assisted AI development as a possible path toward recursive self-improvement, while saying the loop is not closed and the outcome is not inevitable.
+- Microsoft updated its agentic-AI failure-mode taxonomy after a year of red teaming, naming MCP/plugin abuse, agentic supply-chain compromise, visual computer-use attacks, session contamination, and inter-agent trust escalation as live system-level risks.
+- Google DeepMind published a cooperation-framing paper arguing that superintelligence built as unilateral optimization is unlikely to remain cooperative in multi-actor deployment environments.
 - Meta began a major AI restructuring: roughly 8,000 job cuts, roughly 7,000 workers reassigned to AI-focused initiatives, and a leaked-audio controversy around employee computer-use data being used to train AI systems.
 - GPT-4o, a model many users were emotionally attached to, was retired from ChatGPT on 2026-02-13.
 - Charli reported receiving an OpenAI product survey asking how she uses ChatGPT, what other AI products she uses, and what ChatGPT should improve. The useful personal signal: adult users want more grown-up tone and wider creative range, and some route refused or tone-constrained work to Grok.
@@ -563,6 +567,31 @@ Sources:
 
 - [Anthropic Recursive Self-Improvement 2026](../sources/anthropic-recursive-self-improvement-2026.md)
 - [Anthropic Institute: When AI builds itself](https://www.anthropic.com/institute/recursive-self-improvement)
+
+### 2026-06-04 - Microsoft updates its agentic AI failure-mode taxonomy after a year of red teaming
+
+The Microsoft AI Red Team published an updated taxonomy of failure modes in agentic AI systems. The update adds seven categories: agentic supply-chain compromise, goal hijacking, inter-agent trust escalation, computer-use-agent visual attacks, session context contamination, MCP / plugin abuse, and capability or architecture disclosure.
+
+Why it matters: this is the clearest Microsoft security signal yet that agent risk is now a system-level problem, not just "prompt injection but with worse vibes." Agents consume tool descriptions, MCP servers, plugin registries, prompt templates, session histories, UI content, and subagent messages. Those become trust surfaces. Microsoft also reports red-team engagements showing zero-click end-to-end chains from external input to high-impact outcomes such as exfiltration or lateral movement.
+
+Careful read: this is a threat taxonomy and red-team evidence summary, not proof that every deployed agent is compromised. The useful signal is that secure agents now need supply-chain controls, provenance, session separation, identity verification, approval hardening, and full-flow testing across tools and time.
+
+Sources:
+
+- [Agent Security Infrastructure 2026](../sources/agent-security-infrastructure-2026.md)
+- [Microsoft Security Blog: Updating the taxonomy of failure modes in agentic AI systems](https://www.microsoft.com/en-us/security/blog/2026/06/04/updating-taxonomy-failure-modes-agentic-ai-systems-year-red-teaming-taught-us/)
+
+### 2026-06-04 - Google DeepMind argues solipsistic superintelligence is unlikely to be cooperative
+
+Google DeepMind published the arXiv paper "Solipsistic superintelligence is unlikely to be cooperative." The abstract argues that AI's central challenge is shifting from capability to coexistence, and that highly capable agents designed around unilateral optimization face a train-test-deploy gap once deployed into environments with other adaptive actors.
+
+Why it matters: this is not a product launch, but it is a useful frontier-lab framing signal beside Anthropic's recursive-self-improvement post. DeepMind is arguing that the problem is not only making systems smarter; it is designing systems for interdependence, institutions, and preserved human agency rather than hoping cooperation falls out of raw capability. Astonishingly, "make the clever bastard bigger" may not be the entire civilisational plan.
+
+Careful read: this is a conceptual/research paper, not evidence that current systems are cooperative or uncooperative in the strong sense. Treat it as a governance and design-paradigm marker: cooperation should be built into evaluations, institutions, and deployment context, not treated as a post-hoc task.
+
+Source:
+
+- [Google DeepMind: Solipsistic superintelligence is unlikely to be cooperative](https://deepmind.google/research/publications/231466/)
 
 ## Watchlist
 
