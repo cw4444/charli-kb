@@ -3,7 +3,7 @@ title: "Agentic Work Rearchitecture"
 type: concept
 status: draft
 created: 2026-05-11
-updated: 2026-06-04
+updated: 2026-06-05
 sources:
   - ../sources/enterprise-agent-deployment-2026.md
   - ../sources/ai-native-company-and-sidequest-prototyping-batch.md
@@ -105,6 +105,16 @@ The 2026 MIT paper [AI, Human Cognition, And Knowledge Collapse](../sources/ai-h
 That matters here because agentic work rearchitecture is not automatically learning-preserving. If agents do the work, humans approve outputs, and nobody preserves the source trail, uncertainty, explanation, failure modes, or situated judgment, the organization may become faster while becoming less able to renew its own knowledge.
 
 The safer version is not "keep humans doing busywork." It is to design workflows where agents remove drudge work while humans still build judgment, leave useful traces, and keep the organization queryable.
+
+## Collaboration Debt
+
+Anthropic's 2026 recursive-self-improvement post adds a quieter cost to this page: automation can remove small human requests.
+
+That sounds good until you notice what those requests used to carry. A quick ask for help with a script, a bug, or an unfamiliar repo was also a bid for collaboration. It created local knowledge of who was working on what, who could explain which system, and who owed whom a bit of future attention.
+
+Agents can make those moments frictionless and private. That is useful when the alternative is waiting around for help. It is dangerous when every small favor disappears into a solo human-agent loop and nobody notices that apprenticeship, peer trust, and shared context have quietly been paved over.
+
+The design question is not "should we make people slower so they talk more?" No. That would be office-culture nonsense wearing a lanyard. The real question is where teams deliberately preserve shared understanding: reviews, demos, source trails, pairing on hard judgment calls, public writeups of agent-discovered fixes, and rituals that expose what was learned rather than only what shipped.
 
 ## AI Development As A Feedback Loop
 

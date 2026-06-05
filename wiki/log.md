@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-05] update | Anthropic recursive self-improvement human-work texture
+- Source: Anthropic Institute, [When AI builds itself](https://www.anthropic.com/institute/recursive-self-improvement), especially employee comments on automation, understanding, and lost small collaboration moments.
+- Pages created: none
+- Pages updated: [Anthropic Recursive Self-Improvement 2026](sources/anthropic-recursive-self-improvement-2026.md), [Agentic Work Rearchitecture](concepts/agentic-work-rearchitecture.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added the human-work caveat that AI-assisted acceleration can thin workers' understanding of execution context and erase the weak ties once created by small technical favors. Framed this as collaboration debt rather than anti-automation nostalgia: teams need replacements for peer learning, trust, apprenticeship, source trails, and shared context if private human-agent loops absorb all small help requests.
+
 ## [2026-06-05] timeline | daily AI digest follow-up
 - Sources: `raw/2026-06-05-ai-digest.md`; Microsoft Security Blog, [Updating the taxonomy of failure modes in agentic AI systems](https://www.microsoft.com/en-us/security/blog/2026/06/04/updating-taxonomy-failure-modes-agentic-ai-systems-year-red-teaming-taught-us/); Google DeepMind, [Solipsistic superintelligence is unlikely to be cooperative](https://deepmind.google/research/publications/231466/).
 - Pages created: none

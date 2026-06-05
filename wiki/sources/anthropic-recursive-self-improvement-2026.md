@@ -3,7 +3,7 @@ title: "Anthropic Recursive Self-Improvement 2026"
 type: source
 status: draft
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-06-05
 sources:
   - "Anthropic Institute: When AI builds itself, 2026-06-04"
 ---
@@ -38,6 +38,16 @@ At the practical level, coding agents are becoming part of the machinery used to
 
 At the governance level, Anthropic argues that institutions may be underprepared for a world in which AI systems can build their successors. The post explicitly connects that possibility to security, monitoring, behavior shaping, coordination, and the risk of losing control.
 
+## Human Work Texture
+
+The employee comments in the post matter because they show the psychological and social edge of the productivity story.
+
+One thread is disorientation. When Claude works well, some employees describe feeling as if their contribution is shrinking beside something faster and more automated. When it breaks, the opposite anxiety appears: they realize their own understanding of the work has thinned because the agent has been carrying so much execution context.
+
+The second thread is social loss. Small technical favors used to create weak ties: asking a colleague to help run a script, debugging together, learning who knows what, and building tiny debts of mutual awareness. Claude can answer faster and without obligation, but Anthropic's own employee comment frames this as a lost bid for human collaboration.
+
+This is useful evidence for [Agentic Work Rearchitecture](../concepts/agentic-work-rearchitecture.md). The issue is not only whether AI makes work faster. It is whether the new workflow preserves human understanding, peer learning, trust, apprenticeship, and the ordinary social glue that used to travel through small moments of help.
+
 ## Do Not Overclaim
 
 - Do not say recursive self-improvement has arrived. Anthropic explicitly says it has not.
@@ -45,6 +55,7 @@ At the governance level, Anthropic argues that institutions may be underprepared
 - Do not treat company-reported internal productivity and code-attribution figures as independent evidence.
 - Do not confuse code authorship with full ownership of goals, architecture, research taste, verification, or consequences.
 - Do not assume an `8x` increase in shipped code means an `8x` increase in useful scientific progress.
+- Do not ignore the human coordination cost. Faster solo execution can erase informal learning loops and weak social ties if teams do not design replacements.
 - Do not collapse fast AI-assisted development into consciousness, agency in the human sense, or moral patienthood.
 
 ## Related Pages
