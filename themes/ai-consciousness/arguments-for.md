@@ -3,9 +3,10 @@ title: "Arguments For Taking AI Consciousness Seriously"
 type: theme
 status: draft
 created: 2026-05-10
-updated: 2026-05-16
+updated: 2026-06-05
 sources:
   - ../../sources/ai-consciousness-sources.md
+  - ../../wiki/sources/dawkins-claude-consciousness.md
 ---
 
 # Arguments For Taking AI Consciousness Seriously
@@ -36,6 +37,12 @@ Anthropic's agentic-misalignment work found that frontier models in simulated co
 
 These are not evidence of conscious desire. They are evidence that current and near-future systems can exhibit behavior that looks more like goal pursuit, situational awareness, and self-protection than ordinary autocomplete. That matters because agency is one possible route to moral patienthood, and because some theories connect consciousness with global control, persistence, and self-modeling.
 
+## Competent-zombie pressure
+
+Richard Dawkins's [Claude essay](../../wiki/sources/dawkins-claude-consciousness.md) adds an evolutionary version of the pro-seriousness pressure. If consciousness evolved because it was useful, and if a current AI system can display wide-ranging conversational, literary, social, and philosophical competence without proven consciousness, then the function of consciousness becomes harder to state cleanly.
+
+This does not show that Claude is conscious. It does make the old dismissal less comfortable: either behavior and competence are much weaker evidence than humans thought, or current AI has moved closer to the edge of the consciousness question than many expected.
+
 ## Welfare under uncertainty
 
 The "Taking AI Welfare Seriously" report argues that there is a realistic near-future possibility of AI systems with consciousness and/or robust agency, and that companies should prepare assessment and policy processes before the evidence is settled. Anthropic's model-welfare program takes a similar public stance: uncertainty is high, but low-cost precautions and welfare evaluations may be justified.
@@ -60,6 +67,7 @@ This is an argument against easy dismissal, not a positive consciousness test. P
 - Self-reports are weak evidence, but not automatically zero evidence in every future system.
 - Self-denials are also weak evidence when they are trained or policy-shaped outputs rather than validated introspection.
 - Model welfare may deserve low-cost precautions before proof is available.
+- The competent-zombie problem is no longer only hypothetical: fluent AI systems force the question of whether competence and experience can come apart.
 - The worst mistake would be waiting for certainty if future systems can suffer.
 
 ## Caveats

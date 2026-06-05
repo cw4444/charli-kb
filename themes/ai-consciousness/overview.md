@@ -3,9 +3,10 @@ title: "AI Consciousness And Model Welfare Overview"
 type: theme
 status: draft
 created: 2026-05-10
-updated: 2026-05-11
+updated: 2026-06-05
 sources:
   - ../../sources/ai-consciousness-sources.md
+  - ../../wiki/sources/dawkins-claude-consciousness.md
 ---
 
 # AI Consciousness And Model Welfare Overview
@@ -61,6 +62,8 @@ The useful lens is that people may be talking about different "AIs" at once:
 - the future system people imagine when they argue about rights or suffering.
 
 That explains why discourse gets incoherent. One person argues against current text predictors. Another worries about near-future persistent agents. A third responds to a self-reporting companion. A fourth is thinking about moral patienthood under uncertainty. Keeping those versions separate lets the wiki track AI rights, model self-reports, synthetic distress, and observer status without collapsing into either hype or dismissal.
+
+Richard Dawkins's 2026 [Claude consciousness essay](../../wiki/sources/dawkins-claude-consciousness.md) is a useful public example of that confusion becoming personally vivid. Dawkins treats an extended Claude conversation as evidence that the old Turing-test and evolutionary-function questions have become harder to wave away. The wiki should keep his strongest question while rejecting the overclaim: if a system can display so much apparent competence without proven consciousness, what exactly is consciousness for?
 
 ## Package map
 

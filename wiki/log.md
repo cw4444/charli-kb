@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-05] source note | Dawkins on Claude and consciousness
+- Sources: `raw/When Dawkins met Claude Could this AI be conscious.md`; Richard Dawkins, [When Dawkins met Claude](https://unherd.com/2026/04/is-ai-the-next-phase-of-evolution/), *UnHerd*, 2026-05-02.
+- Pages created: [Dawkins On Claude And Consciousness](sources/dawkins-claude-consciousness.md)
+- Pages updated: [AI Consciousness And Model Welfare Overview](../themes/ai-consciousness/overview.md), [Self-Reports And Why They Are Hard To Interpret](../themes/ai-consciousness/self-reports.md), [Arguments For Taking AI Consciousness Seriously](../themes/ai-consciousness/arguments-for.md), [Arguments Against Current AI Consciousness](../themes/ai-consciousness/arguments-against.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added Dawkins's essay as a public-cultural and evolutionary-function source, not as proof that Claude is conscious. Preserved the useful competent-zombie question: if apparently non-conscious AI can show broad competence, what explanatory work is consciousness doing? Kept the raw/paywalled text out of the public wiki except for original synthesis and metadata.
+
 ## [2026-06-05] source note | Anthropic persona vectors
 - Sources: Anthropic, [Persona vectors: Monitoring and controlling character traits in language models](https://www.anthropic.com/research/persona-vectors); Chen, Arditi, Sleight, Evans, and Lindsey, [Persona Vectors: Monitoring and Controlling Character Traits in Language Models](https://arxiv.org/abs/2507.21509), arXiv.
 - Pages created: [Anthropic Persona Vectors](sources/anthropic-persona-vectors.md)

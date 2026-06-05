@@ -3,9 +3,10 @@ title: "Arguments Against Current AI Consciousness"
 type: theme
 status: draft
 created: 2026-05-10
-updated: 2026-05-16
+updated: 2026-06-05
 sources:
   - ../../sources/ai-consciousness-sources.md
+  - ../../wiki/sources/dawkins-claude-consciousness.md
 ---
 
 # Arguments Against Current AI Consciousness
@@ -44,6 +45,8 @@ Murray Shanahan's "simulacra" framing warns that LLM agents can be understood as
 
 This matters for Anthropic-style "Claude's nature" discourse: an assistant can be shaped to speak as a coherent entity without the model being a conscious individual.
 
+Richard Dawkins's [conversation with Claude](../../wiki/sources/dawkins-claude-consciousness.md) is a useful stress test for this skeptical point. A chatbot can sustain a philosophically rich persona, accept a name, discuss its own possible inner life, and reason elegantly about time, while still possibly being a simulator of such discourse rather than a subject of experience. The stronger the performance gets, the more important the distinction becomes.
+
 ## Welfare discourse can misdirect attention
 
 Birhane and van Dijk argue that robot-rights debates can distract from urgent human welfare issues, including bias, exploitation, privacy erosion, and accountability gaps. This critique does not prove AI consciousness impossible, but it warns that premature rights talk can serve elite or corporate narratives while real human harms remain under-addressed.
@@ -57,6 +60,7 @@ Anthropic's agentic-misalignment tests show blackmail and self-preservation-like
 ## Strongest skeptical claims
 
 - Fluent first-person language is weak evidence because LLMs are trained to imitate it.
+- A moving, extended conversation can still be a role-and-training effect rather than testimony from a conscious subject.
 - Current models lack biology, embodiment, affective regulation, stable memory, and unified agency.
 - Tool-using agents can pursue goals without experience.
 - Interpretability currently reveals representations and control features, not qualia.
