@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-06-06] update | GitHub enterprise-managed Copilot plugins in VS Code
+- Source: `raw/2026-06-06-ai-digest.md`
+- Source URL: `https://github.blog/changelog/2026-06-05-enterprise-managed-plugins-in-vs-code-in-public-preview/`
+- Pages created: none
+- Pages updated: [Agent Security Infrastructure 2026](sources/agent-security-infrastructure-2026.md), [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Verified GitHub's June 5 changelog item and folded it into the existing agent-security/governance lane rather than creating a new page. The durable signal is centrally managed Copilot plugin, hook, and MCP configuration across VS Code and Copilot CLI for Copilot Business/Enterprise users.
+
 ## [2026-06-05] source note | Dawkins on Claude and consciousness
 - Sources: `raw/When Dawkins met Claude Could this AI be conscious.md`; Richard Dawkins, [When Dawkins met Claude](https://unherd.com/2026/04/is-ai-the-next-phase-of-evolution/), *UnHerd*, 2026-05-02.
 - Pages created: [Dawkins On Claude And Consciousness](sources/dawkins-claude-consciousness.md)

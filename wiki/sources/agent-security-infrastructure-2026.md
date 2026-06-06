@@ -3,9 +3,10 @@ title: "Agent Security Infrastructure 2026"
 type: source
 status: draft
 created: 2026-06-04
-updated: 2026-06-05
+updated: 2026-06-06
 sources:
   - "GitHub: Cloud and local sandboxes for GitHub Copilot now in public preview, 2026-06-02"
+  - "GitHub Changelog: Enterprise-managed plugins in VS Code in public preview, 2026-06-05"
   - "Microsoft Foundry: Build agents you can trust across any framework with open evals and a control standard, 2026-06-02"
   - "Anthropic: What we learned mapping a year's worth of AI-enabled cyber threats, 2026-06-03"
   - "Anthropic: Expanding Project Glasswing, 2026-06-02"
@@ -32,6 +33,23 @@ This is a useful product-level acknowledgement that agentic coding needs an exec
 Source:
 
 - [GitHub: Cloud and local sandboxes for GitHub Copilot now in public preview](https://github.blog/changelog/2026-06-02-cloud-and-local-sandboxes-for-github-copilot-now-in-public-preview/)
+
+## Managed Extension Distribution
+
+GitHub announced enterprise-managed Copilot plugins for VS Code public preview on 2026-06-05, extending a capability it had already previewed for Copilot CLI.
+
+The important detail is administrative control over agent extensibility:
+
+- enterprise administrators can define plugin marketplaces from `.github-private/.github/copilot/settings.json`;
+- plugins can be automatically installed for licensed Copilot Business and Copilot Enterprise users;
+- baseline standards apply across Copilot CLI and VS Code clients;
+- the managed settings can include hooks and MCP configurations that are always enabled across the enterprise.
+
+This belongs in the same lane as sandboxes and Microsoft's MCP/plugin-abuse taxonomy. Agent tools are becoming centrally distributed infrastructure, not a drawer full of local user hacks. That is useful for onboarding and standardization, but it also makes plugin provenance, policy review, and admin mistakes higher-impact.
+
+Source:
+
+- [GitHub Changelog: Enterprise-managed plugins in VS Code in public preview](https://github.blog/changelog/2026-06-05-enterprise-managed-plugins-in-vs-code-in-public-preview/)
 
 ## Policy, Evaluation, And Runtime Controls
 
@@ -94,6 +112,7 @@ Source:
 ## Do Not Overclaim
 
 - Do not treat a sandbox as complete safety. Policy configuration, credentials, network access, tool design, and escape vulnerabilities still matter.
+- Do not treat managed plugins as automatically safe because an administrator distributed them. Central control can reduce chaos, but it also concentrates trust and blast radius.
 - Do not treat open specifications as adopted standards merely because Microsoft wants broad adoption.
 - Do not treat the updated Microsoft taxonomy as proof of universal compromise. It is a red-team-derived threat model and evidence summary, not a census of all deployments.
 - Do not reduce agent security to prompt injection. MCP/plugin trust, session history, visual computer-use surfaces, approval design, agent identity, and tool provenance are now part of the security boundary.

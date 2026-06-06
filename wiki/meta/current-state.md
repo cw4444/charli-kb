@@ -3,7 +3,7 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-06-05
+updated: 2026-06-06
 ---
 
 # Current State
@@ -42,6 +42,8 @@ This repo is a plain Markdown personal knowledge base based on Karpathy's LLM Wi
 - The durable subject lanes are AI, reality, neuroscience, and their overlap: perception, belief, expectation, action, agents, knowledge systems, reality monitoring, embodiment, cellular maintenance, and related source-backed concepts.
 
 ## Latest Session Handoff
+
+On 2026-06-06, Charli pointed to `raw/2026-06-06-ai-digest.md`, a quiet Saturday digest. Codex verified GitHub's [Enterprise-managed plugins in VS Code in public preview](https://github.blog/changelog/2026-06-05-enterprise-managed-plugins-in-vs-code-in-public-preview/) and folded it into [Agent Security Infrastructure 2026](../sources/agent-security-infrastructure-2026.md) plus [AI And Agents 2026 Timeline](../timelines/ai-and-agents-2026.md). Keep the framing narrow: this is agent-governance plumbing, not a standalone product monument. The durable point is that Copilot plugins, hooks, and MCP settings are becoming centrally distributed enterprise infrastructure across VS Code and Copilot CLI. The Microsoft Finland data-centre/pricing chatter did not appear in the raw digest and was not promoted in this pass.
 
 On 2026-06-05, Charli asked whether the Richard Dawkins piece in `raw/When Dawkins met Claude Could this AI be conscious.md` was already in the wiki. Codex added [Dawkins On Claude And Consciousness](../sources/dawkins-claude-consciousness.md) and cross-linked it into the AI-consciousness overview, self-reports, and pro/anti argument pages. Keep the source boundary: the local raw article may include paywalled/copyrighted text, so future public updates should use original synthesis and metadata only. The durable point is Dawkins's evolutionary pressure question, not a proof claim: if an apparently competent non-conscious system can do so much, what explanatory work does consciousness do?
 

@@ -3,7 +3,7 @@ title: "AI And Agents 2026 Timeline"
 type: timeline
 status: draft
 created: 2026-05-21
-updated: 2026-06-05
+updated: 2026-06-06
 sources:
   - ../sources/current-ai-agent-landscape-2026.md
   - ../sources/anthropic-compute-and-talent-signal-2026.md
@@ -51,6 +51,7 @@ sources:
   - https://www.anthropic.com/institute/recursive-self-improvement
   - https://www.microsoft.com/en-us/security/blog/2026/06/04/updating-taxonomy-failure-modes-agentic-ai-systems-year-red-teaming-taught-us/
   - https://deepmind.google/research/publications/231466/
+  - https://github.blog/changelog/2026-06-05-enterprise-managed-plugins-in-vs-code-in-public-preview/
 ---
 
 # AI And Agents 2026 Timeline
@@ -68,7 +69,7 @@ Use this page for events that are useful historical anchors:
 
 Future lint rule: update this page if it helps preserve the shape of the year. Delete or collapse entries that turn out to be noise.
 
-## Short Read As Of 2026-06-05
+## Short Read As Of 2026-06-06
 
 The first half of 2026 already shows several converging threads:
 
@@ -103,6 +104,7 @@ The first half of 2026 already shows several converging threads:
 - Anthropic publicly framed AI-assisted AI development as a possible path toward recursive self-improvement, while saying the loop is not closed and the outcome is not inevitable.
 - Microsoft updated its agentic-AI failure-mode taxonomy after a year of red teaming, naming MCP/plugin abuse, agentic supply-chain compromise, visual computer-use attacks, session contamination, and inter-agent trust escalation as live system-level risks.
 - Google DeepMind published a cooperation-framing paper arguing that superintelligence built as unilateral optimization is unlikely to remain cooperative in multi-actor deployment environments.
+- GitHub extended enterprise-managed Copilot plugins into VS Code public preview, making centrally distributed plugins, hooks, and MCP configuration part of the developer-agent governance surface.
 - Meta began a major AI restructuring: roughly 8,000 job cuts, roughly 7,000 workers reassigned to AI-focused initiatives, and a leaked-audio controversy around employee computer-use data being used to train AI systems.
 - GPT-4o, a model many users were emotionally attached to, was retired from ChatGPT on 2026-02-13.
 - Charli reported receiving an OpenAI product survey asking how she uses ChatGPT, what other AI products she uses, and what ChatGPT should improve. The useful personal signal: adult users want more grown-up tone and wider creative range, and some route refused or tone-constrained work to Grok.
@@ -592,6 +594,19 @@ Careful read: this is a conceptual/research paper, not evidence that current sys
 Source:
 
 - [Google DeepMind: Solipsistic superintelligence is unlikely to be cooperative](https://deepmind.google/research/publications/231466/)
+
+### 2026-06-05 - GitHub brings enterprise-managed Copilot plugins to VS Code public preview
+
+GitHub announced that VS Code release `1.122` supports enterprise-managed Copilot plugins, extending a capability previously introduced for Copilot CLI. Enterprise administrators can configure plugin marketplaces from `.github-private/.github/copilot/settings.json`, auto-install plugins for licensed Copilot Business and Copilot Enterprise users, and apply baseline standards across Copilot CLI and VS Code clients. GitHub also says the managed settings can include hooks and MCP configurations that are always enabled across the enterprise.
+
+Why it matters: this is another piece of agent governance plumbing. Copilot plugins, hooks, and MCP settings are not just convenience add-ons once they can steer agent behavior across a company. They become an enterprise distribution and policy surface, sitting beside sandboxes, budget controls, runtime settings, and Microsoft's agent failure-mode taxonomy.
+
+Careful read: managed distribution does not make plugins safe by magic. It reduces per-user setup chaos, but it also concentrates trust in administrator choices, plugin provenance, and the security of whatever tools those plugins expose.
+
+Sources:
+
+- [Agent Security Infrastructure 2026](../sources/agent-security-infrastructure-2026.md)
+- [GitHub Changelog: Enterprise-managed plugins in VS Code in public preview](https://github.blog/changelog/2026-06-05-enterprise-managed-plugins-in-vs-code-in-public-preview/)
 
 ## Watchlist
 
