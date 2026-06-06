@@ -15,6 +15,11 @@ sources:
   - https://openai.com/index/industrial-policy-for-the-intelligence-age/
   - https://cdn.openai.com/pdf/561e7512-253e-424b-9734-ef4098440601/Industrial%20Policy%20for%20the%20Intelligence%20Age.pdf
   - https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age/
+  - ../sources/ai-compute-infrastructure-constraints-2026.md
+  - https://openai.com/index/introducing-stargate-uk/
+  - https://www.gov.uk/government/news/us-uk-pact-will-boost-advances-in-drug-discovery-create-tens-of-thousands-of-jobs-and-transform-lives
+  - https://www.investing.com/news/economy-news/openai-pauses-uk-data-centre-project-over-regulation-costs-4605976
+  - https://news.microsoft.com/source/emea/2026/06/microsoft-signed-preliminary-agreement-on-acquisition-of-approximately-190-hectares-of-land-in-vaasa-and-mustasaari-on-the-west-coast-of-finland/
   - https://github.com/openclaw/openclaw
   - https://github.com/torvalds/linux
   - https://apnews.com/article/block-dorsey-layoffs-ai-jobs-18e00a0b278977b0a87893f55e3db7bb
@@ -78,6 +83,7 @@ The first half of 2026 already shows several converging threads:
 - Google pushed Gemini CLI, subagents, Deep Research, computer-use, and enterprise agents.
 - OpenClaw became a viral open-source local-agent gateway, reportedly passing Linux in GitHub stars in February and showing 250k+ stars by May.
 - OpenAI published *Industrial Policy for the Intelligence Age*, proposing Public Wealth Fund, tax, safety-net, workforce, access, grid, and governance ideas while also launching fellowships/research grants tied to those policy proposals.
+- OpenAI's Stargate UK pause showed that frontier compute plans can stall on energy costs, regulation, and local infrastructure constraints, even after high-profile sovereign-compute announcements.
 - Block cut more than 4,000 jobs, roughly 40% of staff, while Dorsey explicitly argued that "intelligence tools" had changed how companies can be built and run.
 - Karpathy's LLM Wiki pattern gave this repo a direct structural ancestor.
 - Karpathy then joined Anthropic's pre-training team.
@@ -105,6 +111,7 @@ The first half of 2026 already shows several converging threads:
 - Microsoft updated its agentic-AI failure-mode taxonomy after a year of red teaming, naming MCP/plugin abuse, agentic supply-chain compromise, visual computer-use attacks, session contamination, and inter-agent trust escalation as live system-level risks.
 - Google DeepMind published a cooperation-framing paper arguing that superintelligence built as unilateral optimization is unlikely to remain cooperative in multi-actor deployment environments.
 - GitHub extended enterprise-managed Copilot plugins into VS Code public preview, making centrally distributed plugins, hooks, and MCP configuration part of the developer-agent governance surface.
+- Microsoft signed a preliminary land-acquisition agreement for potential datacenter development in Vaasa and Mustasaari, Finland, reinforcing the shift from AI as software story to AI as land, grid, cooling, and local-planning story.
 - Meta began a major AI restructuring: roughly 8,000 job cuts, roughly 7,000 workers reassigned to AI-focused initiatives, and a leaked-audio controversy around employee computer-use data being used to train AI systems.
 - GPT-4o, a model many users were emotionally attached to, was retired from ChatGPT on 2026-02-13.
 - Charli reported receiving an OpenAI product survey asking how she uses ChatGPT, what other AI products she uses, and what ChatGPT should improve. The useful personal signal: adult users want more grown-up tone and wider creative range, and some route refused or tone-constrained work to Grok.
@@ -189,6 +196,19 @@ Sources:
 - [OpenAI Industrial Policy For The Intelligence Age](../sources/openai-industrial-policy-intelligence-age.md)
 - [OpenAI: Industrial policy for the Intelligence Age](https://openai.com/index/industrial-policy-for-the-intelligence-age/)
 - [OpenAI PDF: Industrial Policy for the Intelligence Age](https://cdn.openai.com/pdf/561e7512-253e-424b-9734-ef4098440601/Industrial%20Policy%20for%20the%20Intelligence%20Age.pdf)
+
+### 2026-04-09 - OpenAI pauses Stargate UK over energy and regulatory conditions
+
+Reuters reported that OpenAI paused its main UK Stargate datacentre project, citing an unfavourable regulatory environment and high energy costs. The pause matters because Stargate UK had been announced in September 2025 as a sovereign-compute partnership with NVIDIA and Nscale, with OpenAI exploring offtake up to `8,000` GPUs in Q1 2026 and potential scale to `31,000` GPUs over time.
+
+Why it matters: this is a direct stress test for AI industrial policy. The UK government had framed Stargate UK and the North East AI Growth Zone as part of a major UK-US technology pact. OpenAI's pause says the physical and political substrate matters: energy prices, grid capacity, planning, copyright/regulatory certainty, and commercial risk can stop infrastructure ambition from becoming compute.
+
+Careful read: do not say the UK government simply "said no." The verified public framing is that OpenAI paused and said it would move forward when regulation and energy costs supported long-term infrastructure investment. Also do not say the project is permanently cancelled unless later sources prove that.
+
+Sources:
+
+- [AI Compute Infrastructure Constraints 2026](../sources/ai-compute-infrastructure-constraints-2026.md)
+- [Reuters via Investing.com: OpenAI pauses UK data centre project over regulation, costs](https://www.investing.com/news/economy-news/openai-pauses-uk-data-centre-project-over-regulation-costs-4605976)
 
 ### 2026-04-16 - OpenAI publishes "Codex for (almost) everything"
 
@@ -607,6 +627,19 @@ Sources:
 
 - [Agent Security Infrastructure 2026](../sources/agent-security-infrastructure-2026.md)
 - [GitHub Changelog: Enterprise-managed plugins in VS Code in public preview](https://github.blog/changelog/2026-06-05-enterprise-managed-plugins-in-vs-code-in-public-preview/)
+
+### 2026-06-05 - Microsoft signs preliminary land agreement for potential Finland datacenter development
+
+Microsoft announced a preliminary agreement to acquire about `190` hectares of land in Vaasa and Mustasaari on Finland's west coast to support potential datacenter development. The land is in the GigaVaasa industrial zone, and Microsoft says the acquisition supports its long-term plans in Finland alongside its first datacenter region in Southern Finland.
+
+Why it matters: this is a softer infrastructure signal than a final build announcement, but it belongs next to the broader compute-capacity story. AI infrastructure is becoming a contest over suitable land, energy infrastructure, cooling, industrial zoning, heat reuse, local consent, and long-term regional planning. Finland keeps showing up because those conditions are unusually relevant there. Also, yes, this is where The Rasmus are from. Human indexing remains undefeated.
+
+Careful read: do not treat this as a completed datacenter or confirmed AI supercomputer. Microsoft announced a preliminary land-acquisition agreement for potential datacenter development, not a final facility with published GPU count, capacity, commissioning date, or workload.
+
+Sources:
+
+- [AI Compute Infrastructure Constraints 2026](../sources/ai-compute-infrastructure-constraints-2026.md)
+- [Microsoft Source EMEA: Microsoft signed preliminary agreement on acquisition of approximately 190 hectares of land in Vaasa and Mustasaari on the west coast of Finland](https://news.microsoft.com/source/emea/2026/06/microsoft-signed-preliminary-agreement-on-acquisition-of-approximately-190-hectares-of-land-in-vaasa-and-mustasaari-on-the-west-coast-of-finland/)
 
 ## Watchlist
 

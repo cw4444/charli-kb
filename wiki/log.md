@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-06] research | AI compute infrastructure constraints
+- Sources: OpenAI, [Introducing Stargate UK](https://openai.com/index/introducing-stargate-uk/); GOV.UK, [US-UK pact will boost advances in drug discovery, create tens of thousands of jobs and transform lives](https://www.gov.uk/government/news/us-uk-pact-will-boost-advances-in-drug-discovery-create-tens-of-thousands-of-jobs-and-transform-lives); Reuters via Investing.com, [OpenAI pauses UK data centre project over regulation, costs](https://www.investing.com/news/economy-news/openai-pauses-uk-data-centre-project-over-regulation-costs-4605976); Computer Weekly, [OpenAI pauses Stargate UK: Sudden setback or calculated move?](https://www.computerweekly.com/news/366641483/OpenAI-pauses-Stargate-UK-Sudden-setback-or-calculated-move); Microsoft Source EMEA, [Microsoft signed preliminary agreement on acquisition of approximately 190 hectares of land in Vaasa and Mustasaari](https://news.microsoft.com/source/emea/2026/06/microsoft-signed-preliminary-agreement-on-acquisition-of-approximately-190-hectares-of-land-in-vaasa-and-mustasaari-on-the-west-coast-of-finland/)
+- Pages created: [AI Compute Infrastructure Constraints 2026](sources/ai-compute-infrastructure-constraints-2026.md)
+- Pages updated: [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Verified that OpenAI paused Stargate UK over energy and regulatory conditions, but did not verify the stronger claim that the UK government simply "said no." Added Microsoft Finland as a softer land/capacity signal: a preliminary agreement for about 190 hectares in Vaasa/Mustasaari for potential datacenter development, not a confirmed AI supercomputer.
+
 ## [2026-06-06] update | GitHub enterprise-managed Copilot plugins in VS Code
 - Source: `raw/2026-06-06-ai-digest.md`
 - Source URL: `https://github.blog/changelog/2026-06-05-enterprise-managed-plugins-in-vs-code-in-public-preview/`
