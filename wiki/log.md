@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-08] research | disengaged mind and electric shock
+- Sources: Wilson et al., [Just think: The challenges of the disengaged mind](https://doi.org/10.1126/science.1250830), *Science*, 2014; PMC full text, [PMC4330241](https://pmc.ncbi.nlm.nih.gov/articles/PMC4330241/); Fox et al., [Is thinking really aversive?](https://doi.org/10.3389/fpsyg.2014.01427), *Frontiers in Psychology*, 2014.
+- Pages created: [Wilson et al. - Just Think And The Disengaged Mind](sources/wilson-disengaged-mind-electric-shock.md), [Disengaged Mind Aversion](concepts/disengaged-mind-aversion.md)
+- Pages updated: [Creative Recovery And Input Fasting](concepts/creative-recovery-and-input-fasting.md), [Cognitive Latency Shock](concepts/cognitive-latency-shock.md), [Neuroscience](../themes/neuroscience/overview.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added the behavioural anchor that many participants disliked unstructured thinking and some chose mild electric shock over 15 minutes alone with their thoughts, especially men in the shock-choice study. Preserved caveats: not proof that thought is inherently aversive, not a TikTok-only problem, not a reason to treat blank silence as automatically restorative.
+
 ## [2026-06-08] research | OFC optimism and anxiety mediation
 - Sources: Dolcos, Hu, Iordan, Moore, and Dolcos, [Optimism and the brain: trait optimism mediates the protective role of the orbitofrontal cortex gray matter volume against anxiety](https://doi.org/10.1093/scan/nsv106), *Social Cognitive and Affective Neuroscience*, 2016; PubMed/PMC metadata, accessed 2026-06-08.
 - Pages created: none

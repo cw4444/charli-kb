@@ -3,13 +3,14 @@ title: "Cognitive Latency Shock"
 type: concept
 status: draft
 created: 2026-05-11
-updated: 2026-06-05
+updated: 2026-06-08
 sources:
   - ../sources/bryan-johnson-claude-kb.md
   - ../sources/peter-steinberger-agentic-engineering-batch.md
   - ../sources/antikythera-mechanism-source-batch.md
   - ../sources/devs-prediction-determinism.md
   - ../sources/ai-human-cognition-knowledge-collapse.md
+  - ../sources/wilson-disengaged-mind-electric-shock.md
 ---
 
 # Cognitive Latency Shock
@@ -74,6 +75,7 @@ This does not mean AI reveals reality perfectly. It means AI changes the perceiv
 ## Risks
 
 - **Over-absorption:** the loop is so rewarding that sleep, relationships, and ordinary obligations get displaced.
+- **Quiet intolerance:** fast artifact loops can make unsupported thought feel even more unrewarding, especially when [Disengaged Mind Aversion](disengaged-mind-aversion.md) is already in play.
 - **Verification debt:** fast synthesis can outrun fact-checking and taste.
 - **Knowledge collapse:** answers arrive so quickly that humans stop producing the traces and explanations needed to sustain shared knowledge.
 - **Social impatience:** slower human conversation can start to feel defective rather than simply different.
@@ -112,3 +114,4 @@ At organization scale, the same pressure shows up as [Agentic Work Rearchitectur
 - [Mechanical World Models](mechanical-world-models.md)
 - [Devs - Prediction, Determinism, And Acceleration](../sources/devs-prediction-determinism.md)
 - [Knowledge Collapse](knowledge-collapse.md)
+- [Disengaged Mind Aversion](disengaged-mind-aversion.md)

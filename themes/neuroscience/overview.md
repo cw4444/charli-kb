@@ -3,7 +3,7 @@ title: "Neuroscience"
 type: theme
 status: draft
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-06-08
 sources:
   - ../../wiki/sources/reality-threshold-dijkstra-batch.md
   - ../../wiki/sources/wadia-shared-code-perception-imagination.md
@@ -11,6 +11,7 @@ sources:
   - ../../wiki/sources/libet-schurger-readiness-potential-agency.md
   - ../../wiki/sources/moretto-tau-axonal-transport-p38alpha.md
   - ../../wiki/sources/representational-geometry-brains-and-llms.md
+  - ../../wiki/sources/wilson-disengaged-mind-electric-shock.md
 ---
 
 # Neuroscience
@@ -70,6 +71,13 @@ This thread treats optimism as a style of future representation, belief updating
 
 This thread keeps neural precursors separate from fatalist storytelling. A readiness potential is not a tiny bureaucrat in the brain who already made every meaningful decision.
 
+### Why Is Unsupported Thought Hard?
+
+- [Wilson et al. - Just Think And The Disengaged Mind](../../wiki/sources/wilson-disengaged-mind-electric-shock.md)
+- [Disengaged Mind Aversion](../../wiki/concepts/disengaged-mind-aversion.md)
+
+This thread is behavioural rather than cellular, but it belongs near the neuroscience lane because it concerns attention, self-generated thought, boredom, stimulation-seeking, and the limits of unstructured internal control.
+
 ### How Does The Physical Neuron Maintain Its World?
 
 - [Moretto et al. - Tau, Axonal Transport, And p38α](../../wiki/sources/moretto-tau-axonal-transport-p38alpha.md)
@@ -95,6 +103,7 @@ Neuroscience connects to the rest of the wiki without swallowing it:
 - **Agency:** neural constraint does not automatically imply passivity or erase responsibility.
 - **Knowledge systems:** biological memory and public records are different systems with different failure modes.
 - **Embodiment:** belief, perception, risk estimation, and action are implemented in bodies, not floating proposition boxes.
+- **Attention:** unsupported thought is not automatically pleasant or easy; minds often need structure, practice, or tools before quiet becomes useful.
 
 ## Do Not Overclaim
 
