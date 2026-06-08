@@ -75,7 +75,7 @@ This matters for practical agency because meaningful action is not usually "pres
 
 ## Relation To Langer's Counterclockwise Study
 
-Ellen Langer's counterclockwise study is a caveat-heavy but useful example of agency changing through role and environment. Older men were placed in a setting staged as decades earlier and encouraged to act as if they were younger. Reported improvements included physical and cognitive measures, though the study was tiny and loosely controlled.
+Ellen Langer's counterclockwise study is a caveat-heavy but useful example of agency changing through role and environment. Older men were placed in a setting staged as 1959, roughly 20 years earlier, and encouraged to speak and act as if that earlier period were present. Reported improvements included physical and cognitive measures, though the study was tiny and loosely controlled.
 
 The useful point for this page is not "belief reverses aging." It is that the environment can cue a different action-space. When a person is treated as more competent, less fragile, and more agentic, the body may actually move, attend, and coordinate differently.
 

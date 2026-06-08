@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-08] update | counterclockwise study detail clarification
+- Sources: Harvard Magazine, [The Mindfulness Chronicles](https://www.harvardmagazine.com/2010/08/the-mindfulness-chronicles); TIME, [How Your Mindset Can Change How You Age](https://time.com/3706720/how-your-mindset-can-change-how-you-age/)
+- Pages created: none
+- Pages updated: [Langer Counterclockwise Study And Aging Mindset](sources/langer-counterclockwise-aging-mindset.md), [Practical Agency Inside Constraint](concepts/practical-agency-inside-constraint.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Tightened the popular counterclockwise-study details: 1979 study, staged as 1959 rather than 1952, older men acting as if the earlier period were present rather than being told they were 25, and mirror removal preserved as a reported retelling detail. Kept the caveat-heavy framing.
+
 ## [2026-06-08] concept | social reality pressure and Asch conformity
 - Sources: Solomon Asch, [Opinions and Social Pressure](https://doi.org/10.1038/scientificamerican1155-31), *Scientific American*, 1955; Solomon Asch, [Studies of Independence and Conformity: I. A Minority of One Against a Unanimous Majority](https://doi.org/10.1037/h0093718), *Psychological Monographs*, 1956; Bond and Smith, [Culture and conformity](https://doi.org/10.1037/0033-2909.119.1.111), *Psychological Bulletin*, 1996.
 - Pages created: [Asch Conformity And Social Pressure](sources/asch-conformity-social-pressure.md), [Social Reality Pressure](concepts/social-reality-pressure.md)

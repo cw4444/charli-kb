@@ -3,7 +3,7 @@ title: "Langer Counterclockwise Study And Aging Mindset"
 type: source
 status: draft
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-06-08
 sources:
   - https://www.harvardmagazine.com/2010/08/the-mindfulness-chronicles
   - https://greatergood.berkeley.edu/article/item/aging_in_reverse_a_review_of_counterclockwise
@@ -23,11 +23,13 @@ The commonly reported version:
 - Date: 1979.
 - Participants: a very small group of older men, commonly reported as eight men in their 70s or older.
 - Setting: a retreat / converted monastery in New Hampshire.
-- Manipulation: the environment was staged as 1959, with period television, radio, newspapers, magazines, conversation topics, and reduced visible reminders of present age.
+- Manipulation: the environment was staged as 1959, with period television, radio, newspapers, magazines, conversation topics, no present-day cues, and, in some popular reports, mirrors removed so participants were not repeatedly cued by their current appearance.
 - Task: the main group was encouraged to speak and act as if it were 1959, not merely reminisce about 1959.
 - Reported effects: improvements in measures such as memory, hearing, vision, posture, dexterity, flexibility, strength, gait, appetite, well-being, and apparent age judgments from photographs.
 
 Reports vary on some details, including whether the intervention lasted five days or a week. Treat the exact popular retellings carefully.
+
+The easy-to-butcher version is: "old lads put in a 1952 village and told they are 25." The cleaner version is: older men in 1979 were placed in a setting designed to evoke 1959, about 20 years earlier, and the key group was asked to live and speak as if that earlier period were present.
 
 ## Why It Matters Here
 
