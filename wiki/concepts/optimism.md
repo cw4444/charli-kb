@@ -31,6 +31,8 @@ The 2025 PNAS work adds a useful nuance: optimism may involve not only expecting
 
 The careful version of the claim is important. Optimism is not the same as denial, and the current evidence does not prove that all optimistic people consciously choose abstract construals for bad outcomes. But it does support the idea that optimism has a representational style, not just a mood label.
 
+Meevissen, Peters, and Alberts's 2011 Best Possible Self study is the clean intervention tile in this part of the floor. Participants spent two weeks doing 5 minutes a day of imagery about a realistic personal, relational, and professional future in which things had gone well. Compared with imagining daily activities, the Best Possible Self condition produced larger increases in self-reported optimism. Small sample, mostly young women, self-report outcomes; still useful. It says future simulation can be trained a bit, not that the universe takes dictation.
+
 Lisa Bortolotti's "Optimism, Agency, and Success" adds a bluntly useful test: does the optimistic belief help the person keep acting as a competent agent? Optimism earns its keep when it supports goal pursuit, persistence, resourcefulness, and recovery after setbacks. It stops earning its keep when it becomes invulnerability fantasy or refusal to prepare.
 
 Bortolotti's extra sting is that "unrealistic" is often the wrong complaint. An optimistic belief may be true by luck but still unwarranted because it came from biased reasoning. The better question is whether the belief helps agency while still allowing enough contact with evidence to correct course.
@@ -49,6 +51,7 @@ Ellen Langer's counterclockwise aging study belongs on the outer edge of this co
 
 - `Adaptive optimism`: positive future orientation that still updates from evidence.
 - `Agency-supporting optimism`: positive belief that helps someone keep trying, noticing options, and using available resources.
+- `Best possible self imagery`: a short future-imagery intervention that can raise self-reported optimism in controlled studies.
 - `Counterfactual gratitude`: noticing bad outcomes that did not occur, without pretending everything is fine.
 - `Embodied belief updating`: bodily systems such as vestibular input can perturb risk estimates and self-evaluation.
 - `Sleep-health association`: optimism is associated with lower insomnia risk in at least one population survey, but causality and mechanisms remain open.

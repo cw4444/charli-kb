@@ -56,6 +56,12 @@ That gives a plausible cognitive bridge:
 
 Rick Hanson sits near this part of the map. His "taking in the good" approach is basically an attempt to stop ordinary positive experiences from sliding off the mind too quickly. A 2021 paper linked to that framework reported improvements in positive emotions and related resource measures after a structured course, though that should be treated as suggestive intervention evidence rather than a settled general solution.
 
+Meevissen, Peters, and Alberts 2011 is more directly on point for trainable optimism. In a randomized two-week study, participants who imagined a Best Possible Self for 5 minutes per day showed larger increases in self-reported optimism than participants who imagined daily activities. The effect remained after controlling for positive mood, which matters because otherwise the boring skeptic objection would be "they just felt cheerful for a minute." Fair objection, wrong enough here to be useful.
+
+The useful mechanism is not cosmic ordering. The BPS task asks people to construct a realistic future across personal, relational, and professional domains, then rehearse it vividly. That fits the broader future-simulation picture: if positive futures become more vivid, concrete, and available, the system may treat them as more usable guides for action.
+
+The caveats are not decorative trim. The sample was small, mostly female, young, and highly educated; the measures were self-report; demand effects remain possible; and the study did not show long-term health, sleep, or behavior outcomes.
+
 ### 5. Repetitive negative thinking looks like an opposing process
 
 The older-adult repetitive negative thinking literature is relevant here because it describes a style of future- and self-focused cognition that is hard to control and repeatedly negative.
@@ -119,6 +125,7 @@ The most defensible synthesis is that optimism is a representational style.
 It seems to involve:
 
 - more vivid, emotionally meaningful simulation of positive futures
+- some short-term trainability through structured Best Possible Self imagery
 - cleaner separation between positive and negative possibilities
 - some degree of emotional distancing from negative futures
 - weaker incorporation of some forms of bad news
@@ -141,6 +148,7 @@ The bills still exist. The better version of optimism is not pretending they do 
 - The literature does not show that toxic positivity is healthy.
 - Schacter and Addis explicitly leave room for realism or pessimism when negative outcomes are likely or preparation matters.
 - The literature does not yet show that training vivid positive imagery alone reliably produces lasting healthy optimism in everyday life.
+- Best Possible Self imagery has short-term intervention evidence, but it is not proof of durable life change or downstream health benefits.
 - The older-adult repetitive negative thinking findings are important, but the 2025 study is cross-sectional and should not be read as causal proof.
 - The "negative events are represented more abstractly" point is plausible and source-backed, but still stronger as a working interpretation than as a settled law.
 - The positive-illusions literature is historically important but contested, so it should be used as a framing argument, not as a trump card.
@@ -159,6 +167,7 @@ The bills still exist. The better version of optimism is not pretending they do 
 ## Open Questions
 
 - What is the best intervention target: imagery vividness, attentional habits, belief updating, or rumination reduction?
+- Do Best Possible Self effects persist after practice stops, and do they change behavior rather than only self-reported optimism?
 - How much optimism is helpful before it starts degrading preparedness?
 - Are neural optimism signatures stable traits, trainable habits, or both?
 - Can people train opportunity-detection without becoming credulous or overconfident?

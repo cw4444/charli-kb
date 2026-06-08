@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-08] research | best possible self optimism imagery
+- Sources: Meevissen, Peters, and Alberts, [Become more optimistic by imagining a best possible self](https://doi.org/10.1016/j.jbtep.2011.02.012), *Journal of Behavior Therapy and Experimental Psychiatry*, 2011; Maastricht University portal PDF, accessed 2026-06-08.
+- Pages created: none
+- Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added Best Possible Self imagery as a short intervention anchor: 5 minutes per day for two weeks increased self-reported optimism more than daily-activity imagery, with effects not explained away by positive mood. Preserved caveats around small mostly young female educated sample, self-report measures, demand effects, and no proof of long-term behavior or health change.
+
 ## [2026-06-08] research | optimism and insomnia association
 - Sources: Weitzer et al., [The contribution of dispositional optimism to understanding insomnia symptomatology](https://doi.org/10.1111/jsr.13132), *Journal of Sleep Research*, 2021; open-access PMC record, accessed 2026-06-08.
 - Pages created: none

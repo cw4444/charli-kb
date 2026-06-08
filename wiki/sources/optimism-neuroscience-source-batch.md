@@ -6,6 +6,9 @@ created: 2026-05-12
 updated: 2026-06-08
 source_type: public-research-batch
 authors:
+  - Yvo M. C. Meevissen
+  - Madelon L. Peters
+  - Hugo J. E. M. Alberts
   - Jakob Weitzer
   - Kyriaki Papantoniou
   - Clara Lazaro-Sebastia
@@ -35,6 +38,7 @@ primary_sources:
   - "Bortolotti, Ethical Theory and Moral Practice, 2018, Optimism, Agency, and Success, https://doi.org/10.1007/s10677-018-9894-6"
   - "McKay et al., Cortex, 2013, Vestibular stimulation attenuates unrealistic optimism, https://doi.org/10.1016/j.cortex.2013.04.005"
   - "Weitzer et al., Journal of Sleep Research, 2021, The contribution of dispositional optimism to understanding insomnia symptomatology: Findings from a cross-sectional population study in Austria, https://doi.org/10.1111/jsr.13132"
+  - "Meevissen, Peters, and Alberts, Journal of Behavior Therapy and Experimental Psychiatry, 2011, Become more optimistic by imagining a best possible self: Effects of a two week intervention, https://doi.org/10.1016/j.jbtep.2011.02.012"
 counterpoint_sources:
   - "Colvin and Block, Psychological Bulletin, 1994, Do positive illusions foster mental health? An examination of the Taylor and Brown formulation, https://doi.org/10.1037/0033-2909.116.1.3"
   - "Taylor and Brown, Psychological Bulletin, 1994, Positive illusions and well-being revisited: separating fact from fiction, https://doi.org/10.1037/0033-2909.116.1.21"
@@ -60,7 +64,7 @@ sources:
 ## Metadata
 
 - Topic: optimism as a cognitive and neural style rather than a manifestation claim
-- Scope: future-event simulation, optimism bias, belief updating, mental imagery, repetitive negative thinking, and sleep/insomnia associations
+- Scope: future-event simulation, optimism bias, belief updating, mental imagery interventions, repetitive negative thinking, and sleep/insomnia associations
 - Access note: this page keeps original synthesis and metadata only. It does not reproduce paywalled text. `raw/optimistic-brain.pdf` is treated as local access-controlled source material. `raw/Optimism, Agency, and Success.pdf` is an open-access PDF of Bortolotti's article and remains ignored by git with the rest of `raw/`.
 
 ## Core Primary-Source Claims
@@ -80,6 +84,8 @@ Schacter and Addis 2007, "The optimistic brain," is a short News & Views article
 The local PDF adds a useful caveat for this wiki: Schacter and Addis do not treat optimism as an unconditional good. They connect optimism's risks to misleading rosy outlooks, poor preparedness, and cases where more realistic or pessimistic expectations can be adaptive. This supports the current wiki boundary: healthy optimism needs calibration, not a permanent ban on negative prediction.
 
 Ji, Holmes, and Blackwell 2017 links optimism to imagery vividness in a clinical population. In depressed adults, greater vividness of positive prospective imagery was associated with greater current optimism and predicted greater optimism months later.
+
+Meevissen, Peters, and Alberts 2011 provides a compact intervention anchor for the "best possible self" method. Fifty-four mostly young, well-educated Dutch-speaking participants were randomly assigned to imagine either a best possible self (BPS) or daily activities (DA). After an initial writing-and-imagery session, participants were instructed to practice 5 minutes of imagery daily for two weeks. BPS imagery produced larger increases in optimism than DA imagery after one session and across the two-week period, and the optimism effect remained after controlling for changes in positive mood. The study also found some generalization toward optimistic explanatory style, but with limits: the sample was small and mostly female, the outcomes were self-report, demand effects could not be ruled out, and it did not show downstream behavior or health benefits.
 
 Hanson et al. 2021 is relevant because it tries to move from general positivity talk to an intervention logic. The paper argues that people can become more active agents in learning from beneficial experiences, and reports that participants in a "Taking in the Good" course showed increases in composite measures of cognitive resources, positive emotions, and total happiness, plus decreases in negative emotions, with effects persisting two months later. This is not the same as proving a general optimism cure, but it is a useful bridge from negativity-bias theory to practice.
 
@@ -121,6 +127,7 @@ That last step is partly interpretive. The PNAS result shows clearer neural sepa
 Taken together, the sources suggest that optimism is not best understood as magic positive thinking or blind denial. It looks more like a package of cognitive habits and representational tendencies:
 
 - vivid and emotionally engaging simulation of desired futures
+- structured "best possible self" imagery that can raise self-reported optimism over short intervals
 - stronger segregation between desirable and undesirable future scenarios
 - selective updating in response to bad news
 - less immersion in repetitive negative loops
@@ -151,6 +158,10 @@ Optimistic belief that helps a person keep acting, trying, asking, noticing, pre
 
 This overlaps with preparedness, hardiness, sense of coherence, self-efficacy, and self-affirmation. The common thread is not "feel good." It is resourceful action under pressure.
 
+### Best possible self imagery
+
+A short intervention where a person writes and imagines a realistic future in which important personal, relational, and professional goals have worked out well. Meevissen et al. tested this as 5 minutes of daily imagery over two weeks and found larger self-reported optimism increases than a daily-activities imagery control. This belongs with trainable future simulation, not with manifestation: the mechanism is rehearsing desirable, attainable futures so the cognitive system can represent them more vividly and usefully.
+
 ### Unrealistic optimism
 
 Expecting a better personal future than the evidence warrants. This can sometimes help motivation, but it can also impair risk preparation and learning.
@@ -176,6 +187,7 @@ Weitzer et al.'s Austrian survey links higher dispositional optimism with lower 
 - The literature does not show that optimism means ignoring reality.
 - The literature does not show that all positive illusions are healthy.
 - The literature does not show that vivid positive imagery alone causes broad life improvement.
+- The best-possible-self intervention increased short-term self-reported optimism in a small mostly young female sample. It did not prove long-term personality change, behavior change, or health improvement.
 - Schacter and Addis explicitly leave room for realism or pessimism when preparedness matters.
 - The Hanson intervention paper is interesting, but it is not strong evidence for a universal everyday optimism protocol.
 - Bortolotti's agency argument does not mean every optimistic distortion helps; some produce invulnerability fantasy, poor preparation, or disengagement after failure.
