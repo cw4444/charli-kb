@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-08] concept | social reality pressure and Asch conformity
+- Sources: Solomon Asch, [Opinions and Social Pressure](https://doi.org/10.1038/scientificamerican1155-31), *Scientific American*, 1955; Solomon Asch, [Studies of Independence and Conformity: I. A Minority of One Against a Unanimous Majority](https://doi.org/10.1037/h0093718), *Psychological Monographs*, 1956; Bond and Smith, [Culture and conformity](https://doi.org/10.1037/0033-2909.119.1.111), *Psychological Bulletin*, 1996.
+- Pages created: [Asch Conformity And Social Pressure](sources/asch-conformity-social-pressure.md), [Social Reality Pressure](concepts/social-reality-pressure.md)
+- Pages updated: [Reality Threshold](concepts/reality-threshold.md), [Practical Agency Inside Constraint](concepts/practical-agency-inside-constraint.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added Asch as the social layer of the constructed-reality lane: public unanimity can pressure judgment or public answer even when perceptual evidence is simple. Preserved caveats around individual variation, culture, era, anonymity, and the difference between private perception and public conformity.
+
 ## [2026-06-08] concept | Adlerian fictional finalism
 - Sources: NCBI Bookshelf, [Adlerian Therapy](https://www.ncbi.nlm.nih.gov/books/NBK599518/); Adler Graduate School, [Alfred Adler: Theory and Application](https://www.alfredadler.edu/about/alfred-adler-theory-application/); Adler Institute, [The Individual Psychology of Alfred Adler](https://adler.institute/wp-content/uploads/2019/01/Individual-Psychology-Alfred-Adler-min.pdf)
 - Pages created: [Fictional Finalism](concepts/fictional-finalism.md)

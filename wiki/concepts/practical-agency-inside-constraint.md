@@ -9,6 +9,7 @@ sources:
   - ../../themes/qbism-adlam-observer-dependent-reality.md
   - mechanical-world-models.md
   - fictional-finalism.md
+  - social-reality-pressure.md
   - ../sources/libet-schurger-readiness-potential-agency.md
   - ../sources/langer-counterclockwise-aging-mindset.md
 ---
@@ -92,6 +93,20 @@ This fits practical agency when the guiding fiction creates better action inside
 
 It fails when the guiding fiction becomes rigid, grandiose, or evidence-proof. The future self is meant to guide action, not become a private dictator in a nice coat.
 
+## Relation To Social Reality Pressure
+
+[Social Reality Pressure](social-reality-pressure.md) is another constraint on agency. Asch's line-judgment experiments show that a unanimous group can make it harder to publicly report what perception says.
+
+The practical lesson is not "be an obstinate genius in every meeting." Spare us. It is to design truth-seeking situations so direct evidence does not have to fight social punishment:
+
+- get private judgments before consensus talk;
+- keep source trails visible;
+- make dissent less costly;
+- treat one thoughtful disagreement as useful signal, not disloyalty;
+- notice when everyone agrees too quickly.
+
+Agency improves when the social architecture protects reality contact.
+
 ## Relation To Adlam And Global Constraints
 
 Emily Adlam's global-constraint direction is useful here because it weakens the habit of treating reality as a little causal machine pushing forward one moment at a time.
@@ -125,6 +140,7 @@ This is why [Mechanical World Models](mechanical-world-models.md), [Queryable Or
 - Do not say Langer proved aging can be reversed by belief.
 - Do not say determinism is solved by vibes, manifestation, or optimism.
 - Do not say fictional finalism proves manifestation or reality creation.
+- Do not say Asch proves consensus is always false or dissent is always correct.
 - Do not collapse RQM, QBism, Adlam, and category theory into one view.
 - Do not treat "everything is relational" as an excuse for ignoring material constraints.
 - Do not confuse practical agency with total control.
@@ -133,6 +149,7 @@ This is why [Mechanical World Models](mechanical-world-models.md), [Queryable Or
 
 - [Mechanical World Models](mechanical-world-models.md)
 - [Fictional Finalism](fictional-finalism.md)
+- [Social Reality Pressure](social-reality-pressure.md)
 - [Queryable Organization](queryable-organization.md)
 - [Cognitive Latency Shock](cognitive-latency-shock.md)
 - [Libet, Schurger, Readiness Potential, And Agency](../sources/libet-schurger-readiness-potential-agency.md)

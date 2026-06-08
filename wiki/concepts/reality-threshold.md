@@ -3,10 +3,11 @@ title: "Reality Threshold"
 type: concept
 status: draft
 created: 2026-04-28
-updated: 2026-06-01
+updated: 2026-06-08
 sources:
   - ../sources/reality-threshold-dijkstra-batch.md
   - ../sources/wadia-shared-code-perception-imagination.md
+  - ../sources/asch-conformity-social-pressure.md
 ---
 
 # Reality Threshold
@@ -28,6 +29,14 @@ Wadia et al. 2026 adds single-neuron support for the overlap problem: imagined a
 
 Reality threshold does not mean the external world is fake or that all experiences are equally real. It means the felt realness of an experience is constructed by the brain and can sometimes be misclassified.
 
+## Relation To Social Reality Pressure
+
+[Social Reality Pressure](social-reality-pressure.md) adds the group layer. Asch's line-judgment experiments show that public consensus can pressure a person to give a wrong answer even when the perceptual evidence is simple.
+
+That is not the same as hallucination. The person may still see the line correctly. The social world changes the cost of saying so.
+
+For this wiki, Asch is a useful reminder that reality monitoring is not only private signal classification. Humans also use other humans as reality cues, which is sensible right up until a unanimous room confidently points at the wrong line.
+
 ## Relation To Memory And Observer Records
 
 The reality-threshold question is about present classification: does this perceptual or imagined signal feel real?
@@ -41,6 +50,7 @@ The *Black Mirror* episode "Bete Noire" is a cultural illustration of the extrem
 ## Related
 
 - [Perception And Imagination Overlap](perception-and-imagination-overlap.md)
+- [Social Reality Pressure](social-reality-pressure.md)
 - [Wadia Shared Code For Perception And Imagination](../sources/wadia-shared-code-perception-imagination.md)
 - [Interface Theory Of Perception](interface-theory-of-perception.md)
 - [Pluriverse](pluriverse.md)

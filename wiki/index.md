@@ -61,6 +61,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Psychometric Evaluation Of LLM Self-Narratives](sources/psychometric-evaluation-llm-self-narratives.md): source note on a therapy-role and questionnaire study showing cross-model differences in self-narrative, with strict boundaries against diagnosing machine mental illness.
 - [Libet, Schurger, Readiness Potential, And Agency](sources/libet-schurger-readiness-potential-agency.md): source note on Schurger's accumulator model, readiness-potential overclaims, and practical agency inside neural constraint.
 - [Langer Counterclockwise Study And Aging Mindset](sources/langer-counterclockwise-aging-mindset.md): caveat-heavy source note on Ellen Langer's 1979 aging/mindset study, staged 1959 environment, and embodied prediction.
+- [Asch Conformity And Social Pressure](sources/asch-conformity-social-pressure.md): source note on Asch's line-judgment conformity experiments as evidence that unanimous public agreement can pressure judgment even when perceptual evidence is simple.
 - [Positive Alignment: Artificial Intelligence for Human Flourishing](sources/positive-alignment-human-flourishing.md): source note on a 2026 cross-lab agenda to move AI alignment from pure harm-avoidance toward flourishing-supporting positive attractors.
 - [Feynman - Calculation And Reality Stories](sources/feynman-calculation-and-reality-stories.md): source note on using Feynman as a boundary marker between quantum calculation, interpretation, and reality-story creep.
 - [Rovelli And Relational Quantum Mechanics](sources/rovelli-relational-quantum-mechanics.md): source note on RQM as a relation-first interpretation of quantum facts and states.
@@ -92,6 +93,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Queryable Organization](concepts/queryable-organization.md): organization whose work artifacts let humans and agents ask evidence-backed operational questions.
 - [Reality Threshold](concepts/reality-threshold.md): proposed cutoff at which an imagined or perceptual signal is judged as real.
 - [Perception And Imagination Overlap](concepts/perception-and-imagination-overlap.md): model of shared machinery and signal-strength judgments across imagery and perception.
+- [Social Reality Pressure](concepts/social-reality-pressure.md): bridge concept for how public consensus, conformity pressure, and dissent costs can affect judgment even when private perceptual evidence is simple.
 - [Representational Geometry](concepts/representational-geometry.md): concept note on how distributed activity patterns can make variables decodable, separable, generalizable, and usable without one tidy specialized unit.
 - [Interface Theory Of Perception](concepts/interface-theory-of-perception.md): Donald Hoffman's desktop-interface argument that perception may be useful and fitness-shaped without being a literal view of reality-in-itself.
 - [Pluriverse](concepts/pluriverse.md): bridge concept for shared reality built through interlocking situated perspectives, anchored in QBism, participatory realism, and predictive-processing caveats.
