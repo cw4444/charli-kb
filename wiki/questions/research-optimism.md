@@ -9,6 +9,7 @@ sources:
   - ../sources/optimism-neuroscience-source-batch.md
   - ../sources/libet-schurger-readiness-potential-agency.md
   - ../concepts/optimism.md
+  - ../concepts/manifestation-as-behavior-modification.md
 ---
 
 # Research - Optimism
@@ -63,6 +64,8 @@ The useful mechanism is not cosmic ordering. The BPS task asks people to constru
 The caveats are not decorative trim. The sample was small, mostly female, young, and highly educated; the measures were self-report; demand effects remain possible; and the study did not show long-term health, sleep, or behavior outcomes.
 
 Adlerian [Fictional Finalism](../concepts/fictional-finalism.md) is the older conceptual ancestor here. It says behavior can be organized by imagined future goals or guiding self-ideas. That makes Best Possible Self imagery look less like a random positivity trick and more like a structured way of choosing a future-oriented control image. The crucial boundary is that the fiction has to stay revisable. A guiding fiction that refuses evidence stops being agency support and starts becoming private nonsense with stationery.
+
+[Manifestation As Behavior Modification](../concepts/manifestation-as-behavior-modification.md) is the blunt translation layer. "Live in the state of the wish fulfilled" is useful only when it becomes changed attention, changed behaviour, better cues, better practice, and more evidence-sensitive persistence. That overlaps with CBT and positive psychology. It does not prove reality creation. It proves, at most, that humans act differently when they rehearse a different self-model. Annoying, but true.
 
 ### 5. Repetitive negative thinking looks like an opposing process
 
@@ -139,6 +142,7 @@ It seems to involve:
 - more vivid, emotionally meaningful simulation of positive futures
 - some short-term trainability through structured Best Possible Self imagery
 - Adlerian guiding fictions or imagined future goals that organize current behavior
+- manifestation language translated into CBT-adjacent behaviour modification rather than reality creation
 - cleaner separation between positive and negative possibilities
 - some degree of emotional distancing from negative futures
 - weaker incorporation of some forms of bad news
@@ -165,6 +169,7 @@ The bills still exist. The better version of optimism is not pretending they do 
 - The literature does not yet show that training vivid positive imagery alone reliably produces lasting healthy optimism in everyday life.
 - Best Possible Self imagery has short-term intervention evidence, but it is not proof of durable life change or downstream health benefits.
 - Fictional finalism is useful historical scaffolding, not modern neuroscience and not manifestation.
+- Manifestation language is only useful here after translation into attention, behaviour, practice, and evidence-sensitive agency.
 - The older-adult repetitive negative thinking findings are important, but the 2025 study is cross-sectional and should not be read as causal proof.
 - The "negative events are represented more abstractly" point is plausible and source-backed, but still stronger as a working interpretation than as a settled law.
 - The positive-illusions literature is historically important but contested, so it should be used as a framing argument, not as a trump card.

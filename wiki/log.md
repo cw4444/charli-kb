@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-08] concept | manifestation as behavior modification
+- Sources: NHS, [Cognitive behavioural therapy](https://www.nhs.uk/conditions/cognitive-behavioural-therapy-cbt/); APA, [What is Cognitive Behavioral Therapy?](https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral); Carrillo et al., [Effects of the Best Possible Self intervention](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222386), *PLOS One*, 2019.
+- Pages created: [Manifestation As Behavior Modification](concepts/manifestation-as-behavior-modification.md)
+- Pages updated: [Optimism](concepts/optimism.md), [Fictional Finalism](concepts/fictional-finalism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added Charli's translation that much manifestation writing is CBT/positive psychology in costume. Framed "live in the state of the wish fulfilled" as useful only when it cashes out as changed attention, identity rehearsal, behaviour, cues, practice, and evidence-sensitive agency; not reality creation, denial, or cosmic ordering.
+
 ## [2026-06-08] update | counterclockwise study detail clarification
 - Sources: Harvard Magazine, [The Mindfulness Chronicles](https://www.harvardmagazine.com/2010/08/the-mindfulness-chronicles); TIME, [How Your Mindset Can Change How You Age](https://time.com/3706720/how-your-mindset-can-change-how-you-age/)
 - Pages created: none

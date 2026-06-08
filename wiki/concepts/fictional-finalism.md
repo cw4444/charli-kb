@@ -8,6 +8,7 @@ sources:
   - https://www.ncbi.nlm.nih.gov/books/NBK599518/
   - https://www.alfredadler.edu/about/alfred-adler-theory-application/
   - https://adler.institute/wp-content/uploads/2019/01/Individual-Psychology-Alfred-Adler-min.pdf
+  - manifestation-as-behavior-modification.md
 ---
 
 # Fictional Finalism
@@ -68,10 +69,17 @@ The modern self-help version often says some sensible things: future identity ca
 
 Adlerian fictional finalism is the older, more structurally useful version for this wiki because it includes the danger as well as the promise. A future self can guide agency, but it can also become a tyrant, an escape hatch, or a private fiction that refuses correction.
 
+## Relation To Manifestation Language
+
+[Manifestation As Behavior Modification](manifestation-as-behavior-modification.md) is the translation layer. When manifestation writing says "live in the state of the wish fulfilled," the useful reading is not cosmic ordering. It is: rehearse the identity, attention, choices, and environment that would make the desired future more reachable.
+
+That fits fictional finalism when the guiding future changes behaviour. It fails when the person treats the imagined future as proof that evidence, constraints, other people, money, health, or time no longer matter. The wish fulfilled is useful as a control image, not as a forged receipt from reality.
+
 ## Do Not Overclaim
 
 - Do not treat Adlerian psychology as fresh neuroscience.
 - Do not say fictional finalism proves manifestation, reality creation, or mind-over-matter.
+- Do not treat manifestation language as entirely useless; translate the useful parts into cognition, behaviour, attention, and agency.
 - Do not use "fiction" to mean "fake, therefore useless."
 - Do not use "future goal" to erase trauma, material constraint, social structure, illness, or poverty.
 - Do not treat all pessimism as maladaptive; some future-negative simulation supports preparation.
@@ -80,6 +88,7 @@ Adlerian fictional finalism is the older, more structurally useful version for t
 ## Related
 
 - [Optimism](optimism.md)
+- [Manifestation As Behavior Modification](manifestation-as-behavior-modification.md)
 - [Research - Optimism](../questions/research-optimism.md)
 - [Practical Agency Inside Constraint](practical-agency-inside-constraint.md)
 - [Langer Counterclockwise Study And Aging Mindset](../sources/langer-counterclockwise-aging-mindset.md)

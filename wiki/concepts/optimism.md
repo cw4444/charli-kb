@@ -8,6 +8,7 @@ sources:
   - ../sources/optimism-neuroscience-source-batch.md
   - ../sources/libet-schurger-readiness-potential-agency.md
   - ../sources/langer-counterclockwise-aging-mindset.md
+  - manifestation-as-behavior-modification.md
 ---
 
 # Optimism
@@ -34,6 +35,8 @@ The careful version of the claim is important. Optimism is not the same as denia
 Meevissen, Peters, and Alberts's 2011 Best Possible Self study is the clean intervention tile in this part of the floor. Participants spent two weeks doing 5 minutes a day of imagery about a realistic personal, relational, and professional future in which things had gone well. Compared with imagining daily activities, the Best Possible Self condition produced larger increases in self-reported optimism. Small sample, mostly young women, self-report outcomes; still useful. It says future simulation can be trained a bit, not that the universe takes dictation.
 
 Adlerian [Fictional Finalism](fictional-finalism.md) gives an older historical name for the same broad pattern: people are partly guided by imagined future goals or guiding self-ideas. "Fictional" does not mean useless lie. It means an imagined endpoint can organize present behavior before it is literally true. The good version helps agency and evidence-sensitive action. The bad version becomes a rigid private fantasy with a motivational speaker's haircut.
+
+This is also the salvageable core inside some manifestation writing. "Live in the state of the wish fulfilled" is useful if it means behaviour modification: act from the cues, identity, routines, and expectations that make the desired future more reachable. It is useless if it means deny evidence and wait for cosmic customer service. See [Manifestation As Behavior Modification](manifestation-as-behavior-modification.md).
 
 Lisa Bortolotti's "Optimism, Agency, and Success" adds a bluntly useful test: does the optimistic belief help the person keep acting as a competent agent? Optimism earns its keep when it supports goal pursuit, persistence, resourcefulness, and recovery after setbacks. It stops earning its keep when it becomes invulnerability fantasy or refusal to prepare.
 
@@ -70,5 +73,6 @@ Ellen Langer's counterclockwise aging study belongs on the outer edge of this co
 ## Related
 
 - [Research - Optimism](../questions/research-optimism.md)
+- [Manifestation As Behavior Modification](manifestation-as-behavior-modification.md)
 - [Fictional Finalism](fictional-finalism.md)
 - [Langer Counterclockwise Study And Aging Mindset](../sources/langer-counterclockwise-aging-mindset.md)
