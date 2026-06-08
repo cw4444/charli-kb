@@ -3,9 +3,15 @@ title: "Optimism Neuroscience Source Batch"
 type: source
 status: draft
 created: 2026-05-12
-updated: 2026-06-01
+updated: 2026-06-08
 source_type: public-research-batch
 authors:
+  - Jakob Weitzer
+  - Kyriaki Papantoniou
+  - Clara Lazaro-Sebastia
+  - Stefan Seidel
+  - Gerhard Klosch
+  - Eva Schernhammer
   - Tali Sharot
   - Daniel L. Schacter
   - Kuniaki Yanagisawa
@@ -28,6 +34,7 @@ primary_sources:
   - "Weinstein, Journal of Behavioral Medicine, 1987, Unrealistic optimism about susceptibility to health problems: conclusions from a community-wide sample, https://doi.org/10.1007/BF00846146"
   - "Bortolotti, Ethical Theory and Moral Practice, 2018, Optimism, Agency, and Success, https://doi.org/10.1007/s10677-018-9894-6"
   - "McKay et al., Cortex, 2013, Vestibular stimulation attenuates unrealistic optimism, https://doi.org/10.1016/j.cortex.2013.04.005"
+  - "Weitzer et al., Journal of Sleep Research, 2021, The contribution of dispositional optimism to understanding insomnia symptomatology: Findings from a cross-sectional population study in Austria, https://doi.org/10.1111/jsr.13132"
 counterpoint_sources:
   - "Colvin and Block, Psychological Bulletin, 1994, Do positive illusions foster mental health? An examination of the Taylor and Brown formulation, https://doi.org/10.1037/0033-2909.116.1.3"
   - "Taylor and Brown, Psychological Bulletin, 1994, Positive illusions and well-being revisited: separating fact from fiction, https://doi.org/10.1037/0033-2909.116.1.21"
@@ -43,6 +50,7 @@ commentary_sources:
   - "Rick Hanson, How to Take in the Good, 2017, https://rickhanson.com/how-to-take-in-the-good/"
 sources:
   - "Public web research, accessed 2026-05-12"
+  - "Public web research, accessed 2026-06-08"
   - "../../raw/optimistic-brain.pdf"
   - "../../raw/Optimism, Agency, and Success.pdf"
 ---
@@ -52,7 +60,7 @@ sources:
 ## Metadata
 
 - Topic: optimism as a cognitive and neural style rather than a manifestation claim
-- Scope: future-event simulation, optimism bias, belief updating, mental imagery, and repetitive negative thinking
+- Scope: future-event simulation, optimism bias, belief updating, mental imagery, repetitive negative thinking, and sleep/insomnia associations
 - Access note: this page keeps original synthesis and metadata only. It does not reproduce paywalled text. `raw/optimistic-brain.pdf` is treated as local access-controlled source material. `raw/Optimism, Agency, and Success.pdf` is an open-access PDF of Bortolotti's article and remains ignored by git with the rest of `raw/`.
 
 ## Core Primary-Source Claims
@@ -84,6 +92,8 @@ Bortolotti 2018 adds the agency criterion. Her argument is not that optimistic b
 The raw PDF sharpens two useful distinctions. First, Bortolotti argues that optimistic beliefs are not necessarily illusory because they are false; the epistemic problem can be that they are unwarranted or produced by biased reasoning. Second, she rejects both the simple "true beliefs are always better" view and the simple "small distortions are adaptive" trade-off view. Her third view is agency-based: the beliefs that matter are those that sustain motivation at critical times, especially through a sense of competence, control, efficacy, and desirable/attainable goals.
 
 McKay et al. 2013 is the cold-water-in-the-ear counterweight. The paper builds on a 2010 Nature Precedings report from University Hospital Zurich, University of Zurich / ETH Zurich, Oxford-linked authors, and collaborators. In 31 healthy right-handed adults, cold-water caloric vestibular stimulation of the left ear, but not the right ear, raised participants' estimates of their own future illness risk relative to baseline. The authors interpret this as selective attenuation of unrealistic optimism, possibly via right inferior frontal mechanisms also implicated in anosognosia.
+
+Weitzer et al. 2021 adds a sleep-health association. In the Austrian Sleep Survey, a population-based cross-sectional online survey of 1,004 adults aged 18 to 65, dispositional optimism was measured with the Life Orientation Test-Revised and insomnia was assessed with several chronic-insomnia definitions based on ICSD-3 criteria. Compared with the least optimistic tertile, intermediate and most optimistic participants had lower odds of chronic insomnia under the exact definition after age, sex, education, and work-status adjustment (OR 0.39 and OR 0.28 respectively). Similar patterns appeared across insomnia definitions, though the association was weaker for physician-diagnosed insomnia. Happiness, depression, and self-rated health confounded or mediated much of the association; lifestyle variables did not explain it in the same way. This is useful evidence that optimism sits near sleep, affect, and health, but it is cross-sectional and cannot show that optimism prevents insomnia.
 
 ## Counterweight Sources
 
@@ -117,6 +127,7 @@ Taken together, the sources suggest that optimism is not best understood as magi
 - agency-supporting beliefs that preserve action after setback
 - attentional openness to unexpected opportunity
 - bodily perturbation of risk belief and self-evaluation
+- lower reported insomnia risk in at least one population survey, entangled with happiness, depression, and health
 
 Taylor and Brown matter here because they widen the frame: mild positive distortions may sometimes help people function, persist, create, and cope. But the counter-literature matters just as much: once optimism drifts into overconfidence, risk neglect, or refusal to update from evidence, it stops looking like resilience and starts looking like error management gone wrong.
 
@@ -156,6 +167,10 @@ Refusal or failure to register relevant negative evidence. This is not the same 
 
 McKay et al.'s caloric vestibular stimulation result suggests that optimism bias is not just a proposition floating in the mind. Body-based vestibular stimulation can temporarily shift illness-risk estimates. That belongs in this package as a reminder that belief updating is embodied, lateralized, and perturbable, not just a motivational slogan in a nicer font.
 
+### Sleep association
+
+Weitzer et al.'s Austrian survey links higher dispositional optimism with lower chronic-insomnia risk. Treat this as correlation with useful mechanism questions, not causal proof. The study itself points toward happiness, depression, and health status as important explanatory neighbours, which means optimism may be part of a broader affect-health-sleep loop rather than a single magic lever.
+
 ## Do Not Overclaim
 
 - The literature does not show that optimism means ignoring reality.
@@ -167,6 +182,7 @@ McKay et al.'s caloric vestibular stimulation result suggests that optimism bias
 - Bortolotti does not say epistemic irrationality is harmless. Her point is that the link between belief accuracy and success is mediated by agency, motivation, and action.
 - Wiseman's newspaper experiment should be treated as attention/opportunity evidence, not a proof that lucky identity controls external events.
 - The vestibular-stimulation result was small and specific: healthy right-handed adults estimating illness risk during caloric stimulation. Do not generalize it to all optimism, all denial, or a home anti-delusion protocol. Leave people's ears alone.
+- The Austrian insomnia study is cross-sectional and self-report-heavy. It does not show that optimism training cures insomnia, and it does not replace proper sleep medicine, CBT-I, or medical care.
 - The 2025 RNT paper is cross-sectional, so it does not establish that repetitive negative thinking causes cognitive decline.
 - The "abstract negative events create emotional distance" claim is best treated as a source-grounded interpretation, not a settled mechanism.
 - The Taylor and Brown position is historically influential, but it remains debated rather than canonically settled.
@@ -177,6 +193,7 @@ McKay et al.'s caloric vestibular stimulation result suggests that optimism bias
 - Can people be trained to simulate positive futures vividly without also becoming worse at integrating negative evidence?
 - Is repetitive negative thinking a cause of cognitive decline, an early symptom, or both?
 - Which interventions best shift future thinking: imagery training, attentional control, cognitive reappraisal, behavioral activation, or social context?
+- Does increasing optimism improve sleep prospectively, or do better sleep, better health, and lower depression make optimism easier to sustain?
 
 ## Useful For
 

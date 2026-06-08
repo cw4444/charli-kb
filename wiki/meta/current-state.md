@@ -3,7 +3,7 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-06-06
+updated: 2026-06-08
 ---
 
 # Current State
@@ -42,6 +42,8 @@ This repo is a plain Markdown personal knowledge base based on Karpathy's LLM Wi
 - The durable subject lanes are AI, reality, neuroscience, and their overlap: perception, belief, expectation, action, agents, knowledge systems, reality monitoring, embodiment, cellular maintenance, and related source-backed concepts.
 
 ## Latest Session Handoff
+
+On 2026-06-08, Charli linked Weitzer et al.'s Journal of Sleep Research paper [The contribution of dispositional optimism to understanding insomnia symptomatology](https://doi.org/10.1111/jsr.13132). Codex folded it into the existing optimism package rather than creating a standalone page: [Optimism Neuroscience Source Batch](../sources/optimism-neuroscience-source-batch.md), [Optimism](../concepts/optimism.md), and [Research - Optimism](../questions/research-optimism.md). Keep the framing narrow: the Austrian Sleep Survey found lower adjusted odds of chronic insomnia among more optimistic adults, but it was cross-sectional and entangled with happiness, depression, and health status. This is sleep-affect-health-loop evidence, not a bedtime manifestation protocol.
 
 On 2026-06-06, Charli pointed to `raw/2026-06-06-ai-digest.md`, a quiet Saturday digest. Codex verified GitHub's [Enterprise-managed plugins in VS Code in public preview](https://github.blog/changelog/2026-06-05-enterprise-managed-plugins-in-vs-code-in-public-preview/) and folded it into [Agent Security Infrastructure 2026](../sources/agent-security-infrastructure-2026.md) plus [AI And Agents 2026 Timeline](../timelines/ai-and-agents-2026.md). Keep the framing narrow: this is agent-governance plumbing, not a standalone product monument. The durable point is that Copilot plugins, hooks, and MCP settings are becoming centrally distributed enterprise infrastructure across VS Code and Copilot CLI. The Microsoft Finland data-centre/pricing chatter did not appear in the raw digest and was not promoted in this pass.
 

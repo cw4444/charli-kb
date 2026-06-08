@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-08] research | optimism and insomnia association
+- Sources: Weitzer et al., [The contribution of dispositional optimism to understanding insomnia symptomatology](https://doi.org/10.1111/jsr.13132), *Journal of Sleep Research*, 2021; open-access PMC record, accessed 2026-06-08.
+- Pages created: none
+- Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added the Austrian Sleep Survey finding that higher dispositional optimism was associated with lower adjusted odds of chronic insomnia in a cross-sectional sample of 1,004 adults. Preserved the boundary: this supports a sleep-affect-health association, not causal proof that optimism prevents insomnia or a replacement for sleep medicine.
+
 ## [2026-06-06] research | AI compute infrastructure constraints
 - Sources: OpenAI, [Introducing Stargate UK](https://openai.com/index/introducing-stargate-uk/); GOV.UK, [US-UK pact will boost advances in drug discovery, create tens of thousands of jobs and transform lives](https://www.gov.uk/government/news/us-uk-pact-will-boost-advances-in-drug-discovery-create-tens-of-thousands-of-jobs-and-transform-lives); Reuters via Investing.com, [OpenAI pauses UK data centre project over regulation, costs](https://www.investing.com/news/economy-news/openai-pauses-uk-data-centre-project-over-regulation-costs-4605976); Computer Weekly, [OpenAI pauses Stargate UK: Sudden setback or calculated move?](https://www.computerweekly.com/news/366641483/OpenAI-pauses-Stargate-UK-Sudden-setback-or-calculated-move); Microsoft Source EMEA, [Microsoft signed preliminary agreement on acquisition of approximately 190 hectares of land in Vaasa and Mustasaari](https://news.microsoft.com/source/emea/2026/06/microsoft-signed-preliminary-agreement-on-acquisition-of-approximately-190-hectares-of-land-in-vaasa-and-mustasaari-on-the-west-coast-of-finland/)
 - Pages created: [AI Compute Infrastructure Constraints 2026](sources/ai-compute-infrastructure-constraints-2026.md)

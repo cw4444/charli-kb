@@ -3,7 +3,7 @@ title: "Optimism"
 type: concept
 status: draft
 created: 2026-05-12
-updated: 2026-06-01
+updated: 2026-06-08
 sources:
   - ../sources/optimism-neuroscience-source-batch.md
   - ../sources/libet-schurger-readiness-potential-agency.md
@@ -41,6 +41,8 @@ Richard Wiseman's newspaper task is the attention version of the same point. Peo
 
 Charli's pessimist-friendly gratitude practice belongs here too: notice the bad things that could have happened today and did not. This is not toxic positivity. It is counterfactual attention. The threat-scanning brain is allowed to stay realistic, but it has to count the avoided harms as part of the evidence.
 
+The 2021 Austrian Sleep Survey adds a practical health adjacent piece: higher dispositional optimism was associated with lower odds of chronic insomnia in a cross-sectional sample of 1,004 adults. The useful interpretation is not "optimism fixes sleep." It is that optimism, affect, health status, depression, and sleep may form a loop where future expectation and night-time regulation keep leaning on each other like tired office furniture. Useful, but not magic. See a doctor, do CBT-I, stop trying to spiritually negotiate with 3 a.m.
+
 Ellen Langer's counterclockwise aging study belongs on the outer edge of this concept. Its evidence is caveat-heavy, but the useful bridge is that expectation, role, environment, and available action may change what the body actually does. Optimism is not only a thought about the future; it can be an action-setting that changes posture, effort, search, and willingness to use capacities.
 
 ## Related Distinctions
@@ -49,6 +51,7 @@ Ellen Langer's counterclockwise aging study belongs on the outer edge of this co
 - `Agency-supporting optimism`: positive belief that helps someone keep trying, noticing options, and using available resources.
 - `Counterfactual gratitude`: noticing bad outcomes that did not occur, without pretending everything is fine.
 - `Embodied belief updating`: bodily systems such as vestibular input can perturb risk estimates and self-evaluation.
+- `Sleep-health association`: optimism is associated with lower insomnia risk in at least one population survey, but causality and mechanisms remain open.
 - `Unrealistic optimism`: better-than-warranted expectation about future outcomes.
 - `Positive illusions`: broader set of positively biased self, control, and future judgments.
 - `Denial`: defensive non-registration or rejection of important negative evidence.

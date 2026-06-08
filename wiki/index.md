@@ -55,7 +55,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Antikythera Mechanism Source Batch](sources/antikythera-mechanism-source-batch.md): public-source research note on the Antikythera mechanism as an ancient geared astronomical calculator and anchor example for mechanical world-models.
 - [Michael Levin - Unconventional Cognition And AI](sources/michael-levin-unconventional-cognition.md): commentary source note on Levin's spectrum-of-cognition framing, AI as unfamiliar embodiment, and why substrate descriptions can be true but incomplete.
 - [Devs - Prediction, Determinism, And Acceleration](sources/devs-prediction-determinism.md): cultural reference note on prediction machines, many-worlds, grief, determinism, and acceleration shock.
-- [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md): public-source research note on optimism bias, future simulation, belief updating, positive imagery, and repetitive negative thinking.
+- [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md): public-source research note on optimism bias, future simulation, belief updating, positive imagery, repetitive negative thinking, agency, embodiment, and sleep/insomnia associations.
 - [Moretto et al. - Tau, Axonal Transport, And p38α](sources/moretto-tau-axonal-transport-p38alpha.md): source note on early tau-related axonal transport deficits, enlarged tau envelopes, and p38α inhibition in mouse models.
 - [Representational Geometry In Brains And LLMs](sources/representational-geometry-brains-and-llms.md): source note comparing emotional-state geometry in mouse amygdala with sparse-autoencoder concept geometry in LLMs, with strict boundaries around mechanism and experience.
 - [Psychometric Evaluation Of LLM Self-Narratives](sources/psychometric-evaluation-llm-self-narratives.md): source note on a therapy-role and questionnaire study showing cross-model differences in self-narrative, with strict boundaries against diagnosing machine mental illness.
@@ -95,7 +95,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Representational Geometry](concepts/representational-geometry.md): concept note on how distributed activity patterns can make variables decodable, separable, generalizable, and usable without one tidy specialized unit.
 - [Interface Theory Of Perception](concepts/interface-theory-of-perception.md): Donald Hoffman's desktop-interface argument that perception may be useful and fitness-shaped without being a literal view of reality-in-itself.
 - [Pluriverse](concepts/pluriverse.md): bridge concept for shared reality built through interlocking situated perspectives, anchored in QBism, participatory realism, and predictive-processing caveats.
-- [Optimism](concepts/optimism.md): future-oriented cognitive style tied to vivid positive simulation, selective updating, representational distance from negative futures, agency, opportunity attention, and counterfactual gratitude.
+- [Optimism](concepts/optimism.md): future-oriented cognitive style tied to vivid positive simulation, selective updating, representational distance from negative futures, agency, opportunity attention, counterfactual gratitude, and sleep-health associations.
 - [Positive Alignment](concepts/positive-alignment.md): AI-alignment agenda that aims beyond "not unsafe" toward constructive, flourishing-supportive behavioral attractors.
 - [Practical Agency Inside Constraint](concepts/practical-agency-inside-constraint.md): Charli's working interpretation of agency as model-improvement and intervention inside relational, neural, and practical constraint.
 - [Sidequest Prototyping](concepts/sidequest-prototyping.md): low-permission prototypes judged by actual adoption rather than roadmap speculation.
@@ -122,7 +122,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [How Should charli-kb Triage Notion Dumps?](questions/how-should-charli-kb-triage-notion-dumps.md): criteria for deciding what earns a place in the wiki.
 - [How Should charli-kb Work With Agents?](questions/how-should-charli-kb-work-with-agents.md): working loop for maintaining this repo with AI agents.
 - [How Should charli-kb Handle Video Sources?](questions/how-should-charli-kb-handle-video-sources.md): policy for deciding when a full video transcript is necessary.
-- [Research - Optimism](questions/research-optimism.md): bounded neuroscience-focused research note on optimism, future thinking, and repetitive negative thinking.
+- [Research - Optimism](questions/research-optimism.md): bounded neuroscience-focused research note on optimism, future thinking, repetitive negative thinking, agency, embodiment, and insomnia-risk associations.
 
 ## Meta
 

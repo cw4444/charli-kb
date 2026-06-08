@@ -3,7 +3,7 @@ title: "Research - Optimism"
 type: question
 status: draft
 created: 2026-05-12
-updated: 2026-06-01
+updated: 2026-06-08
 question: "What does public neuroscience and adjacent cognitive research suggest about optimism?"
 sources:
   - ../sources/optimism-neuroscience-source-batch.md
@@ -102,6 +102,16 @@ McKay et al. 2013 is the glorious cold-water-in-the-ear paper. Thirty-one health
 
 Use this as embodied cognition evidence, not as a life hack. The point is that optimism bias is not only a verbal belief or social attitude. It can be perturbed through bodily/vestibular systems, which makes the "human lump of custard" model even more annoying and more interesting.
 
+### 11. Optimism is linked with lower insomnia risk, but the causal arrow is not settled
+
+Weitzer et al. 2021 studied 1,004 adults in the Austrian Sleep Survey. Dispositional optimism was measured with the Life Orientation Test-Revised, and chronic insomnia was assessed using several definitions based on ICSD-3 criteria.
+
+The headline result is strong enough to keep: compared with the least optimistic participants, the intermediate and most optimistic groups had lower adjusted odds of chronic insomnia under the strict definition. The pattern was broadly similar across insomnia definitions, though weaker for physician-diagnosed insomnia.
+
+The caveat is doing real work here. This was cross-sectional, so it cannot show whether optimism reduces insomnia, whether better sleep makes optimism easier, or whether both are being pushed around by health, depression, happiness, stress, and life circumstances. The authors found that happiness, depression, and health status substantially affected the association, while lifestyle variables did not explain it in the same way.
+
+So this belongs in the "cheat code" pile only if "cheat code" means a plausible modifiable psychological asset sitting inside a sleep-affect-health loop. It does not mean bedtime manifestation. The pillow remains unimpressed by slogans.
+
 ## Working Interpretation
 
 The most defensible synthesis is that optimism is a representational style.
@@ -116,6 +126,7 @@ It seems to involve:
 - attentional openness to unexpected opportunity
 - counterfactual noticing of harms that did not happen
 - embodied perturbability of risk estimates and self-evaluation
+- sleep and affect regulation, with optimism associated with lower insomnia risk in observational work
 
 This can be adaptive because it supports motivation, resilience, and goal pursuit. It can also become maladaptive if it blocks realistic preparation or error correction.
 
@@ -138,6 +149,7 @@ The bills still exist. The better version of optimism is not pretending they do 
 - Wiseman's luck work is best read as attention and opportunity detection, not fate bending.
 - Counterfactual gratitude should not become "other people have it worse." The point is evidence calibration, not guilt.
 - The vestibular-stimulation finding is specific and weird: illness-risk estimates during caloric stimulation, not a universal cure for delusion or optimism bias.
+- The insomnia finding is observational. It supports a link between optimism and sleep health, not an optimism cure for insomnia.
 
 ## Sources
 
@@ -152,3 +164,4 @@ The bills still exist. The better version of optimism is not pretending they do 
 - Can people train opportunity-detection without becoming credulous or overconfident?
 - Can counterfactual gratitude help pessimists recalibrate threat prediction without suppressing useful caution?
 - Which optimism biases are primarily motivational, which are attentional, and which are strongly bodily/vestibular or interoceptive?
+- In sleep research, does optimism predict better future sleep after depression, health, stress, and baseline sleep are handled properly?
