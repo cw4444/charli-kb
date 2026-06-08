@@ -37,6 +37,8 @@ Lisa Bortolotti's "Optimism, Agency, and Success" adds a bluntly useful test: do
 
 Bortolotti's extra sting is that "unrealistic" is often the wrong complaint. An optimistic belief may be true by luck but still unwarranted because it came from biased reasoning. The better question is whether the belief helps agency while still allowing enough contact with evidence to correct course.
 
+Kahle Monahan, Chang, Yu, and Yu's Wiley encyclopedia chapter is useful as map-level scaffolding: optimism and pessimism are not just pleasant and unpleasant moods, but future-expectancy styles tied to motivation. The practical implication is that pessimism is not always stupidity or weakness. Sometimes it is threat scanning, disengagement from a bad bet, or preparation. Sometimes it is just the brain wearing wet socks. Context, annoyingly, continues to exist.
+
 The vestibular-stimulation result from McKay et al. is the wonderfully rude body-level counterweight. In a small illness-risk study, left-ear cold-water caloric stimulation temporarily reduced unrealistic optimism. Translation: sometimes the skull custard needs not a TED talk, but a vestibular shove. Do not try this at home; the useful point is embodiment, not ear-based enlightenment.
 
 Richard Wiseman's newspaper task is the attention version of the same point. People who saw themselves as lucky were more likely to notice large unexpected messages embedded in a boring counting task, including the answer and a reward prompt. The useful lesson is not "luck is magic." It is that expectation can change what a person is open enough to notice. A narrow, anxious, unlucky-frame search can miss an opportunity sitting in the middle of the page like an idiot sign with a megaphone.
@@ -57,6 +59,7 @@ Ellen Langer's counterclockwise aging study belongs on the outer edge of this co
 - `Sleep-health association`: optimism is associated with lower insomnia risk in at least one population survey, but causality and mechanisms remain open.
 - `Unrealistic optimism`: better-than-warranted expectation about future outcomes.
 - `Positive illusions`: broader set of positively biased self, control, and future judgments.
+- `Pessimism`: negative future expectancy that can support preparation or disengagement in the right context, but can also become chronic threat locking.
 - `Denial`: defensive non-registration or rejection of important negative evidence.
 
 ## Related

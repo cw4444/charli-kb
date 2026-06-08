@@ -6,6 +6,10 @@ created: 2026-05-12
 updated: 2026-06-08
 source_type: public-research-batch
 authors:
+  - Emma R. Kahle Monahan
+  - Edward C. Chang
+  - Elizabeth A. Yu
+  - Tina Yu
   - Yvo M. C. Meevissen
   - Madelon L. Peters
   - Hugo J. E. M. Alberts
@@ -44,6 +48,7 @@ counterpoint_sources:
   - "Taylor and Brown, Psychological Bulletin, 1994, Positive illusions and well-being revisited: separating fact from fiction, https://doi.org/10.1037/0033-2909.116.1.21"
   - "Shepperd, Pogge, and Howell, Consciousness and Cognition, 2017, Assessing the consequences of unrealistic optimism: Challenges and recommendations, https://doi.org/10.1016/j.concog.2016.07.004"
 commentary_sources:
+  - "Kahle Monahan, Chang, Yu, and Yu, The Wiley Encyclopedia of Personality and Individual Differences, 2020, Optimism and Pessimism: Conceptualization, Personality Correlates, and Contextual Considerations, https://doi.org/10.1002/9781118970843.ch231"
   - "Tamagni et al., Nature Precedings, 2010, Vestibular stimulation reduces unrealistic optimism, https://doi.org/10.1038/npre.2010.4519.1"
   - "Schacter and Addis, Nature Neuroscience, 2007, The optimistic brain, https://doi.org/10.1038/nn1107-1345"
   - "Nature News, 2025, The optimistic brain: scans reveal thought patterns shared by positive thinkers, https://doi.org/10.1038/d41586-025-02302-6"
@@ -65,7 +70,7 @@ sources:
 
 - Topic: optimism as a cognitive and neural style rather than a manifestation claim
 - Scope: future-event simulation, optimism bias, belief updating, mental imagery interventions, repetitive negative thinking, and sleep/insomnia associations
-- Access note: this page keeps original synthesis and metadata only. It does not reproduce paywalled text. `raw/optimistic-brain.pdf` is treated as local access-controlled source material. `raw/Optimism, Agency, and Success.pdf` is an open-access PDF of Bortolotti's article and remains ignored by git with the rest of `raw/`.
+- Access note: this page keeps original synthesis and metadata only. It does not reproduce paywalled text. `raw/optimistic-brain.pdf` is treated as local access-controlled source material. `raw/Optimism, Agency, and Success.pdf` is an open-access PDF of Bortolotti's article and remains ignored by git with the rest of `raw/`. The Wiley encyclopedia chapter by Kahle Monahan et al. was checked through public abstract/metadata and secondary bibliographic records only, not full-text access.
 
 ## Core Primary-Source Claims
 
@@ -100,6 +105,8 @@ The raw PDF sharpens two useful distinctions. First, Bortolotti argues that opti
 McKay et al. 2013 is the cold-water-in-the-ear counterweight. The paper builds on a 2010 Nature Precedings report from University Hospital Zurich, University of Zurich / ETH Zurich, Oxford-linked authors, and collaborators. In 31 healthy right-handed adults, cold-water caloric vestibular stimulation of the left ear, but not the right ear, raised participants' estimates of their own future illness risk relative to baseline. The authors interpret this as selective attenuation of unrealistic optimism, possibly via right inferior frontal mechanisms also implicated in anosognosia.
 
 Weitzer et al. 2021 adds a sleep-health association. In the Austrian Sleep Survey, a population-based cross-sectional online survey of 1,004 adults aged 18 to 65, dispositional optimism was measured with the Life Orientation Test-Revised and insomnia was assessed with several chronic-insomnia definitions based on ICSD-3 criteria. Compared with the least optimistic tertile, intermediate and most optimistic participants had lower odds of chronic insomnia under the exact definition after age, sex, education, and work-status adjustment (OR 0.39 and OR 0.28 respectively). Similar patterns appeared across insomnia definitions, though the association was weaker for physician-diagnosed insomnia. Happiness, depression, and self-rated health confounded or mediated much of the association; lifestyle variables did not explain it in the same way. This is useful evidence that optimism sits near sleep, affect, and health, but it is cross-sectional and cannot show that optimism prevents insomnia.
+
+Kahle Monahan, Chang, Yu, and Yu 2020 is not a new experiment; it is a concise Wiley encyclopedia chapter on optimism and pessimism as personality constructs. Its value here is map-level. Public metadata frames optimism as future-outcome expectancy linked to motivation and effort, and pessimism as future-negative expectation linked to disengagement. The chapter also points toward personality correlates, contextual considerations, and treatment/intervention implications. Use it as a conceptual orientation source, not as primary evidence for a mechanism.
 
 ## Counterweight Sources
 
@@ -170,6 +177,10 @@ Expecting a better personal future than the evidence warrants. This can sometime
 
 The broader Taylor and Brown category: overly positive self-views, exaggerated control, and optimistic expectations. This is wider than optimism alone.
 
+### Pessimism
+
+Negative future expectancy is not merely failed optimism. It can narrow action, increase disengagement, and intensify threat monitoring, but under some conditions pessimistic preparation or disengagement may be more adaptive than sunny persistence. Context matters. Sometimes the correct move is not to "be positive"; it is to stop pouring effort into a bad bet and leave the casino before the carpet learns your name.
+
 ### Denial
 
 Refusal or failure to register relevant negative evidence. This is not the same thing as healthy optimism, even if both can look "positive" from a distance.
@@ -198,6 +209,7 @@ Weitzer et al.'s Austrian survey links higher dispositional optimism with lower 
 - The 2025 RNT paper is cross-sectional, so it does not establish that repetitive negative thinking causes cognitive decline.
 - The "abstract negative events create emotional distance" claim is best treated as a source-grounded interpretation, not a settled mechanism.
 - The Taylor and Brown position is historically influential, but it remains debated rather than canonically settled.
+- The Wiley encyclopedia chapter is useful conceptual scaffolding, but this wiki has not used it as full-text evidence. Treat its public abstract/metadata as a pointer, not a substitute for the chapter.
 
 ## Open Questions
 

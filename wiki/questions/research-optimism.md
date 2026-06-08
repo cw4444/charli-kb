@@ -86,6 +86,8 @@ That gives this wiki a good bullshit filter. The question is not "is this though
 
 Her raw PDF sharpens the filter. The problem with some optimistic beliefs is not always that they are false; it is that they can be unwarranted, biased, or resistant to counter-evidence. Conversely, even a substantially idealized belief can sometimes help if it makes a person behave more agentically without denying the setback in front of them. The key test is whether the belief sustains useful action at critical times.
 
+Kahle Monahan, Chang, Yu, and Yu's 2020 Wiley encyclopedia chapter is useful here as a conceptual map, though only public abstract/metadata were checked. It frames optimism and pessimism as future-expectancy constructs with motivational consequences: optimism tends to support effort, while pessimism can support disengagement. That sits neatly beside Bortolotti's agency filter. The adult version is not "optimism good, pessimism bad." It is "which expectation helps this person act intelligently in this context?"
+
 ### 8. "Luck" may partly be an attentional style
 
 Richard Wiseman's newspaper experiment is a nice folk-psychology bridge into the same package. Participants who self-identified as lucky or unlucky were asked to count photographs in a newspaper. The paper contained large unexpected messages giving the answer and offering a reward for noticing. Self-described lucky people were more likely to notice the opportunity; unlucky people often stayed narrowly locked onto the counting task.
@@ -130,6 +132,7 @@ It seems to involve:
 - some degree of emotional distancing from negative futures
 - weaker incorporation of some forms of bad news
 - agency-supporting beliefs that preserve action after setbacks
+- context-sensitive pessimism that can sometimes support preparation or disengagement
 - attentional openness to unexpected opportunity
 - counterfactual noticing of harms that did not happen
 - embodied perturbability of risk estimates and self-evaluation
@@ -154,6 +157,7 @@ The bills still exist. The better version of optimism is not pretending they do 
 - The positive-illusions literature is historically important but contested, so it should be used as a framing argument, not as a trump card.
 - Bortolotti's agency argument supports useful optimistic belief, not reckless self-deception.
 - Bortolotti's argument is not "accuracy does not matter"; it is "accuracy is not the only variable, because motivation and agency mediate outcomes."
+- Pessimism is not automatically pathological. In some contexts, preparation or disengagement is smarter than persistence.
 - Wiseman's luck work is best read as attention and opportunity detection, not fate bending.
 - Counterfactual gratitude should not become "other people have it worse." The point is evidence calibration, not guilt.
 - The vestibular-stimulation finding is specific and weird: illness-risk estimates during caloric stimulation, not a universal cure for delusion or optimism bias.

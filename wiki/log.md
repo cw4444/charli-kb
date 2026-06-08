@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-08] research | optimism and pessimism conceptual scaffold
+- Sources: Kahle Monahan, Chang, Yu, and Yu, [Optimism and Pessimism: Conceptualization, Personality Correlates, and Contextual Considerations](https://doi.org/10.1002/9781118970843.ch231), *The Wiley Encyclopedia of Personality and Individual Differences*, 2020; public abstract/metadata and secondary bibliographic records, accessed 2026-06-08.
+- Pages created: none
+- Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added the Wiley chapter as map-level conceptual scaffolding rather than primary evidence. Preserved the useful distinction that optimism and pessimism are future-expectancy styles with motivational consequences, and that pessimism can sometimes support preparation or disengagement rather than simply representing failed optimism.
+
 ## [2026-06-08] research | best possible self optimism imagery
 - Sources: Meevissen, Peters, and Alberts, [Become more optimistic by imagining a best possible self](https://doi.org/10.1016/j.jbtep.2011.02.012), *Journal of Behavior Therapy and Experimental Psychiatry*, 2011; Maastricht University portal PDF, accessed 2026-06-08.
 - Pages created: none
