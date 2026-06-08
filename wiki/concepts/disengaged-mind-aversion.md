@@ -50,6 +50,16 @@ Input fasting is not the same as blank deprivation. A person may need:
 
 The point is not to worship emptiness. The point is to create enough quiet for thought to become active rather than merely deprived.
 
+## Cultural Note: Rawdogging Reality
+
+Charli's "rawdogging reality" observation is a useful cultural bridge, but treat it as interpretation rather than research evidence.
+
+In current social-media form, "doing nothing" can become aesthetic content: a person films herself apparently sitting, staring, travelling, walking, or existing without stimulation for a long stretch, then compresses it into a polished one-minute proof object. The viewer sees discipline, softness, and lifestyle signalling. What actually happened off-camera is unknowable unless the setup is independently recorded. Obviously. We are not new here.
+
+The older baseline was different. For people who grew up before portable feeds, boredom was not a challenge format; it was weather. Road trips, waiting rooms, delayed cartoons, shampoo bottles, cereal boxes, dust moving in sunlight, breath on car windows, private crush-name calligraphy: these were not wellness practices. They were just what happened when nothing else was available.
+
+That does not mean older boredom was automatically better or morally purer. It does mean the skill context changed. Earlier environments forced accidental boredom. Current environments make boredom optional, performable, monetizable, and suspiciously editable.
+
 ## Relation To Cognitive Latency Shock
 
 [Cognitive Latency Shock](cognitive-latency-shock.md) describes the high-speed relief of tools that turn thought into artifacts quickly. Disengaged mind aversion describes the opposite: thought without traction.
@@ -60,6 +70,7 @@ Both matter. A person can become dependent on external tools because tool-mediat
 
 - Do not treat the Wilson study as proof that thought is bad.
 - Do not treat distraction as a purely modern invention.
+- Do not treat "rawdogging reality" videos as evidence that someone actually did unbroken nothing.
 - Do not treat solitude as universally healing.
 - Do not treat stimulation-seeking as moral failure.
 - Do not assume the 190-shock outlier represents the normal result.

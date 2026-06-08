@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-08] update | rawdogging reality cultural note
+- Source: Charli working interpretation, 2026-06-08, connecting TikTok "rawdogging reality" videos with pre-smartphone boredom as ordinary life.
+- Pages created: none
+- Pages updated: [Disengaged Mind Aversion](concepts/disengaged-mind-aversion.md), [Creative Recovery And Input Fasting](concepts/creative-recovery-and-input-fasting.md), [Cognitive Latency Shock](concepts/cognitive-latency-shock.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added a cultural distinction between accidental boredom as older default infrastructure, structured quiet as a useful creative/attention practice, and performative deprivation as edited social content. Kept the boundary clear: this is cultural interpretation, not research evidence.
+
 ## [2026-06-08] research | disengaged mind and electric shock
 - Sources: Wilson et al., [Just think: The challenges of the disengaged mind](https://doi.org/10.1126/science.1250830), *Science*, 2014; PMC full text, [PMC4330241](https://pmc.ncbi.nlm.nih.gov/articles/PMC4330241/); Fox et al., [Is thinking really aversive?](https://doi.org/10.3389/fpsyg.2014.01427), *Frontiers in Psychology*, 2014.
 - Pages created: [Wilson et al. - Just Think And The Disengaged Mind](sources/wilson-disengaged-mind-electric-shock.md), [Disengaged Mind Aversion](concepts/disengaged-mind-aversion.md)

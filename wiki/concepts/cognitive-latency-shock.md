@@ -76,6 +76,7 @@ This does not mean AI reveals reality perfectly. It means AI changes the perceiv
 
 - **Over-absorption:** the loop is so rewarding that sleep, relationships, and ordinary obligations get displaced.
 - **Quiet intolerance:** fast artifact loops can make unsupported thought feel even more unrewarding, especially when [Disengaged Mind Aversion](disengaged-mind-aversion.md) is already in play.
+- **Performative slowness:** even "doing nothing" can become compressed, edited, and optimized as proof-content, which means slowness itself gets dragged back into the artifact loop.
 - **Verification debt:** fast synthesis can outrun fact-checking and taste.
 - **Knowledge collapse:** answers arrive so quickly that humans stop producing the traces and explanations needed to sustain shared knowledge.
 - **Social impatience:** slower human conversation can start to feel defective rather than simply different.

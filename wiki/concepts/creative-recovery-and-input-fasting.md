@@ -29,6 +29,8 @@ This fits the broader wiki pattern well. Notion can remain the capture dump, but
 
 So input fasting is not just "remove stimulus and become enlightened." Spare us. Quiet often needs structure: a walk, a notebook, a question, a constraint, or a small creative task. The aim is to give thought room to digest, not to dump the mind into a bare room and hope it behaves like a monk with a reliable pension.
 
+The modern "rawdogging reality" aesthetic sits awkwardly here. Filming yourself doing nothing for an hour, compressing it into one minute, and posting it is not the same thing as boredom. It is boredom converted into performance, proof, vibe, and content. Useful as a cultural signal; not useful as evidence that the mind actually spent an uninterrupted hour digesting anything.
+
 ## Related
 
 - [Project Based Self Direction](project-based-self-direction.md)
