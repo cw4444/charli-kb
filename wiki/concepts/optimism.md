@@ -33,6 +33,8 @@ The careful version of the claim is important. Optimism is not the same as denia
 
 Meevissen, Peters, and Alberts's 2011 Best Possible Self study is the clean intervention tile in this part of the floor. Participants spent two weeks doing 5 minutes a day of imagery about a realistic personal, relational, and professional future in which things had gone well. Compared with imagining daily activities, the Best Possible Self condition produced larger increases in self-reported optimism. Small sample, mostly young women, self-report outcomes; still useful. It says future simulation can be trained a bit, not that the universe takes dictation.
 
+Adlerian [Fictional Finalism](fictional-finalism.md) gives an older historical name for the same broad pattern: people are partly guided by imagined future goals or guiding self-ideas. "Fictional" does not mean useless lie. It means an imagined endpoint can organize present behavior before it is literally true. The good version helps agency and evidence-sensitive action. The bad version becomes a rigid private fantasy with a motivational speaker's haircut.
+
 Lisa Bortolotti's "Optimism, Agency, and Success" adds a bluntly useful test: does the optimistic belief help the person keep acting as a competent agent? Optimism earns its keep when it supports goal pursuit, persistence, resourcefulness, and recovery after setbacks. It stops earning its keep when it becomes invulnerability fantasy or refusal to prepare.
 
 Bortolotti's extra sting is that "unrealistic" is often the wrong complaint. An optimistic belief may be true by luck but still unwarranted because it came from biased reasoning. The better question is whether the belief helps agency while still allowing enough contact with evidence to correct course.
@@ -68,4 +70,5 @@ Ellen Langer's counterclockwise aging study belongs on the outer edge of this co
 ## Related
 
 - [Research - Optimism](../questions/research-optimism.md)
+- [Fictional Finalism](fictional-finalism.md)
 - [Langer Counterclockwise Study And Aging Mindset](../sources/langer-counterclockwise-aging-mindset.md)

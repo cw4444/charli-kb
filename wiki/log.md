@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-08] concept | Adlerian fictional finalism
+- Sources: NCBI Bookshelf, [Adlerian Therapy](https://www.ncbi.nlm.nih.gov/books/NBK599518/); Adler Graduate School, [Alfred Adler: Theory and Application](https://www.alfredadler.edu/about/alfred-adler-theory-application/); Adler Institute, [The Individual Psychology of Alfred Adler](https://adler.institute/wp-content/uploads/2019/01/Individual-Psychology-Alfred-Adler-min.pdf)
+- Pages created: [Fictional Finalism](concepts/fictional-finalism.md)
+- Pages updated: [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Practical Agency Inside Constraint](concepts/practical-agency-inside-constraint.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added Adlerian fictional finalism as a historical/conceptual bridge for imagined future goals or guiding self-ideas. Preserved the boundary: useful fiction can guide agency before it is literally true, but this is not manifestation, not modern neuroscience, and not an excuse to erase trauma or material constraints.
+
 ## [2026-06-08] research | placebo sleep and cognitive performance
 - Sources: Draganich and Erdal, [Placebo sleep affects cognitive functioning](https://doi.org/10.1037/a0035546), *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 2014; PubMed abstract and public bibliographic records, accessed 2026-06-08.
 - Pages created: none

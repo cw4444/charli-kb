@@ -62,6 +62,8 @@ The useful mechanism is not cosmic ordering. The BPS task asks people to constru
 
 The caveats are not decorative trim. The sample was small, mostly female, young, and highly educated; the measures were self-report; demand effects remain possible; and the study did not show long-term health, sleep, or behavior outcomes.
 
+Adlerian [Fictional Finalism](../concepts/fictional-finalism.md) is the older conceptual ancestor here. It says behavior can be organized by imagined future goals or guiding self-ideas. That makes Best Possible Self imagery look less like a random positivity trick and more like a structured way of choosing a future-oriented control image. The crucial boundary is that the fiction has to stay revisable. A guiding fiction that refuses evidence stops being agency support and starts becoming private nonsense with stationery.
+
 ### 5. Repetitive negative thinking looks like an opposing process
 
 The older-adult repetitive negative thinking literature is relevant here because it describes a style of future- and self-focused cognition that is hard to control and repeatedly negative.
@@ -136,6 +138,7 @@ It seems to involve:
 
 - more vivid, emotionally meaningful simulation of positive futures
 - some short-term trainability through structured Best Possible Self imagery
+- Adlerian guiding fictions or imagined future goals that organize current behavior
 - cleaner separation between positive and negative possibilities
 - some degree of emotional distancing from negative futures
 - weaker incorporation of some forms of bad news
@@ -161,6 +164,7 @@ The bills still exist. The better version of optimism is not pretending they do 
 - Schacter and Addis explicitly leave room for realism or pessimism when negative outcomes are likely or preparation matters.
 - The literature does not yet show that training vivid positive imagery alone reliably produces lasting healthy optimism in everyday life.
 - Best Possible Self imagery has short-term intervention evidence, but it is not proof of durable life change or downstream health benefits.
+- Fictional finalism is useful historical scaffolding, not modern neuroscience and not manifestation.
 - The older-adult repetitive negative thinking findings are important, but the 2025 study is cross-sectional and should not be read as causal proof.
 - The "negative events are represented more abstractly" point is plausible and source-backed, but still stronger as a working interpretation than as a settled law.
 - The positive-illusions literature is historically important but contested, so it should be used as a framing argument, not as a trump card.
@@ -189,3 +193,4 @@ The bills still exist. The better version of optimism is not pretending they do 
 - Which optimism biases are primarily motivational, which are attentional, and which are strongly bodily/vestibular or interoceptive?
 - In sleep research, does optimism predict better future sleep after depression, health, stress, and baseline sleep are handled properly?
 - How far do placebo-sleep effects generalize beyond short cognitive tasks, and do they interact with actual sleep debt?
+- When does a guiding future fiction support agency, and when does it become rigid avoidance or fantasy?

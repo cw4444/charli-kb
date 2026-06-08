@@ -3,11 +3,12 @@ title: "Practical Agency Inside Constraint"
 type: concept
 status: draft
 created: 2026-05-20
-updated: 2026-06-01
+updated: 2026-06-08
 sources:
   - ../../themes/rovelli-relational-quantum-mechanics-and-reality.md
   - ../../themes/qbism-adlam-observer-dependent-reality.md
   - mechanical-world-models.md
+  - fictional-finalism.md
   - ../sources/libet-schurger-readiness-potential-agency.md
   - ../sources/langer-counterclockwise-aging-mindset.md
 ---
@@ -79,6 +80,18 @@ The useful point for this page is not "belief reverses aging." It is that the en
 
 That is practical agency inside constraint: not escape from biology, but a different coupling between model, role, body, and world.
 
+## Relation To Fictional Finalism
+
+Adlerian [Fictional Finalism](fictional-finalism.md) is a useful historical bridge for this page. It treats people as partly guided by imagined future goals or guiding self-ideas. The imagined goal is "fictional" because it is not yet literal reality, not because it is useless.
+
+This fits practical agency when the guiding fiction creates better action inside constraint:
+
+- "I am becoming someone who can handle this."
+- "My future self prepares before the crisis."
+- "This setback is information, not identity."
+
+It fails when the guiding fiction becomes rigid, grandiose, or evidence-proof. The future self is meant to guide action, not become a private dictator in a nice coat.
+
 ## Relation To Adlam And Global Constraints
 
 Emily Adlam's global-constraint direction is useful here because it weakens the habit of treating reality as a little causal machine pushing forward one moment at a time.
@@ -111,6 +124,7 @@ This is why [Mechanical World Models](mechanical-world-models.md), [Queryable Or
 - Do not say Schurger proves free will or disproves the readiness potential.
 - Do not say Langer proved aging can be reversed by belief.
 - Do not say determinism is solved by vibes, manifestation, or optimism.
+- Do not say fictional finalism proves manifestation or reality creation.
 - Do not collapse RQM, QBism, Adlam, and category theory into one view.
 - Do not treat "everything is relational" as an excuse for ignoring material constraints.
 - Do not confuse practical agency with total control.
@@ -118,6 +132,7 @@ This is why [Mechanical World Models](mechanical-world-models.md), [Queryable Or
 ## Related Concepts
 
 - [Mechanical World Models](mechanical-world-models.md)
+- [Fictional Finalism](fictional-finalism.md)
 - [Queryable Organization](queryable-organization.md)
 - [Cognitive Latency Shock](cognitive-latency-shock.md)
 - [Libet, Schurger, Readiness Potential, And Agency](../sources/libet-schurger-readiness-potential-agency.md)

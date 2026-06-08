@@ -96,6 +96,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Interface Theory Of Perception](concepts/interface-theory-of-perception.md): Donald Hoffman's desktop-interface argument that perception may be useful and fitness-shaped without being a literal view of reality-in-itself.
 - [Pluriverse](concepts/pluriverse.md): bridge concept for shared reality built through interlocking situated perspectives, anchored in QBism, participatory realism, and predictive-processing caveats.
 - [Optimism](concepts/optimism.md): future-oriented cognitive style tied to vivid positive simulation, trainable best-possible-self imagery, selective updating, pessimism as context-sensitive expectancy, placebo sleep, agency, opportunity attention, counterfactual gratitude, and sleep-health associations.
+- [Fictional Finalism](concepts/fictional-finalism.md): Adlerian bridge concept for imagined future goals or guiding self-ideas that organize present behavior without becoming manifestation claims.
 - [Positive Alignment](concepts/positive-alignment.md): AI-alignment agenda that aims beyond "not unsafe" toward constructive, flourishing-supportive behavioral attractors.
 - [Practical Agency Inside Constraint](concepts/practical-agency-inside-constraint.md): Charli's working interpretation of agency as model-improvement and intervention inside relational, neural, and practical constraint.
 - [Sidequest Prototyping](concepts/sidequest-prototyping.md): low-permission prototypes judged by actual adoption rather than roadmap speculation.
