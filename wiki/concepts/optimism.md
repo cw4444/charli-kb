@@ -47,6 +47,8 @@ Charli's pessimist-friendly gratitude practice belongs here too: notice the bad 
 
 The 2021 Austrian Sleep Survey adds a practical health adjacent piece: higher dispositional optimism was associated with lower odds of chronic insomnia in a cross-sectional sample of 1,004 adults. The useful interpretation is not "optimism fixes sleep." It is that optimism, affect, health status, depression, and sleep may form a loop where future expectation and night-time regulation keep leaning on each other like tired office furniture. Useful, but not magic. See a doctor, do CBT-I, stop trying to spiritually negotiate with 3 a.m.
 
+Draganich and Erdal's 2014 placebo-sleep study makes that sleep-expectancy link sharper. Participants who were randomly told they had above-average REM sleep performed better on some cognitive tasks than those told they had below-average REM sleep, even though the feedback was sham. This is not optimism exactly, but it is adjacent wiring: belief about a bodily state can alter performance. The responsible version is "expectancy matters"; the stupid version is "sleep is optional if you gaslight yourself." We are not doing the stupid version.
+
 Ellen Langer's counterclockwise aging study belongs on the outer edge of this concept. Its evidence is caveat-heavy, but the useful bridge is that expectation, role, environment, and available action may change what the body actually does. Optimism is not only a thought about the future; it can be an action-setting that changes posture, effort, search, and willingness to use capacities.
 
 ## Related Distinctions
@@ -56,6 +58,7 @@ Ellen Langer's counterclockwise aging study belongs on the outer edge of this co
 - `Best possible self imagery`: a short future-imagery intervention that can raise self-reported optimism in controlled studies.
 - `Counterfactual gratitude`: noticing bad outcomes that did not occur, without pretending everything is fine.
 - `Embodied belief updating`: bodily systems such as vestibular input can perturb risk estimates and self-evaluation.
+- `Placebo sleep`: experimentally assigned beliefs about sleep quality can shift some cognitive performance measures.
 - `Sleep-health association`: optimism is associated with lower insomnia risk in at least one population survey, but causality and mechanisms remain open.
 - `Unrealistic optimism`: better-than-warranted expectation about future outcomes.
 - `Positive illusions`: broader set of positively biased self, control, and future judgments.

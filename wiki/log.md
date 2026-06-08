@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-08] research | placebo sleep and cognitive performance
+- Sources: Draganich and Erdal, [Placebo sleep affects cognitive functioning](https://doi.org/10.1037/a0035546), *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 2014; PubMed abstract and public bibliographic records, accessed 2026-06-08.
+- Pages created: none
+- Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added placebo sleep as sleep-expectancy evidence adjacent to the optimism package. In two studies, sham feedback about above- or below-average REM sleep predicted some cognitive task scores better than self-reported sleep quality. Preserved the caveat that this does not mean actual sleep is optional or that mindset improves all cognition.
+
 ## [2026-06-08] research | optimism and pessimism conceptual scaffold
 - Sources: Kahle Monahan, Chang, Yu, and Yu, [Optimism and Pessimism: Conceptualization, Personality Correlates, and Contextual Considerations](https://doi.org/10.1002/9781118970843.ch231), *The Wiley Encyclopedia of Personality and Individual Differences*, 2020; public abstract/metadata and secondary bibliographic records, accessed 2026-06-08.
 - Pages created: none

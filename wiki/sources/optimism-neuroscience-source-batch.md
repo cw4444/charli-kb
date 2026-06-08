@@ -6,6 +6,8 @@ created: 2026-05-12
 updated: 2026-06-08
 source_type: public-research-batch
 authors:
+  - Christina Draganich
+  - Kristi Erdal
   - Emma R. Kahle Monahan
   - Edward C. Chang
   - Elizabeth A. Yu
@@ -43,6 +45,7 @@ primary_sources:
   - "McKay et al., Cortex, 2013, Vestibular stimulation attenuates unrealistic optimism, https://doi.org/10.1016/j.cortex.2013.04.005"
   - "Weitzer et al., Journal of Sleep Research, 2021, The contribution of dispositional optimism to understanding insomnia symptomatology: Findings from a cross-sectional population study in Austria, https://doi.org/10.1111/jsr.13132"
   - "Meevissen, Peters, and Alberts, Journal of Behavior Therapy and Experimental Psychiatry, 2011, Become more optimistic by imagining a best possible self: Effects of a two week intervention, https://doi.org/10.1016/j.jbtep.2011.02.012"
+  - "Draganich and Erdal, Journal of Experimental Psychology: Learning, Memory, and Cognition, 2014, Placebo sleep affects cognitive functioning, https://doi.org/10.1037/a0035546"
 counterpoint_sources:
   - "Colvin and Block, Psychological Bulletin, 1994, Do positive illusions foster mental health? An examination of the Taylor and Brown formulation, https://doi.org/10.1037/0033-2909.116.1.3"
   - "Taylor and Brown, Psychological Bulletin, 1994, Positive illusions and well-being revisited: separating fact from fiction, https://doi.org/10.1037/0033-2909.116.1.21"
@@ -106,6 +109,8 @@ McKay et al. 2013 is the cold-water-in-the-ear counterweight. The paper builds o
 
 Weitzer et al. 2021 adds a sleep-health association. In the Austrian Sleep Survey, a population-based cross-sectional online survey of 1,004 adults aged 18 to 65, dispositional optimism was measured with the Life Orientation Test-Revised and insomnia was assessed with several chronic-insomnia definitions based on ICSD-3 criteria. Compared with the least optimistic tertile, intermediate and most optimistic participants had lower odds of chronic insomnia under the exact definition after age, sex, education, and work-status adjustment (OR 0.39 and OR 0.28 respectively). Similar patterns appeared across insomnia definitions, though the association was weaker for physician-diagnosed insomnia. Happiness, depression, and self-rated health confounded or mediated much of the association; lifestyle variables did not explain it in the same way. This is useful evidence that optimism sits near sleep, affect, and health, but it is cross-sectional and cannot show that optimism prevents insomnia.
 
+Draganich and Erdal 2014 adds a sharper sleep-expectancy result. Across two studies with 164 participants, people reported their previous night's sleep quality and were then randomly assigned to sham feedback saying they had either above-average or below-average REM sleep. The assigned sleep-quality belief significantly predicted performance on the Paced Auditory Serial Addition Test and Controlled Oral Word Association Task, while self-reported sleep quality did not. The assigned belief did not predict Digit Span performance, and unexpectedly did not predict Symbol Digit Modalities Test performance. The authors used control conditions to argue that the result was not just demand characteristics. This belongs near placebo, sleep cognition, and mindset effects, not as proof that sleep itself is optional. It shows that belief about sleep can push some cognitive performance measures in both directions.
+
 Kahle Monahan, Chang, Yu, and Yu 2020 is not a new experiment; it is a concise Wiley encyclopedia chapter on optimism and pessimism as personality constructs. Its value here is map-level. Public metadata frames optimism as future-outcome expectancy linked to motivation and effort, and pessimism as future-negative expectation linked to disengagement. The chapter also points toward personality correlates, contextual considerations, and treatment/intervention implications. Use it as a conceptual orientation source, not as primary evidence for a mechanism.
 
 ## Counterweight Sources
@@ -142,6 +147,7 @@ Taken together, the sources suggest that optimism is not best understood as magi
 - attentional openness to unexpected opportunity
 - bodily perturbation of risk belief and self-evaluation
 - lower reported insomnia risk in at least one population survey, entangled with happiness, depression, and health
+- placebo-style sleep expectancy effects on some cognitive performance tasks
 
 Taylor and Brown matter here because they widen the frame: mild positive distortions may sometimes help people function, persist, create, and cope. But the counter-literature matters just as much: once optimism drifts into overconfidence, risk neglect, or refusal to update from evidence, it stops looking like resilience and starts looking like error management gone wrong.
 
@@ -193,6 +199,10 @@ McKay et al.'s caloric vestibular stimulation result suggests that optimism bias
 
 Weitzer et al.'s Austrian survey links higher dispositional optimism with lower chronic-insomnia risk. Treat this as correlation with useful mechanism questions, not causal proof. The study itself points toward happiness, depression, and health status as important explanatory neighbours, which means optimism may be part of a broader affect-health-sleep loop rather than a single magic lever.
 
+### Placebo sleep
+
+Draganich and Erdal's placebo-sleep study shows that experimentally assigned beliefs about REM sleep can shift some next-day cognitive performance measures, even when self-reported sleep quality does not predict those scores. This is a clean example of sleep-related expectancy acting on performance. Keep the boundary sharp: it is about perceived sleep quality and task performance, not about replacing actual sleep, treating insomnia by self-deception, or ignoring fatigue until the system files a complaint.
+
 ## Do Not Overclaim
 
 - The literature does not show that optimism means ignoring reality.
@@ -206,6 +216,7 @@ Weitzer et al.'s Austrian survey links higher dispositional optimism with lower 
 - Wiseman's newspaper experiment should be treated as attention/opportunity evidence, not a proof that lucky identity controls external events.
 - The vestibular-stimulation result was small and specific: healthy right-handed adults estimating illness risk during caloric stimulation. Do not generalize it to all optimism, all denial, or a home anti-delusion protocol. Leave people's ears alone.
 - The Austrian insomnia study is cross-sectional and self-report-heavy. It does not show that optimism training cures insomnia, and it does not replace proper sleep medicine, CBT-I, or medical care.
+- Placebo sleep does not mean actual sleep is optional. It shows that information, belief, and framing about sleep can affect some performance outcomes.
 - The 2025 RNT paper is cross-sectional, so it does not establish that repetitive negative thinking causes cognitive decline.
 - The "abstract negative events create emotional distance" claim is best treated as a source-grounded interpretation, not a settled mechanism.
 - The Taylor and Brown position is historically influential, but it remains debated rather than canonically settled.

@@ -120,6 +120,14 @@ The caveat is doing real work here. This was cross-sectional, so it cannot show 
 
 So this belongs in the "cheat code" pile only if "cheat code" means a plausible modifiable psychological asset sitting inside a sleep-affect-health loop. It does not mean bedtime manifestation. The pillow remains unimpressed by slogans.
 
+### 12. Placebo sleep shows that sleep beliefs can affect some cognitive performance
+
+Draganich and Erdal 2014 is not an optimism paper, but it is very relevant to the expectancy/sleep corner. Across two studies with 164 participants, people were randomly given sham feedback that they had either above-average or below-average REM sleep. The assigned sleep-quality condition predicted scores on the Paced Auditory Serial Addition Test and Controlled Oral Word Association Task, while participants' own reported sleep quality did not.
+
+The study also has useful brakes. The assigned sleep condition did not predict Digit Span, and it unexpectedly did not predict Symbol Digit Modalities Test performance. So the result is not "mindset improves all cognition." It is narrower: sleep-related belief can shift some performance measures in controlled conditions.
+
+This belongs beside optimism because it shows the same family of mechanism: expectations about the future or the body can change effort, attention, interpretation, and performance. It does not mean actual sleep does not matter. It means the story the system is given about its own state can become part of the state. Annoying. Fascinating. Very human.
+
 ## Working Interpretation
 
 The most defensible synthesis is that optimism is a representational style.
@@ -137,6 +145,7 @@ It seems to involve:
 - counterfactual noticing of harms that did not happen
 - embodied perturbability of risk estimates and self-evaluation
 - sleep and affect regulation, with optimism associated with lower insomnia risk in observational work
+- placebo-style sleep expectancy effects on some cognitive performance tasks
 
 This can be adaptive because it supports motivation, resilience, and goal pursuit. It can also become maladaptive if it blocks realistic preparation or error correction.
 
@@ -162,6 +171,7 @@ The bills still exist. The better version of optimism is not pretending they do 
 - Counterfactual gratitude should not become "other people have it worse." The point is evidence calibration, not guilt.
 - The vestibular-stimulation finding is specific and weird: illness-risk estimates during caloric stimulation, not a universal cure for delusion or optimism bias.
 - The insomnia finding is observational. It supports a link between optimism and sleep health, not an optimism cure for insomnia.
+- Placebo sleep is not evidence that actual sleep is optional. It is evidence that feedback and belief about sleep quality can alter some cognitive test performance.
 
 ## Sources
 
@@ -178,3 +188,4 @@ The bills still exist. The better version of optimism is not pretending they do 
 - Can counterfactual gratitude help pessimists recalibrate threat prediction without suppressing useful caution?
 - Which optimism biases are primarily motivational, which are attentional, and which are strongly bodily/vestibular or interoceptive?
 - In sleep research, does optimism predict better future sleep after depression, health, stress, and baseline sleep are handled properly?
+- How far do placebo-sleep effects generalize beyond short cognitive tasks, and do they interact with actual sleep debt?
