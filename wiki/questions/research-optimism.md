@@ -38,7 +38,13 @@ The 2011 Nature Neuroscience paper found that people updated beliefs more when o
 
 This supports a specific mechanism: optimism can persist because bad news does not revise expectations as strongly as good news does.
 
-### 3. The newest work supports your "vivid positive, abstract negative" hunch, but with caveats
+### 3. Trait optimism is linked to OFC structure and lower anxiety symptoms
+
+Dolcos, Hu, Iordan, Moore, and Dolcos 2016 gives the optimism package a structural brain/anxiety anchor. In 61 healthy participants, orbitofrontal cortex gray matter volume was positively associated with trait optimism, trait optimism was negatively associated with anxiety symptoms, and optimism statistically mediated the relation between left OFC volume and anxiety.
+
+This is exactly the sort of peer-reviewed result worth keeping, because it links optimism to a brain-personality-symptom pathway rather than treating optimism as only a slogan or self-report mood. The adult caveat is that the study is small and correlational. It does not prove that optimism training grows OFC volume or that larger OFC volume magically vaccinates a person against anxiety. The custard remains complicated, because apparently that was necessary.
+
+### 4. The newest work supports your "vivid positive, abstract negative" hunch, but with caveats
 
 The 2025 PNAS paper found that more optimistic individuals had more convergent neural representations during episodic future thinking and showed clearer neural distinctions between positive and negative future events.
 
@@ -46,7 +52,7 @@ The researchers' press summary and subsequent reporting interpret this as meanin
 
 That is close to the point you flagged. The caveat is that the "abstract and distant" part is an interpretation layered onto the neural-separation result, not an independently established mechanism in the same paper.
 
-### 4. Positive future imagery vividness appears to matter
+### 5. Positive future imagery vividness appears to matter
 
 Work in depression suggests that the ability to vividly imagine positive future events is associated with greater optimism in the present and predicts higher optimism later. Related episodic-future-thinking research also suggests that more spatially grounded and scene-like simulation increases vividness, plausibility, and anticipatory pleasure.
 
@@ -67,7 +73,7 @@ Adlerian [Fictional Finalism](../concepts/fictional-finalism.md) is the older co
 
 [Manifestation As Behavior Modification](../concepts/manifestation-as-behavior-modification.md) is the blunt translation layer. "Live in the state of the wish fulfilled" is useful only when it becomes changed attention, changed behaviour, better cues, better practice, and more evidence-sensitive persistence. That overlaps with CBT and positive psychology. It does not prove reality creation. It proves, at most, that humans act differently when they rehearse a different self-model. Annoying, but true.
 
-### 5. Repetitive negative thinking looks like an opposing process
+### 6. Repetitive negative thinking looks like an opposing process
 
 The older-adult repetitive negative thinking literature is relevant here because it describes a style of future- and self-focused cognition that is hard to control and repeatedly negative.
 
@@ -75,7 +81,7 @@ The 2020 BMC Psychiatry paper linked repetitive negative thinking with subjectiv
 
 This does not prove that optimism prevents cognitive decline. But it does suggest that a mind repeatedly trapped in negative loops may carry cognitive costs, especially in aging.
 
-### 6. Positive illusions are relevant, but they are not a free pass for bullshit
+### 7. Positive illusions are relevant, but they are not a free pass for bullshit
 
 Taylor and Brown argued that mildly unrealistic positive self-views, exaggerated control, and unrealistic optimism may support well-being and effective functioning. That is one of the big reasons this literature can sound, at a distance, as if "delusion is healthy."
 
@@ -83,7 +89,7 @@ The follow-up debate matters. Colvin and Block argued that the evidence did not 
 
 So the strongest synthesis is not "delusion is good for you." It is closer to this: some degree of future-positive bias may help action and resilience, but its value depends on whether it coexists with learning, calibration, and preparation.
 
-### 7. Optimism matters when it supports agency
+### 8. Optimism matters when it supports agency
 
 Lisa Bortolotti's 2018 paper is a useful philosophical bridge because it asks what optimism is doing behaviorally. Optimistic beliefs contribute to success when they sustain motivation and agency: the person sees the goal as desirable, sees themselves as sufficiently competent or resourceful, and keeps acting after difficulty.
 
@@ -93,13 +99,13 @@ Her raw PDF sharpens the filter. The problem with some optimistic beliefs is not
 
 Kahle Monahan, Chang, Yu, and Yu's 2020 Wiley encyclopedia chapter is useful here as a conceptual map, though only public abstract/metadata were checked. It frames optimism and pessimism as future-expectancy constructs with motivational consequences: optimism tends to support effort, while pessimism can support disengagement. That sits neatly beside Bortolotti's agency filter. The adult version is not "optimism good, pessimism bad." It is "which expectation helps this person act intelligently in this context?"
 
-### 8. "Luck" may partly be an attentional style
+### 9. "Luck" may partly be an attentional style
 
 Richard Wiseman's newspaper experiment is a nice folk-psychology bridge into the same package. Participants who self-identified as lucky or unlucky were asked to count photographs in a newspaper. The paper contained large unexpected messages giving the answer and offering a reward for noticing. Self-described lucky people were more likely to notice the opportunity; unlucky people often stayed narrowly locked onto the counting task.
 
 Use this carefully. It does not prove that lucky people manifest events. It suggests that expectation, anxiety, openness, and attentional breadth change which affordances people notice.
 
-### 9. Pessimist gratitude counts avoided bad outcomes
+### 10. Pessimist gratitude counts avoided bad outcomes
 
 Charli's Schurger/Libet joke points to a genuinely useful practice: look at all the bad things that could have happened today and did not.
 
@@ -109,13 +115,13 @@ The useful mechanism is attentional recalibration. It does not pretend the world
 
 This also fits Schacter and Addis's caution that optimism is not always adaptive. Sometimes the right move is not to erase negative futures, but to simulate them accurately enough to prepare, then update when they do not occur.
 
-### 10. Body perturbation can shift optimism bias
+### 11. Body perturbation can shift optimism bias
 
 McKay et al. 2013 is the glorious cold-water-in-the-ear paper. Thirty-one healthy right-handed adults estimated their own relative risk of future illnesses during baseline, left-ear cold-water caloric vestibular stimulation, and right-ear stimulation. Left-ear stimulation raised illness-risk estimates relative to baseline; right-ear stimulation did not show the same effect. The authors interpret this as selective attenuation of unrealistic optimism, linking optimism bias to right inferior frontal mechanisms also discussed in anosognosia.
 
 Use this as embodied cognition evidence, not as a life hack. The point is that optimism bias is not only a verbal belief or social attitude. It can be perturbed through bodily/vestibular systems, which makes the "human lump of custard" model even more annoying and more interesting.
 
-### 11. Optimism is linked with lower insomnia risk, but the causal arrow is not settled
+### 12. Optimism is linked with lower insomnia risk, but the causal arrow is not settled
 
 Weitzer et al. 2021 studied 1,004 adults in the Austrian Sleep Survey. Dispositional optimism was measured with the Life Orientation Test-Revised, and chronic insomnia was assessed using several definitions based on ICSD-3 criteria.
 
@@ -125,7 +131,7 @@ The caveat is doing real work here. This was cross-sectional, so it cannot show 
 
 So this belongs in the "cheat code" pile only if "cheat code" means a plausible modifiable psychological asset sitting inside a sleep-affect-health loop. It does not mean bedtime manifestation. The pillow remains unimpressed by slogans.
 
-### 12. Placebo sleep shows that sleep beliefs can affect some cognitive performance
+### 13. Placebo sleep shows that sleep beliefs can affect some cognitive performance
 
 Draganich and Erdal 2014 is not an optimism paper, but it is very relevant to the expectancy/sleep corner. Across two studies with 164 participants, people were randomly given sham feedback that they had either above-average or below-average REM sleep. The assigned sleep-quality condition predicted scores on the Paced Auditory Serial Addition Test and Controlled Oral Word Association Task, while participants' own reported sleep quality did not.
 
@@ -143,6 +149,7 @@ It seems to involve:
 - some short-term trainability through structured Best Possible Self imagery
 - Adlerian guiding fictions or imagined future goals that organize current behavior
 - manifestation language translated into CBT-adjacent behaviour modification rather than reality creation
+- OFC gray matter / trait optimism / anxiety associations in structural MRI work
 - cleaner separation between positive and negative possibilities
 - some degree of emotional distancing from negative futures
 - weaker incorporation of some forms of bad news
@@ -168,6 +175,7 @@ The bills still exist. The better version of optimism is not pretending they do 
 - Schacter and Addis explicitly leave room for realism or pessimism when negative outcomes are likely or preparation matters.
 - The literature does not yet show that training vivid positive imagery alone reliably produces lasting healthy optimism in everyday life.
 - Best Possible Self imagery has short-term intervention evidence, but it is not proof of durable life change or downstream health benefits.
+- The Dolcos et al. OFC result is small-sample structural/correlational evidence. It should not be read as causal proof or treatment advice.
 - Fictional finalism is useful historical scaffolding, not modern neuroscience and not manifestation.
 - Manifestation language is only useful here after translation into attention, behaviour, practice, and evidence-sensitive agency.
 - The older-adult repetitive negative thinking findings are important, but the 2025 study is cross-sectional and should not be read as causal proof.
@@ -193,6 +201,7 @@ The bills still exist. The better version of optimism is not pretending they do 
 - Do Best Possible Self effects persist after practice stops, and do they change behavior rather than only self-reported optimism?
 - How much optimism is helpful before it starts degrading preparedness?
 - Are neural optimism signatures stable traits, trainable habits, or both?
+- Are OFC/optimism/anxiety associations causal, bidirectional, developmental, or markers of broader resilience?
 - Can people train opportunity-detection without becoming credulous or overconfident?
 - Can counterfactual gratitude help pessimists recalibrate threat prediction without suppressing useful caution?
 - Which optimism biases are primarily motivational, which are attentional, and which are strongly bodily/vestibular or interoceptive?

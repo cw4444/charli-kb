@@ -6,6 +6,11 @@ created: 2026-05-12
 updated: 2026-06-08
 source_type: public-research-batch
 authors:
+  - Sanda Dolcos
+  - Yifan Hu
+  - Alexandru D. Iordan
+  - Matthew Moore
+  - Florin Dolcos
   - Christina Draganich
   - Kristi Erdal
   - Emma R. Kahle Monahan
@@ -33,6 +38,7 @@ primary_sources:
   - "Taylor and Brown, Psychological Bulletin, 1988, Illusion and well-being: A social psychological perspective on mental health, https://doi.org/10.1037/0033-2909.103.2.193"
   - "Sharot et al., Nature, 2007, Neural mechanisms mediating optimism bias, https://doi.org/10.1038/nature06280"
   - "Sharot, Korn, and Dolan, Nature Neuroscience, 2011, How unrealistic optimism is maintained in the face of reality, https://doi.org/10.1038/nn.2949"
+  - "Dolcos, Hu, Iordan, Moore, and Dolcos, Social Cognitive and Affective Neuroscience, 2016, Optimism and the brain: trait optimism mediates the protective role of the orbitofrontal cortex gray matter volume against anxiety, https://doi.org/10.1093/scan/nsv106"
   - "Yanagisawa et al., PNAS, 2025, Optimistic people are all alike: Shared neural representations supporting episodic future thinking among optimistic individuals, https://doi.org/10.1073/pnas.2511101122"
   - "Erthal et al., Cognitive, Affective, & Behavioral Neuroscience, 2021, Unveiling the neural underpinnings of optimism: a systematic review, https://doi.org/10.3758/s13415-021-00931-8"
   - "Schacter, Benoit, and Szpunar, Current Opinion in Behavioral Sciences, 2017, Episodic future thinking: Mechanisms and functions, https://doi.org/10.1016/j.cobeha.2017.06.002"
@@ -82,6 +88,8 @@ Taylor and Brown 1988 is the classic "positive illusions" paper behind a lot of 
 Sharot et al. 2007 is the classic neural optimism-bias paper. In that study, optimism was associated with stronger activity in the amygdala and rostral anterior cingulate cortex when participants imagined positive future events relative to negative ones. Across individuals, rostral ACC activity tracked trait optimism.
 
 Sharot, Korn, and Dolan 2011 shifts the emphasis from imagery to learning. Participants updated beliefs more when new information was better than expected than when it was worse. The paper argues that unrealistic optimism is maintained partly by reduced neural tracking of undesirable information, especially in right inferior frontal gyrus.
+
+Dolcos, Hu, Iordan, Moore, and Dolcos 2016 adds a structural brain/anxiety piece. In 61 healthy participants, higher orbitofrontal cortex gray matter volume was associated with higher trait optimism, and trait optimism was associated with lower anxiety symptoms. Their mediation analysis suggested that trait optimism mediated the relation between left OFC volume and anxiety. The useful interpretation is brain-personality-symptom linkage: optimism may be one psychological pathway through which OFC-related resilience shows up. The brake is equally important: this was a small healthy sample with structural MRI and correlational mediation, not proof that optimism training changes OFC volume or cures anxiety.
 
 Yanagisawa et al. 2025 adds a newer angle: more optimistic people showed more similar neural representations when imagining future events, especially in medial prefrontal cortex. The study also found a clearer neural separation between positive and negative future events in more optimistic individuals than in less optimistic individuals.
 
@@ -140,6 +148,7 @@ Taken together, the sources suggest that optimism is not best understood as magi
 
 - vivid and emotionally engaging simulation of desired futures
 - structured "best possible self" imagery that can raise self-reported optimism over short intervals
+- structural brain-personality links, including OFC gray matter volume, trait optimism, and lower anxiety symptoms in a small healthy sample
 - stronger segregation between desirable and undesirable future scenarios
 - selective updating in response to bad news
 - less immersion in repetitive negative loops
@@ -170,6 +179,10 @@ A future style that supports action, resilience, and persistence without severin
 Optimistic belief that helps a person keep acting, trying, asking, noticing, preparing, and recovering after setback. Bortolotti's useful filter is whether the belief sustains competent action, not whether it is simply pleasant.
 
 This overlaps with preparedness, hardiness, sense of coherence, self-efficacy, and self-affirmation. The common thread is not "feel good." It is resourceful action under pressure.
+
+### OFC, optimism, and anxiety
+
+Dolcos et al. 2016 links higher orbitofrontal cortex gray matter volume with higher trait optimism and lower anxiety symptoms, with optimism statistically mediating the OFC-anxiety relation. This belongs in the neuroscience spine because it connects optimism to brain structure and resilience, not only future-imagery tasks or self-help language. Keep it modest: mediation in a small healthy sample is not causal proof, and it does not show that optimism exercises alter brain volume.
 
 ### Best possible self imagery
 
@@ -209,6 +222,7 @@ Draganich and Erdal's placebo-sleep study shows that experimentally assigned bel
 - The literature does not show that all positive illusions are healthy.
 - The literature does not show that vivid positive imagery alone causes broad life improvement.
 - The best-possible-self intervention increased short-term self-reported optimism in a small mostly young female sample. It did not prove long-term personality change, behavior change, or health improvement.
+- Dolcos et al. 2016 is structural/correlational evidence in 61 healthy participants. It does not prove that optimism causes larger OFC volume, that larger OFC volume causes optimism, or that optimism training treats anxiety.
 - Schacter and Addis explicitly leave room for realism or pessimism when preparedness matters.
 - The Hanson intervention paper is interesting, but it is not strong evidence for a universal everyday optimism protocol.
 - Bortolotti's agency argument does not mean every optimistic distortion helps; some produce invulnerability fantasy, poor preparation, or disengagement after failure.
@@ -226,6 +240,7 @@ Draganich and Erdal's placebo-sleep study shows that experimentally assigned bel
 
 - When does optimism support persistence versus drift into under-preparation?
 - Can people be trained to simulate positive futures vividly without also becoming worse at integrating negative evidence?
+- Are OFC/optimism/anxiety links causal, developmental, bidirectional, or downstream of other resilience factors?
 - Is repetitive negative thinking a cause of cognitive decline, an early symptom, or both?
 - Which interventions best shift future thinking: imagery training, attentional control, cognitive reappraisal, behavioral activation, or social context?
 - Does increasing optimism improve sleep prospectively, or do better sleep, better health, and lower depression make optimism easier to sustain?

@@ -26,7 +26,7 @@ The literature in this source batch points to at least four interacting pieces:
 
 In practical terms, Rick Hanson's "taking in the good" framing fits here as a response to negativity bias: if the brain tends to hold onto threat and let ordinary good moments pass through, one reasonable intervention target is not fantasy but better encoding of small stabilizing experiences.
 
-Two recurring brain regions in the literature are the rostral anterior cingulate cortex and amygdala, especially when imagining positive futures, plus inferior frontal regions involved in updating beliefs from undesirable information.
+Two recurring brain regions in the literature are the rostral anterior cingulate cortex and amygdala, especially when imagining positive futures, plus inferior frontal regions involved in updating beliefs from undesirable information. Dolcos et al. 2016 adds orbitofrontal cortex structure to the pile: in a small healthy sample, higher OFC gray matter volume was associated with higher trait optimism and lower anxiety symptoms, with optimism mediating the OFC-anxiety relation. Interesting, peer-reviewed, and still not permission to prescribe vibes as neuroanatomy.
 
 The 2025 PNAS work adds a useful nuance: optimism may involve not only expecting better outcomes, but structuring future thought differently. More optimistic people showed clearer neural distinctions between positive and negative futures. The researchers interpret this as being consistent with negative futures being processed with greater abstraction and psychological distance, which would reduce their emotional force.
 
@@ -63,6 +63,7 @@ Ellen Langer's counterclockwise aging study belongs on the outer edge of this co
 - `Best possible self imagery`: a short future-imagery intervention that can raise self-reported optimism in controlled studies.
 - `Counterfactual gratitude`: noticing bad outcomes that did not occur, without pretending everything is fine.
 - `Embodied belief updating`: bodily systems such as vestibular input can perturb risk estimates and self-evaluation.
+- `OFC-anxiety link`: structural evidence connecting orbitofrontal gray matter volume, trait optimism, and anxiety symptoms in healthy participants, without causal training claims.
 - `Placebo sleep`: experimentally assigned beliefs about sleep quality can shift some cognitive performance measures.
 - `Sleep-health association`: optimism is associated with lower insomnia risk in at least one population survey, but causality and mechanisms remain open.
 - `Unrealistic optimism`: better-than-warranted expectation about future outcomes.

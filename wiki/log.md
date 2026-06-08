@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-08] research | OFC optimism and anxiety mediation
+- Sources: Dolcos, Hu, Iordan, Moore, and Dolcos, [Optimism and the brain: trait optimism mediates the protective role of the orbitofrontal cortex gray matter volume against anxiety](https://doi.org/10.1093/scan/nsv106), *Social Cognitive and Affective Neuroscience*, 2016; PubMed/PMC metadata, accessed 2026-06-08.
+- Pages created: none
+- Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added the structural brain/anxiety evidence: in 61 healthy participants, OFC gray matter volume was associated with trait optimism, optimism was associated with lower anxiety, and optimism mediated the left OFC-anxiety relation. Preserved the boundary: structural/correlational mediation in a small healthy sample, not proof that optimism training changes OFC volume or treats anxiety.
+
 ## [2026-06-08] concept | manifestation as behavior modification
 - Sources: NHS, [Cognitive behavioural therapy](https://www.nhs.uk/conditions/cognitive-behavioural-therapy-cbt/); APA, [What is Cognitive Behavioral Therapy?](https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral); Carrillo et al., [Effects of the Best Possible Self intervention](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222386), *PLOS One*, 2019.
 - Pages created: [Manifestation As Behavior Modification](concepts/manifestation-as-behavior-modification.md)
