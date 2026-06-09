@@ -73,6 +73,7 @@ sources:
   - "Public web research, accessed 2026-06-09"
   - "../../raw/optimistic-brain.pdf"
   - "../../raw/Optimism, Agency, and Success.pdf"
+  - "../../raw/Unveiling the neural underpinnings of optimism a systematic review.pdf"
 ---
 
 # Optimism Neuroscience Source Batch
@@ -81,7 +82,7 @@ sources:
 
 - Topic: optimism as a cognitive and neural style rather than a manifestation claim
 - Scope: future-event simulation, optimism bias, belief updating, mental imagery interventions, repetitive negative thinking, and sleep/insomnia associations
-- Access note: this page keeps original synthesis and metadata only. It does not reproduce paywalled text. `raw/optimistic-brain.pdf` is treated as local access-controlled source material. `raw/Optimism, Agency, and Success.pdf` is an open-access PDF of Bortolotti's article and remains ignored by git with the rest of `raw/`. The Wiley encyclopedia chapter by Kahle Monahan et al. was checked through public abstract/metadata and secondary bibliographic records only, not full-text access. The OxJournal 2024 article is public and useful as a student-style review/source trail, not as primary experimental evidence.
+- Access note: this page keeps original synthesis and metadata only. It does not reproduce paywalled text. `raw/optimistic-brain.pdf` and `raw/Unveiling the neural underpinnings of optimism a systematic review.pdf` are treated as local access-controlled source material. `raw/Optimism, Agency, and Success.pdf` is an open-access PDF of Bortolotti's article and remains ignored by git with the rest of `raw/`. The Wiley encyclopedia chapter by Kahle Monahan et al. was checked through public abstract/metadata and secondary bibliographic records only, not full-text access. The OxJournal 2024 article is public and useful as a student-style review/source trail, not as primary experimental evidence.
 
 ## Core Primary-Source Claims
 
@@ -92,6 +93,16 @@ Sharot et al. 2007 is the classic neural optimism-bias paper. In that study, opt
 Sharot, Korn, and Dolan 2011 shifts the emphasis from imagery to learning. Participants updated beliefs more when new information was better than expected than when it was worse. The paper argues that unrealistic optimism is maintained partly by reduced neural tracking of undesirable information, especially in right inferior frontal gyrus.
 
 Dolcos, Hu, Iordan, Moore, and Dolcos 2016 adds a structural brain/anxiety piece. In 61 healthy participants, higher orbitofrontal cortex gray matter volume was associated with higher trait optimism, and trait optimism was associated with lower anxiety symptoms. Their mediation analysis suggested that trait optimism mediated the relation between left OFC volume and anxiety. The useful interpretation is brain-personality-symptom linkage: optimism may be one psychological pathway through which OFC-related resilience shows up. The brake is equally important: this was a small healthy sample with structural MRI and correlational mediation, not proof that optimism training changes OFC volume or cures anxiety.
+
+Erthal et al. 2021 is the technical review spine for the neuroscience part of this package. The authors systematically searched PubMed, ISI/Web of Knowledge, and PsycINFO with no date limit, last searched on 2020-02-14, screened 475 deduplicated records, and included 14 human adult neuroimaging studies. Included studies had to use MRI/fMRI/resting-state/anatomical MRI, measure self-optimism with a validated trait scale or task, and report an association between optimism and brain activity, structure, or connectivity.
+
+The review's main synthesis is that two regions recur. The anterior cingulate cortex appears across trait optimism, future-event likelihood estimation, and belief-update studies, fitting its wider role in future imagination and self-referential processing. The inferior frontal gyrus appears especially in belief-update tasks, where optimism is measured by asymmetric updating from desirable versus undesirable information. In plain English: ACC is closer to self-relevant future construction and re-estimation; IFG is closer to how salient good or bad evidence is coded when expectations get challenged.
+
+The review usefully separates measurement routes. LOT-R studies treat optimism as a dispositional self-report trait. Likelihood-estimation tasks ask participants to estimate positive or negative future-life events without being corrected by base-rate statistics. Belief-update tasks actively challenge the participant's estimate by showing population statistics and then measuring how much the estimate changes. The review suggests these tasks may probe different parts of the same phenomenon: positive-future estimation tends to emphasize ACC, while the error/statistic phase of belief updating tends to emphasize IFG.
+
+Several secondary technical points are worth keeping. Resting-state work links higher optimism with medial/superior frontal and middle-temporal/default-mode-adjacent activity or connectivity. Structural work links optimism with OFC, rostral ACC, basal ganglia, and lingual-gyrus findings, but the strongest wiki-relevant structural tile remains Dolcos et al. 2016 because it ties OFC volume, trait optimism, and anxiety symptoms. Clinical samples complicate the picture: generalized anxiety and major depression studies suggest altered processing of positive future estimates and bad-news belief updating, but some findings are difficult to interpret.
+
+The review's practical implication is not "scan the ACC and prescribe optimism." It is that future simulation, self-relevance, salience processing, belief updating, and stress regulation are plausible intervention targets. The authors point toward Best Possible Self, optimism interventions, and possible neurofeedback research, while also noting that neurofeedback is early-stage and that the field is too small for meta-analysis.
 
 Yanagisawa et al. 2025 adds a newer angle: more optimistic people showed more similar neural representations when imagining future events, especially in medial prefrontal cortex. The study also found a clearer neural separation between positive and negative future events in more optimistic individuals than in less optimistic individuals.
 
@@ -229,6 +240,7 @@ Draganich and Erdal's placebo-sleep study shows that experimentally assigned bel
 - The literature does not show that vivid positive imagery alone causes broad life improvement.
 - The best-possible-self intervention increased short-term self-reported optimism in a small mostly young female sample. It did not prove long-term personality change, behavior change, or health improvement.
 - Dolcos et al. 2016 is structural/correlational evidence in 61 healthy participants. It does not prove that optimism causes larger OFC volume, that larger OFC volume causes optimism, or that optimism training treats anxiety.
+- Erthal et al. 2021 is a systematic review, but only 14 neuroimaging studies met inclusion criteria. Many fMRI samples had fewer than 30 participants, measures were heterogeneous, most evidence was correlational, and the field was too small for meta-analysis.
 - Schacter and Addis explicitly leave room for realism or pessimism when preparedness matters.
 - The Hanson intervention paper is interesting, but it is not strong evidence for a universal everyday optimism protocol.
 - Bortolotti's agency argument does not mean every optimistic distortion helps; some produce invulnerability fantasy, poor preparation, or disengagement after failure.

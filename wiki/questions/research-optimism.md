@@ -32,11 +32,15 @@ This is the oldest clean neuroscience anchor for the idea that optimism is not j
 
 Schacter and Addis's 2007 News & Views article on the Sharot paper is especially useful because it keeps the memory/future-simulation bridge visible. Their framing connects optimism to constructive prospection: the same broad machinery that helps reconstruct past events also helps simulate future ones.
 
+Erthal et al.'s 2021 systematic review tightens this into a useful technical split. Across 14 adult neuroimaging studies, ACC was the recurring region for trait optimism, positive-future likelihood estimation, and belief-update measures. The review interprets this through ACC's wider role in future imagination and self-referential processing. That fits the wiki's working claim: optimism is partly about how the self builds and values possible futures, not merely whether someone says cheerful things while holding a mug.
+
 ### 2. Optimism is maintained partly by asymmetric belief updating
 
 The 2011 Nature Neuroscience paper found that people updated beliefs more when outcomes were better than expected than when they were worse. In more optimistic individuals, undesirable estimation errors were tracked less strongly in right inferior frontal gyrus.
 
 This supports a specific mechanism: optimism can persist because bad news does not revise expectations as strongly as good news does.
+
+The same Erthal review makes IFG the second main hub, especially in belief-update tasks. The task structure matters: participants estimate future adverse events, see base-rate statistics, then revise or do not revise their estimate. IFG appears around the salience/error-coding side of that process, particularly when expectations are challenged by undesirable information. So the technical version of the "cheat code" is not just positive imagery. It is also selective evidence weighting, cue processing, and when the system decides bad news is relevant enough to update the model.
 
 ### 3. Trait optimism is linked to OFC structure and lower anxiety symptoms
 
@@ -148,6 +152,7 @@ The most defensible synthesis is that optimism is a representational style.
 It seems to involve:
 
 - more vivid, emotionally meaningful simulation of positive futures
+- ACC-linked self-relevant future construction and IFG-linked challenged-belief updating
 - some short-term trainability through structured Best Possible Self imagery
 - Adlerian guiding fictions or imagined future goals that organize current behavior
 - manifestation language translated into CBT-adjacent behaviour modification rather than reality creation
@@ -176,6 +181,7 @@ The bills still exist. The better version of optimism is not pretending they do 
 - The literature does not show that toxic positivity is healthy.
 - Schacter and Addis explicitly leave room for realism or pessimism when negative outcomes are likely or preparation matters.
 - The literature does not yet show that training vivid positive imagery alone reliably produces lasting healthy optimism in everyday life.
+- The 2021 systematic review found only 14 eligible neuroimaging studies; many samples were small, measures were mixed, and the evidence was mostly correlational.
 - Best Possible Self imagery has short-term intervention evidence, but it is not proof of durable life change or downstream health benefits.
 - The Dolcos et al. OFC result is small-sample structural/correlational evidence. It should not be read as causal proof or treatment advice.
 - Fictional finalism is useful historical scaffolding, not modern neuroscience and not manifestation.

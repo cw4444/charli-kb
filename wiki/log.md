@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-09] source update | Erthal optimism neuroimaging review
+- Source: Fatima Erthal et al., *Cognitive, Affective, & Behavioral Neuroscience*, [Unveiling the neural underpinnings of optimism: a systematic review](https://doi.org/10.3758/s13415-021-00931-8), 2021; local subscription PDF in `raw/`.
+- Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Read the local PDF and added the technical spine: 14 adult neuroimaging studies; ACC as the main self-relevant future-construction/re-estimation hub; IFG as the belief-update/salience hub when expectations are challenged by good or bad information. Preserved limitations: small literature, many fMRI samples under 30 participants, heterogeneous optimism measures, mostly correlational findings, and no meta-analysis.
+
 ## [2026-06-09] update | OxJournal optimism overview
 - Source: Jaimee Li, Olivia Smith, Tzu-Hsun Sun, and Alex Swann, OxJournal, [The Neuroscience of Optimism](https://www.oxjournal.org/the-neuroscience-of-optimism/), 2024-08-17.
 - Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)

@@ -28,7 +28,9 @@ The 2024 OxJournal overview is not primary evidence, but it usefully names the d
 
 In practical terms, Rick Hanson's "taking in the good" framing fits here as a response to negativity bias: if the brain tends to hold onto threat and let ordinary good moments pass through, one reasonable intervention target is not fantasy but better encoding of small stabilizing experiences.
 
-Two recurring brain regions in the literature are the rostral anterior cingulate cortex and amygdala, especially when imagining positive futures, plus inferior frontal regions involved in updating beliefs from undesirable information. Dolcos et al. 2016 adds orbitofrontal cortex structure to the pile: in a small healthy sample, higher OFC gray matter volume was associated with higher trait optimism and lower anxiety symptoms, with optimism mediating the OFC-anxiety relation. Interesting, peer-reviewed, and still not permission to prescribe vibes as neuroanatomy.
+Erthal et al.'s 2021 systematic review gives the technical spine: across 14 adult neuroimaging studies, the two recurring hubs were anterior cingulate cortex and inferior frontal gyrus. ACC shows up around self-relevant future construction, trait optimism, and re-estimation of future likelihoods. IFG shows up especially when beliefs are challenged by good or bad base-rate information. That is the useful split: optimism is not one blob. It has a future-simulation/self-relevance side and an evidence-updating/salience side.
+
+Two other recurring brain-region tiles matter. Sharot et al. linked rostral ACC and amygdala activity to imagining positive futures. Dolcos et al. 2016 adds orbitofrontal cortex structure to the pile: in a small healthy sample, higher OFC gray matter volume was associated with higher trait optimism and lower anxiety symptoms, with optimism mediating the OFC-anxiety relation. Interesting, peer-reviewed, and still not permission to prescribe vibes as neuroanatomy.
 
 The 2025 PNAS work adds a useful nuance: optimism may involve not only expecting better outcomes, but structuring future thought differently. More optimistic people showed clearer neural distinctions between positive and negative futures. The researchers interpret this as being consistent with negative futures being processed with greater abstraction and psychological distance, which would reduce their emotional force.
 
@@ -64,6 +66,7 @@ Ellen Langer's counterclockwise aging study belongs on the outer edge of this co
 - `Agency-supporting optimism`: positive belief that helps someone keep trying, noticing options, and using available resources.
 - `Attributional optimism`: explaining setbacks as specific, unstable, and workable rather than permanent, global, and identity-defining.
 - `Best possible self imagery`: a short future-imagery intervention that can raise self-reported optimism in controlled studies.
+- `ACC/IFG split`: rough neuroimaging distinction between self-relevant future construction and challenged-belief updating.
 - `Counterfactual gratitude`: noticing bad outcomes that did not occur, without pretending everything is fine.
 - `Embodied belief updating`: bodily systems such as vestibular input can perturb risk estimates and self-evaluation.
 - `OFC-anxiety link`: structural evidence connecting orbitofrontal gray matter volume, trait optimism, and anxiety symptoms in healthy participants, without causal training claims.
