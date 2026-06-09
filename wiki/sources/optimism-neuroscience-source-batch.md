@@ -55,6 +55,7 @@ primary_sources:
   - "Rozanski, Bavishi, Kubzansky, and Cohen, JAMA Network Open, 2019, Association of Optimism With Cardiovascular Events and All-Cause Mortality, https://doi.org/10.1001/jamanetworkopen.2019.12200"
   - "Lee et al., PNAS, 2019, Optimism is associated with exceptional longevity in 2 epidemiologic cohorts of men and women, https://doi.org/10.1073/pnas.1900712116"
   - "O'Donovan et al., Psychoneuroendocrinology, 2014, Pessimistic orientation in relation to telomere length in older men: the VA Normative Aging Study, https://doi.org/10.1016/j.psyneuen.2013.12.019"
+  - "Kotikalapudi, Dricu, Moser, and Aue, Brain Sciences, 2022, Brain Structure and Optimism Bias: A Voxel-Based Morphometry Approach, https://doi.org/10.3390/brainsci12030315"
 counterpoint_sources:
   - "Colvin and Block, Psychological Bulletin, 1994, Do positive illusions foster mental health? An examination of the Taylor and Brown formulation, https://doi.org/10.1037/0033-2909.116.1.3"
   - "Taylor and Brown, Psychological Bulletin, 1994, Positive illusions and well-being revisited: separating fact from fiction, https://doi.org/10.1037/0033-2909.116.1.21"
@@ -107,6 +108,10 @@ The review usefully separates measurement routes. LOT-R studies treat optimism a
 Several secondary technical points are worth keeping. Resting-state work links higher optimism with medial/superior frontal and middle-temporal/default-mode-adjacent activity or connectivity. Structural work links optimism with OFC, rostral ACC, basal ganglia, and lingual-gyrus findings, but the strongest wiki-relevant structural tile remains Dolcos et al. 2016 because it ties OFC volume, trait optimism, and anxiety symptoms. Clinical samples complicate the picture: generalized anxiety and major depression studies suggest altered processing of positive future estimates and bad-news belief updating, but some findings are difficult to interpret.
 
 The review's practical implication is not "scan the ACC and prescribe optimism." It is that future simulation, self-relevance, salience processing, belief updating, and stress regulation are plausible intervention targets. The authors point toward Best Possible Self, optimism interventions, and possible neurofeedback research, while also noting that neurofeedback is early-stage and that the field is too small for meta-analysis.
+
+Kotikalapudi, Dricu, Moser, and Aue 2022 adds an open-access voxel-based morphometry tile for optimism bias rather than broad trait optimism. The study used a soccer-player likelihood-estimation task to compare personal optimism bias (self versus rival) and social optimism bias (in-group versus out-group). The main shared structural correlate was left putamen gray matter volume, consistent with reward/value weighting. Personal optimism bias was also associated with right frontal pole and several temporal/hippocampal/visual association regions, while social optimism bias was associated with right temporoparietal junction plus other regions.
+
+The paper is useful because it stops optimism bias being treated as one smooth personal trait. In this task, personal optimism bias seemed partly reward/self-valuation driven and partly rival-downplaying; social optimism bias brought in social-cognition machinery. That fits the wiki's broader boundary: optimism can be adaptive, motivational, and embodied in valuation systems, but biased comparison can also become distorted self/other weighting. The paper's own caveat matters: this was a proof-of-concept structural study in a competitive soccer scenario, and it differs from trait optimism and belief-update paradigms.
 
 Yanagisawa et al. 2025 adds a newer angle: more optimistic people showed more similar neural representations when imagining future events, especially in medial prefrontal cortex. The study also found a clearer neural separation between positive and negative future events in more optimistic individuals than in less optimistic individuals.
 
@@ -178,6 +183,7 @@ Taken together, the sources suggest that optimism is not best understood as magi
 - vivid and emotionally engaging simulation of desired futures
 - structured "best possible self" imagery that can raise self-reported optimism over short intervals
 - structural brain-personality links, including OFC gray matter volume, trait optimism, and lower anxiety symptoms in a small healthy sample
+- structural optimism-bias links involving reward/value and social-cognition regions such as putamen, frontal pole, and TPJ
 - stronger segregation between desirable and undesirable future scenarios
 - selective updating in response to bad news
 - less immersion in repetitive negative loops
@@ -261,6 +267,7 @@ This is exactly where the proof boundary matters. These studies do not show that
 - The best-possible-self intervention increased short-term self-reported optimism in a small mostly young female sample. It did not prove long-term personality change, behavior change, or health improvement.
 - Dolcos et al. 2016 is structural/correlational evidence in 61 healthy participants. It does not prove that optimism causes larger OFC volume, that larger OFC volume causes optimism, or that optimism training treats anxiety.
 - Erthal et al. 2021 is a systematic review, but only 14 neuroimaging studies met inclusion criteria. Many fMRI samples had fewer than 30 participants, measures were heterogeneous, most evidence was correlational, and the field was too small for meta-analysis.
+- Kotikalapudi et al. 2022 studied optimism bias in a specific competitive soccer task. Do not generalize it to all optimism, all social comparison, or all reward processing.
 - Schacter and Addis explicitly leave room for realism or pessimism when preparedness matters.
 - The Hanson intervention paper is interesting, but it is not strong evidence for a universal everyday optimism protocol.
 - Bortolotti's agency argument does not mean every optimistic distortion helps; some produce invulnerability fantasy, poor preparation, or disengagement after failure.

@@ -32,6 +32,8 @@ Erthal et al.'s 2021 systematic review gives the technical spine: across 14 adul
 
 Two other recurring brain-region tiles matter. Sharot et al. linked rostral ACC and amygdala activity to imagining positive futures. Dolcos et al. 2016 adds orbitofrontal cortex structure to the pile: in a small healthy sample, higher OFC gray matter volume was associated with higher trait optimism and lower anxiety symptoms, with optimism mediating the OFC-anxiety relation. Interesting, peer-reviewed, and still not permission to prescribe vibes as neuroanatomy.
 
+Kotikalapudi et al. 2022 adds the structural optimism-bias version: in a soccer likelihood-estimation task, personal and social optimism bias shared a left-putamen gray-matter correlate, while personal bias also involved frontal-pole and temporal/hippocampal regions, and social bias involved right TPJ. In useful English: optimism bias can involve reward/value weighting, self-versus-rival comparison, and social-cognition machinery. In less useful English: no, this still does not mean the putamen is a manifestation gland.
+
 The 2025 PNAS work adds a useful nuance: optimism may involve not only expecting better outcomes, but structuring future thought differently. More optimistic people showed clearer neural distinctions between positive and negative futures. The researchers interpret this as being consistent with negative futures being processed with greater abstraction and psychological distance, which would reduce their emotional force.
 
 The careful version of the claim is important. Optimism is not the same as denial, and the current evidence does not prove that all optimistic people consciously choose abstract construals for bad outcomes. But it does support the idea that optimism has a representational style, not just a mood label.
@@ -72,6 +74,7 @@ Ellen Langer's counterclockwise aging study belongs on the outer edge of this co
 - `Counterfactual gratitude`: noticing bad outcomes that did not occur, without pretending everything is fine.
 - `Embodied belief updating`: bodily systems such as vestibular input can perturb risk estimates and self-evaluation.
 - `OFC-anxiety link`: structural evidence connecting orbitofrontal gray matter volume, trait optimism, and anxiety symptoms in healthy participants, without causal training claims.
+- `Personal and social optimism bias`: self/rival and in-group/out-group optimism can involve overlapping reward/value systems and distinct social-comparison machinery.
 - `Placebo sleep`: experimentally assigned beliefs about sleep quality can shift some cognitive performance measures.
 - `Sleep-health association`: optimism is associated with lower insomnia risk in at least one population survey, but causality and mechanisms remain open.
 - `Longevity-health association`: optimism is associated with cardiovascular and longevity outcomes in large observational research, but causality remains open.

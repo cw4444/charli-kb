@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-09] source update | personal and social optimism-bias structure
+- Source: Kotikalapudi, Dricu, Moser, and Aue, *Brain Sciences*, [Brain Structure and Optimism Bias: A Voxel-Based Morphometry Approach](https://doi.org/10.3390/brainsci12030315), 2022.
+- Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added the open-access VBM study as a structural optimism-bias tile. Preserved the useful split: personal optimism bias and social optimism bias shared a left-putamen gray-matter correlate, while personal bias involved frontal-pole/temporal/hippocampal regions and social bias involved right TPJ. Kept caveat that this was a competitive soccer likelihood-estimation task, not a universal optimism map.
+
 ## [2026-06-09] source update | optimism longevity and cardiovascular health
 - Sources: Immaculata De Vivo, MIT Press Reader, [The New Science of Optimism and Longevity](https://thereader.mitpress.mit.edu/the-new-science-of-optimism-and-longevity/); Rozanski et al., [Association of Optimism With Cardiovascular Events and All-Cause Mortality](https://doi.org/10.1001/jamanetworkopen.2019.12200); Lee et al., [Optimism is associated with exceptional longevity in 2 epidemiologic cohorts of men and women](https://doi.org/10.1073/pnas.1900712116); O'Donovan et al., [Pessimistic orientation in relation to telomere length in older men](https://doi.org/10.1016/j.psyneuen.2013.12.019)
 - Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)

@@ -48,6 +48,10 @@ Dolcos, Hu, Iordan, Moore, and Dolcos 2016 gives the optimism package a structur
 
 This is exactly the sort of peer-reviewed result worth keeping, because it links optimism to a brain-personality-symptom pathway rather than treating optimism as only a slogan or self-report mood. The adult caveat is that the study is small and correlational. It does not prove that optimism training grows OFC volume or that larger OFC volume magically vaccinates a person against anxiety. The custard remains complicated, because apparently that was necessary.
 
+Kotikalapudi et al. 2022 adds a different structural tile: optimism bias in a competitive task, not trait optimism. Participants estimated successful soccer-pass likelihoods for self versus rival and in-group versus out-group players. Personal and social optimism bias both correlated with left putamen gray matter volume, suggesting reward/value weighting as a shared substrate. Personal optimism bias also involved right frontal pole and temporal/hippocampal/visual association regions; social optimism bias involved right temporoparietal junction, which fits social-cognition/theory-of-mind machinery.
+
+This matters because "optimism bias" is not just private cheerfulness. It can be self-valuation, downplaying a rival, group preference, reward weighting, and social comparison. Still, the task was specific and competitive, so the result should not be treated as a general brain-map for all optimism.
+
 ### 4. The newest work supports your "vivid positive, abstract negative" hunch, but with caveats
 
 The 2025 PNAS paper found that more optimistic individuals had more convergent neural representations during episodic future thinking and showed clearer neural distinctions between positive and negative future events.
@@ -165,6 +169,7 @@ It seems to involve:
 - Adlerian guiding fictions or imagined future goals that organize current behavior
 - manifestation language translated into CBT-adjacent behaviour modification rather than reality creation
 - OFC gray matter / trait optimism / anxiety associations in structural MRI work
+- reward/value and social-comparison structures in personal and social optimism-bias tasks
 - cleaner separation between positive and negative possibilities
 - some degree of emotional distancing from negative futures
 - weaker incorporation of some forms of bad news
@@ -193,6 +198,7 @@ The bills still exist. The better version of optimism is not pretending they do 
 - The 2021 systematic review found only 14 eligible neuroimaging studies; many samples were small, measures were mixed, and the evidence was mostly correlational.
 - Best Possible Self imagery has short-term intervention evidence, but it is not proof of durable life change or downstream health benefits.
 - The Dolcos et al. OFC result is small-sample structural/correlational evidence. It should not be read as causal proof or treatment advice.
+- The Kotikalapudi et al. VBM result is a proof-of-concept structural study in a soccer competition task. It is useful for personal/social optimism bias, not a universal optimism map.
 - Fictional finalism is useful historical scaffolding, not modern neuroscience and not manifestation.
 - Manifestation language is only useful here after translation into attention, behaviour, practice, and evidence-sensitive agency.
 - The older-adult repetitive negative thinking findings are important, but the 2025 study is cross-sectional and should not be read as causal proof.
