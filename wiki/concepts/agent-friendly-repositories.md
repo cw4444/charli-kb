@@ -3,10 +3,11 @@ title: "Agent Friendly Repositories"
 type: concept
 status: draft
 created: 2026-04-28
-updated: 2026-05-21
+updated: 2026-06-09
 sources:
   - ../sources/peter-steinberger-agentic-engineering-batch.md
   - ../sources/interpretable-context-methodology.md
+  - ../sources/anthropic-biology-agents-deterministic-rails-2026.md
 ---
 
 # Agent Friendly Repositories
@@ -30,6 +31,10 @@ Interpretable Context Methodology gives this a sharper rule: if a workflow is se
 The repository is a small example of a [Queryable Organization](queryable-organization.md): the agent should be able to answer what changed, why it changed, what sources supported it, and where the decision was recorded.
 
 Good agent-facing prompts and repo instructions are part of the same pattern. [Agent Prompting](agent-prompting.md) explains the operating contract: define outcomes, boundaries, tool-use expectations, and verification checks clearly enough that an agent can proceed without guessing.
+
+Anthropic's June 2026 biology-agent case study adds the sharper domain lesson: high-stakes agents need deterministic rails under flexible reasoning. In VirBench, agents retrieving viral sequences from NCBI Virus performed inconsistently when left to navigate brittle biological infrastructure, but accuracy rose above 90% for all agents once they had access to `gget virus`, a deterministic retrieval layer.
+
+The general repo lesson is not "make the model smarter and hope." It is to expose repeatable commands, schemas, logs, tests, and validators so the agent can act through reliable paths and humans can audit what happened. The clever part is allowed upstairs. The plumbing should be boring.
 
 ## Related
 

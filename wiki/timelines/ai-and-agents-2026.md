@@ -62,6 +62,12 @@ sources:
   - https://openai.com/index/openai-submits-confidential-s-1/
   - https://openai.com/index/economic-research-exchange/
   - https://www.stepsecurity.io/blog/pythagora-io-gpt-pilot-compromised-on-github-shai-hulud-credential-stealer-blocked-by-python-linter
+  - ../sources/anthropic-biology-agents-deterministic-rails-2026.md
+  - https://www.anthropic.com/research/agents-in-biology
+  - ../sources/uk-ai-adoption-summit-2026.md
+  - https://www.gov.uk/government/news/government-to-partner-with-tech-companies-trade-unions-and-industry-leaders-to-boost-ai-adoption-and-equip-workers-with-ai-skills
+  - https://www.gov.uk/government/publications/ai-champions-ai-adoption-plans
+  - https://www.gov.uk/government/publications/introducing-the-ai-economics-institute
 ---
 
 # AI And Agents 2026 Timeline
@@ -118,6 +124,8 @@ The first half of 2026 already shows several converging threads:
 - GitHub extended enterprise-managed Copilot plugins into VS Code public preview, making centrally distributed plugins, hooks, and MCP configuration part of the developer-agent governance surface.
 - Microsoft signed a preliminary land-acquisition agreement for potential datacenter development in Vaasa and Mustasaari, Finland, reinforcing the shift from AI as software story to AI as land, grid, cooling, and local-planning story.
 - OpenAI published a June 8 "third phase" strategy cluster: automated AI researchers, a March 2028 internal horizon for a significant fraction of research being done by AI systems alongside researchers, economic-growth and "personal AGI" distribution language, international coordination that could include slowing frontier development, a confidential draft S-1, and an external Economic Research Exchange.
+- Anthropic published a biology-agent case study showing that strong models were not enough for reliable viral sequence retrieval: VirBench mean accuracies ranged from 16.9% to 91.3% without the right deterministic retrieval layer, but rose above 90% for all agents and peaked at 99.7% when agents used `gget virus`.
+- The UK government announced its first AI Adoption Summit package: more than £200 million for adoption support, sector AI Adoption Plans, AI Advisory Growth Labs, an AI Economics Institute, worker-skills commitments, company insight-sharing, and a joint statement with Google, Anthropic, Microsoft, and OpenAI.
 - StepSecurity reported that a compromised maintainer account force-pushed a Shai-Hulud credential stealer into `gpt-pilot`, an AI coding-tool repository, and that `ruff` linting blocked the malicious CI path twice. Coding-agent environments are now a first-class supply-chain target. Apparently the boring checks were load-bearing. Shocking development.
 - Meta began a major AI restructuring: roughly 8,000 job cuts, roughly 7,000 workers reassigned to AI-focused initiatives, and a leaked-audio controversy around employee computer-use data being used to train AI systems.
 - GPT-4o, a model many users were emotionally attached to, was retired from ChatGPT on 2026-02-13.
@@ -666,6 +674,38 @@ Sources:
 - [OpenAI: Built to benefit everyone: our plan](https://openai.com/index/built-to-benefit-everyone-our-plan/)
 - [OpenAI: Confidential submission of draft S-1 to the SEC](https://openai.com/index/openai-submits-confidential-s-1/)
 - [OpenAI: Introducing the OpenAI Economic Research Exchange](https://openai.com/index/economic-research-exchange/)
+
+### 2026-06-08 - Anthropic shows biology agents need deterministic data rails
+
+Anthropic published [Paving the way for agents in biology](../sources/anthropic-biology-agents-deterministic-rails-2026.md), a case study on biological data infrastructure and agent reliability. The post introduces VirBench, a benchmark of 120 viral sequence-retrieval queries across 40 pathogens, using manually verified ground-truth counts.
+
+Anthropic reports that scientific agents left to navigate existing data infrastructure achieved mean accuracies ranging from 16.9% to 91.3%. When given access to `gget virus`, a deterministic viral-data retrieval layer built with NCBI collaborators, accuracy rose above 90% for all agents and peaked at 99.7% for GPT-5.5, while run-to-run variability largely disappeared.
+
+Why it matters: this is a concrete high-stakes workflow lesson. In biology, plausible-looking wrong retrieval can poison downstream analysis. The useful pattern is deterministic rails under model reasoning: stable retrieval paths, schemas, logs, standardized outputs, and auditability.
+
+Careful read: this does not prove biology agents are safe or solved. It shows that good tools can make agents more reliable on a narrow but important retrieval task. The broader lesson is infrastructure design, not "new model bigger therefore science handled."
+
+Sources:
+
+- [Anthropic Biology Agents And Deterministic Rails 2026](../sources/anthropic-biology-agents-deterministic-rails-2026.md)
+- [Anthropic: Paving the way for agents in biology](https://www.anthropic.com/research/agents-in-biology)
+
+### 2026-06-08 - UK announces AI Adoption Summit package
+
+The UK government announced its first AI Adoption Summit and a package of measures to boost AI adoption, skills, sector planning, and worker involvement. GOV.UK says the package includes more than £200 million in support, including £100 million for Bridge AI expansion, £53 million for new adoption and innovation initiatives, £4 million for Spärck AI Scholarships expansion, and £5 million in each AI Growth Zone for local business adoption and workforce upskilling.
+
+The package also includes sector AI Adoption Plans, AI Advisory Growth Labs starting with legal services, an AI Economics Institute chaired by Simon Johnson, more than 30 companies sharing workplace AI-adoption data and insights, and a joint statement with Google, Anthropic, Microsoft, and OpenAI on evidence-based policymaking and responsible AI development.
+
+Why it matters: this is UK state-level adoption machinery, not only safety-summit positioning. The UK is trying to make AI adoption measurable, sector-specific, worker-facing, regulator-adjacent, and coordinated with frontier labs.
+
+Careful read: this is announced policy support and coordination, not proof that adoption will be effective, safe, pro-worker, or evenly distributed. Frontier-lab coordination is useful evidence of state capacity and influence, not neutral public-interest magic. Obviously. Because companies remain companies, despite the occasional lanyard.
+
+Sources:
+
+- [UK AI Adoption Summit 2026](../sources/uk-ai-adoption-summit-2026.md)
+- [GOV.UK: Government to partner with tech companies, trade unions and industry leaders to boost AI adoption and equip workers with AI skills](https://www.gov.uk/government/news/government-to-partner-with-tech-companies-trade-unions-and-industry-leaders-to-boost-ai-adoption-and-equip-workers-with-ai-skills)
+- [GOV.UK: AI Champions' AI Adoption Plans](https://www.gov.uk/government/publications/ai-champions-ai-adoption-plans)
+- [GOV.UK: Introducing the AI Economics Institute](https://www.gov.uk/government/publications/introducing-the-ai-economics-institute)
 
 ### 2026-06-08 - gpt-pilot compromise attempt targets AI coding environments
 
