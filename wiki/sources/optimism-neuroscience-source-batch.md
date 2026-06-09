@@ -3,7 +3,7 @@ title: "Optimism Neuroscience Source Batch"
 type: source
 status: draft
 created: 2026-05-12
-updated: 2026-06-08
+updated: 2026-06-09
 source_type: public-research-batch
 authors:
   - Sanda Dolcos
@@ -66,9 +66,11 @@ commentary_sources:
   - "Kobe University News, 2025, Optimists are alike, every pessimist has their own way, https://www.kobe-u.ac.jp/en/news/article/20250722-66828/"
   - "Rick Hanson, Taking In the Good, Greater Good Magazine, 2009, https://greatergood.berkeley.edu/article/item/taking_in_the_good"
   - "Rick Hanson, How to Take in the Good, 2017, https://rickhanson.com/how-to-take-in-the-good/"
+  - "Jaimee Li, Olivia Smith, Tzu-Hsun Sun, and Alex Swann, OxJournal, 2024, The Neuroscience of Optimism, https://www.oxjournal.org/the-neuroscience-of-optimism/"
 sources:
   - "Public web research, accessed 2026-05-12"
   - "Public web research, accessed 2026-06-08"
+  - "Public web research, accessed 2026-06-09"
   - "../../raw/optimistic-brain.pdf"
   - "../../raw/Optimism, Agency, and Success.pdf"
 ---
@@ -79,7 +81,7 @@ sources:
 
 - Topic: optimism as a cognitive and neural style rather than a manifestation claim
 - Scope: future-event simulation, optimism bias, belief updating, mental imagery interventions, repetitive negative thinking, and sleep/insomnia associations
-- Access note: this page keeps original synthesis and metadata only. It does not reproduce paywalled text. `raw/optimistic-brain.pdf` is treated as local access-controlled source material. `raw/Optimism, Agency, and Success.pdf` is an open-access PDF of Bortolotti's article and remains ignored by git with the rest of `raw/`. The Wiley encyclopedia chapter by Kahle Monahan et al. was checked through public abstract/metadata and secondary bibliographic records only, not full-text access.
+- Access note: this page keeps original synthesis and metadata only. It does not reproduce paywalled text. `raw/optimistic-brain.pdf` is treated as local access-controlled source material. `raw/Optimism, Agency, and Success.pdf` is an open-access PDF of Bortolotti's article and remains ignored by git with the rest of `raw/`. The Wiley encyclopedia chapter by Kahle Monahan et al. was checked through public abstract/metadata and secondary bibliographic records only, not full-text access. The OxJournal 2024 article is public and useful as a student-style review/source trail, not as primary experimental evidence.
 
 ## Core Primary-Source Claims
 
@@ -120,6 +122,10 @@ Weitzer et al. 2021 adds a sleep-health association. In the Austrian Sleep Surve
 Draganich and Erdal 2014 adds a sharper sleep-expectancy result. Across two studies with 164 participants, people reported their previous night's sleep quality and were then randomly assigned to sham feedback saying they had either above-average or below-average REM sleep. The assigned sleep-quality belief significantly predicted performance on the Paced Auditory Serial Addition Test and Controlled Oral Word Association Task, while self-reported sleep quality did not. The assigned belief did not predict Digit Span performance, and unexpectedly did not predict Symbol Digit Modalities Test performance. The authors used control conditions to argue that the result was not just demand characteristics. This belongs near placebo, sleep cognition, and mindset effects, not as proof that sleep itself is optional. It shows that belief about sleep can push some cognitive performance measures in both directions.
 
 Kahle Monahan, Chang, Yu, and Yu 2020 is not a new experiment; it is a concise Wiley encyclopedia chapter on optimism and pessimism as personality constructs. Its value here is map-level. Public metadata frames optimism as future-outcome expectancy linked to motivation and effort, and pessimism as future-negative expectation linked to disengagement. The chapter also points toward personality correlates, contextual considerations, and treatment/intervention implications. Use it as a conceptual orientation source, not as primary evidence for a mechanism.
+
+Li, Smith, Sun, and Swann's 2024 OxJournal article is useful as a public synthesis pointer, especially for the child/adolescent-development angle. It separates dispositional optimism, attributional optimism, and optimism bias; highlights the Penn Optimism Program / learned-optimism tradition as a trainable attributional-style route; and gathers neural candidates including DMN, ACC/PFC/OFC, IFG/rACC, dopamine, and locus-of-control/lateralization claims. The wiki should treat it as a map and reading trail rather than a new primary claim. Several pieces it points to are already covered here through stronger primary or review sources, especially Sharot 2007/2011, Dolcos 2016, Scheier and Carver, Erthal 2021, and the positive-illusions counterliterature.
+
+The article is also a useful cautionary object. Its most interesting claim for this wiki is that optimism may work developmentally by turning "this problem is permanent, global, and me" into "this problem is specific, changeable, and workable." That is the clean behavioural cheat-code version: not blind positivity, but attributional framing that preserves action. Its weaker moves are where it leans from correlations and broad developmental neuroscience toward stronger-sounding claims about optimism, neuroplasticity, and adolescent outcomes. Keep those as hypotheses or source trails until the primary papers are checked.
 
 ## Counterweight Sources
 
@@ -235,6 +241,7 @@ Draganich and Erdal's placebo-sleep study shows that experimentally assigned bel
 - The "abstract negative events create emotional distance" claim is best treated as a source-grounded interpretation, not a settled mechanism.
 - The Taylor and Brown position is historically influential, but it remains debated rather than canonically settled.
 - The Wiley encyclopedia chapter is useful conceptual scaffolding, but this wiki has not used it as full-text evidence. Treat its public abstract/metadata as a pointer, not a substitute for the chapter.
+- The OxJournal 2024 article is useful as a synthesis/source trail, not as primary evidence. Do not use it to claim that optimism causes adolescent neuroplasticity, prevents depression, or guarantees better development.
 
 ## Open Questions
 

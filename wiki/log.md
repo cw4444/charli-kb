@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-09] update | OxJournal optimism overview
+- Source: Jaimee Li, Olivia Smith, Tzu-Hsun Sun, and Alex Swann, OxJournal, [The Neuroscience of Optimism](https://www.oxjournal.org/the-neuroscience-of-optimism/), 2024-08-17.
+- Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added the article as a public synthesis/source trail, not primary evidence. Preserved the useful developmental bridge: optimism as attributional reframing that keeps setbacks specific, unstable, and workable. Added caveats against treating the review as proof that optimism causes adolescent neuroplasticity, prevents depression, or guarantees better development.
+
 ## [2026-06-09] update | reported superapp and Anthropic chip finance
 - Sources: Reuters brief via Fidelity, [OpenAI plots biggest ChatGPT overhaul since launch - FT](https://www.fidelity.com/news/article/default/202606070010RTRSNEWSCOMBINED_FWN42D0S1_1); TechCrunch, [OpenAI is still working on that 'super app'](https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/); Reuters brief via TradingView, [Apollo, Blackstone have finalized $35 billion financing package for Anthropic to expand its AI infrastructure - Bloomberg News](https://www.tradingview.com/news/reuters.com%2C2026%3Anewsml_FWN42D0NG%3A0-apollo-blackstone-have-finalized-35-billion-financing-package-for-anthropic-to-expand-its-ai-infrastructure-bloomberg-news/); The Paypers, [Apollo and Blackstone close USD 35 billion chip financing deal for Anthropic](https://thepaypers.com/fintech/news/apollo-and-blackstone-close-usd-35-billion-chip-financing-deal-for-anthropic)
 - Pages updated: [OpenAI Third Phase Strategy 2026](sources/openai-third-phase-strategy-2026.md), [Anthropic Compute And Talent Signal 2026](sources/anthropic-compute-and-talent-signal-2026.md), [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Current State](meta/current-state.md), [Wiki Log](log.md)

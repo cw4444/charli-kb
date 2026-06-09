@@ -3,7 +3,7 @@ title: "Research - Optimism"
 type: question
 status: draft
 created: 2026-05-12
-updated: 2026-06-08
+updated: 2026-06-09
 question: "What does public neuroscience and adjacent cognitive research suggest about optimism?"
 sources:
   - ../sources/optimism-neuroscience-source-batch.md
@@ -99,6 +99,8 @@ Her raw PDF sharpens the filter. The problem with some optimistic beliefs is not
 
 Kahle Monahan, Chang, Yu, and Yu's 2020 Wiley encyclopedia chapter is useful here as a conceptual map, though only public abstract/metadata were checked. It frames optimism and pessimism as future-expectancy constructs with motivational consequences: optimism tends to support effort, while pessimism can support disengagement. That sits neatly beside Bortolotti's agency filter. The adult version is not "optimism good, pessimism bad." It is "which expectation helps this person act intelligently in this context?"
 
+The 2024 OxJournal overview adds the development-friendly version of this same mechanism. It distinguishes dispositional optimism, attributional optimism, and optimism bias, and it points toward learned-optimism/Penn Optimism Program style interventions. The part worth keeping is not a grand adolescent-neuroplasticity claim. It is the practical attribution shift: after a setback, a person can learn to ask whether the cause is specific, unstable, and workable rather than treating it as permanent, global, and identity-defining. That is optimism as agency maintenance, not decorative cheerfulness.
+
 ### 9. "Luck" may partly be an attentional style
 
 Richard Wiseman's newspaper experiment is a nice folk-psychology bridge into the same package. Participants who self-identified as lucky or unlucky were asked to count photographs in a newspaper. The paper contained large unexpected messages giving the answer and offering a reward for noticing. Self-described lucky people were more likely to notice the opportunity; unlucky people often stayed narrowly locked onto the counting task.
@@ -183,6 +185,7 @@ The bills still exist. The better version of optimism is not pretending they do 
 - The positive-illusions literature is historically important but contested, so it should be used as a framing argument, not as a trump card.
 - Bortolotti's agency argument supports useful optimistic belief, not reckless self-deception.
 - Bortolotti's argument is not "accuracy does not matter"; it is "accuracy is not the only variable, because motivation and agency mediate outcomes."
+- The OxJournal overview is useful as a public synthesis/source trail, not primary proof that optimism causes adolescent neuroplasticity or prevents depression.
 - Pessimism is not automatically pathological. In some contexts, preparation or disengagement is smarter than persistence.
 - Wiseman's luck work is best read as attention and opportunity detection, not fate bending.
 - Counterfactual gratitude should not become "other people have it worse." The point is evidence calibration, not guilt.
