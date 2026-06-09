@@ -131,6 +131,8 @@ McKay et al. 2013 is the glorious cold-water-in-the-ear paper. Thirty-one health
 
 Use this as embodied cognition evidence, not as a life hack. The point is that optimism bias is not only a verbal belief or social attitude. It can be perturbed through bodily/vestibular systems, which makes the "human lump of custard" model even more annoying and more interesting.
 
+Hecht 2013 is the older broad-map paper adjacent to this. It reviews optimism, pessimism, depression, anosognosia, self-esteem, embodied cognition, posture/gaze/body feedback, and hemispheric lateralization. The useful version is that optimism and pessimism may relate to approach-withdrawal, self-evaluation, and body-state systems. The dangerous version is cartoon hemisphere talk. Keep it as a source trail and hypothesis map, not as the main evidence spine.
+
 ### 12. Optimism is linked with lower insomnia risk, but the causal arrow is not settled
 
 Weitzer et al. 2021 studied 1,004 adults in the Austrian Sleep Survey. Dispositional optimism was measured with the Life Orientation Test-Revised, and chronic insomnia was assessed using several definitions based on ICSD-3 criteria.
@@ -178,6 +180,7 @@ It seems to involve:
 - attentional openness to unexpected opportunity
 - counterfactual noticing of harms that did not happen
 - embodied perturbability of risk estimates and self-evaluation
+- lateralized approach-withdrawal and self-evaluation hypotheses
 - sleep and affect regulation, with optimism associated with lower insomnia risk in observational work
 - placebo-style sleep expectancy effects on some cognitive performance tasks
 - cardiovascular and longevity associations in large observational cohorts
@@ -199,6 +202,7 @@ The bills still exist. The better version of optimism is not pretending they do 
 - Best Possible Self imagery has short-term intervention evidence, but it is not proof of durable life change or downstream health benefits.
 - The Dolcos et al. OFC result is small-sample structural/correlational evidence. It should not be read as causal proof or treatment advice.
 - The Kotikalapudi et al. VBM result is a proof-of-concept structural study in a soccer competition task. It is useful for personal/social optimism bias, not a universal optimism map.
+- The Hecht 2013 lateralization review is useful as an older hypothesis map, but it should not be treated as settled proof of simple left-brain optimism or right-brain pessimism.
 - Fictional finalism is useful historical scaffolding, not modern neuroscience and not manifestation.
 - Manifestation language is only useful here after translation into attention, behaviour, practice, and evidence-sensitive agency.
 - The older-adult repetitive negative thinking findings are important, but the 2025 study is cross-sectional and should not be read as causal proof.

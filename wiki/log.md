@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-09] source update | Hecht optimism and pessimism lateralization review
+- Source: David Hecht, *Experimental Neurobiology*, [The Neural Basis of Optimism and Pessimism](https://doi.org/10.5607/en.2013.22.3.173), 2013.
+- Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added as an older open-access narrative review/source trail for optimism, pessimism, embodied cognition, anosognosia, self-esteem, depression, approach-withdrawal, and hemispheric-lateralization hypotheses. Kept it as commentary/hypothesis map, not primary proof or cartoon left-brain/right-brain doctrine.
+
 ## [2026-06-09] source update | personal and social optimism-bias structure
 - Source: Kotikalapudi, Dricu, Moser, and Aue, *Brain Sciences*, [Brain Structure and Optimism Bias: A Voxel-Based Morphometry Approach](https://doi.org/10.3390/brainsci12030315), 2022.
 - Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)

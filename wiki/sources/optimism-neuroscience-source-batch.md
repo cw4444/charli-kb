@@ -61,6 +61,7 @@ counterpoint_sources:
   - "Taylor and Brown, Psychological Bulletin, 1994, Positive illusions and well-being revisited: separating fact from fiction, https://doi.org/10.1037/0033-2909.116.1.21"
   - "Shepperd, Pogge, and Howell, Consciousness and Cognition, 2017, Assessing the consequences of unrealistic optimism: Challenges and recommendations, https://doi.org/10.1016/j.concog.2016.07.004"
 commentary_sources:
+  - "Hecht, Experimental Neurobiology, 2013, The Neural Basis of Optimism and Pessimism, https://doi.org/10.5607/en.2013.22.3.173"
   - "Kahle Monahan, Chang, Yu, and Yu, The Wiley Encyclopedia of Personality and Individual Differences, 2020, Optimism and Pessimism: Conceptualization, Personality Correlates, and Contextual Considerations, https://doi.org/10.1002/9781118970843.ch231"
   - "Tamagni et al., Nature Precedings, 2010, Vestibular stimulation reduces unrealistic optimism, https://doi.org/10.1038/npre.2010.4519.1"
   - "Schacter and Addis, Nature Neuroscience, 2007, The optimistic brain, https://doi.org/10.1038/nn1107-1345"
@@ -147,6 +148,10 @@ Lee et al. 2019 adds the longevity anchor. Using the Nurses' Health Study and th
 
 O'Donovan et al. 2014 is a cautious telomere tile rather than a commandment. In 490 older men from the VA Normative Aging Study, greater pessimistic orientation was associated with shorter leukocyte telomere length. This belongs as a possible biological-aging mechanism clue near stress physiology and inflammation, not as "optimism lengthens telomeres" proof. Larger later work on optimism and telomeres has been mixed, so keep this as suggestive and mechanism-seeking.
 
+Hecht 2013 is an open-access narrative review on optimism, pessimism, depression, embodied cognition, and hemispheric lateralization. Its useful role is connective rather than definitive. It gathers older evidence around optimism bias, anosognosia, self-esteem, depression, posture/gaze/body feedback, and approach-withdrawal asymmetries, then argues for a broad left-hemisphere/active-confidence versus right-hemisphere/watchful-pessimism schema.
+
+Use this paper as a source trail for embodied and lateralized belief-updating questions, not as settled doctrine. The hemispheric story is broader and more speculative than Erthal's systematic neuroimaging review or Sharot's belief-update work. The best wiki use is to connect optimism/pessimism with body state, approach/withdrawal, self-evaluation, and the McKay vestibular-stimulation counterweight, while refusing cartoon left-brain/right-brain claims.
+
 Kahle Monahan, Chang, Yu, and Yu 2020 is not a new experiment; it is a concise Wiley encyclopedia chapter on optimism and pessimism as personality constructs. Its value here is map-level. Public metadata frames optimism as future-outcome expectancy linked to motivation and effort, and pessimism as future-negative expectation linked to disengagement. The chapter also points toward personality correlates, contextual considerations, and treatment/intervention implications. Use it as a conceptual orientation source, not as primary evidence for a mechanism.
 
 Li, Smith, Sun, and Swann's 2024 OxJournal article is useful as a public synthesis pointer, especially for the child/adolescent-development angle. It separates dispositional optimism, attributional optimism, and optimism bias; highlights the Penn Optimism Program / learned-optimism tradition as a trainable attributional-style route; and gathers neural candidates including DMN, ACC/PFC/OFC, IFG/rACC, dopamine, and locus-of-control/lateralization claims. The wiki should treat it as a map and reading trail rather than a new primary claim. Several pieces it points to are already covered here through stronger primary or review sources, especially Sharot 2007/2011, Dolcos 2016, Scheier and Carver, Erthal 2021, and the positive-illusions counterliterature.
@@ -190,6 +195,7 @@ Taken together, the sources suggest that optimism is not best understood as magi
 - agency-supporting beliefs that preserve action after setback
 - attentional openness to unexpected opportunity
 - bodily perturbation of risk belief and self-evaluation
+- embodied/lateralized approach-withdrawal and self-evaluation hypotheses
 - lower reported insomnia risk in at least one population survey, entangled with happiness, depression, and health
 - placebo-style sleep expectancy effects on some cognitive performance tasks
 - lower cardiovascular-event and mortality risk in observational/meta-analytic health research
@@ -268,6 +274,7 @@ This is exactly where the proof boundary matters. These studies do not show that
 - Dolcos et al. 2016 is structural/correlational evidence in 61 healthy participants. It does not prove that optimism causes larger OFC volume, that larger OFC volume causes optimism, or that optimism training treats anxiety.
 - Erthal et al. 2021 is a systematic review, but only 14 neuroimaging studies met inclusion criteria. Many fMRI samples had fewer than 30 participants, measures were heterogeneous, most evidence was correlational, and the field was too small for meta-analysis.
 - Kotikalapudi et al. 2022 studied optimism bias in a specific competitive soccer task. Do not generalize it to all optimism, all social comparison, or all reward processing.
+- Hecht 2013 is a narrative synthesis with a broad hemispheric-lateralization thesis. Treat it as a source trail and hypothesis map, not as proof that optimism is simply "left brain" or pessimism is simply "right brain."
 - Schacter and Addis explicitly leave room for realism or pessimism when preparedness matters.
 - The Hanson intervention paper is interesting, but it is not strong evidence for a universal everyday optimism protocol.
 - Bortolotti's agency argument does not mean every optimistic distortion helps; some produce invulnerability fantasy, poor preparation, or disengagement after failure.

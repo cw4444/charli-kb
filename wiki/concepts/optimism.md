@@ -52,6 +52,8 @@ Kahle Monahan, Chang, Yu, and Yu's Wiley encyclopedia chapter is useful as map-l
 
 The vestibular-stimulation result from McKay et al. is the wonderfully rude body-level counterweight. In a small illness-risk study, left-ear cold-water caloric stimulation temporarily reduced unrealistic optimism. Translation: sometimes the skull custard needs not a TED talk, but a vestibular shove. Do not try this at home; the useful point is embodiment, not ear-based enlightenment.
 
+Hecht's 2013 narrative review belongs beside that embodied thread. It argues that optimism and pessimism may relate to broad lateralized approach/withdrawal, self-evaluation, and body-state systems, with left-hemisphere active-confidence and right-hemisphere watchful-pessimism tendencies. Useful as a hypothesis map; dangerous as pub-science if boiled down to "left brain good, right brain sad." The adult version is that body state, action readiness, self-appraisal, and hemispheric asymmetries may all lean on optimism/pessimism.
+
 Richard Wiseman's newspaper task is the attention version of the same point. People who saw themselves as lucky were more likely to notice large unexpected messages embedded in a boring counting task, including the answer and a reward prompt. The useful lesson is not "luck is magic." It is that expectation can change what a person is open enough to notice. A narrow, anxious, unlucky-frame search can miss an opportunity sitting in the middle of the page like an idiot sign with a megaphone.
 
 Charli's pessimist-friendly gratitude practice belongs here too: notice the bad things that could have happened today and did not. This is not toxic positivity. It is counterfactual attention. The threat-scanning brain is allowed to stay realistic, but it has to count the avoided harms as part of the evidence.
@@ -73,6 +75,7 @@ Ellen Langer's counterclockwise aging study belongs on the outer edge of this co
 - `ACC/IFG split`: rough neuroimaging distinction between self-relevant future construction and challenged-belief updating.
 - `Counterfactual gratitude`: noticing bad outcomes that did not occur, without pretending everything is fine.
 - `Embodied belief updating`: bodily systems such as vestibular input can perturb risk estimates and self-evaluation.
+- `Lateralization hypothesis`: older narrative-review evidence links optimism/pessimism to hemispheric approach-withdrawal and self-evaluation patterns, but this must not become cartoon left-brain/right-brain talk.
 - `OFC-anxiety link`: structural evidence connecting orbitofrontal gray matter volume, trait optimism, and anxiety symptoms in healthy participants, without causal training claims.
 - `Personal and social optimism bias`: self/rival and in-group/out-group optimism can involve overlapping reward/value systems and distinct social-comparison machinery.
 - `Placebo sleep`: experimentally assigned beliefs about sleep quality can shift some cognitive performance measures.
