@@ -3,7 +3,7 @@ title: "AI And Agents 2026 Timeline"
 type: timeline
 status: draft
 created: 2026-05-21
-updated: 2026-06-06
+updated: 2026-06-09
 sources:
   - ../sources/current-ai-agent-landscape-2026.md
   - ../sources/anthropic-compute-and-talent-signal-2026.md
@@ -57,6 +57,11 @@ sources:
   - https://www.microsoft.com/en-us/security/blog/2026/06/04/updating-taxonomy-failure-modes-agentic-ai-systems-year-red-teaming-taught-us/
   - https://deepmind.google/research/publications/231466/
   - https://github.blog/changelog/2026-06-05-enterprise-managed-plugins-in-vs-code-in-public-preview/
+  - ../sources/openai-third-phase-strategy-2026.md
+  - https://openai.com/index/built-to-benefit-everyone-our-plan/
+  - https://openai.com/index/openai-submits-confidential-s-1/
+  - https://openai.com/index/economic-research-exchange/
+  - https://www.stepsecurity.io/blog/pythagora-io-gpt-pilot-compromised-on-github-shai-hulud-credential-stealer-blocked-by-python-linter
 ---
 
 # AI And Agents 2026 Timeline
@@ -74,7 +79,7 @@ Use this page for events that are useful historical anchors:
 
 Future lint rule: update this page if it helps preserve the shape of the year. Delete or collapse entries that turn out to be noise.
 
-## Short Read As Of 2026-06-06
+## Short Read As Of 2026-06-09
 
 The first half of 2026 already shows several converging threads:
 
@@ -112,6 +117,8 @@ The first half of 2026 already shows several converging threads:
 - Google DeepMind published a cooperation-framing paper arguing that superintelligence built as unilateral optimization is unlikely to remain cooperative in multi-actor deployment environments.
 - GitHub extended enterprise-managed Copilot plugins into VS Code public preview, making centrally distributed plugins, hooks, and MCP configuration part of the developer-agent governance surface.
 - Microsoft signed a preliminary land-acquisition agreement for potential datacenter development in Vaasa and Mustasaari, Finland, reinforcing the shift from AI as software story to AI as land, grid, cooling, and local-planning story.
+- OpenAI published a June 8 "third phase" strategy cluster: automated AI researchers, a March 2028 internal horizon for a significant fraction of research being done by AI systems alongside researchers, economic-growth and "personal AGI" distribution language, international coordination that could include slowing frontier development, a confidential draft S-1, and an external Economic Research Exchange.
+- StepSecurity reported that a compromised maintainer account force-pushed a Shai-Hulud credential stealer into `gpt-pilot`, an AI coding-tool repository, and that `ruff` linting blocked the malicious CI path twice. Coding-agent environments are now a first-class supply-chain target. Apparently the boring checks were load-bearing. Shocking development.
 - Meta began a major AI restructuring: roughly 8,000 job cuts, roughly 7,000 workers reassigned to AI-focused initiatives, and a leaked-audio controversy around employee computer-use data being used to train AI systems.
 - GPT-4o, a model many users were emotionally attached to, was retired from ChatGPT on 2026-02-13.
 - Charli reported receiving an OpenAI product survey asking how she uses ChatGPT, what other AI products she uses, and what ChatGPT should improve. The useful personal signal: adult users want more grown-up tone and wider creative range, and some route refused or tone-constrained work to Grok.
@@ -640,6 +647,38 @@ Sources:
 
 - [AI Compute Infrastructure Constraints 2026](../sources/ai-compute-infrastructure-constraints-2026.md)
 - [Microsoft Source EMEA: Microsoft signed preliminary agreement on acquisition of approximately 190 hectares of land in Vaasa and Mustasaari on the west coast of Finland](https://news.microsoft.com/source/emea/2026/06/microsoft-signed-preliminary-agreement-on-acquisition-of-approximately-190-hectares-of-land-in-vaasa-and-mustasaari-on-the-west-coast-of-finland/)
+
+### 2026-06-08 - OpenAI publishes "third phase" strategy, draft S-1 optionality, and economic-research exchange
+
+OpenAI published [Built to benefit everyone: our plan](../sources/openai-third-phase-strategy-2026.md), a broad strategy post by Sam Altman and Jakub Pachocki. The post says OpenAI is entering a third phase after its original research phase and later product-company phase. It names three main goals: build an automated AI researcher, accelerate the economy through science/productivity/growth, and give everyone on Earth a personal AGI.
+
+The automated-research detail is the timeline anchor. OpenAI says AI doing AI research may become the determining factor in the pace of progress within the next few years, and says that by March 2028 a significant fraction of OpenAI research may be done by AI systems working alongside its researchers. The post also argues for national and global coordination, including the possibility of coordinated action to slow frontier development when needed so safety, alignment, and societal resilience can keep pace.
+
+On the same date, OpenAI announced that it had confidentially submitted a draft S-1 to the SEC, saying it expected the filing to leak and had not decided timing. It also launched the OpenAI Economic Research Exchange, inviting external researchers into scoped collaborations on AI's effects on labor, productivity, firms, education, inequality, public finance, and related areas.
+
+Why it matters: this is OpenAI describing the post-AGI institutional story in public. Capability, research automation, mass distribution, economic evidence, coordination, and possible public-market pressure are moving together.
+
+Careful read: "personal AGI" is not proof that AGI already exists. A confidential draft S-1 is not an IPO. The Economic Research Exchange may support external work, but it is still organized around OpenAI access, tools, data, and priorities. Treat the package as a major frontier-lab strategy signal, not neutral public settlement.
+
+Sources:
+
+- [OpenAI Third Phase Strategy 2026](../sources/openai-third-phase-strategy-2026.md)
+- [OpenAI: Built to benefit everyone: our plan](https://openai.com/index/built-to-benefit-everyone-our-plan/)
+- [OpenAI: Confidential submission of draft S-1 to the SEC](https://openai.com/index/openai-submits-confidential-s-1/)
+- [OpenAI: Introducing the OpenAI Economic Research Exchange](https://openai.com/index/economic-research-exchange/)
+
+### 2026-06-08 - gpt-pilot compromise attempt targets AI coding environments
+
+StepSecurity reported that a compromised co-founder GitHub account force-pushed a Shai-Hulud credential-stealing payload to `Pythagora-io/gpt-pilot`, an AI coding-tool repository with more than 33,000 stars. The payload targeted developer secrets including AWS keys, npm tokens, GitHub secrets, Kubernetes service accounts, Vault tokens, and SSH keys, and StepSecurity says it planted persistence hooks for Claude Code and VS Code.
+
+Why it matters: this is a concrete supply-chain incident aimed at an AI coding environment, not just a theoretical "agents might be risky" paragraph. It sits directly under Microsoft's new agentic supply-chain compromise category. Repos, IDEs, coding agents, hooks, CI, and developer credentials are now one attack surface.
+
+Careful read: this was reportedly blocked twice by `ruff` formatting and lint checks, so the compromise attempt did not land through CI as intended. Do not call it an autonomous-agent failure. It was account compromise plus malicious code injection plus developer-environment persistence. Still bad. Just use the right bad.
+
+Sources:
+
+- [Agent Security Infrastructure 2026](../sources/agent-security-infrastructure-2026.md)
+- [StepSecurity: Pythagora-io/gpt-pilot Compromised on GitHub - Shai-Hulud Credential Stealer Blocked by Python Linter](https://www.stepsecurity.io/blog/pythagora-io-gpt-pilot-compromised-on-github-shai-hulud-credential-stealer-blocked-by-python-linter)
 
 ## Watchlist
 

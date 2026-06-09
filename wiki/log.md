@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-09] timeline | daily AI digest OpenAI strategy and coding-agent supply chain
+- Sources: `raw/2026-06-09-ai-digest.md`; OpenAI, [Built to benefit everyone: our plan](https://openai.com/index/built-to-benefit-everyone-our-plan/); OpenAI, [Confidential submission of draft S-1 to the SEC](https://openai.com/index/openai-submits-confidential-s-1/); OpenAI, [Introducing the OpenAI Economic Research Exchange](https://openai.com/index/economic-research-exchange/); StepSecurity, [Pythagora-io/gpt-pilot Compromised on GitHub - Shai-Hulud Credential Stealer Blocked by Python Linter](https://www.stepsecurity.io/blog/pythagora-io-gpt-pilot-compromised-on-github-shai-hulud-credential-stealer-blocked-by-python-linter)
+- Pages created: [OpenAI Third Phase Strategy 2026](sources/openai-third-phase-strategy-2026.md)
+- Pages updated: [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Agent Security Infrastructure 2026](sources/agent-security-infrastructure-2026.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Promoted OpenAI's June 8 strategy cluster as a major frontier-lab signal: automated AI research, March 2028 internal research-automation horizon, "personal AGI" distribution language, international coordination including possible slowing of frontier development, confidential draft S-1 optionality, and the Economic Research Exchange. Also promoted StepSecurity's gpt-pilot compromise report as a concrete coding-agent supply-chain incident aimed at developer secrets and Claude Code / VS Code persistence, with `ruff` linting as the thing that blocked the malicious CI path. Parked Microsoft's AI-brand phishing/malvertising post as watch-only background because it reinforces AI-branded social engineering but does not yet change the wiki's agent-security lane.
+
 ## [2026-06-08] update | rawdogging reality cultural note
 - Source: Charli working interpretation, 2026-06-08, connecting TikTok "rawdogging reality" videos with pre-smartphone boredom as ordinary life.
 - Pages created: none

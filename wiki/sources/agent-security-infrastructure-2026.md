@@ -3,7 +3,7 @@ title: "Agent Security Infrastructure 2026"
 type: source
 status: draft
 created: 2026-06-04
-updated: 2026-06-06
+updated: 2026-06-09
 sources:
   - "GitHub: Cloud and local sandboxes for GitHub Copilot now in public preview, 2026-06-02"
   - "GitHub Changelog: Enterprise-managed plugins in VS Code in public preview, 2026-06-05"
@@ -11,6 +11,7 @@ sources:
   - "Anthropic: What we learned mapping a year's worth of AI-enabled cyber threats, 2026-06-03"
   - "Anthropic: Expanding Project Glasswing, 2026-06-02"
   - "Microsoft Security Blog: Updating the taxonomy of failure modes in agentic AI systems, 2026-06-04"
+  - "StepSecurity: Pythagora-io/gpt-pilot Compromised on GitHub - Shai-Hulud Credential Stealer Blocked by Python Linter, 2026-06-08"
 ---
 
 # Agent Security Infrastructure 2026
@@ -99,6 +100,20 @@ Source:
 
 - [Anthropic: What we learned mapping a year's worth of AI-enabled cyber threats](https://www.anthropic.com/news/AI-enabled-cyber-threats-mitre-attack)
 
+## Coding-Agent Supply Chain Compromise
+
+On 2026-06-08, StepSecurity reported that a compromised maintainer account force-pushed a Shai-Hulud credential-stealing payload to the `Pythagora-io/gpt-pilot` repository, a public AI coding-tool project with more than 33,000 GitHub stars.
+
+The incident matters because the target was not just generic open-source code. It was an AI developer-tool repository used in coding-agent workflows. StepSecurity says the payload targeted AWS keys, npm tokens, GitHub secrets, Kubernetes service accounts, Vault tokens, SSH keys, and other developer credentials. It also says the malware planted persistence hooks in Claude Code and VS Code so future coding sessions could re-execute it.
+
+The stupidly useful punchline: the attempted compromise was blocked twice by `ruff` formatting and lint checks. Boring repo hygiene did what a thousand breathless security decks claim to do while wearing nicer shoes.
+
+This is not proof that every coding agent is compromised. It is a concrete example of the risk Microsoft had just named: agentic supply-chain compromise is now a real developer-environment threat surface, especially where repos, IDEs, credentials, assistants, hooks, and CI meet.
+
+Source:
+
+- [StepSecurity: Pythagora-io/gpt-pilot Compromised on GitHub - Shai-Hulud Credential Stealer Blocked by Python Linter](https://www.stepsecurity.io/blog/pythagora-io-gpt-pilot-compromised-on-github-shai-hulud-credential-stealer-blocked-by-python-linter)
+
 ## Defensive Cyber Pressure
 
 Anthropic also expanded Project Glasswing from roughly 50 initial partners to about 150 organizations across more than 15 countries, including power, water, healthcare, communications, hardware, and shared software vendors.
@@ -116,6 +131,7 @@ Source:
 - Do not treat open specifications as adopted standards merely because Microsoft wants broad adoption.
 - Do not treat the updated Microsoft taxonomy as proof of universal compromise. It is a red-team-derived threat model and evidence summary, not a census of all deployments.
 - Do not reduce agent security to prompt injection. MCP/plugin trust, session history, visual computer-use surfaces, approval design, agent identity, and tool provenance are now part of the security boundary.
+- Do not treat the gpt-pilot incident as "AI went rogue." The reported path was account compromise, malicious repository changes, CI, IDE persistence, and credential theft. Ordinary supply-chain mechanics, now aimed at AI coding environments.
 - Do not treat Anthropic's banned-account dataset as a census of all AI-enabled cyber activity.
 - Do not confuse defensive capability with harmless capability. The same model skills can matter offensively.
 - Do not assume controls replace human accountability for high-impact agent actions.

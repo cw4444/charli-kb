@@ -3,7 +3,7 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-06-08
+updated: 2026-06-09
 ---
 
 # Current State
@@ -42,6 +42,10 @@ This repo is a plain Markdown personal knowledge base based on Karpathy's LLM Wi
 - The durable subject lanes are AI, reality, neuroscience, and their overlap: perception, belief, expectation, action, agents, knowledge systems, reality monitoring, embodiment, cellular maintenance, and related source-backed concepts.
 
 ## Latest Session Handoff
+
+On 2026-06-09, Charli pointed to `raw/2026-06-09-ai-digest.md`, especially OpenAI's post-AGI strategy post. Codex verified the OpenAI sources and added [OpenAI Third Phase Strategy 2026](../sources/openai-third-phase-strategy-2026.md), plus two entries to [AI And Agents 2026 Timeline](../timelines/ai-and-agents-2026.md). The durable OpenAI package is the combination: automated AI researcher as a near-term pace-setting goal, an internal March 2028 horizon where a significant fraction of research may be done by AI systems alongside researchers, "personal AGI" distribution language, international coordination that could include slowing frontier development, confidential draft S-1 optionality, and the OpenAI Economic Research Exchange. Keep the caveats sharp: personal AGI is not proof AGI exists, a draft S-1 is not an IPO, and OpenAI's economic-research program is OpenAI-shaped even when external researchers participate.
+
+The same digest included StepSecurity's report on the `Pythagora-io/gpt-pilot` compromise attempt. Codex updated [Agent Security Infrastructure 2026](../sources/agent-security-infrastructure-2026.md) and the timeline because this is a concrete coding-agent supply-chain incident: a compromised maintainer account, Shai-Hulud credential-stealing payload, developer secrets, Claude Code / VS Code persistence hooks, and `ruff` linting blocking the malicious CI path twice. Use it as evidence that coding-agent environments are now supply-chain targets, not as "AI went rogue" nonsense. Microsoft's AI-brand phishing/malvertising post stayed watch-only background for now.
 
 On 2026-06-08, Charli linked Weitzer et al.'s Journal of Sleep Research paper [The contribution of dispositional optimism to understanding insomnia symptomatology](https://doi.org/10.1111/jsr.13132). Codex folded it into the existing optimism package rather than creating a standalone page: [Optimism Neuroscience Source Batch](../sources/optimism-neuroscience-source-batch.md), [Optimism](../concepts/optimism.md), and [Research - Optimism](../questions/research-optimism.md). Keep the framing narrow: the Austrian Sleep Survey found lower adjusted odds of chronic insomnia among more optimistic adults, but it was cross-sectional and entangled with happiness, depression, and health status. This is sleep-affect-health-loop evidence, not a bedtime manifestation protocol.
 
