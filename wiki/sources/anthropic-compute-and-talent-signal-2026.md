@@ -3,7 +3,7 @@ title: "Anthropic Compute And Talent Signal 2026"
 type: source
 status: draft
 created: 2026-05-21
-updated: 2026-06-04
+updated: 2026-06-09
 sources:
   - "TechCrunch: OpenAI co-founder Andrej Karpathy joins Anthropic's pre-training team, 2026-05-19"
   - "Forbes: OpenAI Cofounder And Former Tesla AI Leader Andrej Karpathy Joins Anthropic, 2026-05-19"
@@ -12,11 +12,13 @@ sources:
   - "Axios: Anthropic is paying SpaceX $15 billion per year, 2026-05-20"
   - "Anthropic: Anthropic raises $65B in Series H funding at $965B post-money valuation, 2026-05-28"
   - "Anthropic Institute: When AI builds itself, 2026-06-04"
+  - "Reuters brief: Apollo, Blackstone have finalized $35 billion financing package for Anthropic to expand its AI infrastructure - Bloomberg News, 2026-06-06"
+  - "Financial Times reporting as summarized by secondary sources: Apollo and Blackstone raise $35bn in chip financing deal for Anthropic, 2026-06-09"
 ---
 
 # Anthropic Compute And Talent Signal 2026
 
-This page records a May 2026 strategic signal around Anthropic: major compute access from SpaceX/Colossus, Andrej Karpathy joining Anthropic's pre-training team, and Anthropic's own later announcement of a $65B Series H tied to expanded compute and product demand.
+This page records a 2026 strategic signal around Anthropic: major compute access from SpaceX/Colossus, Andrej Karpathy joining Anthropic's pre-training team, Anthropic's $65B Series H, and later chip-backed private-credit financing tied to Google/Broadcom TPU capacity.
 
 The useful interpretation is not "Anthropic has won" or "this proves a hidden alliance." It is that Anthropic is simultaneously acquiring scarce frontier inputs:
 
@@ -72,6 +74,19 @@ Source:
 
 - [Anthropic: Anthropic raises $65B in Series H funding at $965B post-money valuation](https://www.anthropic.com/news/series-h)
 
+### Apollo And Blackstone Finalized $35B Chip Financing
+
+On 2026-06-06 to 2026-06-09, Bloomberg/Reuters/Financial Times-derived reporting said Apollo and Blackstone had finalized a roughly $35 billion private-credit financing package for Anthropic's AI infrastructure. The deal is described as an SPV-style structure supporting Anthropic's access to Alphabet/Google-developed TPUs produced with Broadcom.
+
+Secondary summaries describe the structure as "Project Big Sky": a special-purpose vehicle raises debt and equity to buy chips, then leases them to Anthropic. Lease payments and expected chip value support the debt. Reported details include about $6 billion of A1 notes sold to banks, about $24 billion of A2 notes sold into asset-backed credit markets, and about $4.5 billion of junior debt. Broadcom is reported to backstop interest payments or residual-value shortfalls on senior parts of the debt, reducing borrowing costs.
+
+This sits beside, not instead of, the SpaceX/Colossus arrangement. The SpaceX deal is reported leased Nvidia GPU compute, including Colossus capacity, with Axios putting the cost at $1.25 billion per month through May 2029. The Apollo/Blackstone/Broadcom/Google structure is chip-financing for TPU capacity. Different chips, different counterparties, same underlying story: frontier AI is turning into structured finance, power, leases, chip residual value, and balance-sheet engineering. Charming. Like cloud computing, if cloud computing had swallowed a bank.
+
+Sources:
+
+- [Reuters brief via TradingView: Apollo, Blackstone have finalized $35 billion financing package for Anthropic to expand its AI infrastructure - Bloomberg News](https://www.tradingview.com/news/reuters.com%2C2026%3Anewsml_FWN42D0NG%3A0-apollo-blackstone-have-finalized-35-billion-financing-package-for-anthropic-to-expand-its-ai-infrastructure-bloomberg-news/)
+- [The Paypers: Apollo and Blackstone close USD 35 billion chip financing deal for Anthropic](https://thepaypers.com/fintech/news/apollo-and-blackstone-close-usd-35-billion-chip-financing-deal-for-anthropic)
+
 ## Why It Feels Significant
 
 Anthropic has already been distinctive in this wiki because of its model welfare, constitutional, persona-vector, and character-formation work. The May 2026 news adds a different kind of signal: Anthropic is not only publishing careful safety framing; it is also scaling the frontier inputs needed to compete at the top.
@@ -80,6 +95,7 @@ The combined signal:
 
 - **Compute:** Colossus access reduces near-term capacity bottlenecks and supports higher Claude/Claude Code usage.
 - **Capital:** the Series H gives Anthropic more room to absorb massive infrastructure costs while scaling product and enterprise demand.
+- **Structured finance:** the reported Apollo/Blackstone/Broadcom TPU financing shows compute access moving through SPVs, private credit, lease payments, and chip residual-value support.
 - **Pre-training talent:** Karpathy joining pre-training suggests Anthropic is investing in the earliest, most capability-shaping part of model development.
 - **Agent demand:** Claude Code and agentic workflows are compute-hungry because they involve long-running tool use, code execution, search, and parallel work.
 - **Safety identity:** Anthropic's public constitution/model-welfare stance makes its scaling more interesting because the company is trying to combine frontier capability with explicit character and oversight work.
@@ -90,6 +106,9 @@ The combined signal:
 - Do not say the SpaceX deal makes Anthropic dependent on Elon Musk's AI strategy in every respect.
 - Do not treat Colossus figures as stable without checking current filings or later corrections.
 - Do not treat valuation or revenue run-rate as proof of technical lead, profitability, or durable customer retention.
+- Do not treat the Apollo/Blackstone financing as ordinary equity funding. It is reported chip-backed private credit / SPV financing tied to infrastructure access.
+- Do not collapse SpaceX GPU leasing and Google/Broadcom TPU financing into one deal. They are separate compute-sourcing lanes.
+- Do not ignore circularity and residual-value risk. AI infrastructure finance depends on future demand, lease payments, chip depreciation, and counterparties' ability to support the structure.
 - Do not treat multi-cloud availability as the same thing as independence from cloud and chip bottlenecks.
 - Do not collapse compute access into model quality. Compute is necessary at the frontier, but not sufficient.
 - Do not assume Anthropic's welfare/constitution work means it has solved alignment or model welfare.

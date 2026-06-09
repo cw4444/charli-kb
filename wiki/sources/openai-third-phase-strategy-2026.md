@@ -8,6 +8,8 @@ sources:
   - "OpenAI: Built to benefit everyone: our plan, 2026-06-08"
   - "OpenAI: Confidential submission of draft S-1 to the SEC, 2026-06-08"
   - "OpenAI: Introducing the OpenAI Economic Research Exchange, 2026-06-08"
+  - "Reuters brief: OpenAI plots biggest ChatGPT overhaul since launch - FT, 2026-06-07"
+  - "TechCrunch: OpenAI is still working on that 'super app', 2026-06-07"
   - "../../raw/2026-06-09-ai-digest.md"
 ---
 
@@ -61,6 +63,19 @@ Source:
 
 - [OpenAI: Introducing the OpenAI Economic Research Exchange](https://openai.com/index/economic-research-exchange/)
 
+## Reported ChatGPT Superapp Overhaul
+
+On 2026-06-07, Reuters carried a brief citing the Financial Times headline "OpenAI plots biggest ChatGPT overhaul since launch." The reported claim is that OpenAI intends to transform ChatGPT into a "superapp" combining coding tools and AI agents. TechCrunch also summarized the Financial Times report as OpenAI planning a revamped ChatGPT in the coming weeks, with coding tools and AI agents.
+
+The reporting fits the official OpenAI strategy package, but it is not the same evidence class. OpenAI's own June 8 posts establish the company-level strategy: automated AI research, "personal AGI," economic research, public-market optionality, and broad distribution. The FT/Reuters/TechCrunch coverage adds the product-shape claim: ChatGPT itself may be reorganized from a chat surface into a routing layer for Codex, agents, image generation, canvases, partner services, and other work surfaces.
+
+That distinction matters. "ChatGPT superapp" is reported product direction, not an official launch note. Treat it as watchable and plausible, not shipped.
+
+Sources:
+
+- [Reuters brief via Fidelity: OpenAI plots biggest ChatGPT overhaul since launch - FT](https://www.fidelity.com/news/article/default/202606070010RTRSNEWSCOMBINED_FWN42D0S1_1)
+- [TechCrunch: OpenAI is still working on that 'super app'](https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/)
+
 ## Why It Matters
 
 This package belongs next to [OpenAI Industrial Policy For The Intelligence Age](openai-industrial-policy-intelligence-age.md), [OpenAI Foundation AI Resilience Program](openai-foundation-ai-resilience.md), [ChatGPT Memory Dreaming 2026](chatgpt-memory-dreaming-2026.md), and [OpenAI Codex For Everyday Work](openai-codex-for-everyday-work.md).
@@ -70,6 +85,7 @@ The recurring pattern is that OpenAI is not only shipping models. It is building
 - compute and deployment infrastructure;
 - long-horizon assistant memory;
 - Codex and computer-work agents;
+- reported ChatGPT superapp / agent-routing product work;
 - industrial-policy proposals;
 - foundation grants around resilience;
 - economic-impact research;
@@ -85,6 +101,7 @@ That is historically useful because AI capability, distribution, finance, resear
 - Do not treat OpenAI's broad-benefit framing as neutral public policy. It is a company strategy statement from a frontier lab.
 - Do not say OpenAI has gone public. A confidential draft S-1 gives optionality; it is not an IPO.
 - Do not treat the Economic Research Exchange as independent by default. It may support external research, but the access, framing, and infrastructure are OpenAI-shaped.
+- Do not treat FT/Reuters/TechCrunch superapp reporting as an official launch or release date.
 - Do not confuse this post with OpenAI's April 2026 industrial-policy paper or the OpenAI Foundation's resilience grants. They are adjacent institutional signals, not the same program.
 
 ## Related Pages

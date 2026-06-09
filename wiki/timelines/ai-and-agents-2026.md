@@ -68,6 +68,10 @@ sources:
   - https://www.gov.uk/government/news/government-to-partner-with-tech-companies-trade-unions-and-industry-leaders-to-boost-ai-adoption-and-equip-workers-with-ai-skills
   - https://www.gov.uk/government/publications/ai-champions-ai-adoption-plans
   - https://www.gov.uk/government/publications/introducing-the-ai-economics-institute
+  - https://www.fidelity.com/news/article/default/202606070010RTRSNEWSCOMBINED_FWN42D0S1_1
+  - https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/
+  - https://www.tradingview.com/news/reuters.com%2C2026%3Anewsml_FWN42D0NG%3A0-apollo-blackstone-have-finalized-35-billion-financing-package-for-anthropic-to-expand-its-ai-infrastructure-bloomberg-news/
+  - https://thepaypers.com/fintech/news/apollo-and-blackstone-close-usd-35-billion-chip-financing-deal-for-anthropic
 ---
 
 # AI And Agents 2026 Timeline
@@ -124,6 +128,8 @@ The first half of 2026 already shows several converging threads:
 - GitHub extended enterprise-managed Copilot plugins into VS Code public preview, making centrally distributed plugins, hooks, and MCP configuration part of the developer-agent governance surface.
 - Microsoft signed a preliminary land-acquisition agreement for potential datacenter development in Vaasa and Mustasaari, Finland, reinforcing the shift from AI as software story to AI as land, grid, cooling, and local-planning story.
 - OpenAI published a June 8 "third phase" strategy cluster: automated AI researchers, a March 2028 internal horizon for a significant fraction of research being done by AI systems alongside researchers, economic-growth and "personal AGI" distribution language, international coordination that could include slowing frontier development, a confidential draft S-1, and an external Economic Research Exchange.
+- Financial Times / Reuters / TechCrunch reporting described OpenAI's planned ChatGPT overhaul as a superapp-style shift toward coding tools and AI agents. Treat it as reported product direction, not a shipped launch.
+- Bloomberg / Reuters / Financial Times-derived reporting said Apollo and Blackstone finalized roughly $35B in chip-backed private-credit financing for Anthropic's Google/Broadcom TPU capacity, separate from Anthropic's reported SpaceX/Colossus Nvidia GPU lease.
 - Anthropic published a biology-agent case study showing that strong models were not enough for reliable viral sequence retrieval: VirBench mean accuracies ranged from 16.9% to 91.3% without the right deterministic retrieval layer, but rose above 90% for all agents and peaked at 99.7% when agents used `gget virus`.
 - The UK government announced its first AI Adoption Summit package: more than £200 million for adoption support, sector AI Adoption Plans, AI Advisory Growth Labs, an AI Economics Institute, worker-skills commitments, company insight-sharing, and a joint statement with Google, Anthropic, Microsoft, and OpenAI.
 - StepSecurity reported that a compromised maintainer account force-pushed a Shai-Hulud credential stealer into `gpt-pilot`, an AI coding-tool repository, and that `ruff` linting blocked the malicious CI path twice. Coding-agent environments are now a first-class supply-chain target. Apparently the boring checks were load-bearing. Shocking development.
@@ -674,6 +680,34 @@ Sources:
 - [OpenAI: Built to benefit everyone: our plan](https://openai.com/index/built-to-benefit-everyone-our-plan/)
 - [OpenAI: Confidential submission of draft S-1 to the SEC](https://openai.com/index/openai-submits-confidential-s-1/)
 - [OpenAI: Introducing the OpenAI Economic Research Exchange](https://openai.com/index/economic-research-exchange/)
+
+### 2026-06-07 - OpenAI reportedly plans a ChatGPT superapp overhaul
+
+Reuters carried a Financial Times brief saying OpenAI plans the biggest ChatGPT overhaul since launch and intends to turn ChatGPT into a "superapp" combining coding tools and AI agents. TechCrunch summarized the same reporting as a revamped ChatGPT expected in the coming weeks, with coding tools and AI agents.
+
+Why it matters: this fits the official OpenAI "third phase" strategy, Codex expansion, agent direction, and confidential draft S-1 optionality. The product-shape claim is that ChatGPT becomes less a blank chat box and more a work-routing surface for Codex, agents, image generation, canvases, partner services, and other tasks.
+
+Careful read: this is reported product direction, not an official OpenAI launch note. Do not attach a GPT-5.6 date, benchmark, or release claim to it unless OpenAI publishes one. X can survive without us embalming every Thursday prophecy.
+
+Sources:
+
+- [OpenAI Third Phase Strategy 2026](../sources/openai-third-phase-strategy-2026.md)
+- [Reuters brief via Fidelity: OpenAI plots biggest ChatGPT overhaul since launch - FT](https://www.fidelity.com/news/article/default/202606070010RTRSNEWSCOMBINED_FWN42D0S1_1)
+- [TechCrunch: OpenAI is still working on that 'super app'](https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/)
+
+### 2026-06-09 - Apollo and Blackstone reportedly finalize $35B Anthropic chip financing
+
+Bloomberg/Reuters/Financial Times-derived reporting said Apollo and Blackstone finalized about $35 billion in private-credit financing for Anthropic's AI infrastructure. Secondary summaries describe the deal as an SPV-style structure, "Project Big Sky," that finances Google/Alphabet-developed TPUs produced with Broadcom and leased to Anthropic.
+
+Why it matters: this is not just another "AI company raises money" item. It shows frontier compute turning into structured finance: private credit, SPVs, lease payments, chip collateral, senior and junior tranches, and Broadcom support on senior debt. It also sits beside Anthropic's reported SpaceX/Colossus deal, where Axios put the Nvidia GPU lease at $1.25 billion per month through May 2029.
+
+Careful read: the SpaceX/Colossus deal and the Apollo/Blackstone/Broadcom TPU financing are separate compute-sourcing lanes. One is reported leased Nvidia GPU compute from SpaceX/xAI/Colossus; the other is chip-backed financing for Google/Broadcom TPU capacity. Do not merge them into one giant mystery deal, however tempting the conspiracy corkboard may look after midnight.
+
+Sources:
+
+- [Anthropic Compute And Talent Signal 2026](../sources/anthropic-compute-and-talent-signal-2026.md)
+- [Reuters brief via TradingView: Apollo, Blackstone have finalized $35 billion financing package for Anthropic to expand its AI infrastructure - Bloomberg News](https://www.tradingview.com/news/reuters.com%2C2026%3Anewsml_FWN42D0NG%3A0-apollo-blackstone-have-finalized-35-billion-financing-package-for-anthropic-to-expand-its-ai-infrastructure-bloomberg-news/)
+- [The Paypers: Apollo and Blackstone close USD 35 billion chip financing deal for Anthropic](https://thepaypers.com/fintech/news/apollo-and-blackstone-close-usd-35-billion-chip-financing-deal-for-anthropic)
 
 ### 2026-06-08 - Anthropic shows biology agents need deterministic data rails
 
