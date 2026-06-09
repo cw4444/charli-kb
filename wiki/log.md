@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-09] concept | AI adoption beside the workflow
+- Source: Charli working interpretation, 2026-06-09, using enterprise Copilot and ServiceNow-style workflow friction as a concrete adoption-failure pattern.
+- Pages updated: [Agentic Work Rearchitecture](concepts/agentic-work-rearchitecture.md), [UK AI Adoption Summit 2026](sources/uk-ai-adoption-summit-2026.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added the adoption-friction distinction: licence rollout is not adoption if assistants cannot access the real spreadsheet, ticket, report, system of record, export, or API. Framed weak productivity gains in boxed-off enterprise deployments as possible evidence of workflow, compliance, data-access, and governance friction rather than evidence that the underlying AI cannot help. Added a yearly-check prompt to revisit whether the UK package produces real workflow access or just more AI kiosks beside old work.
+
 ## [2026-06-09] timeline | recovered overwritten digest items
 - Sources: Charli report of earlier Codex Windows sweep; Anthropic, [Paving the way for agents in biology](https://www.anthropic.com/research/agents-in-biology); GOV.UK, [Government to partner with tech companies, trade unions and industry leaders to boost AI adoption and equip workers with AI skills](https://www.gov.uk/government/news/government-to-partner-with-tech-companies-trade-unions-and-industry-leaders-to-boost-ai-adoption-and-equip-workers-with-ai-skills); GOV.UK, [AI Champions' AI Adoption Plans](https://www.gov.uk/government/publications/ai-champions-ai-adoption-plans); GOV.UK, [Introducing the AI Economics Institute](https://www.gov.uk/government/publications/introducing-the-ai-economics-institute)
 - Pages created: [Anthropic Biology Agents And Deterministic Rails 2026](sources/anthropic-biology-agents-deterministic-rails-2026.md), [UK AI Adoption Summit 2026](sources/uk-ai-adoption-summit-2026.md)

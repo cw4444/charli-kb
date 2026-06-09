@@ -3,12 +3,13 @@ title: "Agentic Work Rearchitecture"
 type: concept
 status: draft
 created: 2026-05-11
-updated: 2026-06-05
+updated: 2026-06-09
 sources:
   - ../sources/enterprise-agent-deployment-2026.md
   - ../sources/ai-native-company-and-sidequest-prototyping-batch.md
   - ../sources/ai-human-cognition-knowledge-collapse.md
   - ../sources/anthropic-recursive-self-improvement-2026.md
+  - ../sources/uk-ai-adoption-summit-2026.md
   - computer-work-agent.md
 ---
 
@@ -38,6 +39,22 @@ The 2026 enterprise-agent push from OpenAI, Anthropic, Microsoft, consultancies,
 This is why enterprise AI work is shifting toward deployment companies, frontier suites, managed agents, plugins, stateful runtimes, evaluations, and consulting alliances.
 
 A concrete version of this shift is the [Computer Work Agent](computer-work-agent.md): a coding-centered agent that moves outward into shell commands, browsers, desktop apps, documents, spreadsheets, connectors, MCP servers, automations, memories, and artifact review. This makes "agentic work" less abstract. The unit of delegation becomes a bounded computer-mediated workflow, not just a code diff.
+
+## Adoption Beside The Workflow
+
+The UK 2026 [AI Adoption Summit](../sources/uk-ai-adoption-summit-2026.md) package is useful partly because it names adoption as a state-level problem rather than a licence-count problem. A common enterprise failure mode is AI being placed beside the workflow, not inside it.
+
+That looks like:
+
+- Copilot or another assistant exists, but cannot access the real spreadsheet, ticket, report, or system of record;
+- compliance, data-loss-prevention, privacy, or security policy blocks low-risk uses without offering an approved path;
+- the source system has no usable export, API, or machine-readable report;
+- workers have to copy messy text manually into a separate surface before the AI can do a trivial cleanup;
+- productivity pilots then conclude the tool produced little measurable gain.
+
+That is not evidence that the model cannot help. It is evidence that the organization measured the productivity of friction. Buying an enterprise AI product and then preventing it from seeing the work is not adoption. It is putting a forklift outside the warehouse and wondering why the pallets are still heavy.
+
+The practical adoption test is simple: can the agent reach the real task surface, with appropriate permissions, logs, approvals, and data boundaries? If not, the organization is still doing old work with a decorative AI kiosk nearby.
 
 ## What Changes
 
@@ -132,6 +149,7 @@ That is not ordinary office automation. It is a possible capability feedback loo
 - Do not confuse vendor strategy with social progress.
 - Do not confuse moving faster with doing better work.
 - Do not confuse AI-assisted AI development with full recursive self-improvement.
+- Do not treat licence rollout as adoption. Adoption requires workflow access, data access, permissions, governance, training, and redesigned handoffs.
 
 ## Charli's Working Interpretation
 

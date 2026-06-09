@@ -76,6 +76,20 @@ This package is a UK state-capacity and adoption signal:
 
 For this wiki, it belongs near [Agentic Work Rearchitecture](../concepts/agentic-work-rearchitecture.md), [AI Compute Infrastructure Constraints 2026](ai-compute-infrastructure-constraints-2026.md), [OpenAI Third Phase Strategy 2026](openai-third-phase-strategy-2026.md), and the earlier G7 UK governance timeline entry.
 
+## Yearly Check
+
+This page should be checked annually against the same practical question: did the UK package help AI move inside real workflows, or did organizations mostly buy tools and leave them boxed off from the work?
+
+Useful signs of meaningful adoption would include:
+
+- approved paths for assistants to work with real enterprise data without training leakage;
+- exports, APIs, connectors, and machine-readable reports from common work systems;
+- sector-specific workflows that reduce manual copying and reconciliation;
+- governance that distinguishes high-risk automation from low-risk cleanup and analysis;
+- evidence from the AI Economics Institute or sector plans that adoption changed workflow design, not just licence counts.
+
+The failure mode to watch is familiar: AI licences rolled out beside the work, while compliance, privacy, procurement, brittle SaaS reports, and missing exports force humans to do extra copy-paste labour before the AI can help. If that happens, low productivity gains should be read as implementation friction, not as settled evidence that AI cannot improve the task.
+
 ## Do Not Overclaim
 
 - Do not treat announced funding as delivered outcomes.
