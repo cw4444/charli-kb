@@ -52,6 +52,9 @@ primary_sources:
   - "Weitzer et al., Journal of Sleep Research, 2021, The contribution of dispositional optimism to understanding insomnia symptomatology: Findings from a cross-sectional population study in Austria, https://doi.org/10.1111/jsr.13132"
   - "Meevissen, Peters, and Alberts, Journal of Behavior Therapy and Experimental Psychiatry, 2011, Become more optimistic by imagining a best possible self: Effects of a two week intervention, https://doi.org/10.1016/j.jbtep.2011.02.012"
   - "Draganich and Erdal, Journal of Experimental Psychology: Learning, Memory, and Cognition, 2014, Placebo sleep affects cognitive functioning, https://doi.org/10.1037/a0035546"
+  - "Rozanski, Bavishi, Kubzansky, and Cohen, JAMA Network Open, 2019, Association of Optimism With Cardiovascular Events and All-Cause Mortality, https://doi.org/10.1001/jamanetworkopen.2019.12200"
+  - "Lee et al., PNAS, 2019, Optimism is associated with exceptional longevity in 2 epidemiologic cohorts of men and women, https://doi.org/10.1073/pnas.1900712116"
+  - "O'Donovan et al., Psychoneuroendocrinology, 2014, Pessimistic orientation in relation to telomere length in older men: the VA Normative Aging Study, https://doi.org/10.1016/j.psyneuen.2013.12.019"
 counterpoint_sources:
   - "Colvin and Block, Psychological Bulletin, 1994, Do positive illusions foster mental health? An examination of the Taylor and Brown formulation, https://doi.org/10.1037/0033-2909.116.1.3"
   - "Taylor and Brown, Psychological Bulletin, 1994, Positive illusions and well-being revisited: separating fact from fiction, https://doi.org/10.1037/0033-2909.116.1.21"
@@ -67,6 +70,7 @@ commentary_sources:
   - "Rick Hanson, Taking In the Good, Greater Good Magazine, 2009, https://greatergood.berkeley.edu/article/item/taking_in_the_good"
   - "Rick Hanson, How to Take in the Good, 2017, https://rickhanson.com/how-to-take-in-the-good/"
   - "Jaimee Li, Olivia Smith, Tzu-Hsun Sun, and Alex Swann, OxJournal, 2024, The Neuroscience of Optimism, https://www.oxjournal.org/the-neuroscience-of-optimism/"
+  - "Immaculata De Vivo, MIT Press Reader, 2024, The New Science of Optimism and Longevity, https://thereader.mitpress.mit.edu/the-new-science-of-optimism-and-longevity/"
 sources:
   - "Public web research, accessed 2026-05-12"
   - "Public web research, accessed 2026-06-08"
@@ -132,11 +136,19 @@ Weitzer et al. 2021 adds a sleep-health association. In the Austrian Sleep Surve
 
 Draganich and Erdal 2014 adds a sharper sleep-expectancy result. Across two studies with 164 participants, people reported their previous night's sleep quality and were then randomly assigned to sham feedback saying they had either above-average or below-average REM sleep. The assigned sleep-quality belief significantly predicted performance on the Paced Auditory Serial Addition Test and Controlled Oral Word Association Task, while self-reported sleep quality did not. The assigned belief did not predict Digit Span performance, and unexpectedly did not predict Symbol Digit Modalities Test performance. The authors used control conditions to argue that the result was not just demand characteristics. This belongs near placebo, sleep cognition, and mindset effects, not as proof that sleep itself is optional. It shows that belief about sleep can push some cognitive performance measures in both directions.
 
+Rozanski, Bavishi, Kubzansky, and Cohen 2019 adds the cardiovascular-mortality meta-analysis anchor. The review pooled 15 cohort studies with 229,391 participants and found optimism associated with lower risk of cardiovascular events and lower all-cause mortality. This supports the "optimism as health asset" lane, but it is observational cohort evidence rather than proof that an optimism intervention prevents heart attacks.
+
+Lee et al. 2019 adds the longevity anchor. Using the Nurses' Health Study and the Veterans Affairs Normative Aging Study, the paper found dose-dependent associations between higher baseline optimism and longer lifespan / greater odds of surviving to age 85 or beyond. The useful detail is that the association remained after demographic, health-condition, and health-behavior adjustment. Still, this is epidemiological association, not a randomized proof that optimism itself extends life.
+
+O'Donovan et al. 2014 is a cautious telomere tile rather than a commandment. In 490 older men from the VA Normative Aging Study, greater pessimistic orientation was associated with shorter leukocyte telomere length. This belongs as a possible biological-aging mechanism clue near stress physiology and inflammation, not as "optimism lengthens telomeres" proof. Larger later work on optimism and telomeres has been mixed, so keep this as suggestive and mechanism-seeking.
+
 Kahle Monahan, Chang, Yu, and Yu 2020 is not a new experiment; it is a concise Wiley encyclopedia chapter on optimism and pessimism as personality constructs. Its value here is map-level. Public metadata frames optimism as future-outcome expectancy linked to motivation and effort, and pessimism as future-negative expectation linked to disengagement. The chapter also points toward personality correlates, contextual considerations, and treatment/intervention implications. Use it as a conceptual orientation source, not as primary evidence for a mechanism.
 
 Li, Smith, Sun, and Swann's 2024 OxJournal article is useful as a public synthesis pointer, especially for the child/adolescent-development angle. It separates dispositional optimism, attributional optimism, and optimism bias; highlights the Penn Optimism Program / learned-optimism tradition as a trainable attributional-style route; and gathers neural candidates including DMN, ACC/PFC/OFC, IFG/rACC, dopamine, and locus-of-control/lateralization claims. The wiki should treat it as a map and reading trail rather than a new primary claim. Several pieces it points to are already covered here through stronger primary or review sources, especially Sharot 2007/2011, Dolcos 2016, Scheier and Carver, Erthal 2021, and the positive-illusions counterliterature.
 
 The article is also a useful cautionary object. Its most interesting claim for this wiki is that optimism may work developmentally by turning "this problem is permanent, global, and me" into "this problem is specific, changeable, and workable." That is the clean behavioural cheat-code version: not blind positivity, but attributional framing that preserves action. Its weaker moves are where it leans from correlations and broad developmental neuroscience toward stronger-sounding claims about optimism, neuroplasticity, and adolescent outcomes. Keep those as hypotheses or source trails until the primary papers are checked.
+
+De Vivo's 2024 MIT Press Reader excerpt is useful as a readable health/longevity overview, not as primary evidence. Its value is the source trail: Rozanski 2019 for cardiovascular events and mortality, Lee 2019 for exceptional longevity, and telomere/pessimism work for possible biological-aging mechanisms. The article's "optimism like a muscle" framing is acceptable only with the normal wiki caveat: optimism may be modifiable, but health and longevity outcomes are not guaranteed by positive thinking.
 
 ## Counterweight Sources
 
@@ -174,6 +186,8 @@ Taken together, the sources suggest that optimism is not best understood as magi
 - bodily perturbation of risk belief and self-evaluation
 - lower reported insomnia risk in at least one population survey, entangled with happiness, depression, and health
 - placebo-style sleep expectancy effects on some cognitive performance tasks
+- lower cardiovascular-event and mortality risk in observational/meta-analytic health research
+- greater odds of exceptional longevity in large cohort research
 
 Taylor and Brown matter here because they widen the frame: mild positive distortions may sometimes help people function, persist, create, and cope. But the counter-literature matters just as much: once optimism drifts into overconfidence, risk neglect, or refusal to update from evidence, it stops looking like resilience and starts looking like error management gone wrong.
 
@@ -233,6 +247,12 @@ Weitzer et al.'s Austrian survey links higher dispositional optimism with lower 
 
 Draganich and Erdal's placebo-sleep study shows that experimentally assigned beliefs about REM sleep can shift some next-day cognitive performance measures, even when self-reported sleep quality does not predict those scores. This is a clean example of sleep-related expectancy acting on performance. Keep the boundary sharp: it is about perceived sleep quality and task performance, not about replacing actual sleep, treating insomnia by self-deception, or ignoring fatigue until the system files a complaint.
 
+### Longevity and cardiovascular health
+
+Rozanski et al. 2019 and Lee et al. 2019 extend the optimism package beyond brain measures into health outcomes. The useful synthesis is that optimism is associated with lower cardiovascular-event risk, lower all-cause mortality, and greater odds of exceptional longevity across large observational cohorts and meta-analytic evidence. The plausible mechanisms are boring in the good way: healthier behaviours, better coping, stress-buffering, lower allostatic load, and more persistent self-regulation.
+
+This is exactly where the proof boundary matters. These studies do not show that optimism alone causes longevity, and they do not erase confounding, reverse causation, health status, socioeconomic conditions, social support, or genetics. They justify treating optimism as a plausible modifiable health asset, not as a biomedical spell.
+
 ## Do Not Overclaim
 
 - The literature does not show that optimism means ignoring reality.
@@ -249,6 +269,8 @@ Draganich and Erdal's placebo-sleep study shows that experimentally assigned bel
 - The vestibular-stimulation result was small and specific: healthy right-handed adults estimating illness risk during caloric stimulation. Do not generalize it to all optimism, all denial, or a home anti-delusion protocol. Leave people's ears alone.
 - The Austrian insomnia study is cross-sectional and self-report-heavy. It does not show that optimism training cures insomnia, and it does not replace proper sleep medicine, CBT-I, or medical care.
 - Placebo sleep does not mean actual sleep is optional. It shows that information, belief, and framing about sleep can affect some performance outcomes.
+- The longevity and cardiovascular studies are observational. They support optimism as a candidate health asset, not as proof that optimism interventions extend lifespan.
+- Telomere findings are mechanism clues, not a settled biological-aging pathway. Do not claim that optimism directly lengthens telomeres.
 - The 2025 RNT paper is cross-sectional, so it does not establish that repetitive negative thinking causes cognitive decline.
 - The "abstract negative events create emotional distance" claim is best treated as a source-grounded interpretation, not a settled mechanism.
 - The Taylor and Brown position is historically influential, but it remains debated rather than canonically settled.

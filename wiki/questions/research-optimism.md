@@ -145,6 +145,14 @@ The study also has useful brakes. The assigned sleep condition did not predict D
 
 This belongs beside optimism because it shows the same family of mechanism: expectations about the future or the body can change effort, attention, interpretation, and performance. It does not mean actual sleep does not matter. It means the story the system is given about its own state can become part of the state. Annoying. Fascinating. Very human.
 
+### 14. Optimism is associated with cardiovascular and longevity outcomes
+
+The MIT Press Reader article is mostly a readable overview, but it pointed to a useful health-outcomes cluster that was not yet explicit in the wiki.
+
+Rozanski et al. 2019 is the cardiovascular meta-analysis anchor: 15 cohort studies, 229,391 participants, and optimism associated with lower risk of cardiovascular events and all-cause mortality. Lee et al. 2019 is the longevity anchor: in the Nurses' Health Study and the Veterans Affairs Normative Aging Study, higher baseline optimism was associated with longer lifespan and greater odds of surviving to 85 or beyond.
+
+This is the strongest "optimism as health asset" evidence in the package so far, but it is still observational. The plausible mechanisms are behaviour, coping, stress physiology, self-regulation, and social/health context. The wrong reading is "be positive and biology signs an extension form." No. The adult reading is that expectation and agency may sit upstream of many small health-relevant decisions and stress responses.
+
 ## Working Interpretation
 
 The most defensible synthesis is that optimism is a representational style.
@@ -167,6 +175,7 @@ It seems to involve:
 - embodied perturbability of risk estimates and self-evaluation
 - sleep and affect regulation, with optimism associated with lower insomnia risk in observational work
 - placebo-style sleep expectancy effects on some cognitive performance tasks
+- cardiovascular and longevity associations in large observational cohorts
 
 This can be adaptive because it supports motivation, resilience, and goal pursuit. It can also become maladaptive if it blocks realistic preparation or error correction.
 
@@ -198,6 +207,8 @@ The bills still exist. The better version of optimism is not pretending they do 
 - The vestibular-stimulation finding is specific and weird: illness-risk estimates during caloric stimulation, not a universal cure for delusion or optimism bias.
 - The insomnia finding is observational. It supports a link between optimism and sleep health, not an optimism cure for insomnia.
 - Placebo sleep is not evidence that actual sleep is optional. It is evidence that feedback and belief about sleep quality can alter some cognitive test performance.
+- Cardiovascular and longevity findings are observational. They support optimism as a candidate health asset, not as proof that optimism interventions extend lifespan.
+- Telomere findings are suggestive biological-aging clues, not proof that optimism directly lengthens telomeres.
 
 ## Sources
 

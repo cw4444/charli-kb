@@ -58,6 +58,8 @@ The 2021 Austrian Sleep Survey adds a practical health adjacent piece: higher di
 
 Draganich and Erdal's 2014 placebo-sleep study makes that sleep-expectancy link sharper. Participants who were randomly told they had above-average REM sleep performed better on some cognitive tasks than those told they had below-average REM sleep, even though the feedback was sham. This is not optimism exactly, but it is adjacent wiring: belief about a bodily state can alter performance. The responsible version is "expectancy matters"; the stupid version is "sleep is optional if you gaslight yourself." We are not doing the stupid version.
 
+The longevity thread now has two proper epidemiological anchors. Rozanski et al. 2019 pooled 15 cohort studies and found optimism associated with lower cardiovascular-event risk and lower all-cause mortality. Lee et al. 2019 found higher optimism associated with longer lifespan and greater odds of living to 85 or beyond in the Nurses' Health Study and Veterans Affairs Normative Aging Study. This is the serious health-asset version of the cheat-code idea: optimism may support behaviour, coping, stress regulation, and persistence. It is not proof that positive thinking buys extra years from the universe like a dodgy subscription upgrade.
+
 Ellen Langer's counterclockwise aging study belongs on the outer edge of this concept. Its evidence is caveat-heavy, but the useful bridge is that expectation, role, environment, and available action may change what the body actually does. Optimism is not only a thought about the future; it can be an action-setting that changes posture, effort, search, and willingness to use capacities.
 
 ## Related Distinctions
@@ -72,6 +74,7 @@ Ellen Langer's counterclockwise aging study belongs on the outer edge of this co
 - `OFC-anxiety link`: structural evidence connecting orbitofrontal gray matter volume, trait optimism, and anxiety symptoms in healthy participants, without causal training claims.
 - `Placebo sleep`: experimentally assigned beliefs about sleep quality can shift some cognitive performance measures.
 - `Sleep-health association`: optimism is associated with lower insomnia risk in at least one population survey, but causality and mechanisms remain open.
+- `Longevity-health association`: optimism is associated with cardiovascular and longevity outcomes in large observational research, but causality remains open.
 - `Unrealistic optimism`: better-than-warranted expectation about future outcomes.
 - `Positive illusions`: broader set of positively biased self, control, and future judgments.
 - `Pessimism`: negative future expectancy that can support preparation or disengagement in the right context, but can also become chronic threat locking.

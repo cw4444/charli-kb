@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-09] source update | optimism longevity and cardiovascular health
+- Sources: Immaculata De Vivo, MIT Press Reader, [The New Science of Optimism and Longevity](https://thereader.mitpress.mit.edu/the-new-science-of-optimism-and-longevity/); Rozanski et al., [Association of Optimism With Cardiovascular Events and All-Cause Mortality](https://doi.org/10.1001/jamanetworkopen.2019.12200); Lee et al., [Optimism is associated with exceptional longevity in 2 epidemiologic cohorts of men and women](https://doi.org/10.1073/pnas.1900712116); O'Donovan et al., [Pessimistic orientation in relation to telomere length in older men](https://doi.org/10.1016/j.psyneuen.2013.12.019)
+- Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added the MIT Reader article as a readable overview/source trail, not as primary evidence. Promoted the durable health anchors: cardiovascular-event/all-cause-mortality meta-analysis, exceptional-longevity cohort evidence, and cautious telomere/pessimism mechanism clue. Preserved the boundary that these are observational associations and candidate mechanisms, not proof that optimism interventions extend lifespan.
+
 ## [2026-06-09] source update | Erthal optimism neuroimaging review
 - Source: Fatima Erthal et al., *Cognitive, Affective, & Behavioral Neuroscience*, [Unveiling the neural underpinnings of optimism: a systematic review](https://doi.org/10.3758/s13415-021-00931-8), 2021; local subscription PDF in `raw/`.
 - Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
