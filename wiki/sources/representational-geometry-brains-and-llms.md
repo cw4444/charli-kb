@@ -3,7 +3,7 @@ title: "Representational Geometry In Brains And LLMs"
 type: source
 status: draft
 created: 2026-06-04
-updated: 2026-06-04
+updated: 2026-06-10
 sources:
   - https://www.nature.com/articles/s41593-026-02315-y
   - https://arxiv.org/abs/2410.19750
@@ -13,7 +13,7 @@ sources:
 
 This source note compares two distinct research programs that use geometry to study distributed representations:
 
-- Pia-Kelsey O'Neill, Lorenzo Posani, and colleagues' 2026 *Nature Neuroscience* paper, "The representational geometry of emotional states in basolateral amygdala";
+- Pia-Kelsey O'Neill, Lorenzo Posani, Stefano Fusi, C. Daniel Salzman, and colleagues' 2026 *Nature Neuroscience* paper, "The representational geometry of emotional states in basolateral amygdala";
 - Yuxiao Li, Eric J. Michaud, David D. Baek, Joshua Engels, Xiaoqing Sun, and Max Tegmark's 2024 arXiv paper, "The Geometry of Concepts: Sparse Autoencoder Feature Structure."
 
 The bridge is computational. It is not a claim that mouse amygdalae are language models, that LLMs have emotions, or that similar analysis methods imply similar subjective experience.
@@ -69,6 +69,35 @@ This suggests a durable research question for the wiki:
 
 > When does the geometry of a distributed representation make a variable abstract, generalizable, separable, or usable by another part of the system?
 
+## Parallel Coding Directions And Generalization
+
+The most useful shared idea is not merely "both papers use vectors." It is that generalization can depend on preserving a stable relational direction across contexts.
+
+In sparse-autoencoder concept geometry, this appears as analogy-like structure: if one displacement between feature vectors is parallel to another, the same semantic transformation may be reused in different local neighborhoods.
+
+In the BLA paper, cross-condition generalization depends on the population geometry. Variables such as valence can remain readable across different stimuli when the relevant coding directions stay aligned enough for a downstream readout to generalize.
+
+That gives this wiki a careful bridge:
+
+- **shared organizing principle:** abstraction can live in relational geometry;
+- **different measurement objects:** SAE decoder vectors are learned feature-dictionary objects, while BLA population activity is task-time biological activity;
+- **useful comparison:** both weaken the hunt for one cleanly labeled unit as the only serious explanation.
+
+## Open Question: Can The Spaces Be Unified?
+
+Not yet in any simple, source-backed way.
+
+The current evidence supports a narrower claim: SAE decoder geometry and neural activity geometry can instantiate the same organizing principle without being the same object of measurement.
+
+The open work is whether there is a principled formal mapping between:
+
+- feature-dictionary geometry from sparse autoencoders;
+- activity-state geometry in biological populations;
+- model activation trajectories during tasks;
+- generalization metrics such as cross-condition generalization performance.
+
+Until that exists, the right phrase is "shared organizing principle across different representational spaces," not "identical phenomenon." Annoying, yes. Also how we avoid writing sludge.
+
 ## Important Differences
 
 The resemblance should stay bounded.
@@ -91,7 +120,8 @@ The resemblance should stay bounded.
 ## Related Pages
 
 - [Representational Geometry](../concepts/representational-geometry.md)
+- [Can SAE Decoder Geometry And Neural Activity Geometry Be Unified?](../questions/can-sae-decoder-geometry-and-neural-activity-geometry-be-unified.md)
+- [Stefano Fusi](../people/stefano-fusi.md)
 - [Neuroscience](../../themes/neuroscience/overview.md)
 - [Interpretability And Whether Internal States Matter](../../themes/ai-consciousness/interpretability.md)
 - [Wadia Shared Code For Perception And Imagination](wadia-shared-code-perception-imagination.md)
-

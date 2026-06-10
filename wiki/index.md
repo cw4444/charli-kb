@@ -120,12 +120,14 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Peter Steinberger](people/peter-steinberger.md): software developer and writer used here as a practical source on agentic engineering.
 - [Hans Moravec](people/hans-moravec.md): roboticist associated here with *Mind Children*, machine intelligence, mind uploading, and postbiological AI futures.
 - [Michael Levin](people/michael-levin.md): biologist associated here with unconventional cognition, cellular agency, morphogenesis, and AI/agency humility.
+- [Stefano Fusi](people/stefano-fusi.md): neuroscience bridge figure for population-level representation, abstraction, mixed selectivity, and generalization through representational geometry.
 
 ## Organizations
 
 ## Questions
 
 - [Research - Quantum Computing 2026](questions/research-quantum-computing-2026.md): bounded research note on the latest useful quantum-computing developments, including Google Willow, Microsoft Majorana 1, IBM's roadmap, and the broader fault-tolerance race.
+- [Can SAE Decoder Geometry And Neural Activity Geometry Be Unified?](questions/can-sae-decoder-geometry-and-neural-activity-geometry-be-unified.md): bounded question note separating a shared relational-geometry principle from the stronger, unproven claim that SAE decoder geometry and biological neural activity geometry are the same kind of object.
 - [How Can Normal Humans Use Codex?](questions/how-can-normal-humans-use-codex.md): plain-English guide to Codex concepts such as AGENTS.md, skills, plugins, MCP, automations, and memories.
 - [What Can AI Agents Do For Normal Tired Humans?](questions/what-can-ai-agents-do-for-normal-tired-humans.md): plain-English guide to current agent capabilities, useful first tasks, and explicit consent boundaries.
 - [How Should charli-kb Triage Notion Dumps?](questions/how-should-charli-kb-triage-notion-dumps.md): criteria for deciding what earns a place in the wiki.

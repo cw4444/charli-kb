@@ -3,7 +3,7 @@ title: "Neuroscience"
 type: theme
 status: draft
 created: 2026-06-04
-updated: 2026-06-08
+updated: 2026-06-10
 sources:
   - ../../wiki/sources/reality-threshold-dijkstra-batch.md
   - ../../wiki/sources/wadia-shared-code-perception-imagination.md
@@ -55,6 +55,8 @@ These pages track the problem of source monitoring: perception and imagination c
 - [Representational Geometry](../../wiki/concepts/representational-geometry.md)
 
 The representational-geometry thread asks how distributed activity can make variables such as valence, safety, or concept relationships readable even when individual neurons or features do not carry one tidy label.
+
+The current bridge to AI interpretability is deliberately narrow: sparse-autoencoder decoder geometry and biological population activity geometry may share relational principles, including stable coding directions that support generalization, without being the same measurement object.
 
 ### How Does The Brain Build Futures And Update Beliefs?
 

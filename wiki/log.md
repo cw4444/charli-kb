@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-10] update | representational geometry raw notes
+- Sources: local `raw/` notes from Windows Codex session; O'Neill, Posani, Fusi, Salzman, et al., [The representational geometry of emotional states in basolateral amygdala](https://www.nature.com/articles/s41593-026-02315-y); Li, Michaud, Baek, Engels, Sun, and Tegmark, [The Geometry of Concepts: Sparse Autoencoder Feature Structure](https://arxiv.org/abs/2410.19750)
+- Pages created: [Can SAE Decoder Geometry And Neural Activity Geometry Be Unified?](questions/can-sae-decoder-geometry-and-neural-activity-geometry-be-unified.md), [Stefano Fusi](people/stefano-fusi.md)
+- Pages updated: [Representational Geometry In Brains And LLMs](sources/representational-geometry-brains-and-llms.md), [Representational Geometry](concepts/representational-geometry.md), [Neuroscience](../themes/neuroscience/overview.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Folded in the useful missing framing from raw: representation as relational geometry, parallel coding directions as a generalization mechanism, and the bounded question of whether SAE decoder geometry and biological neural activity geometry can be formally unified. Preserved the caveat that the current bridge is a shared organizing principle, not proof of identical mechanisms, LLM emotion, or consciousness.
+
 ## [2026-06-10] timeline | Anthropic Fable 5 public Mythos-class release
 - Source: Anthropic, [Claude Fable 5 and Claude Mythos 5](https://www.anthropic.com/news/claude-fable-5-mythos-5), 2026-06-09.
 - Pages updated: [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
