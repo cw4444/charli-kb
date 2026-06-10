@@ -3,7 +3,7 @@ title: "AI And Agents 2026 Timeline"
 type: timeline
 status: draft
 created: 2026-05-21
-updated: 2026-06-09
+updated: 2026-06-10
 sources:
   - ../sources/current-ai-agent-landscape-2026.md
   - ../sources/anthropic-compute-and-talent-signal-2026.md
@@ -72,6 +72,7 @@ sources:
   - https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/
   - https://www.tradingview.com/news/reuters.com%2C2026%3Anewsml_FWN42D0NG%3A0-apollo-blackstone-have-finalized-35-billion-financing-package-for-anthropic-to-expand-its-ai-infrastructure-bloomberg-news/
   - https://thepaypers.com/fintech/news/apollo-and-blackstone-close-usd-35-billion-chip-financing-deal-for-anthropic
+  - https://www.anthropic.com/news/claude-fable-5-mythos-5
 ---
 
 # AI And Agents 2026 Timeline
@@ -89,7 +90,7 @@ Use this page for events that are useful historical anchors:
 
 Future lint rule: update this page if it helps preserve the shape of the year. Delete or collapse entries that turn out to be noise.
 
-## Short Read As Of 2026-06-09
+## Short Read As Of 2026-06-10
 
 The first half of 2026 already shows several converging threads:
 
@@ -130,6 +131,7 @@ The first half of 2026 already shows several converging threads:
 - OpenAI published a June 8 "third phase" strategy cluster: automated AI researchers, a March 2028 internal horizon for a significant fraction of research being done by AI systems alongside researchers, economic-growth and "personal AGI" distribution language, international coordination that could include slowing frontier development, a confidential draft S-1, and an external Economic Research Exchange.
 - Financial Times / Reuters / TechCrunch reporting described OpenAI's planned ChatGPT overhaul as a superapp-style shift toward coding tools and AI agents. Treat it as reported product direction, not a shipped launch.
 - Bloomberg / Reuters / Financial Times-derived reporting said Apollo and Blackstone finalized roughly $35B in chip-backed private-credit financing for Anthropic's Google/Broadcom TPU capacity, separate from Anthropic's reported SpaceX/Colossus Nvidia GPU lease.
+- Anthropic launched Claude Fable 5, a generally available Mythos-class model with conservative safeguards that route flagged cyber, biology/chemistry, and distillation requests to Opus 4.8; Claude Mythos 5 remains restricted to Glasswing and trusted-access partners.
 - Anthropic published a biology-agent case study showing that strong models were not enough for reliable viral sequence retrieval: VirBench mean accuracies ranged from 16.9% to 91.3% without the right deterministic retrieval layer, but rose above 90% for all agents and peaked at 99.7% when agents used `gget virus`.
 - The UK government announced its first AI Adoption Summit package: more than £200 million for adoption support, sector AI Adoption Plans, AI Advisory Growth Labs, an AI Economics Institute, worker-skills commitments, company insight-sharing, and a joint statement with Google, Anthropic, Microsoft, and OpenAI.
 - StepSecurity reported that a compromised maintainer account force-pushed a Shai-Hulud credential stealer into `gpt-pilot`, an AI coding-tool repository, and that `ruff` linting blocked the malicious CI path twice. Coding-agent environments are now a first-class supply-chain target. Apparently the boring checks were load-bearing. Shocking development.
@@ -708,6 +710,22 @@ Sources:
 - [Anthropic Compute And Talent Signal 2026](../sources/anthropic-compute-and-talent-signal-2026.md)
 - [Reuters brief via TradingView: Apollo, Blackstone have finalized $35 billion financing package for Anthropic to expand its AI infrastructure - Bloomberg News](https://www.tradingview.com/news/reuters.com%2C2026%3Anewsml_FWN42D0NG%3A0-apollo-blackstone-have-finalized-35-billion-financing-package-for-anthropic-to-expand-its-ai-infrastructure-bloomberg-news/)
 - [The Paypers: Apollo and Blackstone close USD 35 billion chip financing deal for Anthropic](https://thepaypers.com/fintech/news/apollo-and-blackstone-close-usd-35-billion-chip-financing-deal-for-anthropic)
+
+### 2026-06-09 - Anthropic launches Claude Fable 5 as a safeguarded public Mythos-class model
+
+Anthropic launched Claude Fable 5 on 2026-06-09, calling it a Mythos-class model made safe for general use. Anthropic says Fable 5 exceeds the capabilities of any model it has previously made generally available, especially on long, complex software-engineering, knowledge-work, vision, memory, and scientific-research tasks.
+
+The access shift is the anchor. In April, Anthropic put Claude Mythos Preview behind Project Glasswing because of cyber-risk concerns. With Fable 5, Anthropic is now offering the same underlying model class more broadly, but with safeguards that route flagged requests to Claude Opus 4.8 rather than letting Fable answer directly. The covered areas include cybersecurity, biology and chemistry, and distillation attempts. Anthropic says more than 95% of early Fable sessions involve no fallback, but the safeguards are deliberately conservative and may catch harmless requests.
+
+Anthropic also launched Claude Mythos 5 for a small group of cyberdefenders and infrastructure providers through Project Glasswing, with cyber safeguards lifted in some areas. It plans broader trusted access for cybersecurity organizations and a biology trusted-access program where selected researchers can use Fable 5 with biology and chemistry safeguards removed, while cyber safeguards remain in place.
+
+Why it matters: this is the first broad release of Mythos-class capability after Anthropic's earlier "too risky for general access" posture. The structural signal is not only a stronger model; it is a new deployment pattern for frontier capability: public model access plus risk-domain routing, mandatory safety telemetry/data retention for Mythos-class models, restricted high-risk access, and government-linked trusted-access expansion.
+
+Careful read: this does not mean unrestricted Mythos is public. Fable 5 is the safeguarded public version; Mythos 5 remains restricted. It also does not prove the safeguards are airtight. Anthropic says universal jailbreaks may be impossible to prevent completely, and that the goal is to make remaining attacks slow and costly enough to detect. Lovely. Very comforting. Still timeline-worthy.
+
+Source:
+
+- [Anthropic: Claude Fable 5 and Claude Mythos 5](https://www.anthropic.com/news/claude-fable-5-mythos-5)
 
 ### 2026-06-08 - Anthropic shows biology agents need deterministic data rails
 

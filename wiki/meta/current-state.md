@@ -3,7 +3,7 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-06-09
+updated: 2026-06-10
 ---
 
 # Current State
@@ -42,6 +42,8 @@ This repo is a plain Markdown personal knowledge base based on Karpathy's LLM Wi
 - The durable subject lanes are AI, reality, neuroscience, and their overlap: perception, belief, expectation, action, agents, knowledge systems, reality monitoring, embodiment, cellular maintenance, and related source-backed concepts.
 
 ## Latest Session Handoff
+
+On 2026-06-10, Charli flagged Anthropic's 2026-06-09 [Claude Fable 5 and Claude Mythos 5](https://www.anthropic.com/news/claude-fable-5-mythos-5) announcement as timeline-worthy. Codex verified the official Anthropic post and updated [AI And Agents 2026 Timeline](../timelines/ai-and-agents-2026.md). Keep the distinction sharp: Fable 5 is the generally available safeguarded Mythos-class model, with flagged cyber, biology/chemistry, and distillation requests routed to Opus 4.8; Mythos 5 remains restricted to Project Glasswing and trusted-access partners. This is a major access/deployment-pattern shift, not proof that unrestricted Mythos is public or that safeguards are airtight.
 
 Also on 2026-06-09, Charli asked whether Hecht 2013, [The Neural Basis of Optimism and Pessimism](https://doi.org/10.5607/en.2013.22.3.173), was already captured. It was not. Codex added it as an older open-access narrative review/source trail for embodied cognition, anosognosia, self-esteem, depression, approach-withdrawal, and hemispheric-lateralization hypotheses. Keep its evidence class clear: useful hypothesis map, not primary proof and not cartoon left-brain/right-brain doctrine.
 

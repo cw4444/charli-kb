@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-10] timeline | Anthropic Fable 5 public Mythos-class release
+- Source: Anthropic, [Claude Fable 5 and Claude Mythos 5](https://www.anthropic.com/news/claude-fable-5-mythos-5), 2026-06-09.
+- Pages updated: [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added Fable 5 as a major access/deployment-pattern shift: Anthropic is making a Mythos-class model generally available through Fable 5 while routing flagged cyber, biology/chemistry, and distillation requests to Opus 4.8. Preserved the boundary that Claude Mythos 5 remains restricted to Glasswing and trusted-access partners, and that public safeguards are not proof of airtight safety.
+
 ## [2026-06-09] source update | Hecht optimism and pessimism lateralization review
 - Source: David Hecht, *Experimental Neurobiology*, [The Neural Basis of Optimism and Pessimism](https://doi.org/10.5607/en.2013.22.3.173), 2013.
 - Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
