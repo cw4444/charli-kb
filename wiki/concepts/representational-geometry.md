@@ -3,9 +3,10 @@ title: "Representational Geometry"
 type: concept
 status: draft
 created: 2026-06-04
-updated: 2026-06-10
+updated: 2026-06-11
 sources:
   - ../sources/representational-geometry-brains-and-llms.md
+  - ../sources/trajectory-dynamics-hidden-states-reading-costs.md
 ---
 
 # Representational Geometry
@@ -63,6 +64,14 @@ In sparse-autoencoder geometry, this appears as analogy-like structure among fea
 
 That is the clean bridge from the raw Fusi/SAE note: abstraction survives novelty when representational geometry preserves a stable directional relation.
 
+## Trajectory Dynamics
+
+[Trajectory Dynamics In Language Model Hidden States](../sources/trajectory-dynamics-hidden-states-reading-costs.md) adds a dynamic version of the same idea. Instead of asking only where a representation is, it asks where the representation has recently been heading.
+
+Barenholtz measures this by fitting a short local trajectory through transformer hidden states and asking whether the current word lands near that extrapolated path. The resulting trajectory extrapolation error predicts human reading times beyond surprisal in garden-path and Natural Stories data.
+
+The useful lesson is not that language models are tiny human readers in a trench coat. It is that the path through representation space can carry psychologically relevant structure that output probabilities flatten.
+
 ## What Is Not Unified Yet
 
 SAE decoder geometry and biological neural activity geometry are not the same object. One studies learned feature-dictionary vectors in an interpretability tool; the other studies activity states in living neural populations during behavior.
@@ -85,6 +94,7 @@ It sharpens several existing threads:
 - A decodable variable is not necessarily explicitly represented for the system's own use.
 - A linear or specialized readout is not a little inner observer.
 - Similar geometry across systems does not prove similar mechanisms or experiences.
+- Similar trajectory dynamics across model representations and human reading data do not prove shared consciousness.
 - Sparse-autoencoder features are useful interpretability objects, not guaranteed natural atoms of thought.
 - Mixed selectivity does not mean individual units are irrelevant.
 - Decodability is not consciousness.
@@ -92,6 +102,7 @@ It sharpens several existing threads:
 ## Related Pages
 
 - [Representational Geometry In Brains And LLMs](../sources/representational-geometry-brains-and-llms.md)
+- [Trajectory Dynamics In Language Model Hidden States](../sources/trajectory-dynamics-hidden-states-reading-costs.md)
 - [Can SAE Decoder Geometry And Neural Activity Geometry Be Unified?](../questions/can-sae-decoder-geometry-and-neural-activity-geometry-be-unified.md)
 - [Stefano Fusi](../people/stefano-fusi.md)
 - [Neuroscience](../../themes/neuroscience/overview.md)

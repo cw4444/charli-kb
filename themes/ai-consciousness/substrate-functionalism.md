@@ -3,9 +3,10 @@ title: "Substrate Independence And Functionalism"
 type: theme
 status: draft
 created: 2026-05-10
-updated: 2026-05-16
+updated: 2026-06-11
 sources:
   - ../../sources/ai-consciousness-sources.md
+  - ../../wiki/sources/trajectory-dynamics-hidden-states-reading-costs.md
 ---
 
 # Substrate Independence And Functionalism
@@ -19,6 +20,8 @@ If what matters is causal role, information integration, global availability, hi
 Chalmers's discussion of LLM consciousness is broadly sympathetic to this possibility while still skeptical about current systems. The Butlin/Long report operationalizes a related move by turning consciousness theories into indicator properties that could in principle be checked in artificial systems.
 
 Hans Moravec's [Mind Children](../../wiki/sources/mind-children-hans-moravec.md) is a historical neighbor rather than a current evidence source: it pushes the idea that mind, identity, or intelligent descendants might move into machinery if the right organization can be preserved or rebuilt.
+
+Barenholtz's [Trajectory Dynamics In Language Model Hidden States](../../wiki/sources/trajectory-dynamics-hidden-states-reading-costs.md) is not a consciousness argument, but it is useful pressure against crude substrate superiority. It shows that artificial model internals can contain trajectory structure that predicts human reading costs beyond word surprisal. That does not prove experience; it does show that "mere silicon" can still instantiate cognitively relevant representational dynamics.
 
 ## The anti-AI reply
 
@@ -35,5 +38,13 @@ The substrate question decides whether AI consciousness is a near-term engineeri
 ## Practical wiki stance
 
 Do not assume substrate independence. Do not assume biological impossibility. Track which source is using which premise.
+
+Also separate three claims that discourse loves to mash together because apparently we enjoy cleaning up after it:
+
+- artificial representations can predict or model human cognitive data;
+- artificial systems can implement functionally similar processes;
+- artificial systems have subjective experience.
+
+The first can be true without settling the second, and the second can be true without proving the third.
 
 For historical context, keep Moravec separate from current model-welfare evidence: he helps explain where the imagination came from, not whether present LLMs are conscious.

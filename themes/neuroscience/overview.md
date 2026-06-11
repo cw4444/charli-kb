@@ -11,6 +11,7 @@ sources:
   - ../../wiki/sources/libet-schurger-readiness-potential-agency.md
   - ../../wiki/sources/moretto-tau-axonal-transport-p38alpha.md
   - ../../wiki/sources/representational-geometry-brains-and-llms.md
+  - ../../wiki/sources/trajectory-dynamics-hidden-states-reading-costs.md
   - ../../wiki/sources/wilson-disengaged-mind-electric-shock.md
   - ../../wiki/sources/kahneman-tversky-judgment-under-uncertainty.md
   - ../../wiki/sources/locus-coeruleus-source-batch.md
@@ -56,11 +57,14 @@ These pages track the problem of source monitoring: perception and imagination c
 ### How Are Meaningful Variables Organized Across Populations?
 
 - [Representational Geometry In Brains And LLMs](../../wiki/sources/representational-geometry-brains-and-llms.md)
+- [Trajectory Dynamics In Language Model Hidden States](../../wiki/sources/trajectory-dynamics-hidden-states-reading-costs.md)
 - [Representational Geometry](../../wiki/concepts/representational-geometry.md)
 
 The representational-geometry thread asks how distributed activity can make variables such as valence, safety, or concept relationships readable even when individual neurons or features do not carry one tidy label.
 
-The current bridge to AI interpretability is deliberately narrow: sparse-autoencoder decoder geometry and biological population activity geometry may share relational principles, including stable coding directions that support generalization, without being the same measurement object.
+The current bridge to AI interpretability is deliberately narrow: sparse-autoencoder decoder geometry, biological population activity geometry, and language-model hidden-state trajectories may share relational or dynamical principles without being the same measurement object.
+
+Barenholtz's trajectory-dynamics paper adds that the recent path through model hidden-state space can predict human reading-time costs beyond surprisal. That supports a dynamic version of the bridge: not only where a representation sits, but how it has been moving, can matter for processing.
 
 ### How Does The Brain Build Futures And Update Beliefs?
 

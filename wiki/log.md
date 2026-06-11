@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-11] research | hidden-state trajectory dynamics and reading costs
+- Source: Barenholtz, [Trajectory Dynamics in Language Model Hidden States Predict Human Processing Costs Beyond Surprisal](https://arxiv.org/abs/2606.05346), arXiv, 2026-06-03.
+- Pages created: [Trajectory Dynamics In Language Model Hidden States](sources/trajectory-dynamics-hidden-states-reading-costs.md)
+- Pages updated: [Representational Geometry](concepts/representational-geometry.md), [Interpretability And Whether Internal States Matter](../themes/ai-consciousness/interpretability.md), [Substrate Independence And Functionalism](../themes/ai-consciousness/substrate-functionalism.md), [Neuroscience](../themes/neuroscience/overview.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added Barenholtz's trajectory extrapolation error result as a dynamic representational-geometry bridge. Durable point: language-model hidden-state trajectories can predict human reading-time costs beyond surprisal, suggesting that internal model dynamics can track psychologically relevant structure that output probabilities flatten. Kept the brakes: not proof of AI consciousness, not a direct readout of human thought, and not license to ignore substrate or embodiment.
+
 ## [2026-06-11] research | locus coeruleus blue-dot state regulation
 - Sources: local New Scientist capture in `raw/` used as reference only; Berridge and Waterhouse, [The locus coeruleus-noradrenergic system](https://doi.org/10.1016/S0165-0173(03)00143-7), 2003; Aston-Jones and Cohen, [An integrative theory of locus coeruleus-norepinephrine function](https://doi.org/10.1146/annurev.neuro.28.061604.135709), 2005; Bouret and Sara, [Network reset](https://doi.org/10.1016/j.tins.2005.09.002), 2005; Sara and Bouret, [Orienting and Reorienting](https://doi.org/10.1016/j.neuron.2012.09.011), 2012; Joshi et al., [Relationships between pupil diameter and neuronal activity](https://doi.org/10.1016/j.neuron.2015.11.028), 2016; Mather et al., [Norepinephrine ignites local hotspots of neuronal excitation](https://doi.org/10.1017/S0140525X15000667), 2016.
 - Pages created: [Locus Coeruleus Source Batch](sources/locus-coeruleus-source-batch.md), [Locus Coeruleus](concepts/locus-coeruleus.md)
