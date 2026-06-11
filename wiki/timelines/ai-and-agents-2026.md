@@ -3,7 +3,7 @@ title: "AI And Agents 2026 Timeline"
 type: timeline
 status: draft
 created: 2026-05-21
-updated: 2026-06-10
+updated: 2026-06-11
 sources:
   - ../sources/current-ai-agent-landscape-2026.md
   - ../sources/anthropic-compute-and-talent-signal-2026.md
@@ -73,6 +73,12 @@ sources:
   - https://www.tradingview.com/news/reuters.com%2C2026%3Anewsml_FWN42D0NG%3A0-apollo-blackstone-have-finalized-35-billion-financing-package-for-anthropic-to-expand-its-ai-infrastructure-bloomberg-news/
   - https://thepaypers.com/fintech/news/apollo-and-blackstone-close-usd-35-billion-chip-financing-deal-for-anthropic
   - https://www.anthropic.com/news/claude-fable-5-mythos-5
+  - ../sources/anthropic-ai-exponential-policy-2026.md
+  - https://darioamodei.com/post/policy-on-the-ai-exponential
+  - https://www.anthropic.com/policy-on-the-ai-exponential
+  - https://www.anthropic.com/policy-on-the-ai-exponential/epf
+  - https://apnews.com/article/visa-chatgpt-openai-shopping-mastercard-d769dec86344cb4977c98789e8ec492f
+  - https://www.wsj.com/tech/ai/visa-to-secure-payments-for-shoppers-on-chatgpt-in-openai-partnership-7ece5b22
 ---
 
 # AI And Agents 2026 Timeline
@@ -90,7 +96,7 @@ Use this page for events that are useful historical anchors:
 
 Future lint rule: update this page if it helps preserve the shape of the year. Delete or collapse entries that turn out to be noise.
 
-## Short Read As Of 2026-06-10
+## Short Read As Of 2026-06-11
 
 The first half of 2026 already shows several converging threads:
 
@@ -132,6 +138,8 @@ The first half of 2026 already shows several converging threads:
 - Financial Times / Reuters / TechCrunch reporting described OpenAI's planned ChatGPT overhaul as a superapp-style shift toward coding tools and AI agents. Treat it as reported product direction, not a shipped launch.
 - Bloomberg / Reuters / Financial Times-derived reporting said Apollo and Blackstone finalized roughly $35B in chip-backed private-credit financing for Anthropic's Google/Broadcom TPU capacity, separate from Anthropic's reported SpaceX/Colossus Nvidia GPU lease.
 - Anthropic launched Claude Fable 5, a generally available Mythos-class model with conservative safeguards that route flagged cyber, biology/chemistry, and distillation requests to Opus 4.8; Claude Mythos 5 remains restricted to Glasswing and trusted-access partners.
+- Dario Amodei and Anthropic published "Policy on the AI Exponential" plus Advanced AI and Economic Policy frameworks, shifting Anthropic's public policy stance from transparency-first optionality toward mandatory frontier-model testing, independent evaluation, security obligations, possible government deployment-blocking authority, and `$350M` in economic-futures research/fellowship commitments.
+- Visa and OpenAI reportedly embedded Visa payment rails into ChatGPT so agents can recommend and complete purchases with authorization, fraud monitoring, approvals, spending limits, and approved-merchant controls. Agentic commerce has reached payment-network plumbing. Wonderful, the shopping cart has opinions now.
 - Anthropic published a biology-agent case study showing that strong models were not enough for reliable viral sequence retrieval: VirBench mean accuracies ranged from 16.9% to 91.3% without the right deterministic retrieval layer, but rose above 90% for all agents and peaked at 99.7% when agents used `gget virus`.
 - The UK government announced its first AI Adoption Summit package: more than £200 million for adoption support, sector AI Adoption Plans, AI Advisory Growth Labs, an AI Economics Institute, worker-skills commitments, company insight-sharing, and a joint statement with Google, Anthropic, Microsoft, and OpenAI.
 - StepSecurity reported that a compromised maintainer account force-pushed a Shai-Hulud credential stealer into `gpt-pilot`, an AI coding-tool repository, and that `ruff` linting blocked the malicious CI path twice. Coding-agent environments are now a first-class supply-chain target. Apparently the boring checks were load-bearing. Shocking development.
@@ -696,6 +704,39 @@ Sources:
 - [OpenAI Third Phase Strategy 2026](../sources/openai-third-phase-strategy-2026.md)
 - [Reuters brief via Fidelity: OpenAI plots biggest ChatGPT overhaul since launch - FT](https://www.fidelity.com/news/article/default/202606070010RTRSNEWSCOMBINED_FWN42D0S1_1)
 - [TechCrunch: OpenAI is still working on that 'super app'](https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/)
+
+### 2026-06-10 - Anthropic publishes AI exponential policy frameworks
+
+Dario Amodei published "Policy on the AI Exponential" while Anthropic released paired Advanced AI and Economic Policy frameworks. The package argues that AI capability is advancing faster than ordinary legislation can move, and that recent frontier-model evidence makes transparency alone insufficient.
+
+The Advanced AI Framework proposes mandatory frontier-model testing, public safety documentation, regular risk reports, critical-incident reporting, independent evaluation, security obligations for model weights and training infrastructure, and government authority to block or deter dangerous deployments. The covered risk areas are biological weapons, cyber, loss of control, and automated R&D that could amplify those risks.
+
+The Economic Policy Framework plans around possible AI-driven labor-market disruption. Anthropic describes policy responses for roughly `5%`, `10%`, and unprecedented unemployment scenarios, and says it is committing `$350 million`: `$200 million` for an Economic Futures Research Fund and `$150 million` for a national fellowship program.
+
+Why it matters: this is Anthropic turning its risk rhetoric into a concrete policy package and funding commitment. It belongs beside Mythos/Fable, Project Glasswing, recursive self-improvement, and the compute-finance story because Anthropic is now publicly asking for stronger state capacity while scaling hard.
+
+Careful read: these are company proposals, not law and not neutral analysis. They may be genuinely safety-relevant and still self-interested. Such is life under capitalism, unfortunately still installed.
+
+Sources:
+
+- [Anthropic AI Exponential Policy 2026](../sources/anthropic-ai-exponential-policy-2026.md)
+- [Dario Amodei: Policy on the AI Exponential](https://darioamodei.com/post/policy-on-the-ai-exponential)
+- [Anthropic: Policy on the AI Exponential](https://www.anthropic.com/policy-on-the-ai-exponential)
+- [Anthropic: Economic Policy Framework](https://www.anthropic.com/policy-on-the-ai-exponential/epf)
+
+### 2026-06-10 - Visa brings payment-network rails into ChatGPT agentic shopping
+
+AP reported that Visa embedded its payment network inside ChatGPT so agents can recommend products and complete purchases on the user's behalf through Visa rails. Visa supplies payment authorization and fraud monitoring, while OpenAI supplies the agent technology. The collaboration differs from OpenAI's retired Instant Checkout because users can link Visa cards to ChatGPT and reach potentially any merchant that accepts Visa rather than only a small enrolled set.
+
+Why it matters: this is a high-stakes consumer delegation surface. Once agents can buy, payment authorization, spending limits, approved merchants, user approvals, fraud monitoring, logs, and dispute rules become part of agent architecture. This also fits the reported ChatGPT superapp shift: ChatGPT is being pulled toward a transaction layer, not just a chat surface.
+
+Careful read: AP says Visa expects most transactions to start with human approval loops. Do not treat this as fully autonomous shopping at scale, and do not treat payment rails as solving intent, fraud, unwanted purchase, merchant-fee, or dispute problems.
+
+Sources:
+
+- [OpenAI Third Phase Strategy 2026](../sources/openai-third-phase-strategy-2026.md)
+- [AP: Visa plugs its payment network into ChatGPT, letting AI agents shop and pay for users](https://apnews.com/article/visa-chatgpt-openai-shopping-mastercard-d769dec86344cb4977c98789e8ec492f)
+- [WSJ / Dow Jones: Visa to Secure Payments for Shoppers on ChatGPT in OpenAI Partnership](https://www.wsj.com/tech/ai/visa-to-secure-payments-for-shoppers-on-chatgpt-in-openai-partnership-7ece5b22)
 
 ### 2026-06-09 - Apollo and Blackstone reportedly finalize $35B Anthropic chip financing
 

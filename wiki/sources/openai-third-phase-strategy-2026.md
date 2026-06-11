@@ -3,13 +3,15 @@ title: "OpenAI Third Phase Strategy 2026"
 type: source
 status: draft
 created: 2026-06-09
-updated: 2026-06-09
+updated: 2026-06-11
 sources:
   - "OpenAI: Built to benefit everyone: our plan, 2026-06-08"
   - "OpenAI: Confidential submission of draft S-1 to the SEC, 2026-06-08"
   - "OpenAI: Introducing the OpenAI Economic Research Exchange, 2026-06-08"
   - "Reuters brief: OpenAI plots biggest ChatGPT overhaul since launch - FT, 2026-06-07"
   - "TechCrunch: OpenAI is still working on that 'super app', 2026-06-07"
+  - "AP: Visa plugs its payment network into ChatGPT, letting AI agents shop and pay for users, 2026-06-10"
+  - "WSJ/Dow Jones: Visa to secure payments for shoppers on ChatGPT in OpenAI partnership, 2026-06-10"
   - "../../raw/2026-06-09-ai-digest.md"
 ---
 
@@ -76,6 +78,19 @@ Sources:
 - [Reuters brief via Fidelity: OpenAI plots biggest ChatGPT overhaul since launch - FT](https://www.fidelity.com/news/article/default/202606070010RTRSNEWSCOMBINED_FWN42D0S1_1)
 - [TechCrunch: OpenAI is still working on that 'super app'](https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/)
 
+## Visa And Agentic Commerce
+
+On 2026-06-10, AP and Dow Jones / WSJ reported that Visa had embedded its payment network into ChatGPT so agents can recommend products and complete purchases through Visa rails. AP reported that the system differs from OpenAI's earlier Instant Checkout because users can link Visa cards to ChatGPT and transactions can reach potentially any Visa-accepting merchant rather than only a small set of enrolled merchants.
+
+The durable signal is not "shopping bot buys headphones." It is payment-network infrastructure moving into agentic commerce: authorization, tokenization, fraud monitoring, approvals, spending limits, and approved-merchant controls become part of the agent surface.
+
+This belongs beside the reported ChatGPT superapp work because it turns ChatGPT from an information and work surface into a possible transaction surface. If agents can research, recommend, and pay, then consent, budgets, dispute handling, logs, and user intent become core product architecture rather than UX decoration.
+
+Sources:
+
+- [AP: Visa plugs its payment network into ChatGPT, letting AI agents shop and pay for users](https://apnews.com/article/visa-chatgpt-openai-shopping-mastercard-d769dec86344cb4977c98789e8ec492f)
+- [WSJ / Dow Jones via search result: Visa to Secure Payments for Shoppers on ChatGPT in OpenAI Partnership](https://www.wsj.com/tech/ai/visa-to-secure-payments-for-shoppers-on-chatgpt-in-openai-partnership-7ece5b22)
+
 ## Why It Matters
 
 This package belongs next to [OpenAI Industrial Policy For The Intelligence Age](openai-industrial-policy-intelligence-age.md), [OpenAI Foundation AI Resilience Program](openai-foundation-ai-resilience.md), [ChatGPT Memory Dreaming 2026](chatgpt-memory-dreaming-2026.md), and [OpenAI Codex For Everyday Work](openai-codex-for-everyday-work.md).
@@ -86,6 +101,7 @@ The recurring pattern is that OpenAI is not only shipping models. It is building
 - long-horizon assistant memory;
 - Codex and computer-work agents;
 - reported ChatGPT superapp / agent-routing product work;
+- payment-network integration for agentic commerce;
 - industrial-policy proposals;
 - foundation grants around resilience;
 - economic-impact research;
@@ -102,6 +118,7 @@ That is historically useful because AI capability, distribution, finance, resear
 - Do not say OpenAI has gone public. A confidential draft S-1 gives optionality; it is not an IPO.
 - Do not treat the Economic Research Exchange as independent by default. It may support external research, but the access, framing, and infrastructure are OpenAI-shaped.
 - Do not treat FT/Reuters/TechCrunch superapp reporting as an official launch or release date.
+- Do not treat Visa integration as safe autonomy by default. Payment agents need explicit consent, budgets, approvals, fraud handling, audit trails, and dispute rules.
 - Do not confuse this post with OpenAI's April 2026 industrial-policy paper or the OpenAI Foundation's resilience grants. They are adjacent institutional signals, not the same program.
 
 ## Related Pages
