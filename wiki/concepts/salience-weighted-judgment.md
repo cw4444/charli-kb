@@ -1,0 +1,71 @@
+---
+title: "Salience Weighted Judgment"
+type: concept
+status: draft
+created: 2026-06-11
+updated: 2026-06-11
+sources:
+  - ../sources/kahneman-tversky-judgment-under-uncertainty.md
+---
+
+# Salience Weighted Judgment
+
+Salience weighted judgment is the wiki's practical name for a common Kahneman/Tversky pattern: the mind gives extra weight to whatever is vivid, recent, emotionally charged, easy to recall, easy to imagine, or currently in focus.
+
+That extra weight can be useful. If smoke is vivid, pay attention. If a danger comes easily to mind because it happened yesterday, do not be an idiot about it. But salience can also make one factor feel larger, more frequent, more probable, or more life-defining than it really is.
+
+## Core Forms
+
+### Availability
+
+Availability is the shortcut where frequency or probability is judged by ease of recall. If examples come to mind quickly, the event can feel common. If they do not, the event can feel rare.
+
+This is why a newly noticed idea can start appearing everywhere. Sometimes that is because the world really changed. Sometimes it is because your attention and retrieval system just got handed a highlighter and is now being dramatic with it.
+
+### Focusing Illusion
+
+The focusing illusion is attention narrowing onto one factor and overestimating its effect on overall well-being or life satisfaction. The factor may matter, but attention makes it look like the central variable.
+
+The useful household version: nothing is quite as important as it feels while it is taking up the whole mental screen.
+
+### Loss Framing
+
+Prospect theory adds the risk-and-reference-point version. People evaluate outcomes as gains or losses relative to a current reference point, and losses often carry more motivational force than equivalent gains.
+
+This matters because a person facing a felt loss may take risks, cling to a bad option, or overprotect the status quo in ways that would look irrational from a clean spreadsheet.
+
+## Why It Matters Here
+
+This concept is a guardrail for several wiki lanes:
+
+- In [Optimism](optimism.md), positive future simulation can support agency, but vivid futures can also outrun evidence.
+- In [Manifestation As Behavior Modification](manifestation-as-behavior-modification.md), "feel it real" is useful only if salience changes action while evidence contact stays intact.
+- In [Reality Threshold](reality-threshold.md), felt realness and felt importance are both constructed signals that need checking.
+- In AI work, a model can make a topic feel more coherent, urgent, and everywhere by retrieving related material at speed.
+
+Fable 5 saying "frequency illusion" after a Kahneman prompt is a good example of the practical trap. The phrase may send you into Google, and now every search result strengthens the feeling that this is the key to the entire cupboard. It might be useful. It might also be attention doing jazz hands. Check the base rate before declaring revelation.
+
+## Practical Countermoves
+
+- Ask what changed: the world, your attention, the feed, the search term, or the evidence?
+- Separate examples from base rates.
+- Look for boring denominators: how often does this happen compared with the total number of chances?
+- Sleep on any conclusion that arrived with theatrical certainty.
+- Use AI to widen the frame, not only to deepen the current tunnel.
+- Ask what you are not thinking about because one factor has taken the spotlight.
+
+## Do Not Overclaim
+
+- Salience is not always bias. Sometimes the vivid thing is vivid because it matters.
+- Bias does not mean useless. Heuristics are often efficient.
+- A topic feeling newly everywhere is not proof of synchronicity, destiny, or cosmic signage. It may be search, memory, and attention doing normal machinery.
+- Debiasing is not becoming emotionless. It is adding checks before action.
+
+## Related
+
+- [Kahneman And Tversky - Judgment Under Uncertainty](../sources/kahneman-tversky-judgment-under-uncertainty.md)
+- [Daniel Kahneman](../people/daniel-kahneman.md)
+- [Optimism](optimism.md)
+- [Manifestation As Behavior Modification](manifestation-as-behavior-modification.md)
+- [Reality Threshold](reality-threshold.md)
+- [Practical Agency Inside Constraint](practical-agency-inside-constraint.md)

@@ -3,13 +3,14 @@ title: "Manifestation As Behavior Modification"
 type: concept
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-06-11
 sources:
   - https://www.nhs.uk/conditions/cognitive-behavioural-therapy-cbt/
   - https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral
   - https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0222386
   - fictional-finalism.md
   - optimism.md
+  - salience-weighted-judgment.md
 ---
 
 # Manifestation As Behavior Modification
@@ -49,6 +50,12 @@ That is the non-mystical spine underneath a lot of useful manifestation advice:
 
 The difference is evidence contact. CBT does not need the world to be secretly controlled by thought. It only needs thoughts and behaviours to interact strongly enough that changing one can shift the other.
 
+## Salience Warning
+
+[Salience Weighted Judgment](salience-weighted-judgment.md) is the guardrail. Making a future vivid can help action, but vividness is not evidence. A desired future can feel more likely because it is rehearsed. A feared future can feel more likely because it is intrusive. A search trail can make a concept feel suddenly everywhere because the attention system is now tuned to it.
+
+The adult move is to use salience as a steering aid, then check the world. If the belief changes attention and behaviour usefully, fine. If it starts treating felt importance as proof, put it back in its box.
+
 ## Relation To Positive Psychology
 
 Best Possible Self is the clean bridge. In positive-psychology research, people imagine a realistic future in which important goals have gone well. A 2019 PLOS One meta-analysis found the Best Possible Self intervention improved wellbeing, optimism, and positive affect compared with controls.
@@ -80,6 +87,7 @@ It fails when the fiction becomes evidence-proof, grandiose, passive, or contemp
 - Do not treat "ignore current reality" as healthy when current reality contains danger, illness, debt, abuse, or practical constraints.
 - Do not turn behaviour change into moral blame.
 - Do not confuse agency-supporting identity rehearsal with denial.
+- Do not treat vividness, repetition, or sudden recognizability as evidence that the universe is confirming the thought.
 
 The useful sentence is simple:
 
@@ -89,5 +97,6 @@ The useful sentence is simple:
 
 - [Optimism](optimism.md)
 - [Fictional Finalism](fictional-finalism.md)
+- [Salience Weighted Judgment](salience-weighted-judgment.md)
 - [Research - Optimism](../questions/research-optimism.md)
 - [Practical Agency Inside Constraint](practical-agency-inside-constraint.md)

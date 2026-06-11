@@ -6,6 +6,7 @@ created: 2026-05-12
 updated: 2026-06-11
 sources:
   - ../sources/optimism-neuroscience-source-batch.md
+  - ../sources/kahneman-tversky-judgment-under-uncertainty.md
   - ../sources/libet-schurger-readiness-potential-agency.md
   - ../sources/langer-counterclockwise-aging-mindset.md
   - manifestation-as-behavior-modification.md
@@ -27,6 +28,8 @@ The literature in this source batch points to at least four interacting pieces:
 The 2024 OxJournal overview is not primary evidence, but it usefully names the developmental bridge. Dispositional optimism is future expectation; attributional optimism is the habit of explaining setbacks as specific, unstable, and workable; optimism bias is the risky version where a person underweights bad evidence. For this wiki, the interesting "cheat code" is mostly the middle one: changing the explanation of a setback can preserve agency long enough for action to continue.
 
 Forgeard and Seligman's 2012 review is useful for the older map. It separates optimistic explanatory style from dispositional optimism: one asks how people explain events, the other asks what they broadly expect from the future. Its best contribution here is the adult boundary: healthy optimism is flexible. It usually helps when it supports coping, effort, opportunity scanning, and persistence, but temporary realistic pessimism can be useful when danger is near, odds are genuinely poor, or preparation matters more than morale. Optimism is a tool, not a wedding vow.
+
+Kahneman and Tversky add the salience warning. A future can feel important because it is vivid, easy to imagine, recently discussed, or framed as a loss, not because it is well-calibrated. Their availability and focusing-illusion work is a useful brake on both optimism and pessimism: while one outcome is taking up the whole mental screen, it will feel larger than it may deserve. See [Salience Weighted Judgment](salience-weighted-judgment.md).
 
 In practical terms, Rick Hanson's "taking in the good" framing fits here as a response to negativity bias: if the brain tends to hold onto threat and let ordinary good moments pass through, one reasonable intervention target is not fantasy but better encoding of small stabilizing experiences.
 
@@ -74,6 +77,7 @@ Ellen Langer's counterclockwise aging study belongs on the outer edge of this co
 - `Agency-supporting optimism`: positive belief that helps someone keep trying, noticing options, and using available resources.
 - `Attributional optimism`: explaining setbacks as specific, unstable, and workable rather than permanent, global, and identity-defining.
 - `Flexible optimism`: ability to shift between optimistic persistence and realistic pessimistic preparation when circumstances require it.
+- `Salience weighted judgment`: vivid, recent, emotionally loaded, or currently focused material gets overweighted unless checked against evidence.
 - `Best possible self imagery`: a short future-imagery intervention that can raise self-reported optimism in controlled studies.
 - `ACC/IFG split`: rough neuroimaging distinction between self-relevant future construction and challenged-belief updating.
 - `Counterfactual gratitude`: noticing bad outcomes that did not occur, without pretending everything is fine.
@@ -92,6 +96,7 @@ Ellen Langer's counterclockwise aging study belongs on the outer edge of this co
 ## Related
 
 - [Research - Optimism](../questions/research-optimism.md)
+- [Salience Weighted Judgment](salience-weighted-judgment.md)
 - [Manifestation As Behavior Modification](manifestation-as-behavior-modification.md)
 - [Fictional Finalism](fictional-finalism.md)
 - [Langer Counterclockwise Study And Aging Mindset](../sources/langer-counterclockwise-aging-mindset.md)

@@ -3,7 +3,7 @@ title: "Neuroscience"
 type: theme
 status: draft
 created: 2026-06-04
-updated: 2026-06-10
+updated: 2026-06-11
 sources:
   - ../../wiki/sources/reality-threshold-dijkstra-batch.md
   - ../../wiki/sources/wadia-shared-code-perception-imagination.md
@@ -12,6 +12,7 @@ sources:
   - ../../wiki/sources/moretto-tau-axonal-transport-p38alpha.md
   - ../../wiki/sources/representational-geometry-brains-and-llms.md
   - ../../wiki/sources/wilson-disengaged-mind-electric-shock.md
+  - ../../wiki/sources/kahneman-tversky-judgment-under-uncertainty.md
 ---
 
 # Neuroscience
@@ -33,6 +34,7 @@ The repo already contains a substantial neuroscience thread, but it has been sca
 - [Reality Threshold](../../wiki/concepts/reality-threshold.md): how internally and externally generated signals may be judged as real.
 - [Perception And Imagination Overlap](../../wiki/concepts/perception-and-imagination-overlap.md): shared machinery for seeing and imagining.
 - [Optimism](../../wiki/concepts/optimism.md): future simulation, belief updating, attention, and agency.
+- [Salience Weighted Judgment](../../wiki/concepts/salience-weighted-judgment.md): how vividness, availability, framing, and focus can inflate felt frequency, probability, or importance.
 - [Practical Agency Inside Constraint](../../wiki/concepts/practical-agency-inside-constraint.md): meaningful control inside neural and practical constraint.
 - [Interface Theory Of Perception](../../wiki/concepts/interface-theory-of-perception.md): perception as action-oriented interface rather than raw reality.
 
@@ -65,6 +67,13 @@ The current bridge to AI interpretability is deliberately narrow: sparse-autoenc
 - [Research - Optimism](../../wiki/questions/research-optimism.md)
 
 This thread treats optimism as a style of future representation, belief updating, attention, and agency. It is not manifestation, denial, or proof that inaccurate belief is generally healthy.
+
+### How Does Salience Distort Judgment?
+
+- [Kahneman And Tversky - Judgment Under Uncertainty](../../wiki/sources/kahneman-tversky-judgment-under-uncertainty.md)
+- [Salience Weighted Judgment](../../wiki/concepts/salience-weighted-judgment.md)
+
+This thread tracks the judgment-under-uncertainty bridge: availability, focusing illusion, prospect theory, loss framing, and why the thing currently in focus can feel more frequent, probable, or important than it is.
 
 ### How Does Neural Activity Relate To Agency?
 

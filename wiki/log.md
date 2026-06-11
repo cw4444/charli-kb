@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-11] research | Kahneman and salience-weighted judgment
+- Sources: Tversky and Kahneman, [Availability: A heuristic for judging frequency and probability](https://doi.org/10.1016/0010-0285(73)90033-9), 1973; Tversky and Kahneman, [Judgment under Uncertainty: Heuristics and Biases](https://doi.org/10.1126/science.185.4157.1124), 1974; Kahneman and Tversky, [Prospect Theory](https://doi.org/10.2307/1914185), 1979; Schkade and Kahneman, [Does Living in California Make People Happy?](https://doi.org/10.1111/1467-9280.00466), 1998; Kahneman et al., [Would You Be Happier If You Were Richer?](https://doi.org/10.1126/science.1129688), 2006; Nobel Prize, [Daniel Kahneman Facts](https://www.nobelprize.org/prizes/economic-sciences/2002/kahneman/facts/)
+- Pages created: [Kahneman And Tversky - Judgment Under Uncertainty](sources/kahneman-tversky-judgment-under-uncertainty.md), [Salience Weighted Judgment](concepts/salience-weighted-judgment.md), [Daniel Kahneman](people/daniel-kahneman.md)
+- Pages updated: [Optimism](concepts/optimism.md), [Manifestation As Behavior Modification](concepts/manifestation-as-behavior-modification.md), [Reality Threshold](concepts/reality-threshold.md), [Neuroscience](../themes/neuroscience/overview.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added the Kahneman/Tversky material as a judgment-under-uncertainty guardrail for the optimism/reality/agency lanes. Durable point: vivid, recent, repeated, emotionally loaded, or currently focused material can feel more frequent, probable, or important than it is. Kept the distinction that Baader-Meinhof-style frequency illusion is adjacent to, but not identical with, Tversky and Kahneman's availability heuristic.
+
 ## [2026-06-11] source update | flexible optimism review
 - Source: Forgeard and Seligman, *Pratiques psychologiques*, [Seeing the glass half full: A review of the causes and consequences of optimism](https://doi.org/10.1016/j.prps.2012.02.002), 2012; local PDF in `raw/`.
 - Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)

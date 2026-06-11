@@ -59,6 +59,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Michael Levin - Unconventional Cognition And AI](sources/michael-levin-unconventional-cognition.md): commentary source note on Levin's spectrum-of-cognition framing, AI as unfamiliar embodiment, and why substrate descriptions can be true but incomplete.
 - [Devs - Prediction, Determinism, And Acceleration](sources/devs-prediction-determinism.md): cultural reference note on prediction machines, many-worlds, grief, determinism, and acceleration shock.
 - [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md): public-source research note on optimism bias, pessimism, future simulation, belief updating, flexible optimism, best-possible-self imagery, placebo sleep, repetitive negative thinking, agency, embodiment, and sleep/insomnia associations.
+- [Kahneman And Tversky - Judgment Under Uncertainty](sources/kahneman-tversky-judgment-under-uncertainty.md): public-source note on availability, heuristics and biases, prospect theory, focusing illusion, and why felt importance is not evidence.
 - [Moretto et al. - Tau, Axonal Transport, And p38α](sources/moretto-tau-axonal-transport-p38alpha.md): source note on early tau-related axonal transport deficits, enlarged tau envelopes, and p38α inhibition in mouse models.
 - [Representational Geometry In Brains And LLMs](sources/representational-geometry-brains-and-llms.md): source note comparing emotional-state geometry in mouse amygdala with sparse-autoencoder concept geometry in LLMs, with strict boundaries around mechanism and experience.
 - [Psychometric Evaluation Of LLM Self-Narratives](sources/psychometric-evaluation-llm-self-narratives.md): source note on a therapy-role and questionnaire study showing cross-model differences in self-narrative, with strict boundaries against diagnosing machine mental illness.
@@ -103,6 +104,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Interface Theory Of Perception](concepts/interface-theory-of-perception.md): Donald Hoffman's desktop-interface argument that perception may be useful and fitness-shaped without being a literal view of reality-in-itself.
 - [Pluriverse](concepts/pluriverse.md): bridge concept for shared reality built through interlocking situated perspectives, anchored in QBism, participatory realism, and predictive-processing caveats.
 - [Optimism](concepts/optimism.md): future-oriented cognitive style tied to ACC/IFG neuroimaging signals, optimism-bias structure, embodied/lateralization hypotheses, vivid positive simulation, attributional optimism, flexible optimism, trainable best-possible-self imagery, selective updating, pessimism as context-sensitive expectancy, placebo sleep, agency, opportunity attention, counterfactual gratitude, sleep-health associations, and observational cardiovascular/longevity evidence.
+- [Salience Weighted Judgment](concepts/salience-weighted-judgment.md): Kahneman/Tversky-style concept for how vividness, availability, focus, and loss framing can inflate felt frequency, probability, or importance.
 - [Fictional Finalism](concepts/fictional-finalism.md): Adlerian bridge concept for imagined future goals or guiding self-ideas that organize present behavior without becoming manifestation claims.
 - [Manifestation As Behavior Modification](concepts/manifestation-as-behavior-modification.md): translation layer for salvaging useful manifestation language as CBT-adjacent behaviour change, positive future rehearsal, attention shaping, and agency without reality-creation claims.
 - [Positive Alignment](concepts/positive-alignment.md): AI-alignment agenda that aims beyond "not unsafe" toward constructive, flourishing-supportive behavioral attractors.
@@ -121,6 +123,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Hans Moravec](people/hans-moravec.md): roboticist associated here with *Mind Children*, machine intelligence, mind uploading, and postbiological AI futures.
 - [Michael Levin](people/michael-levin.md): biologist associated here with unconventional cognition, cellular agency, morphogenesis, and AI/agency humility.
 - [Stefano Fusi](people/stefano-fusi.md): neuroscience bridge figure for population-level representation, abstraction, mixed selectivity, and generalization through representational geometry.
+- [Daniel Kahneman](people/daniel-kahneman.md): psychologist and judgment-under-uncertainty bridge figure for availability, focusing illusion, prospect theory, and confidence outrunning evidence.
 
 ## Organizations
 

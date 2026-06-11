@@ -3,11 +3,12 @@ title: "Reality Threshold"
 type: concept
 status: draft
 created: 2026-04-28
-updated: 2026-06-08
+updated: 2026-06-11
 sources:
   - ../sources/reality-threshold-dijkstra-batch.md
   - ../sources/wadia-shared-code-perception-imagination.md
   - ../sources/asch-conformity-social-pressure.md
+  - ../sources/kahneman-tversky-judgment-under-uncertainty.md
 ---
 
 # Reality Threshold
@@ -28,6 +29,12 @@ Wadia et al. 2026 adds single-neuron support for the overlap problem: imagined a
 ## Not A Claim That Everything Is Arbitrary
 
 Reality threshold does not mean the external world is fake or that all experiences are equally real. It means the felt realness of an experience is constructed by the brain and can sometimes be misclassified.
+
+## Relation To Salience Weighted Judgment
+
+[Salience Weighted Judgment](salience-weighted-judgment.md) is the importance/probability cousin of this idea. Reality threshold asks why an imagined or perceived signal feels real. Salience weighted judgment asks why a vivid, recent, repeated, or emotionally loaded idea feels important, common, likely, or decision-relevant.
+
+The two should not be collapsed. A thought can feel important without feeling perceptually real. But both warn against treating felt force as direct evidence.
 
 ## Relation To Social Reality Pressure
 
@@ -51,6 +58,7 @@ The *Black Mirror* episode "Bete Noire" is a cultural illustration of the extrem
 
 - [Perception And Imagination Overlap](perception-and-imagination-overlap.md)
 - [Social Reality Pressure](social-reality-pressure.md)
+- [Salience Weighted Judgment](salience-weighted-judgment.md)
 - [Wadia Shared Code For Perception And Imagination](../sources/wadia-shared-code-perception-imagination.md)
 - [Interface Theory Of Perception](interface-theory-of-perception.md)
 - [Pluriverse](pluriverse.md)
