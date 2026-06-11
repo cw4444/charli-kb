@@ -3,7 +3,7 @@ title: "Optimism Neuroscience Source Batch"
 type: source
 status: draft
 created: 2026-05-12
-updated: 2026-06-09
+updated: 2026-06-11
 source_type: public-research-batch
 authors:
   - Sanda Dolcos
@@ -34,6 +34,8 @@ authors:
   - Lisa Bortolotti
   - Richard Wiseman
   - Rick Hanson
+  - Marie J. C. Forgeard
+  - Martin E. P. Seligman
 primary_sources:
   - "Taylor and Brown, Psychological Bulletin, 1988, Illusion and well-being: A social psychological perspective on mental health, https://doi.org/10.1037/0033-2909.103.2.193"
   - "Sharot et al., Nature, 2007, Neural mechanisms mediating optimism bias, https://doi.org/10.1038/nature06280"
@@ -62,6 +64,7 @@ counterpoint_sources:
   - "Shepperd, Pogge, and Howell, Consciousness and Cognition, 2017, Assessing the consequences of unrealistic optimism: Challenges and recommendations, https://doi.org/10.1016/j.concog.2016.07.004"
 commentary_sources:
   - "Hecht, Experimental Neurobiology, 2013, The Neural Basis of Optimism and Pessimism, https://doi.org/10.5607/en.2013.22.3.173"
+  - "Forgeard and Seligman, Pratiques psychologiques, 2012, Seeing the glass half full: A review of the causes and consequences of optimism, https://doi.org/10.1016/j.prps.2012.02.002"
   - "Kahle Monahan, Chang, Yu, and Yu, The Wiley Encyclopedia of Personality and Individual Differences, 2020, Optimism and Pessimism: Conceptualization, Personality Correlates, and Contextual Considerations, https://doi.org/10.1002/9781118970843.ch231"
   - "Tamagni et al., Nature Precedings, 2010, Vestibular stimulation reduces unrealistic optimism, https://doi.org/10.1038/npre.2010.4519.1"
   - "Schacter and Addis, Nature Neuroscience, 2007, The optimistic brain, https://doi.org/10.1038/nn1107-1345"
@@ -79,6 +82,7 @@ sources:
   - "Public web research, accessed 2026-06-09"
   - "../../raw/optimistic-brain.pdf"
   - "../../raw/Optimism, Agency, and Success.pdf"
+  - "../../raw/Seeing_the_glass_half_full_A_review_of_t.pdf"
   - "../../raw/Unveiling the neural underpinnings of optimism a systematic review.pdf"
 ---
 
@@ -88,7 +92,7 @@ sources:
 
 - Topic: optimism as a cognitive and neural style rather than a manifestation claim
 - Scope: future-event simulation, optimism bias, belief updating, mental imagery interventions, repetitive negative thinking, and sleep/insomnia associations
-- Access note: this page keeps original synthesis and metadata only. It does not reproduce paywalled text. `raw/optimistic-brain.pdf` and `raw/Unveiling the neural underpinnings of optimism a systematic review.pdf` are treated as local access-controlled source material. `raw/Optimism, Agency, and Success.pdf` is an open-access PDF of Bortolotti's article and remains ignored by git with the rest of `raw/`. The Wiley encyclopedia chapter by Kahle Monahan et al. was checked through public abstract/metadata and secondary bibliographic records only, not full-text access. The OxJournal 2024 article is public and useful as a student-style review/source trail, not as primary experimental evidence.
+- Access note: this page keeps original synthesis and metadata only. It does not reproduce paywalled text. `raw/optimistic-brain.pdf`, `raw/Seeing_the_glass_half_full_A_review_of_t.pdf`, and `raw/Unveiling the neural underpinnings of optimism a systematic review.pdf` are treated as local access-controlled source material. `raw/Optimism, Agency, and Success.pdf` is an open-access PDF of Bortolotti's article and remains ignored by git with the rest of `raw/`. The Wiley encyclopedia chapter by Kahle Monahan et al. was checked through public abstract/metadata and secondary bibliographic records only, not full-text access. The OxJournal 2024 article is public and useful as a student-style review/source trail, not as primary experimental evidence.
 
 ## Core Primary-Source Claims
 
@@ -151,6 +155,10 @@ O'Donovan et al. 2014 is a cautious telomere tile rather than a commandment. In 
 Hecht 2013 is an open-access narrative review on optimism, pessimism, depression, embodied cognition, and hemispheric lateralization. Its useful role is connective rather than definitive. It gathers older evidence around optimism bias, anosognosia, self-esteem, depression, posture/gaze/body feedback, and approach-withdrawal asymmetries, then argues for a broad left-hemisphere/active-confidence versus right-hemisphere/watchful-pessimism schema.
 
 Use this paper as a source trail for embodied and lateralized belief-updating questions, not as settled doctrine. The hemispheric story is broader and more speculative than Erthal's systematic neuroimaging review or Sharot's belief-update work. The best wiki use is to connect optimism/pessimism with body state, approach/withdrawal, self-evaluation, and the McKay vestibular-stimulation counterweight, while refusing cartoon left-brain/right-brain claims.
+
+Forgeard and Seligman 2012 is a broad review rather than a new mechanism paper. Its wiki value is scaffolding: it separates optimistic explanatory style from dispositional optimism, gathers older evidence on well-being, coping, health, and success, and repeatedly warns that optimism is not identical to denial. The explanatory-style route is about how people explain bad and good events: bad events can be framed as temporary and specific rather than permanent and global. The dispositional route is broader future expectancy, usually measured by Life Orientation Test-style self-report.
+
+The paper's best contribution to this package is the "flexible optimism" boundary. Forgeard and Seligman treat optimism as usually useful because it supports coping, persistence, resource acquisition, and openness to opportunity, but they explicitly preserve cases where realistic pessimism is adaptive: immediate danger, poor odds, defensive preparation, goal disengagement, gambling, health-risk underestimation, and overconfident business decisions. Use it as an older positive-psychology review that supports the wiki's current adult position: the useful skill is shifting between optimism and pessimism when the situation changes, not being locked into either rigid cheerfulness or chronic threat scanning.
 
 Kahle Monahan, Chang, Yu, and Yu 2020 is not a new experiment; it is a concise Wiley encyclopedia chapter on optimism and pessimism as personality constructs. Its value here is map-level. Public metadata frames optimism as future-outcome expectancy linked to motivation and effort, and pessimism as future-negative expectation linked to disengagement. The chapter also points toward personality correlates, contextual considerations, and treatment/intervention implications. Use it as a conceptual orientation source, not as primary evidence for a mechanism.
 
@@ -243,6 +251,10 @@ The broader Taylor and Brown category: overly positive self-views, exaggerated c
 
 Negative future expectancy is not merely failed optimism. It can narrow action, increase disengagement, and intensify threat monitoring, but under some conditions pessimistic preparation or disengagement may be more adaptive than sunny persistence. Context matters. Sometimes the correct move is not to "be positive"; it is to stop pouring effort into a bad bet and leave the casino before the carpet learns your name.
 
+### Flexible optimism
+
+Forgeard and Seligman's useful phrase for the adult version of this lane: optimism should be flexible and realistic rather than rigid. Most of the time, optimism helps because it supports action, coping, persistence, and opportunity scanning. When danger is near, odds are genuinely poor, or preparation matters more than morale, temporary realistic pessimism can be the smarter control setting. The important ability is switching, not pledging lifetime loyalty to one emotional weather report.
+
 ### Denial
 
 Refusal or failure to register relevant negative evidence. This is not the same thing as healthy optimism, even if both can look "positive" from a distance.
@@ -275,6 +287,7 @@ This is exactly where the proof boundary matters. These studies do not show that
 - Erthal et al. 2021 is a systematic review, but only 14 neuroimaging studies met inclusion criteria. Many fMRI samples had fewer than 30 participants, measures were heterogeneous, most evidence was correlational, and the field was too small for meta-analysis.
 - Kotikalapudi et al. 2022 studied optimism bias in a specific competitive soccer task. Do not generalize it to all optimism, all social comparison, or all reward processing.
 - Hecht 2013 is a narrative synthesis with a broad hemispheric-lateralization thesis. Treat it as a source trail and hypothesis map, not as proof that optimism is simply "left brain" or pessimism is simply "right brain."
+- Forgeard and Seligman 2012 is a broad positive-psychology review. Use it for conceptual scaffolding and the flexible-optimism boundary, not as a substitute for the newer neuroimaging, health-outcome, or intervention anchors.
 - Schacter and Addis explicitly leave room for realism or pessimism when preparedness matters.
 - The Hanson intervention paper is interesting, but it is not strong evidence for a universal everyday optimism protocol.
 - Bortolotti's agency argument does not mean every optimistic distortion helps; some produce invulnerability fantasy, poor preparation, or disengagement after failure.

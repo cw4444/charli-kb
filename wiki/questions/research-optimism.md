@@ -3,7 +3,7 @@ title: "Research - Optimism"
 type: question
 status: draft
 created: 2026-05-12
-updated: 2026-06-09
+updated: 2026-06-11
 question: "What does public neuroscience and adjacent cognitive research suggest about optimism?"
 sources:
   - ../sources/optimism-neuroscience-source-batch.md
@@ -109,6 +109,10 @@ Kahle Monahan, Chang, Yu, and Yu's 2020 Wiley encyclopedia chapter is useful her
 
 The 2024 OxJournal overview adds the development-friendly version of this same mechanism. It distinguishes dispositional optimism, attributional optimism, and optimism bias, and it points toward learned-optimism/Penn Optimism Program style interventions. The part worth keeping is not a grand adolescent-neuroplasticity claim. It is the practical attribution shift: after a setback, a person can learn to ask whether the cause is specific, unstable, and workable rather than treating it as permanent, global, and identity-defining. That is optimism as agency maintenance, not decorative cheerfulness.
 
+Forgeard and Seligman's 2012 review is worth keeping in the same conceptual shelf rather than as a new evidence spine. It cleanly separates two older research traditions: optimistic explanatory style, rooted in learned helplessness and attributional habits, and dispositional optimism, rooted in broad future expectancy and goal pursuit. Its useful warning is that the goal is flexible, realistic optimism. Optimism often helps because it supports active coping, persistence, resource-seeking, and openness to opportunity. But when threat is immediate, odds are bad, preparation is the point, or disengagement from a losing goal is wiser, realistic pessimism can be adaptive.
+
+That gives the package a better practical rule than "be positive." The question is whether this outlook helps the person act intelligently under current conditions. If optimism keeps someone moving, learning, asking, applying, recovering, and noticing chances, useful. If it keeps them gambling, ignoring symptoms, underestimating risk, or refusing to prepare, congratulations, the motivational poster has become a liability.
+
 ### 9. "Luck" may partly be an attentional style
 
 Richard Wiseman's newspaper experiment is a nice folk-psychology bridge into the same package. Participants who self-identified as lucky or unlucky were asked to count photographs in a newspaper. The paper contained large unexpected messages giving the answer and offering a reward for noticing. Self-described lucky people were more likely to notice the opportunity; unlucky people often stayed narrowly locked onto the counting task.
@@ -177,6 +181,7 @@ It seems to involve:
 - weaker incorporation of some forms of bad news
 - agency-supporting beliefs that preserve action after setbacks
 - context-sensitive pessimism that can sometimes support preparation or disengagement
+- flexible optimism that can shift into realistic pessimism when evidence or danger requires it
 - attentional openness to unexpected opportunity
 - counterfactual noticing of harms that did not happen
 - embodied perturbability of risk estimates and self-evaluation
@@ -212,6 +217,7 @@ The bills still exist. The better version of optimism is not pretending they do 
 - Bortolotti's argument is not "accuracy does not matter"; it is "accuracy is not the only variable, because motivation and agency mediate outcomes."
 - The OxJournal overview is useful as a public synthesis/source trail, not primary proof that optimism causes adolescent neuroplasticity or prevents depression.
 - Pessimism is not automatically pathological. In some contexts, preparation or disengagement is smarter than persistence.
+- Forgeard and Seligman 2012 is useful conceptual scaffolding, but it is an older broad review. Do not let it override narrower primary studies or newer systematic reviews.
 - Wiseman's luck work is best read as attention and opportunity detection, not fate bending.
 - Counterfactual gratitude should not become "other people have it worse." The point is evidence calibration, not guilt.
 - The vestibular-stimulation finding is specific and weird: illness-risk estimates during caloric stimulation, not a universal cure for delusion or optimism bias.

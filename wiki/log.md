@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-11] source update | flexible optimism review
+- Source: Forgeard and Seligman, *Pratiques psychologiques*, [Seeing the glass half full: A review of the causes and consequences of optimism](https://doi.org/10.1016/j.prps.2012.02.002), 2012; local PDF in `raw/`.
+- Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added the review as older conceptual scaffolding, not a new mechanism spine. Preserved the useful distinctions between optimistic explanatory style and dispositional optimism, and promoted the "flexible optimism" boundary: optimism usually supports coping, persistence, resource-seeking, and opportunity scanning, but realistic pessimism can be adaptive when danger, poor odds, preparation, or goal disengagement matter.
+
 ## [2026-06-10] update | representational geometry raw notes
 - Sources: local `raw/` notes from Windows Codex session; O'Neill, Posani, Fusi, Salzman, et al., [The representational geometry of emotional states in basolateral amygdala](https://www.nature.com/articles/s41593-026-02315-y); Li, Michaud, Baek, Engels, Sun, and Tegmark, [The Geometry of Concepts: Sparse Autoencoder Feature Structure](https://arxiv.org/abs/2410.19750)
 - Pages created: [Can SAE Decoder Geometry And Neural Activity Geometry Be Unified?](questions/can-sae-decoder-geometry-and-neural-activity-geometry-be-unified.md), [Stefano Fusi](people/stefano-fusi.md)
