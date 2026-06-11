@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-11] concept | reality as relational constraint
+- Sources: Charli working synthesis, 2026-06-11; existing wiki pages on RQM, pluriverse, interface theory, and reality threshold; Buras et al., [Can we reach the Zeptouniverse with rare K and B decays?](https://arxiv.org/abs/1408.0728), 2014; Aebischer, Buras, and Kumar, [On the Importance of Rare Kaon Decays](https://arxiv.org/abs/2203.09524), 2022.
+- Pages created: [Reality As Relational Constraint](concepts/reality-as-relational-constraint.md)
+- Pages updated: [Pluriverse](concepts/pluriverse.md), [Interface Theory Of Perception](concepts/interface-theory-of-perception.md), [Rovelli, Relational Quantum Mechanics, and Reality](../themes/rovelli-relational-quantum-mechanics-and-reality.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added the cross-domain bridge that things are often known through relations, transformations, interactions, traces, and constraints rather than direct access to sealed essences. Kept the caveat sharp: this is a shared epistemic pattern, not one grand theory; "reality is fake" means the brain's displayed interface is compressed and state-dependent, not that the resistant world or public evidence vanishes.
+
 ## [2026-06-11] research | hidden-state trajectory dynamics and reading costs
 - Source: Barenholtz, [Trajectory Dynamics in Language Model Hidden States Predict Human Processing Costs Beyond Surprisal](https://arxiv.org/abs/2606.05346), arXiv, 2026-06-03.
 - Pages created: [Trajectory Dynamics In Language Model Hidden States](sources/trajectory-dynamics-hidden-states-reading-costs.md)

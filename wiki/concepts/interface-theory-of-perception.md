@@ -3,9 +3,10 @@ title: "Interface Theory Of Perception"
 type: concept
 status: draft
 created: 2026-05-26
-updated: 2026-06-01
+updated: 2026-06-11
 sources:
   - ../sources/donald-hoffman-interface-theory.md
+  - reality-as-relational-constraint.md
 ---
 
 # Interface Theory Of Perception
@@ -24,6 +25,8 @@ That does not mean there is no world. It means the world we experience may be a 
 - The experienced world can be reliable enough for action without being metaphysically transparent.
 
 For Charli's current reality lane: the kettle, table, dog, bed, and coffee can be stable interface objects without being reality's final ontology. The table still wins if you walk into it. Very democratic of it.
+
+[Reality As Relational Constraint](reality-as-relational-constraint.md) generalizes this point: the displayed world is built from compressed, action-shaped access to a resistant world. Lamp, chair, plant, bacon are not the full ontology. They are the useful handles the custard brain gets after priors, perception, expectation, body state, and task relevance have had their grubby little committee meeting.
 
 ## Relation To Reality Threshold
 
@@ -81,6 +84,7 @@ The safest version is strong enough: experienced reality is a usable interface u
 - [Reality Threshold](reality-threshold.md)
 - [Perception And Imagination Overlap](perception-and-imagination-overlap.md)
 - [Pluriverse](pluriverse.md)
+- [Reality As Relational Constraint](reality-as-relational-constraint.md)
 - [Practical Agency Inside Constraint](practical-agency-inside-constraint.md)
 - [QBism, Global Constraints, and Observer-Dependent Reality](../../themes/qbism-adlam-observer-dependent-reality.md)
 - [Rovelli, Relational Quantum Mechanics, and Reality](../../themes/rovelli-relational-quantum-mechanics-and-reality.md)

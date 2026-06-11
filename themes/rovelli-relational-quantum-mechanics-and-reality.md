@@ -3,10 +3,11 @@ title: "Rovelli, Relational Quantum Mechanics, and Reality"
 type: theme
 status: draft
 created: 2026-05-14
-updated: 2026-05-14
+updated: 2026-06-11
 sources:
   - ../wiki/sources/rovelli-relational-quantum-mechanics.md
   - ../sources/source-index.md
+  - ../wiki/concepts/reality-as-relational-constraint.md
 ---
 
 # Rovelli, Relational Quantum Mechanics, and Reality
@@ -144,12 +145,15 @@ If Feynman is the warning that calculation is not the same as metaphysics, Rovel
 
 The adjacent agency move is captured in [Practical Agency Inside Constraint](../wiki/concepts/practical-agency-inside-constraint.md): if outcomes depend on relations, then better understanding of relations can create leverage without requiring metaphysical escape from the system.
 
+The broader bridge now lives at [Reality As Relational Constraint](../wiki/concepts/reality-as-relational-constraint.md). Use that page when the comparison expands beyond RQM into Yoneda-shaped reasoning, predictive perception, representational geometry, or Buras-style indirect flavour-physics probes.
+
 ## Related Pages
 
 - [Interpretations](interpretations.md)
 - [QBism, Global Constraints, and Observer-Dependent Reality](qbism-adlam-observer-dependent-reality.md)
 - [Many-Worlds, Wheeler, and Observer-Dependent Reality](many-worlds-and-observer-dependent-reality.md)
 - [Reality Threshold](../wiki/concepts/reality-threshold.md)
+- [Reality As Relational Constraint](../wiki/concepts/reality-as-relational-constraint.md)
 - [Perception And Imagination Overlap](../wiki/concepts/perception-and-imagination-overlap.md)
 - [Practical Agency Inside Constraint](../wiki/concepts/practical-agency-inside-constraint.md)
 - [Rovelli And Relational Quantum Mechanics](../wiki/sources/rovelli-relational-quantum-mechanics.md)

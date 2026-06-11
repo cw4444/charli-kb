@@ -3,9 +3,10 @@ title: "Pluriverse"
 type: concept
 status: draft
 created: 2026-06-01
-updated: 2026-06-01
+updated: 2026-06-11
 sources:
   - ../sources/pluriverse-qbism-predictive-reality.md
+  - reality-as-relational-constraint.md
 ---
 
 # Pluriverse
@@ -98,6 +99,8 @@ The connective tissue is:
 
 A model can be useful, public, predictive, and action-guiding before anyone has a final account of what reality is "made of." That was true for ancient astronomical mechanisms. It is true for brain perception. It may also be true for quantum theory.
 
+[Reality As Relational Constraint](reality-as-relational-constraint.md) is the broader bridge for this pattern. The pluriverse page handles situated perspectives and shared-world stitching; relational constraint handles the cross-domain intuition that things are known through relations, traces, interactions, and stable constraints rather than direct access to a sealed inner essence.
+
 ## Do Not Overclaim
 
 - Do not treat "pluriverse" as settled physics.
@@ -117,6 +120,7 @@ The sober version is plenty weird already. We needn't add glitter and call it sc
 - [Many-Worlds, Wheeler, and Observer-Dependent Reality](../../themes/many-worlds-and-observer-dependent-reality.md)
 - [Rovelli, Relational Quantum Mechanics, and Reality](../../themes/rovelli-relational-quantum-mechanics-and-reality.md)
 - [Interface Theory Of Perception](interface-theory-of-perception.md)
+- [Reality As Relational Constraint](reality-as-relational-constraint.md)
 - [Reality Threshold](reality-threshold.md)
 - [Perception And Imagination Overlap](perception-and-imagination-overlap.md)
 - [Practical Agency Inside Constraint](practical-agency-inside-constraint.md)
