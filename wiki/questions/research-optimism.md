@@ -9,6 +9,7 @@ sources:
   - ../sources/optimism-neuroscience-source-batch.md
   - ../sources/libet-schurger-readiness-potential-agency.md
   - ../concepts/optimism.md
+  - ../concepts/salience-weighted-judgment.md
   - ../concepts/manifestation-as-behavior-modification.md
 ---
 
@@ -119,7 +120,15 @@ Richard Wiseman's newspaper experiment is a nice folk-psychology bridge into the
 
 Use this carefully. It does not prove that lucky people manifest events. It suggests that expectation, anxiety, openness, and attentional breadth change which affordances people notice.
 
-### 10. Pessimist gratitude counts avoided bad outcomes
+### 10. Attention training is plausible, but the simple trait link did not show up
+
+Maruta et al. 2023 is the paper that stops us turning "attention creates optimism" into sludge with a DOI stapled to it. It tested 84 healthy Japanese adults with two attentional-bias tasks: a dot-probe threat-avoidance task and an emotional visual-search task where participants searched for happy or negative faces.
+
+The result is a useful disappointment. Neither attentional-bias measure significantly correlated with LOT-R total optimism, optimism subscale, or pessimism subscale scores. Regression analysis also found no association after adjusting for demographics, affect, rumination, and personality. Positive affect, lower rumination, and openness showed stronger links to optimism.
+
+That does not make ABM useless. It means baseline reaction-time bias in these tasks is not a clean proxy for trait optimism. Attention-bias modification might still affect comparative optimism, self-esteem, mood, interpretation, or trained attention over time. But the current safe claim is: attention is a plausible intervention pathway, not a proven single switch marked "make optimistic."
+
+### 11. Pessimist gratitude counts avoided bad outcomes
 
 Charli's Schurger/Libet joke points to a genuinely useful practice: look at all the bad things that could have happened today and did not.
 
@@ -129,7 +138,7 @@ The useful mechanism is attentional recalibration. It does not pretend the world
 
 This also fits Schacter and Addis's caution that optimism is not always adaptive. Sometimes the right move is not to erase negative futures, but to simulate them accurately enough to prepare, then update when they do not occur.
 
-### 11. Body perturbation can shift optimism bias
+### 12. Body perturbation can shift optimism bias
 
 McKay et al. 2013 is the glorious cold-water-in-the-ear paper. Thirty-one healthy right-handed adults estimated their own relative risk of future illnesses during baseline, left-ear cold-water caloric vestibular stimulation, and right-ear stimulation. Left-ear stimulation raised illness-risk estimates relative to baseline; right-ear stimulation did not show the same effect. The authors interpret this as selective attenuation of unrealistic optimism, linking optimism bias to right inferior frontal mechanisms also discussed in anosognosia.
 
@@ -137,7 +146,7 @@ Use this as embodied cognition evidence, not as a life hack. The point is that o
 
 Hecht 2013 is the older broad-map paper adjacent to this. It reviews optimism, pessimism, depression, anosognosia, self-esteem, embodied cognition, posture/gaze/body feedback, and hemispheric lateralization. The useful version is that optimism and pessimism may relate to approach-withdrawal, self-evaluation, and body-state systems. The dangerous version is cartoon hemisphere talk. Keep it as a source trail and hypothesis map, not as the main evidence spine.
 
-### 12. Optimism is linked with lower insomnia risk, but the causal arrow is not settled
+### 13. Optimism is linked with lower insomnia risk, but the causal arrow is not settled
 
 Weitzer et al. 2021 studied 1,004 adults in the Austrian Sleep Survey. Dispositional optimism was measured with the Life Orientation Test-Revised, and chronic insomnia was assessed using several definitions based on ICSD-3 criteria.
 
@@ -147,7 +156,7 @@ The caveat is doing real work here. This was cross-sectional, so it cannot show 
 
 So this belongs in the "cheat code" pile only if "cheat code" means a plausible modifiable psychological asset sitting inside a sleep-affect-health loop. It does not mean bedtime manifestation. The pillow remains unimpressed by slogans.
 
-### 13. Placebo sleep shows that sleep beliefs can affect some cognitive performance
+### 14. Placebo sleep shows that sleep beliefs can affect some cognitive performance
 
 Draganich and Erdal 2014 is not an optimism paper, but it is very relevant to the expectancy/sleep corner. Across two studies with 164 participants, people were randomly given sham feedback that they had either above-average or below-average REM sleep. The assigned sleep-quality condition predicted scores on the Paced Auditory Serial Addition Test and Controlled Oral Word Association Task, while participants' own reported sleep quality did not.
 
@@ -155,7 +164,7 @@ The study also has useful brakes. The assigned sleep condition did not predict D
 
 This belongs beside optimism because it shows the same family of mechanism: expectations about the future or the body can change effort, attention, interpretation, and performance. It does not mean actual sleep does not matter. It means the story the system is given about its own state can become part of the state. Annoying. Fascinating. Very human.
 
-### 14. Optimism is associated with cardiovascular and longevity outcomes
+### 15. Optimism is associated with cardiovascular and longevity outcomes
 
 The MIT Press Reader article is mostly a readable overview, but it pointed to a useful health-outcomes cluster that was not yet explicit in the wiki.
 
@@ -183,6 +192,7 @@ It seems to involve:
 - context-sensitive pessimism that can sometimes support preparation or disengagement
 - flexible optimism that can shift into realistic pessimism when evidence or danger requires it
 - attentional openness to unexpected opportunity
+- attention-bias modification as a plausible but not yet cleanly mapped optimism intervention route
 - counterfactual noticing of harms that did not happen
 - embodied perturbability of risk estimates and self-evaluation
 - lateralized approach-withdrawal and self-evaluation hypotheses
@@ -219,6 +229,7 @@ The bills still exist. The better version of optimism is not pretending they do 
 - Pessimism is not automatically pathological. In some contexts, preparation or disengagement is smarter than persistence.
 - Forgeard and Seligman 2012 is useful conceptual scaffolding, but it is an older broad review. Do not let it override narrower primary studies or newer systematic reviews.
 - Wiseman's luck work is best read as attention and opportunity detection, not fate bending.
+- Maruta et al. 2023 did not find a cross-sectional association between optimism and dot-probe or positive-search attentional-bias measures. Attention training should stay a hypothesis/intervention route, not a settled explanation of trait optimism.
 - Counterfactual gratitude should not become "other people have it worse." The point is evidence calibration, not guilt.
 - The vestibular-stimulation finding is specific and weird: illness-risk estimates during caloric stimulation, not a universal cure for delusion or optimism bias.
 - The insomnia finding is observational. It supports a link between optimism and sleep health, not an optimism cure for insomnia.
@@ -239,6 +250,7 @@ The bills still exist. The better version of optimism is not pretending they do 
 - Are neural optimism signatures stable traits, trainable habits, or both?
 - Are OFC/optimism/anxiety associations causal, bidirectional, developmental, or markers of broader resilience?
 - Can people train opportunity-detection without becoming credulous or overconfident?
+- Does attention bias modification increase optimism through attention change itself, or through mood, self-esteem, interpretation, comparison, or repeated practice?
 - Can counterfactual gratitude help pessimists recalibrate threat prediction without suppressing useful caution?
 - Which optimism biases are primarily motivational, which are attentional, and which are strongly bodily/vestibular or interoceptive?
 - In sleep research, does optimism predict better future sleep after depression, health, stress, and baseline sleep are handled properly?

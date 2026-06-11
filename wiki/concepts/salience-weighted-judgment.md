@@ -6,6 +6,7 @@ created: 2026-06-11
 updated: 2026-06-11
 sources:
   - ../sources/kahneman-tversky-judgment-under-uncertainty.md
+  - ../sources/optimism-neuroscience-source-batch.md
 ---
 
 # Salience Weighted Judgment
@@ -44,6 +45,8 @@ This concept is a guardrail for several wiki lanes:
 - In AI work, a model can make a topic feel more coherent, urgent, and everywhere by retrieving related material at speed.
 
 Fable 5 saying "frequency illusion" after a Kahneman prompt is a good example of the practical trap. The phrase may send you into Google, and now every search result strengthens the feeling that this is the key to the entire cupboard. It might be useful. It might also be attention doing jazz hands. Check the base rate before declaring revelation.
+
+The optimism literature adds a useful caution. Attention bias modification tries to train attention toward positive material or away from threat, but Maruta et al. 2023 found no simple cross-sectional link between trait optimism and dot-probe or positive-search attentional-bias measures. So the practical lesson is not "attention training proves manifestation." It is narrower: attention can be trained and may affect mood or comparison in some contexts, but felt salience still needs evidence checks.
 
 ## Practical Countermoves
 

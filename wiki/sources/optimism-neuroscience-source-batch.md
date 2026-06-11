@@ -36,6 +36,16 @@ authors:
   - Rick Hanson
   - Marie J. C. Forgeard
   - Martin E. P. Seligman
+  - Michio Maruta
+  - Suguru Shimokihara
+  - Yoshihiko Akasaki
+  - Yuma Hidaka
+  - Yuriko Ikeda
+  - Gwanghee Han
+  - Goro Tanaka
+  - Toshio Higashi
+  - Takefumi Moriuchi
+  - Takayuki Tabira
 primary_sources:
   - "Taylor and Brown, Psychological Bulletin, 1988, Illusion and well-being: A social psychological perspective on mental health, https://doi.org/10.1037/0033-2909.103.2.193"
   - "Sharot et al., Nature, 2007, Neural mechanisms mediating optimism bias, https://doi.org/10.1038/nature06280"
@@ -58,6 +68,7 @@ primary_sources:
   - "Lee et al., PNAS, 2019, Optimism is associated with exceptional longevity in 2 epidemiologic cohorts of men and women, https://doi.org/10.1073/pnas.1900712116"
   - "O'Donovan et al., Psychoneuroendocrinology, 2014, Pessimistic orientation in relation to telomere length in older men: the VA Normative Aging Study, https://doi.org/10.1016/j.psyneuen.2013.12.019"
   - "Kotikalapudi, Dricu, Moser, and Aue, Brain Sciences, 2022, Brain Structure and Optimism Bias: A Voxel-Based Morphometry Approach, https://doi.org/10.3390/brainsci12030315"
+  - "Maruta et al., Healthcare, 2023, Associations between Optimism and Attentional Biases as Measured by Threat-Avoidance and Positive-Search Tasks, https://doi.org/10.3390/healthcare11040617"
 counterpoint_sources:
   - "Colvin and Block, Psychological Bulletin, 1994, Do positive illusions foster mental health? An examination of the Taylor and Brown formulation, https://doi.org/10.1037/0033-2909.116.1.3"
   - "Taylor and Brown, Psychological Bulletin, 1994, Positive illusions and well-being revisited: separating fact from fiction, https://doi.org/10.1037/0033-2909.116.1.21"
@@ -82,6 +93,7 @@ sources:
   - "Public web research, accessed 2026-06-09"
   - "../../raw/optimistic-brain.pdf"
   - "../../raw/Optimism, Agency, and Success.pdf"
+  - "../../raw/Associations_between_Optimism_and_Attent.pdf"
   - "../../raw/Seeing_the_glass_half_full_A_review_of_t.pdf"
   - "../../raw/Unveiling the neural underpinnings of optimism a systematic review.pdf"
 ---
@@ -92,7 +104,7 @@ sources:
 
 - Topic: optimism as a cognitive and neural style rather than a manifestation claim
 - Scope: future-event simulation, optimism bias, belief updating, mental imagery interventions, repetitive negative thinking, and sleep/insomnia associations
-- Access note: this page keeps original synthesis and metadata only. It does not reproduce paywalled text. `raw/optimistic-brain.pdf`, `raw/Seeing_the_glass_half_full_A_review_of_t.pdf`, and `raw/Unveiling the neural underpinnings of optimism a systematic review.pdf` are treated as local access-controlled source material. `raw/Optimism, Agency, and Success.pdf` is an open-access PDF of Bortolotti's article and remains ignored by git with the rest of `raw/`. The Wiley encyclopedia chapter by Kahle Monahan et al. was checked through public abstract/metadata and secondary bibliographic records only, not full-text access. The OxJournal 2024 article is public and useful as a student-style review/source trail, not as primary experimental evidence.
+- Access note: this page keeps original synthesis and metadata only. It does not reproduce paywalled text. `raw/optimistic-brain.pdf`, `raw/Seeing_the_glass_half_full_A_review_of_t.pdf`, and `raw/Unveiling the neural underpinnings of optimism a systematic review.pdf` are treated as local access-controlled source material. `raw/Optimism, Agency, and Success.pdf` and `raw/Associations_between_Optimism_and_Attent.pdf` are open-access PDFs and remain ignored by git with the rest of `raw/`. The Wiley encyclopedia chapter by Kahle Monahan et al. was checked through public abstract/metadata and secondary bibliographic records only, not full-text access. The OxJournal 2024 article is public and useful as a student-style review/source trail, not as primary experimental evidence.
 
 ## Core Primary-Source Claims
 
@@ -131,6 +143,10 @@ Ji, Holmes, and Blackwell 2017 links optimism to imagery vividness in a clinical
 Meevissen, Peters, and Alberts 2011 provides a compact intervention anchor for the "best possible self" method. Fifty-four mostly young, well-educated Dutch-speaking participants were randomly assigned to imagine either a best possible self (BPS) or daily activities (DA). After an initial writing-and-imagery session, participants were instructed to practice 5 minutes of imagery daily for two weeks. BPS imagery produced larger increases in optimism than DA imagery after one session and across the two-week period, and the optimism effect remained after controlling for changes in positive mood. The study also found some generalization toward optimistic explanatory style, but with limits: the sample was small and mostly female, the outcomes were self-report, demand effects could not be ruled out, and it did not show downstream behavior or health benefits.
 
 Hanson et al. 2021 is relevant because it tries to move from general positivity talk to an intervention logic. The paper argues that people can become more active agents in learning from beneficial experiences, and reports that participants in a "Taking in the Good" course showed increases in composite measures of cognitive resources, positive emotions, and total happiness, plus decreases in negative emotions, with effects persisting two months later. This is not the same as proving a general optimism cure, but it is a useful bridge from negativity-bias theory to practice.
+
+Maruta et al. 2023 is the useful brake on a too-simple attentional-bias story. The paper tested 84 healthy Japanese adults using a dot-probe threat-avoidance task, an emotional visual-search positive-search task, the Life Orientation Test-Revised, affect, rumination, and Big Five personality measures. The expected link did not appear: neither dot-probe attentional bias nor positive-search attentional bias was significantly associated with total optimism, optimism subscale, or pessimism subscale scores. In regression models, positive affect, lower rumination, and openness mattered more for optimism than the attentional-bias indices.
+
+This does not kill attention-based optimism work. It does stop the lazy claim that optimistic people are simply the ones who already show measurable baseline positive-search or threat-avoidance bias on these reaction-time tasks. The authors note that ABM may still affect comparative optimism or emotional outcomes without baseline attentional bias being the key measured mechanism; future work needs pre/post training designs, different optimism measures, eye tracking or other attention measures, and broader age ranges. Use it as a methodological warning: attention training is plausible, but this cross-sectional study did not find the simple trait-optimism link.
 
 Schlosser et al. 2020 and Ye et al. 2025 are not optimism papers, but they are relevant from the opposite direction. Both support the idea that repetitive negative thinking is associated with worse subjective or objective cognitive outcomes in older adults. The 2025 paper is cross-sectional and explicitly calls for longer-term causal work.
 
@@ -202,6 +218,7 @@ Taken together, the sources suggest that optimism is not best understood as magi
 - less immersion in repetitive negative loops
 - agency-supporting beliefs that preserve action after setback
 - attentional openness to unexpected opportunity
+- no simple cross-sectional association between trait optimism and dot-probe / positive-search attentional-bias indices in Maruta et al. 2023
 - bodily perturbation of risk belief and self-evaluation
 - embodied/lateralized approach-withdrawal and self-evaluation hypotheses
 - lower reported insomnia risk in at least one population survey, entangled with happiness, depression, and health
@@ -238,6 +255,10 @@ Dolcos et al. 2016 links higher orbitofrontal cortex gray matter volume with hig
 ### Best possible self imagery
 
 A short intervention where a person writes and imagines a realistic future in which important personal, relational, and professional goals have worked out well. Meevissen et al. tested this as 5 minutes of daily imagery over two weeks and found larger self-reported optimism increases than a daily-activities imagery control. This belongs with trainable future simulation, not with manifestation: the mechanism is rehearsing desirable, attainable futures so the cognitive system can represent them more vividly and usefully.
+
+### Attention bias modification
+
+Computer-based training intended to shift attention away from negative material or toward positive material. The interesting possibility is that repeated positive search may make positive social information easier to detect and use. Maruta et al. 2023 keeps the caveat sharp: in their healthy young-adult sample, baseline reaction-time attentional-bias measures did not correlate with LOT-R optimism or pessimism. ABM may still work through training effects, comparative optimism, self-esteem, interpretation, mood, or other mechanisms, but it should not be treated as a proven trait-optimism lever yet.
 
 ### Unrealistic optimism
 
@@ -290,6 +311,7 @@ This is exactly where the proof boundary matters. These studies do not show that
 - Forgeard and Seligman 2012 is a broad positive-psychology review. Use it for conceptual scaffolding and the flexible-optimism boundary, not as a substitute for the newer neuroimaging, health-outcome, or intervention anchors.
 - Schacter and Addis explicitly leave room for realism or pessimism when preparedness matters.
 - The Hanson intervention paper is interesting, but it is not strong evidence for a universal everyday optimism protocol.
+- Maruta et al. 2023 found no cross-sectional association between LOT-R optimism/pessimism and dot-probe or positive-search attentional-bias indices. Do not use ABM language to claim that optimism is simply positive-search attention.
 - Bortolotti's agency argument does not mean every optimistic distortion helps; some produce invulnerability fantasy, poor preparation, or disengagement after failure.
 - Bortolotti does not say epistemic irrationality is harmless. Her point is that the link between belief accuracy and success is mediated by agency, motivation, and action.
 - Wiseman's newspaper experiment should be treated as attention/opportunity evidence, not a proof that lucky identity controls external events.
@@ -311,6 +333,7 @@ This is exactly where the proof boundary matters. These studies do not show that
 - Are OFC/optimism/anxiety links causal, developmental, bidirectional, or downstream of other resilience factors?
 - Is repetitive negative thinking a cause of cognitive decline, an early symptom, or both?
 - Which interventions best shift future thinking: imagery training, attentional control, cognitive reappraisal, behavioral activation, or social context?
+- If attention bias modification can increase some forms of optimism, does it act through actual attention change, interpretation, comparative optimism, self-esteem, mood, or another pathway?
 - Does increasing optimism improve sleep prospectively, or do better sleep, better health, and lower depression make optimism easier to sustain?
 
 ## Useful For

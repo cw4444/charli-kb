@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-11] research | optimism and attentional-bias measures
+- Source: Maruta et al., *Healthcare*, [Associations between Optimism and Attentional Biases as Measured by Threat-Avoidance and Positive-Search Tasks](https://doi.org/10.3390/healthcare11040617), 2023; local open-access PDF in `raw/`.
+- Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Salience Weighted Judgment](concepts/salience-weighted-judgment.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added the paper as an attention-training caveat. It introduces ABM as a plausible route for optimism, but its own cross-sectional data found no association between LOT-R optimism/pessimism and dot-probe or positive-search attentional-bias indices in 84 healthy adults. Preserved the useful finding that positive affect, lower rumination, and openness were more relevant in the model, and kept ABM as a plausible intervention route rather than a proven trait-optimism mechanism.
+
 ## [2026-06-11] research | Kahneman and salience-weighted judgment
 - Sources: Tversky and Kahneman, [Availability: A heuristic for judging frequency and probability](https://doi.org/10.1016/0010-0285(73)90033-9), 1973; Tversky and Kahneman, [Judgment under Uncertainty: Heuristics and Biases](https://doi.org/10.1126/science.185.4157.1124), 1974; Kahneman and Tversky, [Prospect Theory](https://doi.org/10.2307/1914185), 1979; Schkade and Kahneman, [Does Living in California Make People Happy?](https://doi.org/10.1111/1467-9280.00466), 1998; Kahneman et al., [Would You Be Happier If You Were Richer?](https://doi.org/10.1126/science.1129688), 2006; Nobel Prize, [Daniel Kahneman Facts](https://www.nobelprize.org/prizes/economic-sciences/2002/kahneman/facts/)
 - Pages created: [Kahneman And Tversky - Judgment Under Uncertainty](sources/kahneman-tversky-judgment-under-uncertainty.md), [Salience Weighted Judgment](concepts/salience-weighted-judgment.md), [Daniel Kahneman](people/daniel-kahneman.md)
