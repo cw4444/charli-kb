@@ -13,6 +13,7 @@ sources:
   - ../../wiki/sources/representational-geometry-brains-and-llms.md
   - ../../wiki/sources/wilson-disengaged-mind-electric-shock.md
   - ../../wiki/sources/kahneman-tversky-judgment-under-uncertainty.md
+  - ../../wiki/sources/locus-coeruleus-source-batch.md
 ---
 
 # Neuroscience
@@ -35,6 +36,7 @@ The repo already contains a substantial neuroscience thread, but it has been sca
 - [Perception And Imagination Overlap](../../wiki/concepts/perception-and-imagination-overlap.md): shared machinery for seeing and imagining.
 - [Optimism](../../wiki/concepts/optimism.md): future simulation, belief updating, attention, and agency.
 - [Salience Weighted Judgment](../../wiki/concepts/salience-weighted-judgment.md): how vividness, availability, framing, and focus can inflate felt frequency, probability, or importance.
+- [Locus Coeruleus](../../wiki/concepts/locus-coeruleus.md): the brainstem noradrenergic "blue dot" as a state/gain regulator for arousal, salience, task engagement, and stress.
 - [Practical Agency Inside Constraint](../../wiki/concepts/practical-agency-inside-constraint.md): meaningful control inside neural and practical constraint.
 - [Interface Theory Of Perception](../../wiki/concepts/interface-theory-of-perception.md): perception as action-oriented interface rather than raw reality.
 
@@ -74,6 +76,15 @@ This thread treats optimism as a style of future representation, belief updating
 - [Salience Weighted Judgment](../../wiki/concepts/salience-weighted-judgment.md)
 
 This thread tracks the judgment-under-uncertainty bridge: availability, focusing illusion, prospect theory, loss framing, and why the thing currently in focus can feel more frequent, probable, or important than it is.
+
+### How Does Arousal Change The Whole System?
+
+- [Locus Coeruleus Source Batch](../../wiki/sources/locus-coeruleus-source-batch.md)
+- [Locus Coeruleus](../../wiki/concepts/locus-coeruleus.md)
+
+This thread tracks the "blue dot" without turning it into a magic button. The locus coeruleus is a small noradrenergic brainstem nucleus with broad projections, making it a plausible state regulator for arousal, salience, task engagement, network reset, memory prioritization, and stress reactivity.
+
+The useful bridge: a small cue can feel enormous when the system is already primed for threat, uncertainty, or surprise. The caveat: the LC is not the whole brain's master switch, and pupil size is not a direct mind-reading meter.
 
 ### How Does Neural Activity Relate To Agency?
 

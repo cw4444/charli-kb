@@ -9,6 +9,7 @@ sources:
   - ../sources/wadia-shared-code-perception-imagination.md
   - ../sources/asch-conformity-social-pressure.md
   - ../sources/kahneman-tversky-judgment-under-uncertainty.md
+  - ../sources/locus-coeruleus-source-batch.md
 ---
 
 # Reality Threshold
@@ -36,6 +37,12 @@ Reality threshold does not mean the external world is fake or that all experienc
 
 The two should not be collapsed. A thought can feel important without feeling perceptually real. But both warn against treating felt force as direct evidence.
 
+## Relation To Arousal And The Locus Coeruleus
+
+[Locus Coeruleus](locus-coeruleus.md) is the state-regulation cousin of this idea. Reality threshold asks why a perceptual or imagined signal crosses into felt realness. The LC-noradrenergic system helps set arousal and gain: how loudly a cue lands, how quickly the system shifts, and whether surprise or threat recruits broad attention.
+
+That matters because an aroused system may treat ambiguous cues as more urgent or consequential. It does not mean LC activity creates reality or makes every vivid signal true. It means felt force can be partly a body-brain state, not just evidence.
+
 ## Relation To Social Reality Pressure
 
 [Social Reality Pressure](social-reality-pressure.md) adds the group layer. Asch's line-judgment experiments show that public consensus can pressure a person to give a wrong answer even when the perceptual evidence is simple.
@@ -59,6 +66,7 @@ The *Black Mirror* episode "Bete Noire" is a cultural illustration of the extrem
 - [Perception And Imagination Overlap](perception-and-imagination-overlap.md)
 - [Social Reality Pressure](social-reality-pressure.md)
 - [Salience Weighted Judgment](salience-weighted-judgment.md)
+- [Locus Coeruleus](locus-coeruleus.md)
 - [Wadia Shared Code For Perception And Imagination](../sources/wadia-shared-code-perception-imagination.md)
 - [Interface Theory Of Perception](interface-theory-of-perception.md)
 - [Pluriverse](pluriverse.md)

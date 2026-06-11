@@ -7,6 +7,7 @@ updated: 2026-06-11
 sources:
   - ../sources/kahneman-tversky-judgment-under-uncertainty.md
   - ../sources/optimism-neuroscience-source-batch.md
+  - ../sources/locus-coeruleus-source-batch.md
 ---
 
 # Salience Weighted Judgment
@@ -48,6 +49,8 @@ Fable 5 saying "frequency illusion" after a Kahneman prompt is a good example of
 
 The optimism literature adds a useful caution. Attention bias modification tries to train attention toward positive material or away from threat, but Maruta et al. 2023 found no simple cross-sectional link between trait optimism and dot-probe or positive-search attentional-bias measures. So the practical lesson is not "attention training proves manifestation." It is narrower: attention can be trained and may affect mood or comparison in some contexts, but felt salience still needs evidence checks.
 
+The [Locus Coeruleus](locus-coeruleus.md) adds a biological gain-control bridge. LC-noradrenaline can help shift the system into alerting, task engagement, network reset, or stress states. That does not make salience the same thing as LC activity. It means one small brainstem nucleus can help determine how loudly a cue lands once the system has tagged it as important.
+
 ## Practical Countermoves
 
 - Ask what changed: the world, your attention, the feed, the search term, or the evidence?
@@ -69,6 +72,7 @@ The optimism literature adds a useful caution. Attention bias modification tries
 - [Kahneman And Tversky - Judgment Under Uncertainty](../sources/kahneman-tversky-judgment-under-uncertainty.md)
 - [Daniel Kahneman](../people/daniel-kahneman.md)
 - [Optimism](optimism.md)
+- [Locus Coeruleus](locus-coeruleus.md)
 - [Manifestation As Behavior Modification](manifestation-as-behavior-modification.md)
 - [Reality Threshold](reality-threshold.md)
 - [Practical Agency Inside Constraint](practical-agency-inside-constraint.md)
