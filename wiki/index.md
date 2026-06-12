@@ -71,12 +71,13 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Langer Counterclockwise Study And Aging Mindset](sources/langer-counterclockwise-aging-mindset.md): caveat-heavy source note on Ellen Langer's 1979 aging/mindset study, staged 1959 environment, and embodied prediction.
 - [Asch Conformity And Social Pressure](sources/asch-conformity-social-pressure.md): source note on Asch's line-judgment conformity experiments as evidence that unanimous public agreement can pressure judgment even when perceptual evidence is simple.
 - [Positive Alignment: Artificial Intelligence for Human Flourishing](sources/positive-alignment-human-flourishing.md): source note on a 2026 cross-lab agenda to move AI alignment from pure harm-avoidance toward flourishing-supporting positive attractors.
+- [Online Safety Act Privacy Risk](sources/online-safety-act-privacy-risk.md): arXiv source note on UK Online Safety Act age-assurance milestones, VPN/privacy discourse, circumvention displacement, and why access-control safety regulation can create secondary privacy risk.
 - [Feynman - Calculation And Reality Stories](sources/feynman-calculation-and-reality-stories.md): source note on using Feynman as a boundary marker between quantum calculation, interpretation, and reality-story creep.
 - [Rovelli And Relational Quantum Mechanics](sources/rovelli-relational-quantum-mechanics.md): source note on RQM as a relation-first interpretation of quantum facts and states.
 
 ## Timelines
 
-- [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md): lightweight historical timeline for the fast-moving 2026 AI/agent acceleration, including agent security infrastructure, Anthropic's Fable/Mythos access shift, EU technological sovereignty, major lab strategy, UK device-level age-assurance pressure, cooperation/governance framing, workplace rearchitecture, governance, and model-character signals.
+- [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md): lightweight historical timeline for the fast-moving 2026 AI/agent acceleration, including agent security infrastructure, Anthropic's Fable/Mythos access shift, EU technological sovereignty, major lab strategy, UK device-level age-assurance pressure, Online Safety Act privacy displacement, cooperation/governance framing, workplace rearchitecture, governance, and model-character signals.
 
 ## Concepts
 

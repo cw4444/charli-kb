@@ -82,6 +82,8 @@ sources:
   - https://www.theguardian.com/technology/2026/jun/08/starmer-tech-firms-ultimatum-block-explicit-images-children-phones
   - https://www.techradar.com/vpn/vpn-privacy-security/surveillance-is-not-safety-uks-device-scanning-order-faces-privacy-backlash
   - https://www.theverge.com/tech/900284/apple-ios-26-4-uk-age-verification
+  - ../sources/online-safety-act-privacy-risk.md
+  - https://arxiv.org/abs/2606.05273
 ---
 
 # AI And Agents 2026 Timeline
@@ -810,6 +812,8 @@ Keir Starmer used London Tech Week to give Apple, Google, and other technology c
 
 The important implementation detail is the default. The government wants Apple and Google to block nudity across the whole device by default, with the controls deactivated only through age assurance. Adults would still be able to take, view, and share nude content after verifying their age. Apple had already introduced UK age checks in iOS 26.4, with unverified users or under-18s moved toward child-safety settings such as web-content restrictions and nudity blurring, but current Apple and Google tools do not block nudity across the whole operating system, camera, third-party messaging, search, and broader apps.
 
+This sits beside a fresh arXiv preprint on the Online Safety Act's earlier age-assurance rollout. Mehta et al. analyse Reddit discourse, UK Google Trends, and VPN privacy policies and argue that OSA milestones produced measurable increases in VPN-related discussion/search interest, mostly framed around privacy, surveillance, censorship, and distrust of age-verification intermediaries rather than simple access-seeking. The useful policy warning is displacement: access-control safety law can push users toward circumvention intermediaries with their own privacy risks.
+
 Why it matters: this shifts online child-safety policy from platform moderation into device and operating-system governance. If implemented broadly, age assurance, content classification, camera behavior, third-party-app behavior, encrypted-message surfaces, and adult opt-out flows become part of the phone's safety architecture. That is a major state-capacity signal, and a major consumer-device trust signal.
 
 Careful read: this is not, as verified so far, an explicit proposal for a government-access backdoor that lets officials read every photo or message. It is a proposal for device-level nudity detection and blocking tied to age assurance. Privacy critics are still right to worry: an always-on client-side classifier plus population-scale age checks can become a scanning and identity infrastructure even without a classic "send everything to the state" backdoor. Use the right panic, not the lazy one.
@@ -819,6 +823,8 @@ Sources:
 - [The Guardian: Starmer gives tech firms ultimatum to block explicit images on children's phones](https://www.theguardian.com/technology/2026/jun/08/starmer-tech-firms-ultimatum-block-explicit-images-children-phones)
 - [TechRadar: UK's device scanning order faces privacy backlash](https://www.techradar.com/vpn/vpn-privacy-security/surveillance-is-not-safety-uks-device-scanning-order-faces-privacy-backlash)
 - [The Verge: Apple's iOS 26.4 update adds age verification in the UK](https://www.theverge.com/tech/900284/apple-ios-26-4-uk-age-verification)
+- [Online Safety Act Privacy Risk](../sources/online-safety-act-privacy-risk.md)
+- [arXiv: Online Safety Regulation Increases Privacy Risk](https://arxiv.org/abs/2606.05273)
 
 ### 2026-06-08 - gpt-pilot compromise attempt targets AI coding environments
 

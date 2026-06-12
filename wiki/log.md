@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-12] source update | Online Safety Act privacy-risk paper
+- Source: Mehta et al., [Online Safety Regulation Increases Privacy Risk: Evidence from the UK Online Safety Act](https://arxiv.org/abs/2606.05273), arXiv, 2026-06-03.
+- Pages created: [Online Safety Act Privacy Risk](sources/online-safety-act-privacy-risk.md)
+- Pages updated: [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added the preprint as an empirical warning for the UK age-assurance lane. Durable point: Online Safety Act milestones were associated with increases in VPN-related discourse/search interest, and likely UK users framed the response around privacy, surveillance, censorship, and distrust of age-verification intermediaries. Kept caveats: arXiv preprint, Reddit/Google Trends attention rather than confirmed VPN use, imperfect UK-resident proxy, privacy-policy risk classification rather than forensic proof, and not a direct study of the June 2026 whole-device proposal.
+
 ## [2026-06-12] timeline | UK device-level age assurance and nudity blocking
 - Sources: The Guardian, [Starmer gives tech firms ultimatum to block explicit images on children's phones](https://www.theguardian.com/technology/2026/jun/08/starmer-tech-firms-ultimatum-block-explicit-images-children-phones), 2026-06-08; TechRadar, [UK's device scanning order faces privacy backlash](https://www.techradar.com/vpn/vpn-privacy-security/surveillance-is-not-safety-uks-device-scanning-order-faces-privacy-backlash), 2026-06-09; The Verge, [Apple's iOS 26.4 update adds age verification in the UK](https://www.theverge.com/tech/900284/apple-ios-26-4-uk-age-verification), 2026-03-25.
 - Pages updated: [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
