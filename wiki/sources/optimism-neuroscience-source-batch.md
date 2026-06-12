@@ -50,6 +50,9 @@ authors:
   - Christoph W. Korn
   - Rumana Chowdhury
   - Raymond J. Dolan
+  - Laura Kress
+  - Mirko Bristle
+  - Tatjana Aue
 primary_sources:
   - "Taylor and Brown, Psychological Bulletin, 1988, Illusion and well-being: A social psychological perspective on mental health, https://doi.org/10.1037/0033-2909.103.2.193"
   - "Sharot et al., Nature, 2007, Neural mechanisms mediating optimism bias, https://doi.org/10.1038/nature06280"
@@ -73,6 +76,7 @@ primary_sources:
   - "Lee et al., PNAS, 2019, Optimism is associated with exceptional longevity in 2 epidemiologic cohorts of men and women, https://doi.org/10.1073/pnas.1900712116"
   - "O'Donovan et al., Psychoneuroendocrinology, 2014, Pessimistic orientation in relation to telomere length in older men: the VA Normative Aging Study, https://doi.org/10.1016/j.psyneuen.2013.12.019"
   - "Kotikalapudi, Dricu, Moser, and Aue, Brain Sciences, 2022, Brain Structure and Optimism Bias: A Voxel-Based Morphometry Approach, https://doi.org/10.3390/brainsci12030315"
+  - "Kress, Bristle, and Aue, PLOS ONE, 2018, Seeing through rose-colored glasses: How optimistic expectancies guide visual attention, https://doi.org/10.1371/journal.pone.0193311"
   - "Maruta et al., Healthcare, 2023, Associations between Optimism and Attentional Biases as Measured by Threat-Avoidance and Positive-Search Tasks, https://doi.org/10.3390/healthcare11040617"
 counterpoint_sources:
   - "Colvin and Block, Psychological Bulletin, 1994, Do positive illusions foster mental health? An examination of the Taylor and Brown formulation, https://doi.org/10.1037/0033-2909.116.1.3"
@@ -97,6 +101,7 @@ sources:
   - "Public web research, accessed 2026-06-08"
   - "Public web research, accessed 2026-06-09"
   - "Public Crossref and PubMed metadata/abstract for PMID 22795698 / PMCID PMC3424419, accessed 2026-06-12"
+  - "../../raw/Seeing_through_rose_colored_glasses_How.pdf"
   - "../../raw/optimistic-brain.pdf"
   - "../../raw/Optimism, Agency, and Success.pdf"
   - "../../raw/Associations_between_Optimism_and_Attent.pdf"
@@ -110,7 +115,7 @@ sources:
 
 - Topic: optimism as a cognitive and neural style rather than a manifestation claim
 - Scope: future-event simulation, optimism bias, belief updating, mental imagery interventions, repetitive negative thinking, and sleep/insomnia associations
-- Access note: this page keeps original synthesis and metadata only. It does not reproduce paywalled text. `raw/optimistic-brain.pdf`, `raw/Seeing_the_glass_half_full_A_review_of_t.pdf`, and `raw/Unveiling the neural underpinnings of optimism a systematic review.pdf` are treated as local access-controlled source material. `raw/Optimism, Agency, and Success.pdf` and `raw/Associations_between_Optimism_and_Attent.pdf` are open-access PDFs and remain ignored by git with the rest of `raw/`. The Wiley encyclopedia chapter by Kahle Monahan et al. was checked through public abstract/metadata and secondary bibliographic records only, not full-text access. The OxJournal 2024 article is public and useful as a student-style review/source trail, not as primary experimental evidence. The Sharot et al. 2012 dopamine paper was checked through Crossref and PubMed metadata/abstract because Cell's public page was temporarily blocked by browser verification; the PubMed record lists PMCID PMC3424419.
+- Access note: this page keeps original synthesis and metadata only. It does not reproduce paywalled text. `raw/optimistic-brain.pdf`, `raw/Seeing_the_glass_half_full_A_review_of_t.pdf`, and `raw/Unveiling the neural underpinnings of optimism a systematic review.pdf` are treated as local access-controlled source material. `raw/Optimism, Agency, and Success.pdf`, `raw/Seeing_through_rose_colored_glasses_How.pdf`, and `raw/Associations_between_Optimism_and_Attent.pdf` are open-access PDFs and remain ignored by git with the rest of `raw/`. The Wiley encyclopedia chapter by Kahle Monahan et al. was checked through public abstract/metadata and secondary bibliographic records only, not full-text access. The OxJournal 2024 article is public and useful as a student-style review/source trail, not as primary experimental evidence. The Sharot et al. 2012 dopamine paper was checked through Crossref and PubMed metadata/abstract because Cell's public page was temporarily blocked by browser verification; the PubMed record lists PMCID PMC3424419.
 
 ## Core Primary-Source Claims
 
@@ -137,6 +142,10 @@ The review's practical implication is not "scan the ACC and prescribe optimism."
 Kotikalapudi, Dricu, Moser, and Aue 2022 adds an open-access voxel-based morphometry tile for optimism bias rather than broad trait optimism. The study used a soccer-player likelihood-estimation task to compare personal optimism bias (self versus rival) and social optimism bias (in-group versus out-group). The main shared structural correlate was left putamen gray matter volume, consistent with reward/value weighting. Personal optimism bias was also associated with right frontal pole and several temporal/hippocampal/visual association regions, while social optimism bias was associated with right temporoparietal junction plus other regions.
 
 The paper is useful because it stops optimism bias being treated as one smooth personal trait. In this task, personal optimism bias seemed partly reward/self-valuation driven and partly rival-downplaying; social optimism bias brought in social-cognition machinery. That fits the wiki's broader boundary: optimism can be adaptive, motivational, and embodied in valuation systems, but biased comparison can also become distorted self/other weighting. The paper's own caveat matters: this was a proof-of-concept structural study in a competitive soccer scenario, and it differs from trait optimism and belief-update paradigms.
+
+Kress, Bristle, and Aue 2018 adds an experimental attention bridge. In two PLOS ONE eye-tracking / reaction-time experiments with University of Bern psychology students, the authors manipulated trial-by-trial expectancies about future gains and losses before a visual search task. Experiment 1 used happy and sad faces as gain/loss targets; Experiment 2 used non-social letter stimuli whose reward/punishment meaning was assigned by instruction. Across the studies, induced optimistic expectancies guided attention toward reward compared with punishment; Experiment 2 also showed pessimistic expectancies guiding attention toward punishment compared with reward, but the optimism effect was stronger.
+
+This belongs beside the Sharot belief-updating work because it offers a plausible cognitive route for asymmetric updating. If an optimistic expectancy makes reward/good-news evidence easier to orient toward or dwell on, while punishing evidence gets less attention, then later belief revision will not receive equally processed evidence. The paper is also a useful companion to Maruta et al. 2023 rather than a contradiction: Kress et al. manipulated state expectancies and measured trial-level gaze/RT effects, while Maruta et al. found no simple cross-sectional relation between LOT-R trait optimism and baseline attentional-bias task scores.
 
 Yanagisawa et al. 2025 adds a newer angle: more optimistic people showed more similar neural representations when imagining future events, especially in medial prefrontal cortex. The study also found a clearer neural separation between positive and negative future events in more optimistic individuals than in less optimistic individuals.
 
@@ -226,6 +235,7 @@ Taken together, the sources suggest that optimism is not best understood as magi
 - dopaminergic modulation of that selective updating, with L-DOPA reducing belief correction from undesirable information in Sharot et al. 2012
 - less immersion in repetitive negative loops
 - agency-supporting beliefs that preserve action after setback
+- experimentally induced optimistic expectancies steering visual attention toward reward in Kress et al. 2018
 - attentional openness to unexpected opportunity
 - no simple cross-sectional association between trait optimism and dot-probe / positive-search attentional-bias indices in Maruta et al. 2023
 - bodily perturbation of risk belief and self-evaluation
@@ -273,7 +283,9 @@ A short intervention where a person writes and imagines a realistic future in wh
 
 ### Attention bias modification
 
-Computer-based training intended to shift attention away from negative material or toward positive material. The interesting possibility is that repeated positive search may make positive social information easier to detect and use. Maruta et al. 2023 keeps the caveat sharp: in their healthy young-adult sample, baseline reaction-time attentional-bias measures did not correlate with LOT-R optimism or pessimism. ABM may still work through training effects, comparative optimism, self-esteem, interpretation, mood, or other mechanisms, but it should not be treated as a proven trait-optimism lever yet.
+Computer-based training intended to shift attention away from negative material or toward positive material. The interesting possibility is that repeated positive search may make positive social information easier to detect and use. Kress et al. 2018 supports the upstream expectancy-to-attention direction: when optimistic gain expectancies were experimentally induced, attention shifted toward reward in visual search, with eye-tracking evidence for both orientation/maintenance effects depending on the experiment.
+
+Maruta et al. 2023 keeps the caveat sharp: in their healthy young-adult sample, baseline reaction-time attentional-bias measures did not correlate with LOT-R optimism or pessimism. Together, the safe claim is that optimistic expectancies can guide attention under experimental conditions, but trait optimism is not simply a standing positive-search bias on every attention task. ABM may still work through training effects, comparative optimism, self-esteem, interpretation, mood, or other mechanisms, but it should not be treated as a proven trait-optimism lever yet.
 
 ### Unrealistic optimism
 
@@ -323,6 +335,7 @@ This is exactly where the proof boundary matters. These studies do not show that
 - Dolcos et al. 2016 is structural/correlational evidence in 61 healthy participants. It does not prove that optimism causes larger OFC volume, that larger OFC volume causes optimism, or that optimism training treats anxiety.
 - Erthal et al. 2021 is a systematic review, but only 14 neuroimaging studies met inclusion criteria. Many fMRI samples had fewer than 30 participants, measures were heterogeneous, most evidence was correlational, and the field was too small for meta-analysis.
 - Kotikalapudi et al. 2022 studied optimism bias in a specific competitive soccer task. Do not generalize it to all optimism, all social comparison, or all reward processing.
+- Kress et al. 2018 manipulated short-term gain/loss expectancies in student eye-tracking tasks. It supports expectancy-guided attention under controlled conditions, not a sweeping claim that optimists literally see only positive things in everyday life.
 - Hecht 2013 is a narrative synthesis with a broad hemispheric-lateralization thesis. Treat it as a source trail and hypothesis map, not as proof that optimism is simply "left brain" or pessimism is simply "right brain."
 - Forgeard and Seligman 2012 is a broad positive-psychology review. Use it for conceptual scaffolding and the flexible-optimism boundary, not as a substitute for the newer neuroimaging, health-outcome, or intervention anchors.
 - Schacter and Addis explicitly leave room for realism or pessimism when preparedness matters.

@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-12] source update | optimism expectancies and visual attention
+- Source: `raw/Seeing_through_rose_colored_glasses_How.pdf`; Kress, Bristle, and Aue, *PLOS ONE*, [Seeing through rose-colored glasses: How optimistic expectancies guide visual attention](https://doi.org/10.1371/journal.pone.0193311), 2018.
+- Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added the paper as the state-expectancy attention bridge. Durable point: experimentally induced optimistic gain expectancies guided visual attention toward reward in two eye-tracking / reaction-time studies; pessimistic loss expectancies guided attention toward punishment in the second study, but the optimism effect was stronger. Paired it with Maruta et al. 2023 so the wiki keeps the boundary: optimistic expectancies can steer attention under controlled conditions, but trait optimism is not simply an always-on positive-search bias.
+
 ## [2026-06-12] source update | dopamine and optimism-bias updating
 - Source: Sharot, Guitart-Masip, Korn, Chowdhury, and Dolan, *Current Biology*, [How Dopamine Enhances an Optimism Bias in Humans](https://doi.org/10.1016/j.cub.2012.05.053), 2012; Crossref metadata and PubMed abstract for PMID 22795698 / PMCID PMC3424419, accessed 2026-06-12.
 - Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)

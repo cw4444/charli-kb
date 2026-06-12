@@ -124,11 +124,15 @@ Use this carefully. It does not prove that lucky people manifest events. It sugg
 
 ### 10. Attention training is plausible, but the simple trait link did not show up
 
-Maruta et al. 2023 is the paper that stops us turning "attention creates optimism" into sludge with a DOI stapled to it. It tested 84 healthy Japanese adults with two attentional-bias tasks: a dot-probe threat-avoidance task and an emotional visual-search task where participants searched for happy or negative faces.
+Kress, Bristle, and Aue 2018 is the paper with the cheerful title and the useful experimental bridge. In two PLOS ONE eye-tracking / reaction-time studies, the researchers induced gain, loss, or ambiguous expectancies before visual search. Experiment 1 used happy/sad faces; Experiment 2 used letter stimuli whose reward/punishment meaning was assigned by instruction. Optimistic gain expectancies guided attention toward reward compared with punishment in both experiments. Pessimistic loss expectancies guided attention toward punishment in Experiment 2, but the optimism effect was stronger.
+
+That matters because it gives a plausible attention route for selective updating. If optimistic expectancies make reward or good-news evidence easier to find or linger on, then belief updating is not fed an evenly processed evidence stream. The "bad news does not update as much" result may partly come from bad news receiving less attention in the first place. Delightful. The brain has found another way to mark its own homework.
+
+Maruta et al. 2023 is the later paper that stops us turning "attention creates optimism" into sludge with a DOI stapled to it. It tested 84 healthy Japanese adults with two attentional-bias tasks: a dot-probe threat-avoidance task and an emotional visual-search task where participants searched for happy or negative faces.
 
 The result is a useful disappointment. Neither attentional-bias measure significantly correlated with LOT-R total optimism, optimism subscale, or pessimism subscale scores. Regression analysis also found no association after adjusting for demographics, affect, rumination, and personality. Positive affect, lower rumination, and openness showed stronger links to optimism.
 
-That does not make ABM useless. It means baseline reaction-time bias in these tasks is not a clean proxy for trait optimism. Attention-bias modification might still affect comparative optimism, self-esteem, mood, interpretation, or trained attention over time. But the current safe claim is: attention is a plausible intervention pathway, not a proven single switch marked "make optimistic."
+That does not make ABM useless. It means baseline reaction-time bias in these tasks is not a clean proxy for trait optimism. Kress et al. supports state expectancy shaping attention under controlled conditions; Maruta et al. warns against treating trait optimism as a simple always-on positive-search bias. Attention-bias modification might still affect comparative optimism, self-esteem, mood, interpretation, or trained attention over time. But the current safe claim is: attention is a plausible intervention pathway, not a proven single switch marked "make optimistic."
 
 ### 11. Pessimist gratitude counts avoided bad outcomes
 
@@ -184,6 +188,7 @@ It seems to involve:
 - ACC-linked self-relevant future construction and IFG-linked challenged-belief updating
 - dopaminergic modulation of asymmetric belief updating, with L-DOPA weakening correction from undesirable information in Sharot et al. 2012
 - some short-term trainability through structured Best Possible Self imagery
+- experimentally induced optimistic expectancies guiding attention toward reward in visual search
 - Adlerian guiding fictions or imagined future goals that organize current behavior
 - manifestation language translated into CBT-adjacent behaviour modification rather than reality creation
 - OFC gray matter / trait optimism / anxiety associations in structural MRI work
@@ -221,6 +226,7 @@ The bills still exist. The better version of optimism is not pretending they do 
 - Best Possible Self imagery has short-term intervention evidence, but it is not proof of durable life change or downstream health benefits.
 - The Dolcos et al. OFC result is small-sample structural/correlational evidence. It should not be read as causal proof or treatment advice.
 - The Kotikalapudi et al. VBM result is a proof-of-concept structural study in a soccer competition task. It is useful for personal/social optimism bias, not a universal optimism map.
+- The Kress et al. attention result uses short-term gain/loss expectancy cues in student samples. It supports a mechanism hypothesis for selective updating, not a sweeping everyday claim that optimism makes people ignore all negative evidence.
 - The Hecht 2013 lateralization review is useful as an older hypothesis map, but it should not be treated as settled proof of simple left-brain optimism or right-brain pessimism.
 - Fictional finalism is useful historical scaffolding, not modern neuroscience and not manifestation.
 - Manifestation language is only useful here after translation into attention, behaviour, practice, and evidence-sensitive agency.
@@ -250,6 +256,7 @@ The bills still exist. The better version of optimism is not pretending they do 
 
 - What is the best intervention target: imagery vividness, attentional habits, belief updating, or rumination reduction?
 - When does dopamine-supported optimism help agency, and when does it make bad news too easy to shrug off?
+- When do optimistic expectancies improve opportunity detection, and when do they under-process useful warning signs?
 - Do Best Possible Self effects persist after practice stops, and do they change behavior rather than only self-reported optimism?
 - How much optimism is helpful before it starts degrading preparedness?
 - Are neural optimism signatures stable traits, trainable habits, or both?
