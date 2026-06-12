@@ -3,7 +3,7 @@ title: "AI And Agents 2026 Timeline"
 type: timeline
 status: draft
 created: 2026-05-21
-updated: 2026-06-11
+updated: 2026-06-12
 sources:
   - ../sources/current-ai-agent-landscape-2026.md
   - ../sources/anthropic-compute-and-talent-signal-2026.md
@@ -79,6 +79,9 @@ sources:
   - https://www.anthropic.com/policy-on-the-ai-exponential/epf
   - https://apnews.com/article/visa-chatgpt-openai-shopping-mastercard-d769dec86344cb4977c98789e8ec492f
   - https://www.wsj.com/tech/ai/visa-to-secure-payments-for-shoppers-on-chatgpt-in-openai-partnership-7ece5b22
+  - https://www.theguardian.com/technology/2026/jun/08/starmer-tech-firms-ultimatum-block-explicit-images-children-phones
+  - https://www.techradar.com/vpn/vpn-privacy-security/surveillance-is-not-safety-uks-device-scanning-order-faces-privacy-backlash
+  - https://www.theverge.com/tech/900284/apple-ios-26-4-uk-age-verification
 ---
 
 # AI And Agents 2026 Timeline
@@ -96,7 +99,7 @@ Use this page for events that are useful historical anchors:
 
 Future lint rule: update this page if it helps preserve the shape of the year. Delete or collapse entries that turn out to be noise.
 
-## Short Read As Of 2026-06-11
+## Short Read As Of 2026-06-12
 
 The first half of 2026 already shows several converging threads:
 
@@ -140,6 +143,7 @@ The first half of 2026 already shows several converging threads:
 - Anthropic launched Claude Fable 5, a generally available Mythos-class model with conservative safeguards that route flagged cyber, biology/chemistry, and distillation requests to Opus 4.8; Claude Mythos 5 remains restricted to Glasswing and trusted-access partners.
 - Dario Amodei and Anthropic published "Policy on the AI Exponential" plus Advanced AI and Economic Policy frameworks, shifting Anthropic's public policy stance from transparency-first optionality toward mandatory frontier-model testing, independent evaluation, security obligations, possible government deployment-blocking authority, and `$350M` in economic-futures research/fellowship commitments.
 - Visa and OpenAI reportedly embedded Visa payment rails into ChatGPT so agents can recommend and complete purchases with authorization, fraud monitoring, approvals, spending limits, and approved-merchant controls. Agentic commerce has reached payment-network plumbing. Wonderful, the shopping cart has opinions now.
+- The UK government gave Apple, Google, and other device/OS providers until September 2026 to implement device-level controls that detect and block nude images for children, with adults able to disable the controls only after age assurance. The verified proposal is not an explicit government backdoor to read all device content, but it does move child-safety enforcement from websites/apps into operating systems and raises the obvious client-side-scanning and population age-check problem. Lovely little privacy bonfire.
 - Anthropic published a biology-agent case study showing that strong models were not enough for reliable viral sequence retrieval: VirBench mean accuracies ranged from 16.9% to 91.3% without the right deterministic retrieval layer, but rose above 90% for all agents and peaked at 99.7% when agents used `gget virus`.
 - The UK government announced its first AI Adoption Summit package: more than £200 million for adoption support, sector AI Adoption Plans, AI Advisory Growth Labs, an AI Economics Institute, worker-skills commitments, company insight-sharing, and a joint statement with Google, Anthropic, Microsoft, and OpenAI.
 - StepSecurity reported that a compromised maintainer account force-pushed a Shai-Hulud credential stealer into `gpt-pilot`, an AI coding-tool repository, and that `ruff` linting blocked the malicious CI path twice. Coding-agent environments are now a first-class supply-chain target. Apparently the boring checks were load-bearing. Shocking development.
@@ -799,6 +803,22 @@ Sources:
 - [GOV.UK: Government to partner with tech companies, trade unions and industry leaders to boost AI adoption and equip workers with AI skills](https://www.gov.uk/government/news/government-to-partner-with-tech-companies-trade-unions-and-industry-leaders-to-boost-ai-adoption-and-equip-workers-with-ai-skills)
 - [GOV.UK: AI Champions' AI Adoption Plans](https://www.gov.uk/government/publications/ai-champions-ai-adoption-plans)
 - [GOV.UK: Introducing the AI Economics Institute](https://www.gov.uk/government/publications/introducing-the-ai-economics-institute)
+
+### 2026-06-08 - UK pushes device-level age assurance and nudity blocking
+
+Keir Starmer used London Tech Week to give Apple, Google, and other technology companies a three-month deadline, running to September 2026, to introduce device-level controls that stop children taking, sharing, viewing, or saving nude images on smartphones and tablets. Reporting based on the Home Office announcement says the government wants these protections to apply to UK devices, including existing and newly sold smartphones and tablets, and says legislation could cover operating-system providers and other parts of the device supply chain if companies do not act voluntarily.
+
+The important implementation detail is the default. The government wants Apple and Google to block nudity across the whole device by default, with the controls deactivated only through age assurance. Adults would still be able to take, view, and share nude content after verifying their age. Apple had already introduced UK age checks in iOS 26.4, with unverified users or under-18s moved toward child-safety settings such as web-content restrictions and nudity blurring, but current Apple and Google tools do not block nudity across the whole operating system, camera, third-party messaging, search, and broader apps.
+
+Why it matters: this shifts online child-safety policy from platform moderation into device and operating-system governance. If implemented broadly, age assurance, content classification, camera behavior, third-party-app behavior, encrypted-message surfaces, and adult opt-out flows become part of the phone's safety architecture. That is a major state-capacity signal, and a major consumer-device trust signal.
+
+Careful read: this is not, as verified so far, an explicit proposal for a government-access backdoor that lets officials read every photo or message. It is a proposal for device-level nudity detection and blocking tied to age assurance. Privacy critics are still right to worry: an always-on client-side classifier plus population-scale age checks can become a scanning and identity infrastructure even without a classic "send everything to the state" backdoor. Use the right panic, not the lazy one.
+
+Sources:
+
+- [The Guardian: Starmer gives tech firms ultimatum to block explicit images on children's phones](https://www.theguardian.com/technology/2026/jun/08/starmer-tech-firms-ultimatum-block-explicit-images-children-phones)
+- [TechRadar: UK's device scanning order faces privacy backlash](https://www.techradar.com/vpn/vpn-privacy-security/surveillance-is-not-safety-uks-device-scanning-order-faces-privacy-backlash)
+- [The Verge: Apple's iOS 26.4 update adds age verification in the UK](https://www.theverge.com/tech/900284/apple-ios-26-4-uk-age-verification)
 
 ### 2026-06-08 - gpt-pilot compromise attempt targets AI coding environments
 

@@ -3,7 +3,7 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-06-11
+updated: 2026-06-12
 ---
 
 # Current State
@@ -42,6 +42,8 @@ This repo is a plain Markdown personal knowledge base based on Karpathy's LLM Wi
 - The durable subject lanes are AI, reality, neuroscience, and their overlap: perception, belief, expectation, action, agents, knowledge systems, reality monitoring, embodiment, cellular maintenance, and related source-backed concepts.
 
 ## Latest Session Handoff
+
+On 2026-06-12, Charli asked about an X-reported UK claim that Apple and Google had until "September 2006" to age-verify users and build a backdoor. Codex checked public reporting around the June 8 London Tech Week / Home Office proposal and updated [AI And Agents 2026 Timeline](../timelines/ai-and-agents-2026.md). Durable point: the verified proposal is a September 2026 device/OS-level ultimatum for UK smartphones and tablets to block nude-image creation, viewing, sharing, and saving for children by default, with adults able to deactivate controls through age assurance. Keep the caveat sharp: current reporting does not show an explicit government-access backdoor for officials to read every photo or message, but the likely architecture still raises serious client-side-scanning, encrypted-app, camera, third-party-app, and population-scale ID-check risks. Apple had already introduced UK age checks in iOS 26.4, but not full whole-device nudity blocking.
 
 Also on 2026-06-11, Charli flagged the rare Dario/Anthropic policy drop and the ChatGPT/Visa commerce item from the day's slim AI digest. Codex added [Anthropic AI Exponential Policy 2026](../sources/anthropic-ai-exponential-policy-2026.md), updated [OpenAI Third Phase Strategy 2026](../sources/openai-third-phase-strategy-2026.md), and added both items to [AI And Agents 2026 Timeline](../timelines/ai-and-agents-2026.md). Durable Anthropic point: the June 2026 package shifts from transparency-first optionality toward mandatory frontier-model testing, independent evaluation, security obligations, possible government deployment-blocking authority, labor-disruption planning, and `$350M` in economic-futures research/fellowship commitments. Keep the caveat sharp: this is a frontier lab policy proposal, not law and not neutral public-interest settlement. Durable OpenAI/Visa point: agentic commerce is moving into payment-network plumbing, with authorization, fraud monitoring, approvals, spending limits, and approved merchants becoming part of the agent surface. Do not treat it as safe full autonomy; consent, budgets, logs, disputes, and fraud rules remain the actual adult work.
 

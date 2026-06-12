@@ -76,7 +76,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 
 ## Timelines
 
-- [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md): lightweight historical timeline for the fast-moving 2026 AI/agent acceleration, including agent security infrastructure, Anthropic's Fable/Mythos access shift, EU technological sovereignty, major lab strategy, cooperation/governance framing, workplace rearchitecture, governance, and model-character signals.
+- [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md): lightweight historical timeline for the fast-moving 2026 AI/agent acceleration, including agent security infrastructure, Anthropic's Fable/Mythos access shift, EU technological sovereignty, major lab strategy, UK device-level age-assurance pressure, cooperation/governance framing, workplace rearchitecture, governance, and model-character signals.
 
 ## Concepts
 
