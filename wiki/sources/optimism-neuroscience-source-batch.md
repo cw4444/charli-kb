@@ -3,7 +3,7 @@ title: "Optimism Neuroscience Source Batch"
 type: source
 status: draft
 created: 2026-05-12
-updated: 2026-06-11
+updated: 2026-06-12
 source_type: public-research-batch
 authors:
   - Sanda Dolcos
@@ -46,10 +46,15 @@ authors:
   - Toshio Higashi
   - Takefumi Moriuchi
   - Takayuki Tabira
+  - Marc Guitart-Masip
+  - Christoph W. Korn
+  - Rumana Chowdhury
+  - Raymond J. Dolan
 primary_sources:
   - "Taylor and Brown, Psychological Bulletin, 1988, Illusion and well-being: A social psychological perspective on mental health, https://doi.org/10.1037/0033-2909.103.2.193"
   - "Sharot et al., Nature, 2007, Neural mechanisms mediating optimism bias, https://doi.org/10.1038/nature06280"
   - "Sharot, Korn, and Dolan, Nature Neuroscience, 2011, How unrealistic optimism is maintained in the face of reality, https://doi.org/10.1038/nn.2949"
+  - "Sharot, Guitart-Masip, Korn, Chowdhury, and Dolan, Current Biology, 2012, How Dopamine Enhances an Optimism Bias in Humans, https://doi.org/10.1016/j.cub.2012.05.053"
   - "Dolcos, Hu, Iordan, Moore, and Dolcos, Social Cognitive and Affective Neuroscience, 2016, Optimism and the brain: trait optimism mediates the protective role of the orbitofrontal cortex gray matter volume against anxiety, https://doi.org/10.1093/scan/nsv106"
   - "Yanagisawa et al., PNAS, 2025, Optimistic people are all alike: Shared neural representations supporting episodic future thinking among optimistic individuals, https://doi.org/10.1073/pnas.2511101122"
   - "Erthal et al., Cognitive, Affective, & Behavioral Neuroscience, 2021, Unveiling the neural underpinnings of optimism: a systematic review, https://doi.org/10.3758/s13415-021-00931-8"
@@ -91,6 +96,7 @@ sources:
   - "Public web research, accessed 2026-05-12"
   - "Public web research, accessed 2026-06-08"
   - "Public web research, accessed 2026-06-09"
+  - "Public Crossref and PubMed metadata/abstract for PMID 22795698 / PMCID PMC3424419, accessed 2026-06-12"
   - "../../raw/optimistic-brain.pdf"
   - "../../raw/Optimism, Agency, and Success.pdf"
   - "../../raw/Associations_between_Optimism_and_Attent.pdf"
@@ -104,7 +110,7 @@ sources:
 
 - Topic: optimism as a cognitive and neural style rather than a manifestation claim
 - Scope: future-event simulation, optimism bias, belief updating, mental imagery interventions, repetitive negative thinking, and sleep/insomnia associations
-- Access note: this page keeps original synthesis and metadata only. It does not reproduce paywalled text. `raw/optimistic-brain.pdf`, `raw/Seeing_the_glass_half_full_A_review_of_t.pdf`, and `raw/Unveiling the neural underpinnings of optimism a systematic review.pdf` are treated as local access-controlled source material. `raw/Optimism, Agency, and Success.pdf` and `raw/Associations_between_Optimism_and_Attent.pdf` are open-access PDFs and remain ignored by git with the rest of `raw/`. The Wiley encyclopedia chapter by Kahle Monahan et al. was checked through public abstract/metadata and secondary bibliographic records only, not full-text access. The OxJournal 2024 article is public and useful as a student-style review/source trail, not as primary experimental evidence.
+- Access note: this page keeps original synthesis and metadata only. It does not reproduce paywalled text. `raw/optimistic-brain.pdf`, `raw/Seeing_the_glass_half_full_A_review_of_t.pdf`, and `raw/Unveiling the neural underpinnings of optimism a systematic review.pdf` are treated as local access-controlled source material. `raw/Optimism, Agency, and Success.pdf` and `raw/Associations_between_Optimism_and_Attent.pdf` are open-access PDFs and remain ignored by git with the rest of `raw/`. The Wiley encyclopedia chapter by Kahle Monahan et al. was checked through public abstract/metadata and secondary bibliographic records only, not full-text access. The OxJournal 2024 article is public and useful as a student-style review/source trail, not as primary experimental evidence. The Sharot et al. 2012 dopamine paper was checked through Crossref and PubMed metadata/abstract because Cell's public page was temporarily blocked by browser verification; the PubMed record lists PMCID PMC3424419.
 
 ## Core Primary-Source Claims
 
@@ -113,6 +119,8 @@ Taylor and Brown 1988 is the classic "positive illusions" paper behind a lot of 
 Sharot et al. 2007 is the classic neural optimism-bias paper. In that study, optimism was associated with stronger activity in the amygdala and rostral anterior cingulate cortex when participants imagined positive future events relative to negative ones. Across individuals, rostral ACC activity tracked trait optimism.
 
 Sharot, Korn, and Dolan 2011 shifts the emphasis from imagery to learning. Participants updated beliefs more when new information was better than expected than when it was worse. The paper argues that unrealistic optimism is maintained partly by reduced neural tracking of undesirable information, especially in right inferior frontal gyrus.
+
+Sharot, Guitart-Masip, Korn, Chowdhury, and Dolan 2012 adds the pharmacology tile that was missing from this package. In a belief-updating task, administration of L-DOPA, which enhances dopaminergic function, increased optimism bias by impairing updating from undesirable future information. The useful addition is not simply "dopamine makes people happy." It is narrower: dopamine modulation can make bad-news prediction errors carry less corrective force when people revise beliefs about personal future risks.
 
 Dolcos, Hu, Iordan, Moore, and Dolcos 2016 adds a structural brain/anxiety piece. In 61 healthy participants, higher orbitofrontal cortex gray matter volume was associated with higher trait optimism, and trait optimism was associated with lower anxiety symptoms. Their mediation analysis suggested that trait optimism mediated the relation between left OFC volume and anxiety. The useful interpretation is brain-personality-symptom linkage: optimism may be one psychological pathway through which OFC-related resilience shows up. The brake is equally important: this was a small healthy sample with structural MRI and correlational mediation, not proof that optimism training changes OFC volume or cures anxiety.
 
@@ -215,6 +223,7 @@ Taken together, the sources suggest that optimism is not best understood as magi
 - structural optimism-bias links involving reward/value and social-cognition regions such as putamen, frontal pole, and TPJ
 - stronger segregation between desirable and undesirable future scenarios
 - selective updating in response to bad news
+- dopaminergic modulation of that selective updating, with L-DOPA reducing belief correction from undesirable information in Sharot et al. 2012
 - less immersion in repetitive negative loops
 - agency-supporting beliefs that preserve action after setback
 - attentional openness to unexpected opportunity
@@ -251,6 +260,12 @@ This overlaps with preparedness, hardiness, sense of coherence, self-efficacy, a
 ### OFC, optimism, and anxiety
 
 Dolcos et al. 2016 links higher orbitofrontal cortex gray matter volume with higher trait optimism and lower anxiety symptoms, with optimism statistically mediating the OFC-anxiety relation. This belongs in the neuroscience spine because it connects optimism to brain structure and resilience, not only future-imagery tasks or self-help language. Keep it modest: mediation in a small healthy sample is not causal proof, and it does not show that optimism exercises alter brain volume.
+
+### Dopamine and optimism-bias updating
+
+Sharot et al. 2012 links optimism bias to neuromodulation rather than only regional activation. In the public PubMed abstract, the authors report that L-DOPA increased optimism bias because participants became worse at updating beliefs when given undesirable information about future events. This sits beside the 2011 right-IFG belief-updating result: optimism can persist when bad news carries less model-correction weight, and dopaminergic state appears able to push that asymmetry.
+
+Keep this tight. The paper does not prove that dopamine is "the optimism chemical," that dopaminergic drugs are optimism tools, or that ordinary mood can be reduced to one transmitter. It is a pharmacological clue about asymmetric belief updating, not a lifestyle protocol.
 
 ### Best possible self imagery
 
@@ -302,6 +317,7 @@ This is exactly where the proof boundary matters. These studies do not show that
 
 - The literature does not show that optimism means ignoring reality.
 - The literature does not show that all positive illusions are healthy.
+- Sharot et al. 2012 is a pharmacological belief-updating study, not proof that dopamine is the whole mechanism of optimism or that dopaminergic medication should be used to change outlook.
 - The literature does not show that vivid positive imagery alone causes broad life improvement.
 - The best-possible-self intervention increased short-term self-reported optimism in a small mostly young female sample. It did not prove long-term personality change, behavior change, or health improvement.
 - Dolcos et al. 2016 is structural/correlational evidence in 61 healthy participants. It does not prove that optimism causes larger OFC volume, that larger OFC volume causes optimism, or that optimism training treats anxiety.
@@ -331,6 +347,7 @@ This is exactly where the proof boundary matters. These studies do not show that
 - When does optimism support persistence versus drift into under-preparation?
 - Can people be trained to simulate positive futures vividly without also becoming worse at integrating negative evidence?
 - Are OFC/optimism/anxiety links causal, developmental, bidirectional, or downstream of other resilience factors?
+- How do dopamine, IFG error coding, and ACC future simulation interact when optimism bias is adaptive versus under-corrective?
 - Is repetitive negative thinking a cause of cognitive decline, an early symptom, or both?
 - Which interventions best shift future thinking: imagery training, attentional control, cognitive reappraisal, behavioral activation, or social context?
 - If attention bias modification can increase some forms of optimism, does it act through actual attention change, interpretation, comparative optimism, self-esteem, mood, or another pathway?

@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-12] source update | dopamine and optimism-bias updating
+- Source: Sharot, Guitart-Masip, Korn, Chowdhury, and Dolan, *Current Biology*, [How Dopamine Enhances an Optimism Bias in Humans](https://doi.org/10.1016/j.cub.2012.05.053), 2012; Crossref metadata and PubMed abstract for PMID 22795698 / PMCID PMC3424419, accessed 2026-06-12.
+- Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added the old-but-useful Sharot dopamine paper because it contributes a distinct mechanism tile missing from the optimism package. Durable point: L-DOPA increased optimism bias by weakening belief updating from undesirable future information. Framed dopamine as a candidate neuromodulatory lever on asymmetric belief updating, not as "the optimism chemical," a medication suggestion, or proof that optimism is just reward sparkle.
+
 ## [2026-06-12] source update | Online Safety Act privacy-risk paper
 - Source: Mehta et al., [Online Safety Regulation Increases Privacy Risk: Evidence from the UK Online Safety Act](https://arxiv.org/abs/2606.05273), arXiv, 2026-06-03.
 - Pages created: [Online Safety Act Privacy Risk](sources/online-safety-act-privacy-risk.md)

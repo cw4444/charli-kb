@@ -3,7 +3,7 @@ title: "Research - Optimism"
 type: question
 status: draft
 created: 2026-05-12
-updated: 2026-06-11
+updated: 2026-06-12
 question: "What does public neuroscience and adjacent cognitive research suggest about optimism?"
 sources:
   - ../sources/optimism-neuroscience-source-batch.md
@@ -40,6 +40,8 @@ Erthal et al.'s 2021 systematic review tightens this into a useful technical spl
 The 2011 Nature Neuroscience paper found that people updated beliefs more when outcomes were better than expected than when they were worse. In more optimistic individuals, undesirable estimation errors were tracked less strongly in right inferior frontal gyrus.
 
 This supports a specific mechanism: optimism can persist because bad news does not revise expectations as strongly as good news does.
+
+The 2012 Current Biology follow-up makes this more than a static brain-region story. Sharot, Guitart-Masip, Korn, Chowdhury, and Dolan reported that L-DOPA increased optimism bias by impairing belief updating from undesirable information about the future. So the wiki should now treat dopamine as a candidate neuromodulatory lever on the asymmetric-updating mechanism, not merely as generic reward sparkle.
 
 The same Erthal review makes IFG the second main hub, especially in belief-update tasks. The task structure matters: participants estimate future adverse events, see base-rate statistics, then revise or do not revise their estimate. IFG appears around the salience/error-coding side of that process, particularly when expectations are challenged by undesirable information. So the technical version of the "cheat code" is not just positive imagery. It is also selective evidence weighting, cue processing, and when the system decides bad news is relevant enough to update the model.
 
@@ -180,6 +182,7 @@ It seems to involve:
 
 - more vivid, emotionally meaningful simulation of positive futures
 - ACC-linked self-relevant future construction and IFG-linked challenged-belief updating
+- dopaminergic modulation of asymmetric belief updating, with L-DOPA weakening correction from undesirable information in Sharot et al. 2012
 - some short-term trainability through structured Best Possible Self imagery
 - Adlerian guiding fictions or imagined future goals that organize current behavior
 - manifestation language translated into CBT-adjacent behaviour modification rather than reality creation
@@ -214,6 +217,7 @@ The bills still exist. The better version of optimism is not pretending they do 
 - Schacter and Addis explicitly leave room for realism or pessimism when negative outcomes are likely or preparation matters.
 - The literature does not yet show that training vivid positive imagery alone reliably produces lasting healthy optimism in everyday life.
 - The 2021 systematic review found only 14 eligible neuroimaging studies; many samples were small, measures were mixed, and the evidence was mostly correlational.
+- The 2012 dopamine paper is useful mechanism evidence, but it does not make dopamine the whole story, justify medication-as-optimism, or erase serotonin, noradrenaline, stress, context, personality, and learning history.
 - Best Possible Self imagery has short-term intervention evidence, but it is not proof of durable life change or downstream health benefits.
 - The Dolcos et al. OFC result is small-sample structural/correlational evidence. It should not be read as causal proof or treatment advice.
 - The Kotikalapudi et al. VBM result is a proof-of-concept structural study in a soccer competition task. It is useful for personal/social optimism bias, not a universal optimism map.
@@ -245,6 +249,7 @@ The bills still exist. The better version of optimism is not pretending they do 
 ## Open Questions
 
 - What is the best intervention target: imagery vividness, attentional habits, belief updating, or rumination reduction?
+- When does dopamine-supported optimism help agency, and when does it make bad news too easy to shrug off?
 - Do Best Possible Self effects persist after practice stops, and do they change behavior rather than only self-reported optimism?
 - How much optimism is helpful before it starts degrading preparedness?
 - Are neural optimism signatures stable traits, trainable habits, or both?

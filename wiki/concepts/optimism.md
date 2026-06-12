@@ -3,7 +3,7 @@ title: "Optimism"
 type: concept
 status: draft
 created: 2026-05-12
-updated: 2026-06-11
+updated: 2026-06-12
 sources:
   - ../sources/optimism-neuroscience-source-batch.md
   - ../sources/kahneman-tversky-judgment-under-uncertainty.md
@@ -34,6 +34,8 @@ Kahneman and Tversky add the salience warning. A future can feel important becau
 In practical terms, Rick Hanson's "taking in the good" framing fits here as a response to negativity bias: if the brain tends to hold onto threat and let ordinary good moments pass through, one reasonable intervention target is not fantasy but better encoding of small stabilizing experiences.
 
 Erthal et al.'s 2021 systematic review gives the technical spine: across 14 adult neuroimaging studies, the two recurring hubs were anterior cingulate cortex and inferior frontal gyrus. ACC shows up around self-relevant future construction, trait optimism, and re-estimation of future likelihoods. IFG shows up especially when beliefs are challenged by good or bad base-rate information. That is the useful split: optimism is not one blob. It has a future-simulation/self-relevance side and an evidence-updating/salience side.
+
+Sharot et al.'s 2012 Current Biology paper adds the dopamine-shaped screwdriver to that machinery. L-DOPA, a drug that enhances dopaminergic function, increased optimism bias by making participants update less from undesirable future information. That belongs beside the 2011 IFG result: optimism bias is not only imagining good futures more vividly; it can also be bad news losing its normal corrective force. Useful, slightly rude to rationalist self-image, and absolutely not a recommendation to pharmacologically season your belief updates like soup.
 
 Two other recurring brain-region tiles matter. Sharot et al. linked rostral ACC and amygdala activity to imagining positive futures. Dolcos et al. 2016 adds orbitofrontal cortex structure to the pile: in a small healthy sample, higher OFC gray matter volume was associated with higher trait optimism and lower anxiety symptoms, with optimism mediating the OFC-anxiety relation. Interesting, peer-reviewed, and still not permission to prescribe vibes as neuroanatomy.
 
@@ -83,6 +85,7 @@ Ellen Langer's counterclockwise aging study belongs on the outer edge of this co
 - `Attention bias modification`: computer-based training that tries to shift attention away from negative material or toward positive material; plausible for optimism, but not yet a settled trait-optimism mechanism.
 - `Best possible self imagery`: a short future-imagery intervention that can raise self-reported optimism in controlled studies.
 - `ACC/IFG split`: rough neuroimaging distinction between self-relevant future construction and challenged-belief updating.
+- `Dopamine and bad-news updating`: L-DOPA evidence that dopamine modulation can increase optimism bias by weakening belief updating from undesirable information.
 - `Counterfactual gratitude`: noticing bad outcomes that did not occur, without pretending everything is fine.
 - `Embodied belief updating`: bodily systems such as vestibular input can perturb risk estimates and self-evaluation.
 - `Lateralization hypothesis`: older narrative-review evidence links optimism/pessimism to hemispheric approach-withdrawal and self-evaluation patterns, but this must not become cartoon left-brain/right-brain talk.
