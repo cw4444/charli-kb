@@ -53,6 +53,11 @@ authors:
   - Laura Kress
   - Mirko Bristle
   - Tatjana Aue
+  - Laura Singh
+  - Laurent Schupbach
+  - Dominik A. Moser
+  - Roland Wiest
+  - Erno J. Hermans
 primary_sources:
   - "Taylor and Brown, Psychological Bulletin, 1988, Illusion and well-being: A social psychological perspective on mental health, https://doi.org/10.1037/0033-2909.103.2.193"
   - "Sharot et al., Nature, 2007, Neural mechanisms mediating optimism bias, https://doi.org/10.1038/nature06280"
@@ -77,6 +82,7 @@ primary_sources:
   - "O'Donovan et al., Psychoneuroendocrinology, 2014, Pessimistic orientation in relation to telomere length in older men: the VA Normative Aging Study, https://doi.org/10.1016/j.psyneuen.2013.12.019"
   - "Kotikalapudi, Dricu, Moser, and Aue, Brain Sciences, 2022, Brain Structure and Optimism Bias: A Voxel-Based Morphometry Approach, https://doi.org/10.3390/brainsci12030315"
   - "Kress, Bristle, and Aue, PLOS ONE, 2018, Seeing through rose-colored glasses: How optimistic expectancies guide visual attention, https://doi.org/10.1371/journal.pone.0193311"
+  - "Singh, Schupbach, Moser, Wiest, Hermans, and Aue, Scientific Reports, 2020, The effect of optimistic expectancies on attention bias: Neural and behavioral correlates, https://doi.org/10.1038/s41598-020-61440-1"
   - "Maruta et al., Healthcare, 2023, Associations between Optimism and Attentional Biases as Measured by Threat-Avoidance and Positive-Search Tasks, https://doi.org/10.3390/healthcare11040617"
 counterpoint_sources:
   - "Colvin and Block, Psychological Bulletin, 1994, Do positive illusions foster mental health? An examination of the Taylor and Brown formulation, https://doi.org/10.1037/0033-2909.116.1.3"
@@ -101,6 +107,7 @@ sources:
   - "Public web research, accessed 2026-06-08"
   - "Public web research, accessed 2026-06-09"
   - "Public Crossref and PubMed metadata/abstract for PMID 22795698 / PMCID PMC3424419, accessed 2026-06-12"
+  - "../../raw/The_effect_of_optimistic_expectancies_on.pdf"
   - "../../raw/Seeing_through_rose_colored_glasses_How.pdf"
   - "../../raw/optimistic-brain.pdf"
   - "../../raw/Optimism, Agency, and Success.pdf"
@@ -115,7 +122,7 @@ sources:
 
 - Topic: optimism as a cognitive and neural style rather than a manifestation claim
 - Scope: future-event simulation, optimism bias, belief updating, mental imagery interventions, repetitive negative thinking, and sleep/insomnia associations
-- Access note: this page keeps original synthesis and metadata only. It does not reproduce paywalled text. `raw/optimistic-brain.pdf`, `raw/Seeing_the_glass_half_full_A_review_of_t.pdf`, and `raw/Unveiling the neural underpinnings of optimism a systematic review.pdf` are treated as local access-controlled source material. `raw/Optimism, Agency, and Success.pdf`, `raw/Seeing_through_rose_colored_glasses_How.pdf`, and `raw/Associations_between_Optimism_and_Attent.pdf` are open-access PDFs and remain ignored by git with the rest of `raw/`. The Wiley encyclopedia chapter by Kahle Monahan et al. was checked through public abstract/metadata and secondary bibliographic records only, not full-text access. The OxJournal 2024 article is public and useful as a student-style review/source trail, not as primary experimental evidence. The Sharot et al. 2012 dopamine paper was checked through Crossref and PubMed metadata/abstract because Cell's public page was temporarily blocked by browser verification; the PubMed record lists PMCID PMC3424419.
+- Access note: this page keeps original synthesis and metadata only. It does not reproduce paywalled text. `raw/optimistic-brain.pdf`, `raw/Seeing_the_glass_half_full_A_review_of_t.pdf`, and `raw/Unveiling the neural underpinnings of optimism a systematic review.pdf` are treated as local access-controlled source material. `raw/Optimism, Agency, and Success.pdf`, `raw/Seeing_through_rose_colored_glasses_How.pdf`, `raw/The_effect_of_optimistic_expectancies_on.pdf`, and `raw/Associations_between_Optimism_and_Attent.pdf` are open-access PDFs and remain ignored by git with the rest of `raw/`. The Wiley encyclopedia chapter by Kahle Monahan et al. was checked through public abstract/metadata and secondary bibliographic records only, not full-text access. The OxJournal 2024 article is public and useful as a student-style review/source trail, not as primary experimental evidence. The Sharot et al. 2012 dopamine paper was checked through Crossref and PubMed metadata/abstract because Cell's public page was temporarily blocked by browser verification; the PubMed record lists PMCID PMC3424419.
 
 ## Core Primary-Source Claims
 
@@ -146,6 +153,10 @@ The paper is useful because it stops optimism bias being treated as one smooth p
 Kress, Bristle, and Aue 2018 adds an experimental attention bridge. In two PLOS ONE eye-tracking / reaction-time experiments with University of Bern psychology students, the authors manipulated trial-by-trial expectancies about future gains and losses before a visual search task. Experiment 1 used happy and sad faces as gain/loss targets; Experiment 2 used non-social letter stimuli whose reward/punishment meaning was assigned by instruction. Across the studies, induced optimistic expectancies guided attention toward reward compared with punishment; Experiment 2 also showed pessimistic expectancies guiding attention toward punishment compared with reward, but the optimism effect was stronger.
 
 This belongs beside the Sharot belief-updating work because it offers a plausible cognitive route for asymmetric updating. If an optimistic expectancy makes reward/good-news evidence easier to orient toward or dwell on, while punishing evidence gets less attention, then later belief revision will not receive equally processed evidence. The paper is also a useful companion to Maruta et al. 2023 rather than a contradiction: Kress et al. manipulated state expectancies and measured trial-level gaze/RT effects, while Maruta et al. found no simple cross-sectional relation between LOT-R trait optimism and baseline attentional-bias task scores.
+
+Singh, Schupbach, Moser, Wiest, Hermans, and Aue 2020 is the fMRI sequel to that attention bridge. Using the same visual-search design as Kress et al.'s non-social letter experiment, the study scanned 50 healthy participants while gain/loss cues induced optimistic or pessimistic expectancies. Participants responded faster to expected than unexpected targets, and the congruency effect was stronger for optimistic gain cues than pessimistic loss cues. Incongruent information recruited salience and executive-control network regions, including anterior insula, dorsal ACC/SMA, IFG, and parietal cortex, with stronger effects after optimistic than pessimistic expectancies.
+
+The useful twist is not "optimists ignore bad news." The paper argues that unexpected punishment after optimistic expectancies is strongly processed as a salient prediction violation. The possible maintenance mechanism is subtler: strong reward predictions may automatically guide attention toward reward, while later controlled attention may reduce the salience of unexpected punishment so that optimistic expectancies are not revised as much. This adds a neural-network layer to the Kress 2018 behavioral result and the Sharot 2011/2012 updating results.
 
 Yanagisawa et al. 2025 adds a newer angle: more optimistic people showed more similar neural representations when imagining future events, especially in medial prefrontal cortex. The study also found a clearer neural separation between positive and negative future events in more optimistic individuals than in less optimistic individuals.
 
@@ -236,6 +247,7 @@ Taken together, the sources suggest that optimism is not best understood as magi
 - less immersion in repetitive negative loops
 - agency-supporting beliefs that preserve action after setback
 - experimentally induced optimistic expectancies steering visual attention toward reward in Kress et al. 2018
+- salience/executive-control network evidence that unexpected punishment is strongly processed after optimistic expectancies, but may still be downregulated or under-integrated
 - attentional openness to unexpected opportunity
 - no simple cross-sectional association between trait optimism and dot-probe / positive-search attentional-bias indices in Maruta et al. 2023
 - bodily perturbation of risk belief and self-evaluation
@@ -287,6 +299,12 @@ Computer-based training intended to shift attention away from negative material 
 
 Maruta et al. 2023 keeps the caveat sharp: in their healthy young-adult sample, baseline reaction-time attentional-bias measures did not correlate with LOT-R optimism or pessimism. Together, the safe claim is that optimistic expectancies can guide attention under experimental conditions, but trait optimism is not simply a standing positive-search bias on every attention task. ABM may still work through training effects, comparative optimism, self-esteem, interpretation, mood, or other mechanisms, but it should not be treated as a proven trait-optimism lever yet.
 
+### Neural networks for optimism-attention interaction
+
+Singh et al. 2020 adds fMRI evidence to the expectancy-attention bridge. Expected gain/loss targets were detected faster than unexpected ones, and this behavioral congruency effect was stronger after optimistic gain cues. Unexpected information recruited salience-network and executive-control-network regions; the asymmetry was stronger for optimistic than pessimistic expectancies.
+
+The adult interpretation is not that optimism shuts off bad-news processing. In this study, unexpected punishment after optimistic expectancies looked highly salient neurally. The candidate mechanism is that optimistic prediction creates strong reward-guided attention, then later control processes may help reduce or regulate the salience of disconfirming punishment. That gives the wiki a cleaner bridge between attention, prediction error, emotion regulation, and selective belief updating.
+
 ### Unrealistic optimism
 
 Expecting a better personal future than the evidence warrants. This can sometimes help motivation, but it can also impair risk preparation and learning.
@@ -336,6 +354,7 @@ This is exactly where the proof boundary matters. These studies do not show that
 - Erthal et al. 2021 is a systematic review, but only 14 neuroimaging studies met inclusion criteria. Many fMRI samples had fewer than 30 participants, measures were heterogeneous, most evidence was correlational, and the field was too small for meta-analysis.
 - Kotikalapudi et al. 2022 studied optimism bias in a specific competitive soccer task. Do not generalize it to all optimism, all social comparison, or all reward processing.
 - Kress et al. 2018 manipulated short-term gain/loss expectancies in student eye-tracking tasks. It supports expectancy-guided attention under controlled conditions, not a sweeping claim that optimists literally see only positive things in everyday life.
+- Singh et al. 2020 used immediate monetary gain/loss cues in healthy participants, not life-scale future outcomes. It gives neural-network evidence for optimism-attention interaction, not proof that all real-world optimism operates through the same task dynamics.
 - Hecht 2013 is a narrative synthesis with a broad hemispheric-lateralization thesis. Treat it as a source trail and hypothesis map, not as proof that optimism is simply "left brain" or pessimism is simply "right brain."
 - Forgeard and Seligman 2012 is a broad positive-psychology review. Use it for conceptual scaffolding and the flexible-optimism boundary, not as a substitute for the newer neuroimaging, health-outcome, or intervention anchors.
 - Schacter and Addis explicitly leave room for realism or pessimism when preparedness matters.
@@ -361,6 +380,7 @@ This is exactly where the proof boundary matters. These studies do not show that
 - Can people be trained to simulate positive futures vividly without also becoming worse at integrating negative evidence?
 - Are OFC/optimism/anxiety links causal, developmental, bidirectional, or downstream of other resilience factors?
 - How do dopamine, IFG error coding, and ACC future simulation interact when optimism bias is adaptive versus under-corrective?
+- When unexpected negative evidence is strongly detected under optimistic expectancies, what decides whether it becomes useful updating or gets regulated away?
 - Is repetitive negative thinking a cause of cognitive decline, an early symptom, or both?
 - Which interventions best shift future thinking: imagery training, attentional control, cognitive reappraisal, behavioral activation, or social context?
 - If attention bias modification can increase some forms of optimism, does it act through actual attention change, interpretation, comparative optimism, self-esteem, mood, or another pathway?

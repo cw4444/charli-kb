@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-12] source update | optimistic expectancies fMRI attention bias
+- Source: `raw/The_effect_of_optimistic_expectancies_on.pdf`; Singh, Schupbach, Moser, Wiest, Hermans, and Aue, *Scientific Reports*, [The effect of optimistic expectancies on attention bias: Neural and behavioral correlates](https://doi.org/10.1038/s41598-020-61440-1), 2020.
+- Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added the paper as the fMRI sequel to the Kress et al. expectancy-attention bridge. Durable point: optimistic and pessimistic cues sped responses to congruent gain/loss targets, but the effect was stronger for optimistic gain cues; unexpected information recruited salience and executive-control networks, with stronger asymmetry after optimistic expectancies. Preserved the useful nuance that unexpected punishment after optimism was strongly processed as salient, not simply ignored; the maintenance mechanism may involve later control/downregulation of disconfirming punishment.
+
 ## [2026-06-12] source update | optimism expectancies and visual attention
 - Source: `raw/Seeing_through_rose_colored_glasses_How.pdf`; Kress, Bristle, and Aue, *PLOS ONE*, [Seeing through rose-colored glasses: How optimistic expectancies guide visual attention](https://doi.org/10.1371/journal.pone.0193311), 2018.
 - Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)

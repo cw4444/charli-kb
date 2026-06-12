@@ -128,6 +128,10 @@ Kress, Bristle, and Aue 2018 is the paper with the cheerful title and the useful
 
 That matters because it gives a plausible attention route for selective updating. If optimistic expectancies make reward or good-news evidence easier to find or linger on, then belief updating is not fed an evenly processed evidence stream. The "bad news does not update as much" result may partly come from bad news receiving less attention in the first place. Delightful. The brain has found another way to mark its own homework.
 
+Singh, Schupbach, Moser, Wiest, Hermans, and Aue 2020 adds the neural follow-up. In an fMRI version of the same gain/loss visual-search design, 50 healthy participants reacted faster to expected than unexpected targets, and that congruency effect was stronger for optimistic gain cues than pessimistic loss cues. Unexpected information recruited salience and executive-control networks, including anterior insula, dorsal ACC/SMA, IFG, and parietal cortex, with stronger asymmetry after optimistic expectancies.
+
+The useful caveat is excellent: unexpected punishment after optimism was not simply ignored. It was strongly processed as a salient expectancy violation. The possible mechanism is that strong reward predictions automatically guide attention toward reward, while later control processes may reduce the salience of disconfirming punishment. So optimism maintenance may involve both surprise detection and selective regulation, not just skipping merrily past the warning sign like an idiot in a musical.
+
 Maruta et al. 2023 is the later paper that stops us turning "attention creates optimism" into sludge with a DOI stapled to it. It tested 84 healthy Japanese adults with two attentional-bias tasks: a dot-probe threat-avoidance task and an emotional visual-search task where participants searched for happy or negative faces.
 
 The result is a useful disappointment. Neither attentional-bias measure significantly correlated with LOT-R total optimism, optimism subscale, or pessimism subscale scores. Regression analysis also found no association after adjusting for demographics, affect, rumination, and personality. Positive affect, lower rumination, and openness showed stronger links to optimism.
@@ -189,6 +193,7 @@ It seems to involve:
 - dopaminergic modulation of asymmetric belief updating, with L-DOPA weakening correction from undesirable information in Sharot et al. 2012
 - some short-term trainability through structured Best Possible Self imagery
 - experimentally induced optimistic expectancies guiding attention toward reward in visual search
+- salience/executive-control network activity when optimistic expectancies are violated by unexpected punishment
 - Adlerian guiding fictions or imagined future goals that organize current behavior
 - manifestation language translated into CBT-adjacent behaviour modification rather than reality creation
 - OFC gray matter / trait optimism / anxiety associations in structural MRI work
@@ -227,6 +232,7 @@ The bills still exist. The better version of optimism is not pretending they do 
 - The Dolcos et al. OFC result is small-sample structural/correlational evidence. It should not be read as causal proof or treatment advice.
 - The Kotikalapudi et al. VBM result is a proof-of-concept structural study in a soccer competition task. It is useful for personal/social optimism bias, not a universal optimism map.
 - The Kress et al. attention result uses short-term gain/loss expectancy cues in student samples. It supports a mechanism hypothesis for selective updating, not a sweeping everyday claim that optimism makes people ignore all negative evidence.
+- The Singh et al. fMRI result uses immediate monetary reward/punishment expectancies in healthy participants. It supports a neural mechanism for expectancy-attention interaction, not a direct map of life-scale optimism about health, relationships, or work.
 - The Hecht 2013 lateralization review is useful as an older hypothesis map, but it should not be treated as settled proof of simple left-brain optimism or right-brain pessimism.
 - Fictional finalism is useful historical scaffolding, not modern neuroscience and not manifestation.
 - Manifestation language is only useful here after translation into attention, behaviour, practice, and evidence-sensitive agency.
@@ -257,6 +263,7 @@ The bills still exist. The better version of optimism is not pretending they do 
 - What is the best intervention target: imagery vividness, attentional habits, belief updating, or rumination reduction?
 - When does dopamine-supported optimism help agency, and when does it make bad news too easy to shrug off?
 - When do optimistic expectancies improve opportunity detection, and when do they under-process useful warning signs?
+- When does salience-network detection of unexpected punishment lead to adaptive correction rather than controlled downregulation?
 - Do Best Possible Self effects persist after practice stops, and do they change behavior rather than only self-reported optimism?
 - How much optimism is helpful before it starts degrading preparedness?
 - Are neural optimism signatures stable traits, trainable habits, or both?
