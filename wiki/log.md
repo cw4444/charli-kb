@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-13] source update | active inference model of optimism bias
+- Source: Fisher, Whyte, and Hohwy, [bethfisher-hub/optimism_simulations](https://github.com/bethfisher-hub/optimism_simulations), public GitHub repository for *An Active Inference Model of the Optimism Bias*, created 2024-05-28 and last pushed 2024-06-02.
+- Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added as a computational-theory/software tile rather than a normal DOI-backed paper. Durable point: the repo frames optimism bias as precision over positive outcomes and contains MATLAB/SPM12 simulations for developmental loss of optimism, Sharot-style belief updating, and action in a modified two-armed bandit. Caveats: no DOI or indexed public article found in this pass, no declared code license, and simulations are model proposals rather than empirical proof.
+
 ## [2026-06-13] source update | optimism and prior cue utilisation
 - Source: Morton, El-Deredy, Morton, Elliott, and Jones, *European Journal of Personality*, [Optimism Facilitates the Utilisation of Prior Cues](https://doi.org/10.1002/per.805), first published online 2011-11-01.
 - Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)

@@ -138,6 +138,10 @@ Morton, El-Deredy, Morton, Elliott, and Jones 2011 adds a slightly earlier top-d
 
 This is useful because it sits upstream of the Kress/Singh attention pathway. Before optimism changes where attention goes or how bad news updates belief, prior expectations may already be given extra weight against sensory evidence. The adult version is not "optimists hallucinate happy faces." It is prior weighting, cue use, and slower mismatch recognition. Smaller claim, better claim.
 
+Fisher, Whyte, and Hohwy's active-inference model gives a computational bridge for this whole cluster. The public GitHub repository `optimism_simulations` describes optimism bias as precision over positive outcomes and provides MATLAB/SPM12 simulations for developmental exposure, Sharot-style belief updating, and a modified two-armed bandit. This is useful because it connects prior weighting, selective updating, value/action choice, and predictive-processing language in one model.
+
+The caveat is the point. In this pass, no DOI or indexed public article record was found for *An Active Inference Model of the Optimism Bias*. The public anchor is the GitHub repository, created in May 2024 and updated in June 2024, and the repository has no declared license. So the wiki should treat it as public computational source material and a model proposal, not as peer-reviewed empirical evidence.
+
 Maruta et al. 2023 is the later paper that stops us turning "attention creates optimism" into sludge with a DOI stapled to it. It tested 84 healthy Japanese adults with two attentional-bias tasks: a dot-probe threat-avoidance task and an emotional visual-search task where participants searched for happy or negative faces.
 
 The result is a useful disappointment. Neither attentional-bias measure significantly correlated with LOT-R total optimism, optimism subscale, or pessimism subscale scores. Regression analysis also found no association after adjusting for demographics, affect, rumination, and personality. Positive affect, lower rumination, and openness showed stronger links to optimism.
@@ -209,6 +213,7 @@ It seems to involve:
 - experimentally induced optimistic expectancies guiding attention toward reward in visual search
 - salience/executive-control network activity when optimistic expectancies are violated by unexpected punishment
 - prior-cue utilisation, where optimistic participants may rely longer on expectation cues when sensory evidence diverges
+- active-inference simulation work that treats optimism bias as precision over positive outcomes
 - Adlerian guiding fictions or imagined future goals that organize current behavior
 - manifestation language translated into CBT-adjacent behaviour modification rather than reality creation
 - OFC gray matter / trait optimism / anxiety associations in structural MRI work
@@ -250,6 +255,7 @@ The bills still exist. The better version of optimism is not pretending they do 
 - The Kress et al. attention result uses short-term gain/loss expectancy cues in student samples. It supports a mechanism hypothesis for selective updating, not a sweeping everyday claim that optimism makes people ignore all negative evidence.
 - The Singh et al. fMRI result uses immediate monetary reward/punishment expectancies in healthy participants. It supports a neural mechanism for expectancy-attention interaction, not a direct map of life-scale optimism about health, relationships, or work.
 - The Morton et al. prior-cue result uses emotional-face judgments and verbal cues. It supports a top-down expectation-weighting clue, not a broad claim that optimists ignore sensory evidence.
+- The Fisher/Whyte/Hohwy active-inference source is currently a public software repository, not a DOI-indexed article found in this pass. Treat it as a computational model/source trail, not peer-reviewed empirical evidence.
 - The Hecht 2013 lateralization review is useful as an older hypothesis map, but it should not be treated as settled proof of simple left-brain optimism or right-brain pessimism.
 - Fictional finalism is useful historical scaffolding, not modern neuroscience and not manifestation.
 - Manifestation language is only useful here after translation into attention, behaviour, practice, and evidence-sensitive agency.
@@ -283,6 +289,7 @@ The bills still exist. The better version of optimism is not pretending they do 
 - When do optimistic expectancies improve opportunity detection, and when do they under-process useful warning signs?
 - When does salience-network detection of unexpected punishment lead to adaptive correction rather than controlled downregulation?
 - When does reliance on prior expectation help fast interpretation, and when does it delay noticing that reality has rudely changed the brief?
+- Can an active-inference account of positive-outcome precision explain human optimism-bias data better than simpler asymmetric-update or attentional-weighting models?
 - Do Best Possible Self effects persist after practice stops, and do they change behavior rather than only self-reported optimism?
 - How much optimism is helpful before it starts degrading preparedness?
 - Are neural optimism signatures stable traits, trainable habits, or both?
