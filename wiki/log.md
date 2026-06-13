@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-13] source update | optimism and prior cue utilisation
+- Source: Morton, El-Deredy, Morton, Elliott, and Jones, *European Journal of Personality*, [Optimism Facilitates the Utilisation of Prior Cues](https://doi.org/10.1002/per.805), first published online 2011-11-01.
+- Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added the paper as a prior-cue/top-down expectation tile in the optimism package. Durable point: in an emotional-face judgment task, dispositional optimism correlated with acquiescence to verbal expectation cues across discrepancy levels, suggesting optimistic cognition may weight prior expectation more strongly when incoming evidence diverges. Access note: SAGE marks the article restricted, and OpenAlex reports closed access/no OA repository copy, so the wiki uses public abstract/metadata only.
+
 ## [2026-06-13] source update | optimistic reinforcement learning
 - Source: `raw/Optimistic_reinforcement_learning_comput.pdf`; Lefebvre, Lebreton, Meyniel, Bourgeois-Gironde, and Palminteri, *Nature Human Behaviour*, [Behavioural and neural characterization of optimistic reinforcement learning](https://doi.org/10.1038/s41562-017-0067), published 2017-03-20; earlier bioRxiv preprint, [Optimistic reinforcement learning: computational and neural bases](https://doi.org/10.1101/038778), posted 2016-02-03.
 - Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
