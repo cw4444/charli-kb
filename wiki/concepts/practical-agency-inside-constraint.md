@@ -3,7 +3,7 @@ title: "Practical Agency Inside Constraint"
 type: concept
 status: draft
 created: 2026-05-20
-updated: 2026-06-08
+updated: 2026-06-13
 sources:
   - ../../themes/rovelli-relational-quantum-mechanics-and-reality.md
   - ../../themes/qbism-adlam-observer-dependent-reality.md
@@ -12,6 +12,7 @@ sources:
   - social-reality-pressure.md
   - ../sources/libet-schurger-readiness-potential-agency.md
   - ../sources/langer-counterclockwise-aging-mindset.md
+  - ../sources/fallon-striatal-action-counting-steering.md
 ---
 
 # Practical Agency Inside Constraint
@@ -72,6 +73,12 @@ Libet-style readiness-potential experiments often get flattened into "your brain
 Aaron Schurger, Sitt, and Dehaene's 2012 accumulator model gives a better caution. In arbitrary self-timed movement tasks, the readiness potential may reflect spontaneous neural fluctuations accumulating toward a threshold, not a completed unconscious decision waiting for consciousness to catch up. Later reviews keep the interpretation open: the readiness potential is real, but it is not a simple meter reading for "the decision has already happened."
 
 This matters for practical agency because meaningful action is not usually "press a button whenever." Agency often involves framing a problem, weighing values, inhibiting impulses, choosing tools, asking for help, retrying after failure, and updating the model. Neural precursors are part of the machinery. They are not automatically a cancellation notice for agency.
+
+## Relation To Striatal Action Counting
+
+Fallon et al. 2026 adds a more concrete action-control bridge. In a mouse lever-press task, direct and indirect striatal pathways dissociably shaped both action counting and physical steering toward goals. The useful lesson is not that mice explain human agency. It is that goal-directed behavior can require progress tracking, spatial correction, sequence continuation, and sequence termination at the same time.
+
+That fits this page's practical frame: agency is not an uncaused spark floating above the system. It is model-guided control inside machinery that can count, steer, inhibit, extend, and correct.
 
 ## Relation To Langer's Counterclockwise Study
 
@@ -153,6 +160,7 @@ This is why [Mechanical World Models](mechanical-world-models.md), [Queryable Or
 - [Queryable Organization](queryable-organization.md)
 - [Cognitive Latency Shock](cognitive-latency-shock.md)
 - [Libet, Schurger, Readiness Potential, And Agency](../sources/libet-schurger-readiness-potential-agency.md)
+- [Fallon et al. - Striatal Action Counting And Goal-Directed Steering](../sources/fallon-striatal-action-counting-steering.md)
 - [Langer Counterclockwise Study And Aging Mindset](../sources/langer-counterclockwise-aging-mindset.md)
 - [Positive Alignment](positive-alignment.md)
 - [Agentic Work Rearchitecture](agentic-work-rearchitecture.md)

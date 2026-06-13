@@ -3,7 +3,7 @@ title: "Neuroscience"
 type: theme
 status: draft
 created: 2026-06-04
-updated: 2026-06-11
+updated: 2026-06-13
 sources:
   - ../../wiki/sources/reality-threshold-dijkstra-batch.md
   - ../../wiki/sources/wadia-shared-code-perception-imagination.md
@@ -15,6 +15,7 @@ sources:
   - ../../wiki/sources/wilson-disengaged-mind-electric-shock.md
   - ../../wiki/sources/kahneman-tversky-judgment-under-uncertainty.md
   - ../../wiki/sources/locus-coeruleus-source-batch.md
+  - ../../wiki/sources/fallon-striatal-action-counting-steering.md
 ---
 
 # Neuroscience
@@ -93,9 +94,12 @@ The useful bridge: a small cue can feel enormous when the system is already prim
 ### How Does Neural Activity Relate To Agency?
 
 - [Libet, Schurger, Readiness Potential, And Agency](../../wiki/sources/libet-schurger-readiness-potential-agency.md)
+- [Fallon et al. - Striatal Action Counting And Goal-Directed Steering](../../wiki/sources/fallon-striatal-action-counting-steering.md)
 - [Practical Agency Inside Constraint](../../wiki/concepts/practical-agency-inside-constraint.md)
 
 This thread keeps neural precursors separate from fatalist storytelling. A readiness potential is not a tiny bureaucrat in the brain who already made every meaningful decision.
+
+Fallon et al. 2026 adds a motor-control version of the same anti-magic point. In mice, direct and indirect striatal pathways dissociably shaped both physical steering and action-count progress in a lever-press task. The useful bridge is that goal-directed behavior can involve counting, steering, continuation, and termination machinery at once. Agency is not an intention blob; it is constrained control in motion.
 
 ### Why Is Unsupported Thought Hard?
 

@@ -4,7 +4,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 
 ## Research Packages
 
-- [Neuroscience](../themes/neuroscience/overview.md): front door for the wiki's neuroscience lane, connecting perception, imagination, belief updating, agency, embodiment, cellular maintenance, and neurodegeneration.
+- [Neuroscience](../themes/neuroscience/overview.md): front door for the wiki's neuroscience lane, connecting perception, imagination, belief updating, agency, embodied action control, cellular maintenance, and neurodegeneration.
 - [AI Consciousness And Model Welfare](../themes/ai-consciousness/overview.md): balanced public-source research package on AI consciousness, model welfare, self-reports, agency, interpretability, moral patienthood, company positions, and skeptical arguments.
 - [AI Consciousness Sources](../sources/ai-consciousness-sources.md): annotated source index and CSV source table for the AI consciousness/model welfare package.
 - [AI Consciousness Concept Map](../maps/ai-consciousness-map.md): Mermaid-backed map separating consciousness, agency, moral patienthood, model welfare, and company positions.
@@ -65,6 +65,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Locus Coeruleus Source Batch](sources/locus-coeruleus-source-batch.md): public-source research note on the brainstem "blue dot" as an LC-noradrenaline state/gain regulator for arousal, salience, task engagement, network reset, memory prioritization, and stress.
 - [Kahneman And Tversky - Judgment Under Uncertainty](sources/kahneman-tversky-judgment-under-uncertainty.md): public-source note on availability, heuristics and biases, prospect theory, focusing illusion, and why felt importance is not evidence.
 - [Moretto et al. - Tau, Axonal Transport, And p38α](sources/moretto-tau-axonal-transport-p38alpha.md): source note on early tau-related axonal transport deficits, enlarged tau envelopes, and p38α inhibition in mouse models.
+- [Fallon et al. - Striatal Action Counting And Goal-Directed Steering](sources/fallon-striatal-action-counting-steering.md): source note on a 2026 Nature Neuroscience mouse study where direct and indirect striatal pathways dissociably control action-count progress and goal-directed steering, with strict access and species caveats.
 - [Representational Geometry In Brains And LLMs](sources/representational-geometry-brains-and-llms.md): source note comparing emotional-state geometry in mouse amygdala with sparse-autoencoder concept geometry in LLMs, with strict boundaries around mechanism and experience.
 - [Trajectory Dynamics In Language Model Hidden States](sources/trajectory-dynamics-hidden-states-reading-costs.md): arXiv source note on hidden-state trajectory extrapolation error predicting human reading-time costs beyond surprisal, with caveats around consciousness and substrate claims.
 - [Psychometric Evaluation Of LLM Self-Narratives](sources/psychometric-evaluation-llm-self-narratives.md): source note on a therapy-role and questionnaire study showing cross-model differences in self-narrative, with strict boundaries against diagnosing machine mental illness.
@@ -116,7 +117,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Fictional Finalism](concepts/fictional-finalism.md): Adlerian bridge concept for imagined future goals or guiding self-ideas that organize present behavior without becoming manifestation claims.
 - [Manifestation As Behavior Modification](concepts/manifestation-as-behavior-modification.md): translation layer for salvaging useful manifestation language as CBT-adjacent behaviour change, positive future rehearsal, attention shaping, and agency without reality-creation claims.
 - [Positive Alignment](concepts/positive-alignment.md): AI-alignment agenda that aims beyond "not unsafe" toward constructive, flourishing-supportive behavioral attractors.
-- [Practical Agency Inside Constraint](concepts/practical-agency-inside-constraint.md): Charli's working interpretation of agency as model-improvement and intervention inside relational, neural, and practical constraint.
+- [Practical Agency Inside Constraint](concepts/practical-agency-inside-constraint.md): Charli's working interpretation of agency as model-improvement and intervention inside relational, neural, striatal action-control, and practical constraint.
 - [Sidequest Prototyping](concepts/sidequest-prototyping.md): low-permission prototypes judged by actual adoption rather than roadmap speculation.
 - [Observer-Dependent Facts (Wigner's Friend / Local Friendliness)](concepts/observer-dependent-facts.md): quantum-mechanics framing where a set of “objective facts” assumptions can’t all hold simultaneously.
 

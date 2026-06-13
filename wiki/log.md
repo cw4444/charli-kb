@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-13] source note | striatal action counting and goal-directed steering
+- Source: Fallon, Roshchina, Hong, Fernandez, Ruan, and Yin, *Nature Neuroscience*, [Striatal pathways dissociably control action counting and goal-directed steering](https://doi.org/10.1038/s41593-026-02330-z), published 2026-06-12.
+- Pages created: [Fallon et al. - Striatal Action Counting And Goal-Directed Steering](sources/fallon-striatal-action-counting-steering.md)
+- Pages updated: [Neuroscience](../themes/neuroscience/overview.md), [Practical Agency Inside Constraint](concepts/practical-agency-inside-constraint.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added the paper as an embodied action-control / basal-ganglia bridge. Durable point from public abstract/metadata: in mice trained on an operant counting task, direct-pathway and indirect-pathway striatal neurons exerted dissociable bidirectional influences on movement steering and press-count progress; population activity scaled with proximity to spatial and numerical goals. Access note: Nature labels the article subscription preview / institutional access, Crossref lists Springer Nature TDM licences, and OpenAlex marks it closed with no repository full text.
+
 ## [2026-06-13] source update | pessimistic anticipation of unknown valence
 - Source: Herwig, Kaffenberger, Baumgartner, and Jäncke, *NeuroImage*, [Neural correlates of a 'pessimistic' attitude when anticipating events of unknown emotional valence](https://doi.org/10.1016/j.neuroimage.2006.09.035), published online 2006-11-16 / print 2007.
 - Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
