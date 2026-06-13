@@ -68,6 +68,11 @@ authors:
   - Tifei Yuan
   - Zhiguo Zhang
   - Xiaoqing Hu
+  - Germain Lefebvre
+  - Maël Lebreton
+  - Florent Meyniel
+  - Sacha Bourgeois-Gironde
+  - Stefano Palminteri
 primary_sources:
   - "Taylor and Brown, Psychological Bulletin, 1988, Illusion and well-being: A social psychological perspective on mental health, https://doi.org/10.1037/0033-2909.103.2.193"
   - "Sharot et al., Nature, 2007, Neural mechanisms mediating optimism bias, https://doi.org/10.1038/nature06280"
@@ -95,6 +100,7 @@ primary_sources:
   - "Singh, Schupbach, Moser, Wiest, Hermans, and Aue, Scientific Reports, 2020, The effect of optimistic expectancies on attention bias: Neural and behavioral correlates, https://doi.org/10.1038/s41598-020-61440-1"
   - "Maruta et al., Healthcare, 2023, Associations between Optimism and Attentional Biases as Measured by Threat-Avoidance and Positive-Search Tasks, https://doi.org/10.3390/healthcare11040617"
   - "Yao et al., Research Square preprint, 2024, Right frontal gamma transcranial alternating current stimulation modulates optimism biases, https://doi.org/10.21203/rs.3.rs-4018820/v1"
+  - "Lefebvre, Lebreton, Meyniel, Bourgeois-Gironde, and Palminteri, Nature Human Behaviour, 2017, Behavioural and neural characterization of optimistic reinforcement learning, https://doi.org/10.1038/s41562-017-0067"
 counterpoint_sources:
   - "Colvin and Block, Psychological Bulletin, 1994, Do positive illusions foster mental health? An examination of the Taylor and Brown formulation, https://doi.org/10.1037/0033-2909.116.1.3"
   - "Taylor and Brown, Psychological Bulletin, 1994, Positive illusions and well-being revisited: separating fact from fiction, https://doi.org/10.1037/0033-2909.116.1.21"
@@ -119,6 +125,7 @@ sources:
   - "Public web research, accessed 2026-06-09"
   - "Public Crossref and PubMed metadata/abstract for PMID 22795698 / PMCID PMC3424419, accessed 2026-06-12"
   - "Research Square preprint page for Yao et al. 2024, accessed 2026-06-13"
+  - "Nature Human Behaviour article page and Crossref metadata for Lefebvre et al. 2017, accessed 2026-06-13"
   - "../../raw/The_effect_of_optimistic_expectancies_on.pdf"
   - "../../raw/Right_frontal_gamma_transcranial_alterna.pdf"
   - "../../raw/Seeing_through_rose_colored_glasses_How.pdf"
@@ -127,6 +134,7 @@ sources:
   - "../../raw/Associations_between_Optimism_and_Attent.pdf"
   - "../../raw/Seeing_the_glass_half_full_A_review_of_t.pdf"
   - "../../raw/Unveiling the neural underpinnings of optimism a systematic review.pdf"
+  - "../../raw/Optimistic_reinforcement_learning_comput.pdf"
 ---
 
 # Optimism Neuroscience Source Batch
@@ -135,7 +143,7 @@ sources:
 
 - Topic: optimism as a cognitive and neural style rather than a manifestation claim
 - Scope: future-event simulation, optimism bias, belief updating, mental imagery interventions, repetitive negative thinking, and sleep/insomnia associations
-- Access note: this page keeps original synthesis and metadata only. It does not reproduce paywalled text. `raw/optimistic-brain.pdf`, `raw/Seeing_the_glass_half_full_A_review_of_t.pdf`, and `raw/Unveiling the neural underpinnings of optimism a systematic review.pdf` are treated as local access-controlled source material. `raw/Optimism, Agency, and Success.pdf`, `raw/Seeing_through_rose_colored_glasses_How.pdf`, `raw/The_effect_of_optimistic_expectancies_on.pdf`, `raw/Right_frontal_gamma_transcranial_alterna.pdf`, and `raw/Associations_between_Optimism_and_Attent.pdf` are open-access PDFs and remain ignored by git with the rest of `raw/`. The Wiley encyclopedia chapter by Kahle Monahan et al. was checked through public abstract/metadata and secondary bibliographic records only, not full-text access. The OxJournal 2024 article is public and useful as a student-style review/source trail, not as primary experimental evidence. The Sharot et al. 2012 dopamine paper was checked through Crossref and PubMed metadata/abstract because Cell's public page was temporarily blocked by browser verification; the PubMed record lists PMCID PMC3424419. Yao et al. 2024 is a Research Square preprint, not a peer-reviewed journal article.
+- Access note: this page keeps original synthesis and metadata only. It does not reproduce paywalled text. `raw/optimistic-brain.pdf`, `raw/Seeing_the_glass_half_full_A_review_of_t.pdf`, and `raw/Unveiling the neural underpinnings of optimism a systematic review.pdf` are treated as local access-controlled source material. `raw/Optimism, Agency, and Success.pdf`, `raw/Seeing_through_rose_colored_glasses_How.pdf`, `raw/The_effect_of_optimistic_expectancies_on.pdf`, `raw/Right_frontal_gamma_transcranial_alterna.pdf`, `raw/Associations_between_Optimism_and_Attent.pdf`, and `raw/Optimistic_reinforcement_learning_comput.pdf` are open-access PDFs and remain ignored by git with the rest of `raw/`. The Wiley encyclopedia chapter by Kahle Monahan et al. was checked through public abstract/metadata and secondary bibliographic records only, not full-text access. The OxJournal 2024 article is public and useful as a student-style review/source trail, not as primary experimental evidence. The Sharot et al. 2012 dopamine paper was checked through Crossref and PubMed metadata/abstract because Cell's public page was temporarily blocked by browser verification; the PubMed record lists PMCID PMC3424419. Yao et al. 2024 is a Research Square preprint, not a peer-reviewed journal article. Lefebvre et al. 2017 is the peer-reviewed version of the local bioRxiv PDF, which used the earlier title *Optimistic reinforcement learning: computational and neural bases*.
 
 ## Core Primary-Source Claims
 
@@ -146,6 +154,10 @@ Sharot et al. 2007 is the classic neural optimism-bias paper. In that study, opt
 Sharot, Korn, and Dolan 2011 shifts the emphasis from imagery to learning. Participants updated beliefs more when new information was better than expected than when it was worse. The paper argues that unrealistic optimism is maintained partly by reduced neural tracking of undesirable information, especially in right inferior frontal gyrus.
 
 Sharot, Guitart-Masip, Korn, Chowdhury, and Dolan 2012 adds the pharmacology tile that was missing from this package. In a belief-updating task, administration of L-DOPA, which enhances dopaminergic function, increased optimism bias by impairing updating from undesirable future information. The useful addition is not simply "dopamine makes people happy." It is narrower: dopamine modulation can make bad-news prediction errors carry less corrective force when people revise beliefs about personal future risks.
+
+Lefebvre, Lebreton, Meyniel, Bourgeois-Gironde, and Palminteri 2017 pushes the same asymmetry down into instrumental reinforcement learning. In a two-armed bandit task with neutral cues and immediate monetary outcomes, participants showed optimistic learning: better-than-expected outcomes carried more updating weight than worse-than-expected outcomes. Their computational model separated positive and negative learning rates, and fMRI linked individual optimistic-learning differences to prediction-error signaling in reward circuitry.
+
+This is the old neurocomputational meaning of reinforcement learning, not the current "RL" shorthand around training AI models. The point is that optimism bias may not be limited to abstract life-event beliefs. It can appear in basic reward learning, where a person updates action values from outcomes. That makes the bridge nastier and more useful: selective good-news updating can live inside low-level value learning, not just inside narrative self-talk. Caveat still welded on: this is a controlled lab task, not proof that optimism always improves decisions, and not evidence that people should blunt learning from bad outcomes.
 
 Dolcos, Hu, Iordan, Moore, and Dolcos 2016 adds a structural brain/anxiety piece. In 61 healthy participants, higher orbitofrontal cortex gray matter volume was associated with higher trait optimism, and trait optimism was associated with lower anxiety symptoms. Their mediation analysis suggested that trait optimism mediated the relation between left OFC volume and anxiety. The useful interpretation is brain-personality-symptom linkage: optimism may be one psychological pathway through which OFC-related resilience shows up. The brake is equally important: this was a small healthy sample with structural MRI and correlational mediation, not proof that optimism training changes OFC volume or cures anxiety.
 
@@ -263,6 +275,7 @@ Taken together, the sources suggest that optimism is not best understood as magi
 - stronger segregation between desirable and undesirable future scenarios
 - selective updating in response to bad news
 - dopaminergic modulation of that selective updating, with L-DOPA reducing belief correction from undesirable information in Sharot et al. 2012
+- optimistic reinforcement learning, where better-than-expected rewards can update learned values more strongly than worse-than-expected outcomes
 - less immersion in repetitive negative loops
 - agency-supporting beliefs that preserve action after setback
 - experimentally induced optimistic expectancies steering visual attention toward reward in Kress et al. 2018
@@ -308,6 +321,12 @@ Dolcos et al. 2016 links higher orbitofrontal cortex gray matter volume with hig
 Sharot et al. 2012 links optimism bias to neuromodulation rather than only regional activation. In the public PubMed abstract, the authors report that L-DOPA increased optimism bias because participants became worse at updating beliefs when given undesirable information about future events. This sits beside the 2011 right-IFG belief-updating result: optimism can persist when bad news carries less model-correction weight, and dopaminergic state appears able to push that asymmetry.
 
 Keep this tight. The paper does not prove that dopamine is "the optimism chemical," that dopaminergic drugs are optimism tools, or that ordinary mood can be reduced to one transmitter. It is a pharmacological clue about asymmetric belief updating, not a lifestyle protocol.
+
+### Optimistic reinforcement learning
+
+Lefebvre et al. 2017 turns the abstract belief-update story into a reward-learning story. Participants learned from immediate monetary outcomes in an instrumental task, and the best-fitting computational account allowed separate learning rates for positive and negative prediction errors. The useful result is that better-than-expected outcomes updated learned values more strongly than worse-than-expected outcomes, while individual differences in that asymmetry tracked reward-circuitry prediction-error signaling in fMRI.
+
+This matters because reinforcement learning here means human value learning from rewards and errors, not modern LLM/RLHF discourse. It says optimism bias may be a general update asymmetry in the machinery that learns what is worth choosing. Do not overcook it. The paper does not show that asymmetric learning is always adaptive, does not remove the need to learn from punishment or loss, and does not make "be optimistic" a universal decision policy.
 
 ### Best possible self imagery
 
@@ -368,6 +387,7 @@ This is exactly where the proof boundary matters. These studies do not show that
 - The literature does not show that optimism means ignoring reality.
 - The literature does not show that all positive illusions are healthy.
 - Sharot et al. 2012 is a pharmacological belief-updating study, not proof that dopamine is the whole mechanism of optimism or that dopaminergic medication should be used to change outlook.
+- Lefebvre et al. 2017 is a human instrumental-learning and fMRI study, not modern AI RL, not a life-coaching rule, and not proof that downweighting negative outcomes is generally adaptive.
 - The literature does not show that vivid positive imagery alone causes broad life improvement.
 - The best-possible-self intervention increased short-term self-reported optimism in a small mostly young female sample. It did not prove long-term personality change, behavior change, or health improvement.
 - Dolcos et al. 2016 is structural/correlational evidence in 61 healthy participants. It does not prove that optimism causes larger OFC volume, that larger OFC volume causes optimism, or that optimism training treats anxiety.
@@ -400,6 +420,7 @@ This is exactly where the proof boundary matters. These studies do not show that
 - Can people be trained to simulate positive futures vividly without also becoming worse at integrating negative evidence?
 - Are OFC/optimism/anxiety links causal, developmental, bidirectional, or downstream of other resilience factors?
 - How do dopamine, IFG error coding, and ACC future simulation interact when optimism bias is adaptive versus under-corrective?
+- When does optimistic reinforcement learning support exploration and persistence, and when does it degrade error correction after losses?
 - When unexpected negative evidence is strongly detected under optimistic expectancies, what decides whether it becomes useful updating or gets regulated away?
 - Is repetitive negative thinking a cause of cognitive decline, an early symptom, or both?
 - Which interventions best shift future thinking: imagery training, attentional control, cognitive reappraisal, behavioral activation, or social context?

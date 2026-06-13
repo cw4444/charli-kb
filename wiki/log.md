@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-13] source update | optimistic reinforcement learning
+- Source: `raw/Optimistic_reinforcement_learning_comput.pdf`; Lefebvre, Lebreton, Meyniel, Bourgeois-Gironde, and Palminteri, *Nature Human Behaviour*, [Behavioural and neural characterization of optimistic reinforcement learning](https://doi.org/10.1038/s41562-017-0067), published 2017-03-20; earlier bioRxiv preprint, [Optimistic reinforcement learning: computational and neural bases](https://doi.org/10.1101/038778), posted 2016-02-03.
+- Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added the paper as the reward-learning bridge for optimism bias. Durable point: in a human instrumental-learning task with monetary outcomes, better-than-expected outcomes updated learned values more strongly than worse-than-expected outcomes, and individual optimistic-learning differences tracked reward-circuitry prediction-error signals. Preserved the acronym boundary: this is cognitive-neuroscience reinforcement learning, not modern LLM RL/RLHF, and it does not prove underlearning negative outcomes is generally adaptive.
+
 ## [2026-06-13] source update | right frontal gamma tACS and optimism bias
 - Source: `raw/Right_frontal_gamma_transcranial_alterna.pdf`; Yao, Wei, Huang, Li, Liang, Zhang, Wu, Yuan, Zhang, and Hu, Research Square preprint, [Right frontal gamma transcranial alternating current stimulation modulates optimism biases](https://doi.org/10.21203/rs.3.rs-4018820/v1), posted 2024-03-12.
 - Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)

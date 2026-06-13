@@ -45,6 +45,8 @@ The 2012 Current Biology follow-up makes this more than a static brain-region st
 
 The same Erthal review makes IFG the second main hub, especially in belief-update tasks. The task structure matters: participants estimate future adverse events, see base-rate statistics, then revise or do not revise their estimate. IFG appears around the salience/error-coding side of that process, particularly when expectations are challenged by undesirable information. So the technical version of the "cheat code" is not just positive imagery. It is also selective evidence weighting, cue processing, and when the system decides bad news is relevant enough to update the model.
 
+Lefebvre et al. 2017 extends the update-asymmetry story into instrumental reinforcement learning. This is RL in the old cognitive/neuroeconomic sense: people choose between options, receive monetary outcomes, and update learned values from prediction errors. In their task, better-than-expected outcomes had more impact on later choices than worse-than-expected outcomes, and fMRI linked individual optimistic-learning differences to reward-circuitry prediction-error signals. The useful bridge is that optimism bias may not be confined to high-level life-event beliefs; it may also appear in lower-level value learning.
+
 ### 3. Trait optimism is linked to OFC structure and lower anxiety symptoms
 
 Dolcos, Hu, Iordan, Moore, and Dolcos 2016 gives the optimism package a structural brain/anxiety anchor. In 61 healthy participants, orbitofrontal cortex gray matter volume was positively associated with trait optimism, trait optimism was negatively associated with anxiety symptoms, and optimism statistically mediated the relation between left OFC volume and anxiety.
@@ -197,6 +199,7 @@ It seems to involve:
 - more vivid, emotionally meaningful simulation of positive futures
 - ACC-linked self-relevant future construction and IFG-linked challenged-belief updating
 - dopaminergic modulation of asymmetric belief updating, with L-DOPA weakening correction from undesirable information in Sharot et al. 2012
+- optimistic reinforcement learning, where better-than-expected rewards can update learned values more strongly than worse-than-expected outcomes
 - direct perturbation evidence from Yao et al. 2024 that right-frontal 40 Hz gamma-tACS may increase delayed optimistic belief updating in a controlled preprint study
 - some short-term trainability through structured Best Possible Self imagery
 - experimentally induced optimistic expectancies guiding attention toward reward in visual search
@@ -235,6 +238,7 @@ The bills still exist. The better version of optimism is not pretending they do 
 - The literature does not yet show that training vivid positive imagery alone reliably produces lasting healthy optimism in everyday life.
 - The 2021 systematic review found only 14 eligible neuroimaging studies; many samples were small, measures were mixed, and the evidence was mostly correlational.
 - The 2012 dopamine paper is useful mechanism evidence, but it does not make dopamine the whole story, justify medication-as-optimism, or erase serotonin, noradrenaline, stress, context, personality, and learning history.
+- The 2017 optimistic reinforcement-learning paper uses human instrumental learning and fMRI, not modern AI RL. It is mechanism evidence about value updating, not proof that optimism is always useful or that negative outcomes should be underweighted.
 - Best Possible Self imagery has short-term intervention evidence, but it is not proof of durable life change or downstream health benefits.
 - The Dolcos et al. OFC result is small-sample structural/correlational evidence. It should not be read as causal proof or treatment advice.
 - The Kotikalapudi et al. VBM result is a proof-of-concept structural study in a soccer competition task. It is useful for personal/social optimism bias, not a universal optimism map.
@@ -269,6 +273,7 @@ The bills still exist. The better version of optimism is not pretending they do 
 
 - What is the best intervention target: imagery vividness, attentional habits, belief updating, or rumination reduction?
 - When does dopamine-supported optimism help agency, and when does it make bad news too easy to shrug off?
+- When does optimistic reinforcement learning preserve exploration and recovery, and when does it make losses too easy to underlearn?
 - When do optimistic expectancies improve opportunity detection, and when do they under-process useful warning signs?
 - When does salience-network detection of unexpected punishment lead to adaptive correction rather than controlled downregulation?
 - Do Best Possible Self effects persist after practice stops, and do they change behavior rather than only self-reported optimism?
