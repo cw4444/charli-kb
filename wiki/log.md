@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-13] source note | noninvasive BCI learning and manifold geometry
+- Source: Busch, Fincke, Lajoie, Krishnaswamy, and Turk-Browne, *Nature Neuroscience*, [Human learning of noninvasive brain-computer interfaces via manifold geometry](https://doi.org/10.1038/s41593-026-02311-2), published 2026-06-09; Nature share link [rdcu.be/fob3N](https://rdcu.be/fob3N).
+- Pages created: [Busch et al. - Noninvasive BCI Learning And Manifold Geometry](sources/busch-noninvasive-bci-manifold-geometry.md)
+- Pages updated: [Representational Geometry](concepts/representational-geometry.md), [Neuroscience](../themes/neuroscience/overview.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added the paper as a BCI / neurofeedback / representational-geometry bridge. Durable point from public abstract/metadata: in a real-time fMRI avatar-control task, participants could relearn perturbed mappings when those mappings followed high-variance directions within the participant's intrinsic neural manifold, but not when mappings went outside that manifold. Access note: the Nature share link worked for metadata, abstract, references, and ReadCube-style access, but OpenAlex marks the work closed and Crossref shows Springer Nature TDM licence terms, so this is not treated as open access. Code/data note: Dryad record is public/CC0; the GitHub repos are public, but several do not declare licences, and T-PHATE has a visible non-commercial GitHub licence despite a Zenodo software archive.
+
 ## [2026-06-13] source note | striatal action counting and goal-directed steering
 - Source: Fallon, Roshchina, Hong, Fernandez, Ruan, and Yin, *Nature Neuroscience*, [Striatal pathways dissociably control action counting and goal-directed steering](https://doi.org/10.1038/s41593-026-02330-z), published 2026-06-12.
 - Pages created: [Fallon et al. - Striatal Action Counting And Goal-Directed Steering](sources/fallon-striatal-action-counting-steering.md)

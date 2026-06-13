@@ -3,10 +3,11 @@ title: "Representational Geometry"
 type: concept
 status: draft
 created: 2026-06-04
-updated: 2026-06-11
+updated: 2026-06-13
 sources:
   - ../sources/representational-geometry-brains-and-llms.md
   - ../sources/trajectory-dynamics-hidden-states-reading-costs.md
+  - ../sources/busch-noninvasive-bci-manifold-geometry.md
 ---
 
 # Representational Geometry
@@ -72,9 +73,17 @@ Barenholtz measures this by fitting a short local trajectory through transformer
 
 The useful lesson is not that language models are tiny human readers in a trench coat. It is that the path through representation space can carry psychologically relevant structure that output probabilities flatten.
 
+## BCI Learning And Reachable Manifolds
+
+[Busch et al. 2026](../sources/busch-noninvasive-bci-manifold-geometry.md) adds a practical neurotechnology version of the same idea. Participants used real-time fMRI to control an avatar in a virtual navigation task, and the authors perturbed the mapping between neural activity and avatar movement.
+
+Participants could regain control when the remapped BCI used high-variance directions inside the person's intrinsic neural manifold. They could not successfully relearn control when the remapping went outside that manifold.
+
+The useful lesson is that geometry can constrain action, not only describe representation. A control interface can be easier or harder to learn depending on whether its axes line up with reachable activity patterns in the user's brain.
+
 ## What Is Not Unified Yet
 
-SAE decoder geometry and biological neural activity geometry are not the same object. One studies learned feature-dictionary vectors in an interpretability tool; the other studies activity states in living neural populations during behavior.
+SAE decoder geometry, biological neural activity geometry, and BCI control-manifold geometry are not the same object. One studies learned feature-dictionary vectors in an interpretability tool; another studies activity states in living neural populations during behavior; another asks which activity directions a person can learn to control through feedback.
 
 The current honest claim is that they share an organizing principle. A stronger claim would need a formal mapping between feature dictionaries, biological population codes, model activation trajectories, and generalization metrics.
 
@@ -95,6 +104,7 @@ It sharpens several existing threads:
 - A linear or specialized readout is not a little inner observer.
 - Similar geometry across systems does not prove similar mechanisms or experiences.
 - Similar trajectory dynamics across model representations and human reading data do not prove shared consciousness.
+- Learnable BCI manifold directions are not mind reading or a general theory of all human learning.
 - Sparse-autoencoder features are useful interpretability objects, not guaranteed natural atoms of thought.
 - Mixed selectivity does not mean individual units are irrelevant.
 - Decodability is not consciousness.
@@ -103,6 +113,7 @@ It sharpens several existing threads:
 
 - [Representational Geometry In Brains And LLMs](../sources/representational-geometry-brains-and-llms.md)
 - [Trajectory Dynamics In Language Model Hidden States](../sources/trajectory-dynamics-hidden-states-reading-costs.md)
+- [Busch et al. - Noninvasive BCI Learning And Manifold Geometry](../sources/busch-noninvasive-bci-manifold-geometry.md)
 - [Can SAE Decoder Geometry And Neural Activity Geometry Be Unified?](../questions/can-sae-decoder-geometry-and-neural-activity-geometry-be-unified.md)
 - [Stefano Fusi](../people/stefano-fusi.md)
 - [Neuroscience](../../themes/neuroscience/overview.md)
