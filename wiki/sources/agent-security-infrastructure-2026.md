@@ -15,6 +15,7 @@ sources:
   - "Abdelnabi and Bagdasarian: AI Agents May Always Fall for Prompt Injections, arXiv:2605.17634, 2026-05-17"
   - "Freitas and Gharib: GenAI-Driven Threat Detection with Microsoft Security Copilot, arXiv:2605.20896v2, 2026-05-22"
   - "Huang, Huang, and Fard: Are AI-assisted Development Tools Immune to Prompt Injection?, arXiv:2603.21642, 2026-03-23"
+  - "Mrinank Sharma Anthropic Safeguards Exit 2026"
 ---
 
 # Agent Security Infrastructure 2026
@@ -128,6 +129,16 @@ That matters for this wiki's agent lane because it treats prompt injection as a 
 Source:
 
 - [Abdelnabi and Bagdasarian: AI Agents May Always Fall for Prompt Injections](https://arxiv.org/abs/2605.17634)
+
+## Safeguards Research As Deployment Boundary
+
+[Mrinank Sharma's February 2026 Anthropic exit](mrinank-sharma-anthropic-safeguards-exit-2026.md) belongs in this source note as context for why safeguards are no longer a quiet back-office topic.
+
+Business Insider reported that Sharma said he had led Anthropic's safeguards research team and that his work included understanding AI sycophancy, reducing AI-assisted bioterrorism risk, putting defenses into production, writing an AI safety case, and studying how AI assistants could distort humanity. Anthropic's Constitutional Classifiers work makes the technical lane concrete: universal jailbreak defense, CBRN-risk filtering, red-teaming, classifier overhead, over-refusal, and production viability.
+
+The later Fable/Mythos access fight turned those questions into a public deployment controversy. A model can be powerful enough to matter, a safeguard can be good enough to justify release in the lab's view, and a government can still decide the residual jailbreak risk is unacceptable. Lovely machinery. Very relaxing.
+
+Careful read: Sharma's resignation is not evidence that he knew about Mythos or Fable specifically. It is evidence that senior safeguards work, moral unease, jailbreak robustness, biothreat risk, and deployment pressure were already publicly connected before the June access suspension.
 
 ## MCP Client Guardrail Differences
 

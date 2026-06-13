@@ -9,6 +9,7 @@ sources:
   - "Anthropic: Statement on the US government directive to suspend access to Fable 5 and Mythos 5, 2026-06-12"
   - "AP: Anthropic says it has taken its latest AI models offline to comply with new export controls, 2026-06-13"
   - "Axios: Trump admin blocks foreign access to Anthropic's most powerful AI, 2026-06-12"
+  - "Mrinank Sharma Anthropic Safeguards Exit 2026"
 ---
 
 # Anthropic Fable And Mythos Access 2026
@@ -54,6 +55,16 @@ The interesting structure:
 
 That last point is the nasty little knot. Anthropic has publicly supported stronger deployment-blocking mechanisms for unsafe frontier models, but objected to this particular directive as opaque and insufficiently grounded in disclosed technical evidence.
 
+## Earlier Safeguards Context
+
+[Mrinank Sharma's February 2026 exit](mrinank-sharma-anthropic-safeguards-exit-2026.md) is now relevant background, but not proof of a private model story.
+
+Sharma said he had led Anthropic's safeguards research team. Public sources tie his Anthropic work to AI sycophancy, defenses against AI-assisted bioterrorism risk, production safeguards, AI safety cases, internal transparency, and a final project on how AI assistants could distort human autonomy. He was also an author on Anthropic's Constitutional Classifiers work, including the January 2026 production-grade jailbreak-defense paper.
+
+That means his departure sits directly in the technical neighborhood of the later Fable/Mythos controversy: jailbreak robustness, monitoring, defense-in-depth, biothreat safeguards, and whether frontier models can be deployed safely enough despite imperfect jailbreak resistance.
+
+Careful read: public evidence does not show that Sharma had Fable 5 or Mythos 5 access, or that his resignation was about those models. It is a retrospective signal about the safeguards lane, not a receipt for inside knowledge.
+
 ## Do Not Overclaim
 
 - Do not say Mythos 5 was generally public. Mythos 5 remained restricted; Fable 5 was the public safeguarded version.
@@ -66,6 +77,7 @@ That last point is the nasty little knot. Anthropic has publicly supported stron
 
 - [AI And Agents 2026 Timeline](../timelines/ai-and-agents-2026.md)
 - [Anthropic AI Exponential Policy 2026](anthropic-ai-exponential-policy-2026.md)
+- [Mrinank Sharma Anthropic Safeguards Exit 2026](mrinank-sharma-anthropic-safeguards-exit-2026.md)
 - [Agent Security Infrastructure 2026](agent-security-infrastructure-2026.md)
 - [AI Character Formation And Persona Safety](../../themes/ai-consciousness/character-formation-and-persona-safety.md)
 

@@ -91,6 +91,11 @@ sources:
   - https://arxiv.org/abs/2605.17634
   - https://arxiv.org/abs/2605.20896
   - https://arxiv.org/abs/2603.21642
+  - ../sources/mrinank-sharma-anthropic-safeguards-exit-2026.md
+  - https://www.businessinsider.com/read-exit-letter-by-an-anthropic-ai-safety-leader-2026-2
+  - https://www.anthropic.com/news/constitutional-classifiers
+  - https://arxiv.org/abs/2601.04603
+  - https://arxiv.org/abs/2601.19062
 ---
 
 # AI And Agents 2026 Timeline
@@ -122,6 +127,7 @@ The first half of 2026 already shows several converging threads:
 - Karpathy's LLM Wiki pattern gave this repo a direct structural ancestor.
 - Karpathy then joined Anthropic's pre-training team.
 - Anthropic paired its constitution/model-welfare/character-formation lane with major compute access from SpaceX/Colossus.
+- Mrinank Sharma publicly left Anthropic after leading safeguards-linked work around jailbreak robustness, AI-assisted bioterrorism defenses, sycophancy, production safeguards, and human-disempowerment risks. In hindsight, this belongs beside the later Fable/Mythos access fight, but only as safeguards context, not proof of private model knowledge.
 - OpenAI launched a dedicated Deployment Company, including the planned acquisition of Tomoro and about 150 deployment specialists, making workflow redesign around AI an explicit frontier-lab business lane.
 - Anthropic's Project Glasswing and public vulnerability-disclosure dashboard showed frontier models moving from cyber demos into operational vulnerability discovery, disclosure, triage, and patching pipelines.
 - Robinhood launched public consumer finance surfaces for third-party AI agents, including dedicated agentic trading accounts and agent-connected virtual credit cards.
@@ -175,6 +181,21 @@ Why it matters: Anthropic is not only saying "do not do bad things." It is shapi
 Source:
 
 - [Anthropic: Claude's constitution](https://www.anthropic.com/constitution)
+
+### 2026-02-09 - Mrinank Sharma leaves Anthropic's safeguards lane with public warning
+
+Mrinank Sharma publicly posted that 2026-02-09 was his last day at Anthropic and shared the letter he had sent to colleagues. Business Insider reported the same day that Sharma said he had led Anthropic's safeguards research team. In the letter, he described work on AI sycophancy, defenses against AI-assisted bioterrorism, production defenses, one of the first AI safety cases, internal transparency, and a final project on how AI assistants could make humans less human or distort humanity.
+
+Why it matters: this is a useful pre-Fable/Mythos signal from the exact technical neighborhood that later became public: jailbreak robustness, biothreat safeguards, model misuse, monitoring, over-refusal, and production deployment. Anthropic's Constitutional Classifiers work shows that this was not generic safety branding; it was a concrete attempt to make powerful models deployable under risk thresholds.
+
+Careful read: do not say Sharma knew about Fable 5 or Mythos 5, or that his resignation was about those models. Public sources do not show that. The durable point is narrower: a safeguards researcher publicly left with a values/peril warning months before Anthropic's biggest safeguards-and-access fight became public.
+
+Sources:
+
+- [Mrinank Sharma Anthropic Safeguards Exit 2026](../sources/mrinank-sharma-anthropic-safeguards-exit-2026.md)
+- [Business Insider: Read an Anthropic AI safety lead's exit letter](https://www.businessinsider.com/read-exit-letter-by-an-anthropic-ai-safety-leader-2026-2)
+- [Anthropic: Constitutional Classifiers](https://www.anthropic.com/news/constitutional-classifiers)
+- [arXiv: Constitutional Classifiers++](https://arxiv.org/abs/2601.04603)
 
 ### 2026-02-13 - GPT-4o retired from ChatGPT
 
