@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-13] source update | attention bias modification training and optimism bias
+- Source: Kress and Aue, *Frontiers in Human Neuroscience*, [Learning to Look at the Bright Side of Life: Attention Bias Modification Training Enhances Optimism Bias](https://doi.org/10.3389/fnhum.2019.00222), 2019.
+- Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added the ABM training tile that was missing from the attention/optimism ladder. Durable point: in a two-week daily online study with 149 participants, training attention toward accepting faces among rejecting faces increased comparative optimism bias compared with neutral flower control training. Access check: gold open access via Frontiers, PubMed Central, DOAJ, and OpenAlex under CC-BY. Caveat: questionnaire-measured comparative optimism bias, not proof of durable clinical benefit or a universal optimism-training protocol.
+
 ## [2026-06-13] source update | active inference model of optimism bias
 - Source: Fisher, Whyte, and Hohwy, [bethfisher-hub/optimism_simulations](https://github.com/bethfisher-hub/optimism_simulations), public GitHub repository for *An Active Inference Model of the Optimism Bias*, created 2024-05-28 and last pushed 2024-06-02.
 - Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)

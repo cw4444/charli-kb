@@ -130,6 +130,10 @@ Kress, Bristle, and Aue 2018 is the paper with the cheerful title and the useful
 
 That matters because it gives a plausible attention route for selective updating. If optimistic expectancies make reward or good-news evidence easier to find or linger on, then belief updating is not fed an evenly processed evidence stream. The "bad news does not update as much" result may partly come from bad news receiving less attention in the first place. Delightful. The brain has found another way to mark its own homework.
 
+Kress and Aue 2019 tests the reverse direction with attention-bias modification training. Over two weeks, 149 participants completed daily online visual-search training. The ABM group repeatedly selected accepting faces among rejecting faces; the control group trained on neutral flower stimuli. Comparative state optimism bias was measured before training and after one and two weeks. The positive-social ABM group showed increased comparative optimism bias, while the neutral control group did not.
+
+That turns ABM from "plausible intervention route" into a specific optimism-bias training result. Still, it is not the whole story. The outcome was comparative optimism bias by questionnaire, the training was online, and the paper does not prove durable clinical benefit or broad trait change. It says attention training can move one optimism-bias measure under controlled conditions. Good tile. Not a cathedral.
+
 Singh, Schupbach, Moser, Wiest, Hermans, and Aue 2020 adds the neural follow-up. In an fMRI version of the same gain/loss visual-search design, 50 healthy participants reacted faster to expected than unexpected targets, and that congruency effect was stronger for optimistic gain cues than pessimistic loss cues. Unexpected information recruited salience and executive-control networks, including anterior insula, dorsal ACC/SMA, IFG, and parietal cortex, with stronger asymmetry after optimistic expectancies.
 
 The useful caveat is excellent: unexpected punishment after optimism was not simply ignored. It was strongly processed as a salient expectancy violation. The possible mechanism is that strong reward predictions automatically guide attention toward reward, while later control processes may reduce the salience of disconfirming punishment. So optimism maintenance may involve both surprise detection and selective regulation, not just skipping merrily past the warning sign like an idiot in a musical.
@@ -211,6 +215,7 @@ It seems to involve:
 - direct perturbation evidence from Yao et al. 2024 that right-frontal 40 Hz gamma-tACS may increase delayed optimistic belief updating in a controlled preprint study
 - some short-term trainability through structured Best Possible Self imagery
 - experimentally induced optimistic expectancies guiding attention toward reward in visual search
+- two-week attention-bias modification training increasing comparative optimism bias
 - salience/executive-control network activity when optimistic expectancies are violated by unexpected punishment
 - prior-cue utilisation, where optimistic participants may rely longer on expectation cues when sensory evidence diverges
 - active-inference simulation work that treats optimism bias as precision over positive outcomes
@@ -253,6 +258,7 @@ The bills still exist. The better version of optimism is not pretending they do 
 - The Dolcos et al. OFC result is small-sample structural/correlational evidence. It should not be read as causal proof or treatment advice.
 - The Kotikalapudi et al. VBM result is a proof-of-concept structural study in a soccer competition task. It is useful for personal/social optimism bias, not a universal optimism map.
 - The Kress et al. attention result uses short-term gain/loss expectancy cues in student samples. It supports a mechanism hypothesis for selective updating, not a sweeping everyday claim that optimism makes people ignore all negative evidence.
+- The Kress and Aue 2019 ABM result supports trainable comparative optimism bias after positive-social attention training, not durable clinical improvement or a universal optimism-training protocol.
 - The Singh et al. fMRI result uses immediate monetary reward/punishment expectancies in healthy participants. It supports a neural mechanism for expectancy-attention interaction, not a direct map of life-scale optimism about health, relationships, or work.
 - The Morton et al. prior-cue result uses emotional-face judgments and verbal cues. It supports a top-down expectation-weighting clue, not a broad claim that optimists ignore sensory evidence.
 - The Fisher/Whyte/Hohwy active-inference source is currently a public software repository, not a DOI-indexed article found in this pass. Treat it as a computational model/source trail, not peer-reviewed empirical evidence.
@@ -296,6 +302,7 @@ The bills still exist. The better version of optimism is not pretending they do 
 - Are OFC/optimism/anxiety associations causal, bidirectional, developmental, or markers of broader resilience?
 - Can people train opportunity-detection without becoming credulous or overconfident?
 - Does attention bias modification increase optimism through attention change itself, or through mood, self-esteem, interpretation, comparison, or repeated practice?
+- Do Kress and Aue's ABM effects survive after training stops, generalize to behavior, or interact with trait optimism and pessimism differently?
 - Can counterfactual gratitude help pessimists recalibrate threat prediction without suppressing useful caution?
 - Which optimism biases are primarily motivational, which are attentional, and which are strongly bodily/vestibular or interoceptive?
 - In sleep research, does optimism predict better future sleep after depression, health, stress, and baseline sleep are handled properly?
