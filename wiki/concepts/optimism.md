@@ -3,7 +3,7 @@ title: "Optimism"
 type: concept
 status: draft
 created: 2026-05-12
-updated: 2026-06-12
+updated: 2026-06-13
 sources:
   - ../sources/optimism-neuroscience-source-batch.md
   - ../sources/kahneman-tversky-judgment-under-uncertainty.md
@@ -67,6 +67,8 @@ The vestibular-stimulation result from McKay et al. is the wonderfully rude body
 
 Hecht's 2013 narrative review belongs beside that embodied thread. It argues that optimism and pessimism may relate to broad lateralized approach/withdrawal, self-evaluation, and body-state systems, with left-hemisphere active-confidence and right-hemisphere watchful-pessimism tendencies. Useful as a hypothesis map; dangerous as pub-science if boiled down to "left brain good, right brain sad." The adult version is that body state, action readiness, self-appraisal, and hemispheric asymmetries may all lean on optimism/pessimism.
 
+Yao et al.'s 2024 Research Square preprint adds the University of Hong Kong / Shenzhen brain-stimulation version, because apparently optimism needed more syllables. In a single-blind, sham-controlled study, right-frontal 40 Hz gamma transcranial alternating current stimulation did not simply erase bad news, but it did increase delayed optimistic belief updating after 24 hours compared with sham and individualized-alpha stimulation. The useful point is controlled perturbation: optimism bias may be frequency- and region-sensitive in belief-updating machinery. The boring-but-vital point is that this is a preprint in young healthy participants, not a treatment, not a home protocol, and not permission to start seasoning your frontal cortex like soup.
+
 Richard Wiseman's newspaper task is the attention version of the same point. People who saw themselves as lucky were more likely to notice large unexpected messages embedded in a boring counting task, including the answer and a reward prompt. The useful lesson is not "luck is magic." It is that expectation can change what a person is open enough to notice. A narrow, anxious, unlucky-frame search can miss an opportunity sitting in the middle of the page like an idiot sign with a megaphone.
 
 Charli's pessimist-friendly gratitude practice belongs here too: notice the bad things that could have happened today and did not. This is not toxic positivity. It is counterfactual attention. The threat-scanning brain is allowed to stay realistic, but it has to count the avoided harms as part of the evidence.
@@ -92,6 +94,7 @@ Ellen Langer's counterclockwise aging study belongs on the outer edge of this co
 - `Best possible self imagery`: a short future-imagery intervention that can raise self-reported optimism in controlled studies.
 - `ACC/IFG split`: rough neuroimaging distinction between self-relevant future construction and challenged-belief updating.
 - `Dopamine and bad-news updating`: L-DOPA evidence that dopamine modulation can increase optimism bias by weakening belief updating from undesirable information.
+- `Gamma-tACS modulation`: preprint evidence that right-frontal 40 Hz stimulation can increase delayed optimistic belief updating under lab conditions.
 - `Counterfactual gratitude`: noticing bad outcomes that did not occur, without pretending everything is fine.
 - `Embodied belief updating`: bodily systems such as vestibular input can perturb risk estimates and self-evaluation.
 - `Lateralization hypothesis`: older narrative-review evidence links optimism/pessimism to hemispheric approach-withdrawal and self-evaluation patterns, but this must not become cartoon left-brain/right-brain talk.

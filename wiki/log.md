@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-13] source update | right frontal gamma tACS and optimism bias
+- Source: `raw/Right_frontal_gamma_transcranial_alterna.pdf`; Yao, Wei, Huang, Li, Liang, Zhang, Wu, Yuan, Zhang, and Hu, Research Square preprint, [Right frontal gamma transcranial alternating current stimulation modulates optimism biases](https://doi.org/10.21203/rs.3.rs-4018820/v1), posted 2024-03-12.
+- Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added the University of Hong Kong / Shenzhen tACS preprint as a direct perturbation tile for optimism-bias belief updating. Durable point: in 93 included young healthy participants, all groups showed classic optimism bias, but right-frontal 40 Hz gamma-tACS increased delayed optimistic belief updating after 24 hours compared with sham and individualized-alpha stimulation. Preserved the brake: preprint, single-blind, single session, young local-university sample, lab task, not clinical evidence and absolutely not a DIY brain-stimulation protocol.
+
 ## [2026-06-13] source note | Mrinank Sharma safeguards exit context
 - Sources: `raw/mrinank.png`; Business Insider, [Read an Anthropic AI safety lead's exit letter](https://www.businessinsider.com/read-exit-letter-by-an-anthropic-ai-safety-leader-2026-2), 2026-02-09; Anthropic, [Constitutional Classifiers](https://www.anthropic.com/news/constitutional-classifiers), 2025-02-03; Cunningham et al., [Constitutional Classifiers++](https://arxiv.org/abs/2601.04603), arXiv, 2026-01-08; Sharma et al., [Who's in Charge? Disempowerment Patterns in Real-World LLM Usage](https://arxiv.org/abs/2601.19062), arXiv, 2026-01-27.
 - Pages created: [Mrinank Sharma Anthropic Safeguards Exit 2026](sources/mrinank-sharma-anthropic-safeguards-exit-2026.md)

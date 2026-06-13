@@ -3,7 +3,7 @@ title: "Optimism Neuroscience Source Batch"
 type: source
 status: draft
 created: 2026-05-12
-updated: 2026-06-12
+updated: 2026-06-13
 source_type: public-research-batch
 authors:
   - Sanda Dolcos
@@ -58,6 +58,16 @@ authors:
   - Dominik A. Moser
   - Roland Wiest
   - Erno J. Hermans
+  - Ziqing Yao
+  - Jinwen Wei
+  - Gan Huang
+  - Linling Li
+  - Zhen Liang
+  - Li Zhang
+  - Haiyan Wu
+  - Tifei Yuan
+  - Zhiguo Zhang
+  - Xiaoqing Hu
 primary_sources:
   - "Taylor and Brown, Psychological Bulletin, 1988, Illusion and well-being: A social psychological perspective on mental health, https://doi.org/10.1037/0033-2909.103.2.193"
   - "Sharot et al., Nature, 2007, Neural mechanisms mediating optimism bias, https://doi.org/10.1038/nature06280"
@@ -84,6 +94,7 @@ primary_sources:
   - "Kress, Bristle, and Aue, PLOS ONE, 2018, Seeing through rose-colored glasses: How optimistic expectancies guide visual attention, https://doi.org/10.1371/journal.pone.0193311"
   - "Singh, Schupbach, Moser, Wiest, Hermans, and Aue, Scientific Reports, 2020, The effect of optimistic expectancies on attention bias: Neural and behavioral correlates, https://doi.org/10.1038/s41598-020-61440-1"
   - "Maruta et al., Healthcare, 2023, Associations between Optimism and Attentional Biases as Measured by Threat-Avoidance and Positive-Search Tasks, https://doi.org/10.3390/healthcare11040617"
+  - "Yao et al., Research Square preprint, 2024, Right frontal gamma transcranial alternating current stimulation modulates optimism biases, https://doi.org/10.21203/rs.3.rs-4018820/v1"
 counterpoint_sources:
   - "Colvin and Block, Psychological Bulletin, 1994, Do positive illusions foster mental health? An examination of the Taylor and Brown formulation, https://doi.org/10.1037/0033-2909.116.1.3"
   - "Taylor and Brown, Psychological Bulletin, 1994, Positive illusions and well-being revisited: separating fact from fiction, https://doi.org/10.1037/0033-2909.116.1.21"
@@ -107,7 +118,9 @@ sources:
   - "Public web research, accessed 2026-06-08"
   - "Public web research, accessed 2026-06-09"
   - "Public Crossref and PubMed metadata/abstract for PMID 22795698 / PMCID PMC3424419, accessed 2026-06-12"
+  - "Research Square preprint page for Yao et al. 2024, accessed 2026-06-13"
   - "../../raw/The_effect_of_optimistic_expectancies_on.pdf"
+  - "../../raw/Right_frontal_gamma_transcranial_alterna.pdf"
   - "../../raw/Seeing_through_rose_colored_glasses_How.pdf"
   - "../../raw/optimistic-brain.pdf"
   - "../../raw/Optimism, Agency, and Success.pdf"
@@ -122,7 +135,7 @@ sources:
 
 - Topic: optimism as a cognitive and neural style rather than a manifestation claim
 - Scope: future-event simulation, optimism bias, belief updating, mental imagery interventions, repetitive negative thinking, and sleep/insomnia associations
-- Access note: this page keeps original synthesis and metadata only. It does not reproduce paywalled text. `raw/optimistic-brain.pdf`, `raw/Seeing_the_glass_half_full_A_review_of_t.pdf`, and `raw/Unveiling the neural underpinnings of optimism a systematic review.pdf` are treated as local access-controlled source material. `raw/Optimism, Agency, and Success.pdf`, `raw/Seeing_through_rose_colored_glasses_How.pdf`, `raw/The_effect_of_optimistic_expectancies_on.pdf`, and `raw/Associations_between_Optimism_and_Attent.pdf` are open-access PDFs and remain ignored by git with the rest of `raw/`. The Wiley encyclopedia chapter by Kahle Monahan et al. was checked through public abstract/metadata and secondary bibliographic records only, not full-text access. The OxJournal 2024 article is public and useful as a student-style review/source trail, not as primary experimental evidence. The Sharot et al. 2012 dopamine paper was checked through Crossref and PubMed metadata/abstract because Cell's public page was temporarily blocked by browser verification; the PubMed record lists PMCID PMC3424419.
+- Access note: this page keeps original synthesis and metadata only. It does not reproduce paywalled text. `raw/optimistic-brain.pdf`, `raw/Seeing_the_glass_half_full_A_review_of_t.pdf`, and `raw/Unveiling the neural underpinnings of optimism a systematic review.pdf` are treated as local access-controlled source material. `raw/Optimism, Agency, and Success.pdf`, `raw/Seeing_through_rose_colored_glasses_How.pdf`, `raw/The_effect_of_optimistic_expectancies_on.pdf`, `raw/Right_frontal_gamma_transcranial_alterna.pdf`, and `raw/Associations_between_Optimism_and_Attent.pdf` are open-access PDFs and remain ignored by git with the rest of `raw/`. The Wiley encyclopedia chapter by Kahle Monahan et al. was checked through public abstract/metadata and secondary bibliographic records only, not full-text access. The OxJournal 2024 article is public and useful as a student-style review/source trail, not as primary experimental evidence. The Sharot et al. 2012 dopamine paper was checked through Crossref and PubMed metadata/abstract because Cell's public page was temporarily blocked by browser verification; the PubMed record lists PMCID PMC3424419. Yao et al. 2024 is a Research Square preprint, not a peer-reviewed journal article.
 
 ## Core Primary-Source Claims
 
@@ -157,6 +170,12 @@ This belongs beside the Sharot belief-updating work because it offers a plausibl
 Singh, Schupbach, Moser, Wiest, Hermans, and Aue 2020 is the fMRI sequel to that attention bridge. Using the same visual-search design as Kress et al.'s non-social letter experiment, the study scanned 50 healthy participants while gain/loss cues induced optimistic or pessimistic expectancies. Participants responded faster to expected than unexpected targets, and the congruency effect was stronger for optimistic gain cues than pessimistic loss cues. Incongruent information recruited salience and executive-control network regions, including anterior insula, dorsal ACC/SMA, IFG, and parietal cortex, with stronger effects after optimistic than pessimistic expectancies.
 
 The useful twist is not "optimists ignore bad news." The paper argues that unexpected punishment after optimistic expectancies is strongly processed as a salient prediction violation. The possible maintenance mechanism is subtler: strong reward predictions may automatically guide attention toward reward, while later controlled attention may reduce the salience of unexpected punishment so that optimistic expectancies are not revised as much. This adds a neural-network layer to the Kress 2018 behavioral result and the Sharot 2011/2012 updating results.
+
+Yao, Wei, Huang, Li, Liang, Zhang, Wu, Yuan, Zhang, and Hu 2024 adds the most aggressively academic-sounding intervention tile so far. In the Research Square preprint *Right frontal gamma transcranial alternating current stimulation modulates optimism biases*, the team used a single-blind, sham-controlled, between-subjects design with 110 recruited local university participants and 93 included after exclusions: 31 individualized-alpha-frequency tACS, 31 40 Hz gamma-tACS, and 31 sham. Participants completed a Sharot-style adverse-life-event belief-update task before stimulation, immediately after stimulation, and again about 24 hours later.
+
+All groups showed the classic optimism-bias pattern: stronger updating from desirable than undesirable feedback. The striking result was delayed. Compared with sham and alpha stimulation, right-frontal 40 Hz gamma-tACS increased optimistic belief updating after 24 hours, while EEG analyses suggested increased 30-50 Hz gamma power during desirable-feedback processing immediately after stimulation. The authors interpret this as frequency-specific modulation of long-term optimistic belief updating, possibly requiring offline processing to show its behavioral effect.
+
+This is useful because it gives the optimism package a direct non-invasive brain-stimulation tile beside Sharot's dopamine manipulation, McKay's vestibular perturbation, and the Kress/Singh attention route. But keep the brakes welded on. This is a preprint, single-blind rather than double-blind, young local-university sample, single tACS session, delayed behavioral effect, and not a clinical intervention. It does not prove optimism can be safely tuned in everyday life, does not justify DIY stimulation, and does not show durable mental-health benefit. It says right-frontal gamma stimulation may modulate the machinery of belief updating under controlled conditions. Ridiculously complex way to say "the custard has dials," but here we are.
 
 Yanagisawa et al. 2025 adds a newer angle: more optimistic people showed more similar neural representations when imagining future events, especially in medial prefrontal cortex. The study also found a clearer neural separation between positive and negative future events in more optimistic individuals than in less optimistic individuals.
 
@@ -248,6 +267,7 @@ Taken together, the sources suggest that optimism is not best understood as magi
 - agency-supporting beliefs that preserve action after setback
 - experimentally induced optimistic expectancies steering visual attention toward reward in Kress et al. 2018
 - salience/executive-control network evidence that unexpected punishment is strongly processed after optimistic expectancies, but may still be downregulated or under-integrated
+- right-frontal 40 Hz gamma-tACS preprint evidence that optimistic belief updating may be increased after a 24-hour delay under controlled stimulation conditions
 - attentional openness to unexpected opportunity
 - no simple cross-sectional association between trait optimism and dot-probe / positive-search attentional-bias indices in Maruta et al. 2023
 - bodily perturbation of risk belief and self-evaluation

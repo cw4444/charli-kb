@@ -3,7 +3,7 @@ title: "Research - Optimism"
 type: question
 status: draft
 created: 2026-05-12
-updated: 2026-06-12
+updated: 2026-06-13
 question: "What does public neuroscience and adjacent cognitive research suggest about optimism?"
 sources:
   - ../sources/optimism-neuroscience-source-batch.md
@@ -156,6 +156,12 @@ Use this as embodied cognition evidence, not as a life hack. The point is that o
 
 Hecht 2013 is the older broad-map paper adjacent to this. It reviews optimism, pessimism, depression, anosognosia, self-esteem, embodied cognition, posture/gaze/body feedback, and hemispheric lateralization. The useful version is that optimism and pessimism may relate to approach-withdrawal, self-evaluation, and body-state systems. The dangerous version is cartoon hemisphere talk. Keep it as a source trail and hypothesis map, not as the main evidence spine.
 
+Yao et al. 2024 is the newer "make optimism sound like a haunted engineering manual" entry: *Right frontal gamma transcranial alternating current stimulation modulates optimism biases*. In this Research Square preprint, 93 young healthy participants completed a belief-update task before, immediately after, and 24 hours after a single session of right-frontal stimulation. The groups received individualized-alpha-frequency tACS, 40 Hz gamma-tACS, or sham stimulation.
+
+The finding worth keeping is delayed and specific. All groups showed optimism bias, but 40 Hz gamma-tACS increased optimistic belief updating after 24 hours compared with sham and alpha stimulation. The authors also report increased 30-50 Hz gamma power during desirable-feedback processing after 40 Hz stimulation, which fits their interpretation that right-frontal gamma activity may support positive-information integration or delayed belief-update consolidation.
+
+The caveat is not optional. This is a preprint, single-blind, young local-university sample, single session, lab belief-update task, and not clinical evidence. It belongs in the wiki because it is a direct perturbation of the belief-updating machinery, not because anyone should go shopping for a brain zapper like an idiot with Amazon Prime.
+
 ### 13. Optimism is linked with lower insomnia risk, but the causal arrow is not settled
 
 Weitzer et al. 2021 studied 1,004 adults in the Austrian Sleep Survey. Dispositional optimism was measured with the Life Orientation Test-Revised, and chronic insomnia was assessed using several definitions based on ICSD-3 criteria.
@@ -191,6 +197,7 @@ It seems to involve:
 - more vivid, emotionally meaningful simulation of positive futures
 - ACC-linked self-relevant future construction and IFG-linked challenged-belief updating
 - dopaminergic modulation of asymmetric belief updating, with L-DOPA weakening correction from undesirable information in Sharot et al. 2012
+- direct perturbation evidence from Yao et al. 2024 that right-frontal 40 Hz gamma-tACS may increase delayed optimistic belief updating in a controlled preprint study
 - some short-term trainability through structured Best Possible Self imagery
 - experimentally induced optimistic expectancies guiding attention toward reward in visual search
 - salience/executive-control network activity when optimistic expectancies are violated by unexpected punishment
