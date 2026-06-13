@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-13] source update | pessimistic anticipation of unknown valence
+- Source: Herwig, Kaffenberger, Baumgartner, and Jäncke, *NeuroImage*, [Neural correlates of a 'pessimistic' attitude when anticipating events of unknown emotional valence](https://doi.org/10.1016/j.neuroimage.2006.09.035), published online 2006-11-16 / print 2007.
+- Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added the paper as the pessimistic-anticipation counterweight in the optimism package. Durable point: in an fMRI anticipation task, unknown emotional valence recruited activity more similar to unpleasant than pleasant anticipation, including bilateral insula, right IFG, medial thalamus, and red nucleus, with worse mood ratings associated with higher activity. Access note: PubMed/citation metadata exist, Europe PMC marks no OA/full text, OpenAlex marks ScienceDirect as bronze OA and sees University of Bern/BORIS repository metadata, so the wiki uses public metadata/abstract only unless Charli's private PDF remains in `raw/`.
+
 ## [2026-06-13] source update | attention bias modification training and optimism bias
 - Source: Kress and Aue, *Frontiers in Human Neuroscience*, [Learning to Look at the Bright Side of Life: Attention Bias Modification Training Enhances Optimism Bias](https://doi.org/10.3389/fnhum.2019.00222), 2019.
 - Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)

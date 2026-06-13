@@ -81,6 +81,10 @@ authors:
   - Elizabeth L. Fisher
   - Christopher J. Whyte
   - Jakob Hohwy
+  - Uwe Herwig
+  - Tina Kaffenberger
+  - Thomas Baumgartner
+  - Lutz Jäncke
 primary_sources:
   - "Taylor and Brown, Psychological Bulletin, 1988, Illusion and well-being: A social psychological perspective on mental health, https://doi.org/10.1037/0033-2909.103.2.193"
   - "Sharot et al., Nature, 2007, Neural mechanisms mediating optimism bias, https://doi.org/10.1038/nature06280"
@@ -111,6 +115,7 @@ primary_sources:
   - "Yao et al., Research Square preprint, 2024, Right frontal gamma transcranial alternating current stimulation modulates optimism biases, https://doi.org/10.21203/rs.3.rs-4018820/v1"
   - "Lefebvre, Lebreton, Meyniel, Bourgeois-Gironde, and Palminteri, Nature Human Behaviour, 2017, Behavioural and neural characterization of optimistic reinforcement learning, https://doi.org/10.1038/s41562-017-0067"
   - "Morton, El-Deredy, Morton, Elliott, and Jones, European Journal of Personality, 2011, Optimism Facilitates the Utilisation of Prior Cues, https://doi.org/10.1002/per.805"
+  - "Herwig, Kaffenberger, Baumgartner, and Jäncke, NeuroImage, 2007, Neural correlates of a 'pessimistic' attitude when anticipating events of unknown emotional valence, https://doi.org/10.1016/j.neuroimage.2006.09.035"
 counterpoint_sources:
   - "Colvin and Block, Psychological Bulletin, 1994, Do positive illusions foster mental health? An examination of the Taylor and Brown formulation, https://doi.org/10.1037/0033-2909.116.1.3"
   - "Taylor and Brown, Psychological Bulletin, 1994, Positive illusions and well-being revisited: separating fact from fiction, https://doi.org/10.1037/0033-2909.116.1.21"
@@ -141,6 +146,7 @@ sources:
   - "SAGE article page, Crossref metadata, and OpenAlex access metadata for Morton et al. 2011, accessed 2026-06-13"
   - "Public GitHub repository and GitHub API metadata for Fisher, Whyte, and Hohwy optimism_simulations, accessed 2026-06-13"
   - "Frontiers, Crossref, OpenAlex, and PubMed/PMC metadata for Kress and Aue 2019, accessed 2026-06-13"
+  - "Crossref, OpenAlex, Europe PMC, PubMed citation metadata, and University of Bern/BORIS abstract metadata for Herwig et al. 2007, accessed 2026-06-13"
   - "../../raw/The_effect_of_optimistic_expectancies_on.pdf"
   - "../../raw/Right_frontal_gamma_transcranial_alterna.pdf"
   - "../../raw/Seeing_through_rose_colored_glasses_How.pdf"
@@ -158,7 +164,7 @@ sources:
 
 - Topic: optimism as a cognitive and neural style rather than a manifestation claim
 - Scope: future-event simulation, optimism bias, belief updating, mental imagery interventions, repetitive negative thinking, and sleep/insomnia associations
-- Access note: this page keeps original synthesis and metadata only. It does not reproduce paywalled text. `raw/optimistic-brain.pdf`, `raw/Seeing_the_glass_half_full_A_review_of_t.pdf`, and `raw/Unveiling the neural underpinnings of optimism a systematic review.pdf` are treated as local access-controlled source material. `raw/Optimism, Agency, and Success.pdf`, `raw/Seeing_through_rose_colored_glasses_How.pdf`, `raw/The_effect_of_optimistic_expectancies_on.pdf`, `raw/Right_frontal_gamma_transcranial_alterna.pdf`, `raw/Associations_between_Optimism_and_Attent.pdf`, and `raw/Optimistic_reinforcement_learning_comput.pdf` are open-access PDFs and remain ignored by git with the rest of `raw/`. Kress and Aue 2019 is gold open access via Frontiers, PubMed Central, DOAJ, and OpenAlex, with a CC-BY license. The Wiley encyclopedia chapter by Kahle Monahan et al. was checked through public abstract/metadata and secondary bibliographic records only, not full-text access. The OxJournal 2024 article is public and useful as a student-style review/source trail, not as primary experimental evidence. The Sharot et al. 2012 dopamine paper was checked through Crossref and PubMed metadata/abstract because Cell's public page was temporarily blocked by browser verification; the PubMed record lists PMCID PMC3424419. Yao et al. 2024 is a Research Square preprint, not a peer-reviewed journal article. Lefebvre et al. 2017 is the peer-reviewed version of the local bioRxiv PDF, which used the earlier title *Optimistic reinforcement learning: computational and neural bases*. Morton et al. 2011 is restricted access on the SAGE landing page, and OpenAlex did not find an open-access repository copy; this wiki uses public abstract/metadata only. Fisher, Whyte, and Hohwy's active-inference optimism source was found as a public GitHub repository, not as an indexed DOI-bearing article; no repository license was declared, so treat the code as visible source material rather than freely reusable code.
+- Access note: this page keeps original synthesis and metadata only. It does not reproduce paywalled text. `raw/optimistic-brain.pdf`, `raw/Seeing_the_glass_half_full_A_review_of_t.pdf`, and `raw/Unveiling the neural underpinnings of optimism a systematic review.pdf` are treated as local access-controlled source material. `raw/Optimism, Agency, and Success.pdf`, `raw/Seeing_through_rose_colored_glasses_How.pdf`, `raw/The_effect_of_optimistic_expectancies_on.pdf`, `raw/Right_frontal_gamma_transcranial_alterna.pdf`, `raw/Associations_between_Optimism_and_Attent.pdf`, and `raw/Optimistic_reinforcement_learning_comput.pdf` are open-access PDFs and remain ignored by git with the rest of `raw/`. Kress and Aue 2019 is gold open access via Frontiers, PubMed Central, DOAJ, and OpenAlex, with a CC-BY license. The Wiley encyclopedia chapter by Kahle Monahan et al. was checked through public abstract/metadata and secondary bibliographic records only, not full-text access. The OxJournal 2024 article is public and useful as a student-style review/source trail, not as primary experimental evidence. The Sharot et al. 2012 dopamine paper was checked through Crossref and PubMed metadata/abstract because Cell's public page was temporarily blocked by browser verification; the PubMed record lists PMCID PMC3424419. Yao et al. 2024 is a Research Square preprint, not a peer-reviewed journal article. Lefebvre et al. 2017 is the peer-reviewed version of the local bioRxiv PDF, which used the earlier title *Optimistic reinforcement learning: computational and neural bases*. Morton et al. 2011 is restricted access on the SAGE landing page, and OpenAlex did not find an open-access repository copy; this wiki uses public abstract/metadata only. Fisher, Whyte, and Hohwy's active-inference optimism source was found as a public GitHub repository, not as an indexed DOI-bearing article; no repository license was declared, so treat the code as visible source material rather than freely reusable code. Herwig et al. 2007 has a PubMed record and University of Bern/BORIS abstract metadata, Europe PMC marks it not open access/no full text, the DOI resolves through Elsevier/ScienceDirect, and OpenAlex marks ScienceDirect as bronze OA while also seeing repository metadata. Treat it as public metadata/abstract plus possible bronze/repository access, not cleanly licensed open access; any subscription PDF stays private in `raw/`.
 
 ## Core Primary-Source Claims
 
@@ -205,6 +211,10 @@ The useful twist is not "optimists ignore bad news." The paper argues that unexp
 Morton, El-Deredy, Morton, Elliott, and Jones 2011 adds a prior-cue/acquiescence tile. Eighty-seven participants saw happy, sad, and fearful facial-expression images preceded by verbal cues about the coming expression and intensity. The images could match the cue, be slightly discrepant, or be very discrepant. Participants rated agreement with the cue, and the authors used probit signal-detection models to estimate acquiescence across discrepancy levels.
 
 The useful result is that dispositional optimism correlated with acquiescence across discrepancy levels. In plain English: more optimistic participants were more likely to keep using the prior cue even when incoming facial-expression information diverged from it. The authors interpret this as a cognitive style that relies on expectations and may take longer to recognize mismatch between prior expectation and sensory evidence. This belongs beside the Kress/Singh attention work because it links optimism to top-down cue use before later belief updating even happens. Caveat: the public record supports the abstract-level claim only here, and the task used emotional faces and verbal cues, not life-scale outcomes or general decision making.
+
+Herwig, Kaffenberger, Baumgartner, and Jäncke 2007 adds the pessimistic-anticipation counterweight. In fMRI, healthy participants were cued to expect visual stimuli with known pleasant, unpleasant, neutral, or unknown emotional valence. Anticipating unknown-valence pictures recruited activity more similar to anticipating unpleasant pictures than pleasant pictures, including bilateral insula, right inferior frontal gyrus, medial thalamus, and red nucleus. Activity also correlated with mood ratings: worse mood was associated with higher activity.
+
+The useful point is not "pessimists are broken." It is that when emotional valence is uncertain, the brain may prepare as though the event could be unpleasant. That makes pessimism look like a protective preparation setting under uncertainty, not merely failed optimism. Caveat: healthy-subject fMRI task, old paper, visual-picture anticipation, and public abstract/metadata only in this pass; it does not prove trait pessimism is always adaptive or that all uncertainty is processed as threat.
 
 Fisher, Whyte, and Hohwy's *An Active Inference Model of the Optimism Bias* currently has a public software trail rather than a clean public DOI trail. The GitHub repository `bethfisher-hub/optimism_simulations`, created 2024-05-28 and last pushed 2024-06-02, contains MATLAB simulations for three modeled experiments. The README describes a domain-general model of optimism bias as precision over positive outcomes, implemented using SPM12 / active-inference machinery.
 
@@ -309,6 +319,7 @@ Taken together, the sources suggest that optimism is not best understood as magi
 - two-week attention-bias modification training that increased comparative optimism bias in Kress and Aue 2019
 - salience/executive-control network evidence that unexpected punishment is strongly processed after optimistic expectancies, but may still be downregulated or under-integrated
 - prior-cue use and acquiescence, where optimists may lean longer on expectations when sensory evidence diverges
+- pessimistic anticipation of unknown-valence events, where uncertainty is treated more like potential threat than potential reward
 - active-inference simulation work treating optimism bias as precision over positive outcomes
 - right-frontal 40 Hz gamma-tACS preprint evidence that optimistic belief updating may be increased after a 24-hour delay under controlled stimulation conditions
 - attentional openness to unexpected opportunity
@@ -380,6 +391,12 @@ Morton et al. 2011 sits upstream of the later attention papers. Instead of askin
 
 The useful bridge is top-down weighting. If optimistic people lean harder on prior cues, then expectation can shape perception-like judgment before the system even reaches explicit belief revision. Keep it modest: the paper does not show that optimists literally fail to see negative evidence, nor that prior-cue use is always good. It suggests a cognitive style where expectations carry more weight against incoming information.
 
+### Pessimistic anticipation under uncertainty
+
+Herwig et al. 2007 is the old fMRI counterweight to the cheerful half of the optimism package. When participants anticipated events of unknown emotional valence, their neural activity looked closer to anticipation of unpleasant events than pleasant ones. The useful interpretation is preparation: if the system cannot tell whether the next event is pleasant or unpleasant, it may bias toward defensive readiness.
+
+This sits beside flexible optimism rather than against it. Pessimism can be a threat-preparation setting when valence is genuinely unknown, especially if mood is already worse. The caveat is equally important: this was anticipation of pictures in healthy participants, not a sweeping theory of personality, anxiety, or everyday decision making.
+
 ### Active inference model
 
 Fisher, Whyte, and Hohwy's public `optimism_simulations` repository gives the package a computational-theory tile. Their README frames optimism bias as precision over a positive outcome and applies it across development, Sharot-style belief updating, and a modified two-armed bandit. In active-inference language, this makes optimism a matter of how strongly positive-outcome beliefs are weighted inside a generative model, not merely a verbal expectation or mood label.
@@ -439,6 +456,7 @@ This is exactly where the proof boundary matters. These studies do not show that
 - Kress and Aue 2019 found that ABM training increased comparative optimism bias, but it was an online two-week training study with questionnaire outcomes, not evidence of durable clinical effect.
 - Singh et al. 2020 used immediate monetary gain/loss cues in healthy participants, not life-scale future outcomes. It gives neural-network evidence for optimism-attention interaction, not proof that all real-world optimism operates through the same task dynamics.
 - Morton et al. 2011 used emotional-face stimuli and verbal expectation cues. It supports prior-cue reliance/acquiescence as a mechanism clue, not proof that optimism overrides sensory evidence in everyday life.
+- Herwig et al. 2007 studies fMRI anticipation of unknown-valence pictures in healthy subjects. It does not prove trait pessimism is always adaptive or that all uncertainty is processed as threat.
 - Fisher, Whyte, and Hohwy's active-inference source is currently anchored by a public GitHub repository rather than an indexed DOI-bearing paper. Treat it as a computational model/source trail, not peer-reviewed empirical evidence.
 - Hecht 2013 is a narrative synthesis with a broad hemispheric-lateralization thesis. Treat it as a source trail and hypothesis map, not as proof that optimism is simply "left brain" or pessimism is simply "right brain."
 - Forgeard and Seligman 2012 is a broad positive-psychology review. Use it for conceptual scaffolding and the flexible-optimism boundary, not as a substitute for the newer neuroimaging, health-outcome, or intervention anchors.
@@ -468,6 +486,7 @@ This is exactly where the proof boundary matters. These studies do not show that
 - When does optimistic reinforcement learning support exploration and persistence, and when does it degrade error correction after losses?
 - When unexpected negative evidence is strongly detected under optimistic expectancies, what decides whether it becomes useful updating or gets regulated away?
 - When does prior-cue reliance help efficient interpretation, and when does it slow recognition that the evidence has changed?
+- When does unknown-valence anticipation become useful preparation versus chronic threat prediction?
 - Can active-inference models of optimism as positive-outcome precision predict human data beyond existing belief-update and bandit tasks?
 - Is repetitive negative thinking a cause of cognitive decline, an early symptom, or both?
 - Which interventions best shift future thinking: imagery training, attentional control, cognitive reappraisal, behavioral activation, or social context?

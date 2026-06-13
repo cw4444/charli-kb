@@ -202,6 +202,12 @@ Rozanski et al. 2019 is the cardiovascular meta-analysis anchor: 15 cohort studi
 
 This is the strongest "optimism as health asset" evidence in the package so far, but it is still observational. The plausible mechanisms are behaviour, coping, stress physiology, self-regulation, and social/health context. The wrong reading is "be positive and biology signs an extension form." No. The adult reading is that expectation and agency may sit upstream of many small health-relevant decisions and stress responses.
 
+### 16. Unknown emotional valence can be processed like potential threat
+
+Herwig, Kaffenberger, Baumgartner, and Jäncke 2007 adds the pessimistic-anticipation counterweight. In an fMRI task, healthy participants anticipated visual stimuli with known pleasant, unpleasant, neutral, or unknown emotional valence. Unknown-valence anticipation recruited activity more similar to unpleasant anticipation than pleasant anticipation, including bilateral insula, right inferior frontal gyrus, medial thalamus, and red nucleus. Worse mood ratings were associated with higher activity.
+
+This matters because pessimism is not only "optimism failed to load." Under uncertainty, the system may prepare for possible unpleasantness before it has clear evidence. That can be useful defensive readiness, or it can become chronic threat prediction if it stops updating. The paper is old, task-specific, and checked here through public metadata/abstract rather than full public text, so keep the claim modest.
+
 ## Working Interpretation
 
 The most defensible synthesis is that optimism is a representational style.
@@ -218,6 +224,7 @@ It seems to involve:
 - two-week attention-bias modification training increasing comparative optimism bias
 - salience/executive-control network activity when optimistic expectancies are violated by unexpected punishment
 - prior-cue utilisation, where optimistic participants may rely longer on expectation cues when sensory evidence diverges
+- pessimistic anticipation under uncertainty, where unknown emotional valence can be treated more like potential threat than potential reward
 - active-inference simulation work that treats optimism bias as precision over positive outcomes
 - Adlerian guiding fictions or imagined future goals that organize current behavior
 - manifestation language translated into CBT-adjacent behaviour modification rather than reality creation
@@ -261,6 +268,7 @@ The bills still exist. The better version of optimism is not pretending they do 
 - The Kress and Aue 2019 ABM result supports trainable comparative optimism bias after positive-social attention training, not durable clinical improvement or a universal optimism-training protocol.
 - The Singh et al. fMRI result uses immediate monetary reward/punishment expectancies in healthy participants. It supports a neural mechanism for expectancy-attention interaction, not a direct map of life-scale optimism about health, relationships, or work.
 - The Morton et al. prior-cue result uses emotional-face judgments and verbal cues. It supports a top-down expectation-weighting clue, not a broad claim that optimists ignore sensory evidence.
+- Herwig et al. 2007 studies fMRI anticipation of unknown-valence pictures in healthy subjects. It supports a pessimistic-preparation clue under uncertainty, not a sweeping claim that uncertainty is always threat or that trait pessimism is always adaptive.
 - The Fisher/Whyte/Hohwy active-inference source is currently a public software repository, not a DOI-indexed article found in this pass. Treat it as a computational model/source trail, not peer-reviewed empirical evidence.
 - The Hecht 2013 lateralization review is useful as an older hypothesis map, but it should not be treated as settled proof of simple left-brain optimism or right-brain pessimism.
 - Fictional finalism is useful historical scaffolding, not modern neuroscience and not manifestation.
@@ -295,6 +303,7 @@ The bills still exist. The better version of optimism is not pretending they do 
 - When do optimistic expectancies improve opportunity detection, and when do they under-process useful warning signs?
 - When does salience-network detection of unexpected punishment lead to adaptive correction rather than controlled downregulation?
 - When does reliance on prior expectation help fast interpretation, and when does it delay noticing that reality has rudely changed the brief?
+- When does unknown-valence anticipation support useful preparation, and when does it become chronic threat prediction?
 - Can an active-inference account of positive-outcome precision explain human optimism-bias data better than simpler asymmetric-update or attentional-weighting models?
 - Do Best Possible Self effects persist after practice stops, and do they change behavior rather than only self-reported optimism?
 - How much optimism is helpful before it starts degrading preparedness?
