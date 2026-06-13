@@ -6,6 +6,7 @@ created: 2026-05-12
 updated: 2026-06-13
 sources:
   - ../sources/optimism-neuroscience-source-batch.md
+  - ../sources/fujimoto-deep-brain-stimulation-white-matter-remodeling.md
   - ../sources/kahneman-tversky-judgment-under-uncertainty.md
   - ../sources/libet-schurger-readiness-potential-agency.md
   - ../sources/langer-counterclockwise-aging-mindset.md
@@ -87,6 +88,8 @@ The 2021 Austrian Sleep Survey adds a practical health adjacent piece: higher di
 
 Draganich and Erdal's 2014 placebo-sleep study makes that sleep-expectancy link sharper. Participants who were randomly told they had above-average REM sleep performed better on some cognitive tasks than those told they had below-average REM sleep, even though the feedback was sham. This is not optimism exactly, but it is adjacent wiring: belief about a bodily state can alter performance. The responsible version is "expectancy matters"; the stupid version is "sleep is optional if you gaslight yourself." We are not doing the stupid version.
 
+[Fujimoto et al. 2026](../sources/fujimoto-deep-brain-stimulation-white-matter-remodeling.md) belongs nearby as a mood-network intervention boundary, not as optimism evidence. Subcallosal cingulate deep brain stimulation in macaques was associated with white matter remodeling and altered brain-wide functional connectivity. That supports the broader point that mood, expectation, and resilience sit inside physical network state, sleep, affect, and clinical intervention loops. It does not mean optimism is myelin, or that brain stimulation is a shortcut to outlook. That way lies electrical nonsense with a brochure.
+
 The longevity thread now has two proper epidemiological anchors. Rozanski et al. 2019 pooled 15 cohort studies and found optimism associated with lower cardiovascular-event risk and lower all-cause mortality. Lee et al. 2019 found higher optimism associated with longer lifespan and greater odds of living to 85 or beyond in the Nurses' Health Study and Veterans Affairs Normative Aging Study. This is the serious health-asset version of the cheat-code idea: optimism may support behaviour, coping, stress regulation, and persistence. It is not proof that positive thinking buys extra years from the universe like a dodgy subscription upgrade.
 
 Ellen Langer's counterclockwise aging study belongs on the outer edge of this concept. Its evidence is caveat-heavy, but the useful bridge is that expectation, role, environment, and available action may change what the body actually does. Optimism is not only a thought about the future; it can be an action-setting that changes posture, effort, search, and willingness to use capacities.
@@ -116,6 +119,7 @@ Ellen Langer's counterclockwise aging study belongs on the outer edge of this co
 - `Personal and social optimism bias`: self/rival and in-group/out-group optimism can involve overlapping reward/value systems and distinct social-comparison machinery.
 - `Placebo sleep`: experimentally assigned beliefs about sleep quality can shift some cognitive performance measures.
 - `Sleep-health association`: optimism is associated with lower insomnia risk in at least one population survey, but causality and mechanisms remain open.
+- `Mood-network intervention`: invasive neuromodulation can reveal how mood-related networks and white matter plasticity participate in affective state, without becoming optimism evidence or a personal protocol.
 - `Longevity-health association`: optimism is associated with cardiovascular and longevity outcomes in large observational research, but causality remains open.
 - `Unrealistic optimism`: better-than-warranted expectation about future outcomes.
 - `Positive illusions`: broader set of positively biased self, control, and future judgments.
@@ -125,6 +129,7 @@ Ellen Langer's counterclockwise aging study belongs on the outer edge of this co
 ## Related
 
 - [Research - Optimism](../questions/research-optimism.md)
+- [Fujimoto et al. - Deep Brain Stimulation And White Matter Remodeling](../sources/fujimoto-deep-brain-stimulation-white-matter-remodeling.md)
 - [Salience Weighted Judgment](salience-weighted-judgment.md)
 - [Manifestation As Behavior Modification](manifestation-as-behavior-modification.md)
 - [Fictional Finalism](fictional-finalism.md)

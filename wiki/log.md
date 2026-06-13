@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-13] source note | deep brain stimulation and white matter remodeling
+- Source: Fujimoto et al., *Nature Neuroscience*, [Deep brain stimulation induces white matter remodeling and functional changes to brain-wide networks](https://doi.org/10.1038/s41593-026-02301-4), published 2026-06-01.
+- Pages created: [Fujimoto et al. - Deep Brain Stimulation And White Matter Remodeling](sources/fujimoto-deep-brain-stimulation-white-matter-remodeling.md)
+- Pages updated: [Neuroscience](../themes/neuroscience/overview.md), [Optimism](concepts/optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added the paper as a neuromodulation / mood-network / white-matter-plasticity source. Durable point: in healthy macaques, six weeks of subcallosal cingulate deep brain stimulation was associated with selective cingulum-bundle fractional-anisotropy increase, increased myelinating oligodendrocytes, increased myelination, and altered brain-wide functional connectivity. Access note: Nature marks the article open access with downloadable PDF under CC BY-NC-ND 4.0; data and custom MATLAB scripts are deposited in DANDI. Caveat: macaque mechanism study, tiny animal numbers, healthy subjects, not proof of human depression treatment efficacy and absolutely not a home stimulation protocol.
+
 ## [2026-06-13] source note | noninvasive BCI learning and manifold geometry
 - Source: Busch, Fincke, Lajoie, Krishnaswamy, and Turk-Browne, *Nature Neuroscience*, [Human learning of noninvasive brain-computer interfaces via manifold geometry](https://doi.org/10.1038/s41593-026-02311-2), published 2026-06-09; Nature share link [rdcu.be/fob3N](https://rdcu.be/fob3N).
 - Pages created: [Busch et al. - Noninvasive BCI Learning And Manifold Geometry](sources/busch-noninvasive-bci-manifold-geometry.md)

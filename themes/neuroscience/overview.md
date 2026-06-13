@@ -17,6 +17,7 @@ sources:
   - ../../wiki/sources/kahneman-tversky-judgment-under-uncertainty.md
   - ../../wiki/sources/locus-coeruleus-source-batch.md
   - ../../wiki/sources/fallon-striatal-action-counting-steering.md
+  - ../../wiki/sources/fujimoto-deep-brain-stimulation-white-matter-remodeling.md
 ---
 
 # Neuroscience
@@ -105,6 +106,12 @@ This thread keeps neural precursors separate from fatalist storytelling. A readi
 
 Fallon et al. 2026 adds a motor-control version of the same anti-magic point. In mice, direct and indirect striatal pathways dissociably shaped both physical steering and action-count progress in a lever-press task. The useful bridge is that goal-directed behavior can involve counting, steering, continuation, and termination machinery at once. Agency is not an intention blob; it is constrained control in motion.
 
+### How Can Intervention Reshape Mood-Relevant Networks?
+
+- [Fujimoto et al. - Deep Brain Stimulation And White Matter Remodeling](../../wiki/sources/fujimoto-deep-brain-stimulation-white-matter-remodeling.md)
+
+This thread tracks invasive neuromodulation without turning it into gadget mysticism. Fujimoto et al. 2026 found that subcallosal cingulate deep brain stimulation in macaques was associated with selective cingulum-bundle white matter remodeling, increased myelinating oligodendrocytes, increased myelination, and altered brain-wide functional connectivity. The useful bridge is that mood-relevant intervention may involve network dynamics and white matter plasticity, not only a local stimulation site.
+
 ### Why Is Unsupported Thought Hard?
 
 - [Wilson et al. - Just Think And The Disengaged Mind](../../wiki/sources/wilson-disengaged-mind-electric-shock.md)
@@ -123,6 +130,7 @@ Neurons are long, metabolically demanding cells that depend on transport along a
 - Prefer primary papers, reviews, and official research-institution sources.
 - Separate human evidence, animal models, cell models, and computational interpretation.
 - Treat intervention findings as mechanism clues until clinical evidence exists.
+- Treat invasive neuromodulation as clinical mechanism evidence, not a personal protocol.
 - Do not turn shared neural machinery into sameness claims.
 - Do not turn embodied belief updating into a home protocol.
 - Do not use neuroscience as decoration for metaphysical claims it cannot support.
@@ -138,6 +146,7 @@ Neuroscience connects to the rest of the wiki without swallowing it:
 - **Knowledge systems:** biological memory and public records are different systems with different failure modes.
 - **Embodiment:** belief, perception, risk estimation, and action are implemented in bodies, not floating proposition boxes.
 - **Attention:** unsupported thought is not automatically pleasant or easy; minds often need structure, practice, or tools before quiet becomes useful.
+- **Mood networks:** sleep, affect, expectation, and clinical neuromodulation all point toward mood as a system-level state, not a floating thought bubble.
 
 ## Do Not Overclaim
 
@@ -145,6 +154,7 @@ Neuroscience connects to the rest of the wiki without swallowing it:
 - A neural correlate is not a complete explanation.
 - A pathway involved in a disease is not necessarily the single cause of that disease.
 - A reversible experimental deficit does not mean the disease is broadly reversible.
+- A macaque DBS mechanism study is not proof of human treatment efficacy on its own.
 - Shared code is not sameness.
 - Brain construction is not manifestation.
 - Neuroscience being fascinating is not, by itself, an inclusion criterion. Regrettably.
