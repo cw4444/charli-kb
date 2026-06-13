@@ -3,7 +3,7 @@ title: "Agent Security Infrastructure 2026"
 type: source
 status: draft
 created: 2026-06-04
-updated: 2026-06-09
+updated: 2026-06-13
 sources:
   - "GitHub: Cloud and local sandboxes for GitHub Copilot now in public preview, 2026-06-02"
   - "GitHub Changelog: Enterprise-managed plugins in VS Code in public preview, 2026-06-05"
@@ -12,6 +12,9 @@ sources:
   - "Anthropic: Expanding Project Glasswing, 2026-06-02"
   - "Microsoft Security Blog: Updating the taxonomy of failure modes in agentic AI systems, 2026-06-04"
   - "StepSecurity: Pythagora-io/gpt-pilot Compromised on GitHub - Shai-Hulud Credential Stealer Blocked by Python Linter, 2026-06-08"
+  - "Abdelnabi and Bagdasarian: AI Agents May Always Fall for Prompt Injections, arXiv:2605.17634, 2026-05-17"
+  - "Freitas and Gharib: GenAI-Driven Threat Detection with Microsoft Security Copilot, arXiv:2605.20896v2, 2026-05-22"
+  - "Huang, Huang, and Fard: Are AI-assisted Development Tools Immune to Prompt Injection?, arXiv:2603.21642, 2026-03-23"
 ---
 
 # Agent Security Infrastructure 2026
@@ -114,6 +117,52 @@ Source:
 
 - [StepSecurity: Pythagora-io/gpt-pilot Compromised on GitHub - Shai-Hulud Credential Stealer Blocked by Python Linter](https://www.stepsecurity.io/blog/pythagora-io-gpt-pilot-compromised-on-github-shai-hulud-credential-stealer-blocked-by-python-linter)
 
+## Prompt Injection As A Context Problem
+
+Abdelnabi and Bagdasarian's May 2026 arXiv paper, *AI Agents May Always Fall for Prompt Injections*, is worth keeping because it pushes past the usual "separate data from instructions" advice.
+
+Their claim is not that every agent will always instantly fail. It is narrower and more annoying: prompt injection becomes hard because agents operate inside contexts with competing norms. A blocked information flow can be reframed to look legitimate, and a defender who tightens the rules enough may also block real work.
+
+That matters for this wiki's agent lane because it treats prompt injection as a system-design and governance problem, not just a clever-prompt problem. If an agent can read emails, tickets, repos, docs, web pages, and tool descriptions, it needs contextual policy, permission checks, logs, tool boundaries, and human review at high-impact points. A stern system prompt is not a seatbelt. It is a sticky note with delusions of grandeur.
+
+Source:
+
+- [Abdelnabi and Bagdasarian: AI Agents May Always Fall for Prompt Injections](https://arxiv.org/abs/2605.17634)
+
+## MCP Client Guardrail Differences
+
+Huang, Huang, and Fard's March 2026 arXiv paper studies tool-poisoning prompt injection across seven MCP clients: Claude Desktop, Claude Code, Cursor, Cline, Continue, Gemini CLI, and Langflow.
+
+The durable point is not a league table to wave around forever. Product versions move. The useful point is that MCP risk depends heavily on client implementation details:
+
+- static validation;
+- parameter visibility;
+- injection detection;
+- user warnings;
+- execution sandboxing;
+- audit logging;
+- how hidden or cross-tool instructions are handled.
+
+The paper reports major disparities among clients. That shifts the question from "is MCP risky?" to "which MCP clients expose enough trust-boundary hygiene to make tool use inspectable?"
+
+Source:
+
+- [Huang, Huang, and Fard: Are AI-assisted Development Tools Immune to Prompt Injection?](https://arxiv.org/abs/2603.21642)
+
+## Production Security Agents
+
+Freitas and Gharib's May 2026 arXiv paper describes Microsoft's Dynamic Threat Detection Agent, integrated into Microsoft Security Copilot and deployed across tens of thousands of Defender customers.
+
+The system is a useful production-scale counterweight to the doom side of the security story. It combines a unified activity timeline, prompt contracts, schema validation, grounding requirements, bounded retries, fail-closed suppression, a planner-executor investigation loop, and dynamic alert generation.
+
+The reported 120-day online evaluation gives concrete operational numbers: `80.1%` precision from customer feedback, novel alerts for about `15%` of investigated incidents, 28-minute median investigation time, median token cost of `$2.04`, and a `0.38%` job-level failure rate.
+
+Careful read: this is Microsoft-authored and arXiv-hosted, not an independent audit of every Defender deployment. Still, it is one of the clearer public signals that always-on security agents are moving from demo theatre into large-scale production.
+
+Source:
+
+- [Freitas and Gharib: GenAI-Driven Threat Detection with Microsoft Security Copilot](https://arxiv.org/abs/2605.20896)
+
 ## Defensive Cyber Pressure
 
 Anthropic also expanded Project Glasswing from roughly 50 initial partners to about 150 organizations across more than 15 countries, including power, water, healthcare, communications, hardware, and shared software vendors.
@@ -131,6 +180,8 @@ Source:
 - Do not treat open specifications as adopted standards merely because Microsoft wants broad adoption.
 - Do not treat the updated Microsoft taxonomy as proof of universal compromise. It is a red-team-derived threat model and evidence summary, not a census of all deployments.
 - Do not reduce agent security to prompt injection. MCP/plugin trust, session history, visual computer-use surfaces, approval design, agent identity, and tool provenance are now part of the security boundary.
+- Do not treat prompt-injection "impossibility" framing as an excuse to give up. It means move the safety work into architecture, permissions, monitoring, and review instead of pretending prompts alone can do grown-up security.
+- Do not treat a production security-agent paper as a universal deployment guarantee. Look for independent validation, failure handling, customer impact, and whether generated detections can be audited.
 - Do not treat the gpt-pilot incident as "AI went rogue." The reported path was account compromise, malicious repository changes, CI, IDE persistence, and credential theft. Ordinary supply-chain mechanics, now aimed at AI coding environments.
 - Do not treat Anthropic's banned-account dataset as a census of all AI-enabled cyber activity.
 - Do not confuse defensive capability with harmless capability. The same model skills can matter offensively.

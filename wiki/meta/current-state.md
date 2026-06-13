@@ -3,7 +3,7 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-06-12
+updated: 2026-06-13
 ---
 
 # Current State
@@ -42,6 +42,10 @@ This repo is a plain Markdown personal knowledge base based on Karpathy's LLM Wi
 - The durable subject lanes are AI, reality, neuroscience, and their overlap: perception, belief, expectation, action, agents, knowledge systems, reality monitoring, embodiment, cellular maintenance, and related source-backed concepts.
 
 ## Latest Session Handoff
+
+On 2026-06-13, Charli added `raw/2026-06-13-ai-digest.md`, led by the Fable/Mythos access suspension. Codex verified Anthropic's own statement, AP, and Axios, then added [Anthropic Fable And Mythos Access 2026](../sources/anthropic-fable-mythos-access-2026.md) and updated [AI And Agents 2026 Timeline](../timelines/ai-and-agents-2026.md). Durable point: the US directive covered access to Fable 5 and Mythos 5 by foreign nationals, including foreign-national Anthropic employees, and Anthropic disabled both models for all customers to ensure compliance. Keep the caveat: Anthropic disputes the process and says the apparent concern was a narrow potential jailbreak, not a disclosed universal bypass. This is hosted model access becoming an export-control surface, not just chip control.
+
+The same digest also updated [Agent Security Infrastructure 2026](../sources/agent-security-infrastructure-2026.md) with three papers: Abdelnabi and Bagdasarian on prompt injection as contextual-integrity failure; Huang, Huang, and Fard on differing MCP-client guardrails; and Freitas and Gharib on Microsoft's Dynamic Threat Detection Agent in Security Copilot. Durable point: agent security now has both sides visible at once - prompt/tool poisoning as a structural trust-boundary problem, and production security agents operating at Defender scale. The synthetic-biology letter from the digest was parked as watch-only unless it becomes a concrete policy, standard, or enforcement mechanism.
 
 Also on 2026-06-12, Charli added `raw/The_effect_of_optimistic_expectancies_on.pdf`. Codex folded in Singh et al. 2020, [The effect of optimistic expectancies on attention bias: Neural and behavioral correlates](https://doi.org/10.1038/s41598-020-61440-1). Durable point: this is the fMRI sequel to the Kress et al. expectancy-attention bridge. Optimistic and pessimistic cues sped responses to expected gain/loss targets, but the effect was stronger for optimistic gain cues; unexpected information recruited salience and executive-control networks. Keep the nuance: unexpected punishment after optimism was strongly processed as salient, not simply ignored. The candidate optimism-maintenance mechanism is later control/downregulation or under-integration of disconfirming punishment.
 

@@ -3,7 +3,7 @@ title: "AI And Agents 2026 Timeline"
 type: timeline
 status: draft
 created: 2026-05-21
-updated: 2026-06-12
+updated: 2026-06-13
 sources:
   - ../sources/current-ai-agent-landscape-2026.md
   - ../sources/anthropic-compute-and-talent-signal-2026.md
@@ -73,6 +73,10 @@ sources:
   - https://www.tradingview.com/news/reuters.com%2C2026%3Anewsml_FWN42D0NG%3A0-apollo-blackstone-have-finalized-35-billion-financing-package-for-anthropic-to-expand-its-ai-infrastructure-bloomberg-news/
   - https://thepaypers.com/fintech/news/apollo-and-blackstone-close-usd-35-billion-chip-financing-deal-for-anthropic
   - https://www.anthropic.com/news/claude-fable-5-mythos-5
+  - ../sources/anthropic-fable-mythos-access-2026.md
+  - https://www.anthropic.com/news/fable-mythos-access
+  - https://apnews.com/article/anthropic-artificial-intelligence-trump-fable-mythos-d9cc7df5c02e93837d0f0bfb24d5cfd2
+  - https://www.axios.com/2026/06/12/anthropic-trump-mythos-fable-national-security
   - ../sources/anthropic-ai-exponential-policy-2026.md
   - https://darioamodei.com/post/policy-on-the-ai-exponential
   - https://www.anthropic.com/policy-on-the-ai-exponential
@@ -84,6 +88,9 @@ sources:
   - https://www.theverge.com/tech/900284/apple-ios-26-4-uk-age-verification
   - ../sources/online-safety-act-privacy-risk.md
   - https://arxiv.org/abs/2606.05273
+  - https://arxiv.org/abs/2605.17634
+  - https://arxiv.org/abs/2605.20896
+  - https://arxiv.org/abs/2603.21642
 ---
 
 # AI And Agents 2026 Timeline
@@ -101,7 +108,7 @@ Use this page for events that are useful historical anchors:
 
 Future lint rule: update this page if it helps preserve the shape of the year. Delete or collapse entries that turn out to be noise.
 
-## Short Read As Of 2026-06-12
+## Short Read As Of 2026-06-13
 
 The first half of 2026 already shows several converging threads:
 
@@ -142,13 +149,15 @@ The first half of 2026 already shows several converging threads:
 - OpenAI published a June 8 "third phase" strategy cluster: automated AI researchers, a March 2028 internal horizon for a significant fraction of research being done by AI systems alongside researchers, economic-growth and "personal AGI" distribution language, international coordination that could include slowing frontier development, a confidential draft S-1, and an external Economic Research Exchange.
 - Financial Times / Reuters / TechCrunch reporting described OpenAI's planned ChatGPT overhaul as a superapp-style shift toward coding tools and AI agents. Treat it as reported product direction, not a shipped launch.
 - Bloomberg / Reuters / Financial Times-derived reporting said Apollo and Blackstone finalized roughly $35B in chip-backed private-credit financing for Anthropic's Google/Broadcom TPU capacity, separate from Anthropic's reported SpaceX/Colossus Nvidia GPU lease.
-- Anthropic launched Claude Fable 5, a generally available Mythos-class model with conservative safeguards that route flagged cyber, biology/chemistry, and distillation requests to Opus 4.8; Claude Mythos 5 remains restricted to Glasswing and trusted-access partners.
+- Anthropic launched Claude Fable 5, a generally available Mythos-class model with conservative safeguards that route flagged cyber, biology/chemistry, and distillation requests to Opus 4.8; Claude Mythos 5 remained restricted to Glasswing and trusted-access partners.
+- Three days later, Anthropic suspended access to both Fable 5 and Mythos 5 after a US export-control directive covering foreign nationals, including foreign-national Anthropic employees. The structural signal is direct government control over hosted frontier-model access, not just chip exports.
 - Dario Amodei and Anthropic published "Policy on the AI Exponential" plus Advanced AI and Economic Policy frameworks, shifting Anthropic's public policy stance from transparency-first optionality toward mandatory frontier-model testing, independent evaluation, security obligations, possible government deployment-blocking authority, and `$350M` in economic-futures research/fellowship commitments.
 - Visa and OpenAI reportedly embedded Visa payment rails into ChatGPT so agents can recommend and complete purchases with authorization, fraud monitoring, approvals, spending limits, and approved-merchant controls. Agentic commerce has reached payment-network plumbing. Wonderful, the shopping cart has opinions now.
 - The UK government gave Apple, Google, and other device/OS providers until September 2026 to implement device-level controls that detect and block nude images for children, with adults able to disable the controls only after age assurance. The verified proposal is not an explicit government backdoor to read all device content, but it does move child-safety enforcement from websites/apps into operating systems and raises the obvious client-side-scanning and population age-check problem. Lovely little privacy bonfire.
 - Anthropic published a biology-agent case study showing that strong models were not enough for reliable viral sequence retrieval: VirBench mean accuracies ranged from 16.9% to 91.3% without the right deterministic retrieval layer, but rose above 90% for all agents and peaked at 99.7% when agents used `gget virus`.
 - The UK government announced its first AI Adoption Summit package: more than £200 million for adoption support, sector AI Adoption Plans, AI Advisory Growth Labs, an AI Economics Institute, worker-skills commitments, company insight-sharing, and a joint statement with Google, Anthropic, Microsoft, and OpenAI.
 - StepSecurity reported that a compromised maintainer account force-pushed a Shai-Hulud credential stealer into `gpt-pilot`, an AI coding-tool repository, and that `ruff` linting blocked the malicious CI path twice. Coding-agent environments are now a first-class supply-chain target. Apparently the boring checks were load-bearing. Shocking development.
+- New agent-security papers sharpened both sides of the security story: prompt injection may be structurally hard because context can make bad flows look legitimate, MCP clients vary widely in guardrail hygiene, and Microsoft's Dynamic Threat Detection Agent shows always-on security agents operating at Defender scale.
 - Meta began a major AI restructuring: roughly 8,000 job cuts, roughly 7,000 workers reassigned to AI-focused initiatives, and a leaked-audio controversy around employee computer-use data being used to train AI systems.
 - GPT-4o, a model many users were emotionally attached to, was retired from ChatGPT on 2026-02-13.
 - Charli reported receiving an OpenAI product survey asking how she uses ChatGPT, what other AI products she uses, and what ChatGPT should improve. The useful personal signal: adult users want more grown-up tone and wider creative range, and some route refused or tone-constrained work to Grok.
@@ -773,6 +782,44 @@ Careful read: this does not mean unrestricted Mythos is public. Fable 5 is the s
 Source:
 
 - [Anthropic: Claude Fable 5 and Claude Mythos 5](https://www.anthropic.com/news/claude-fable-5-mythos-5)
+
+Update, 2026-06-12: Anthropic later suspended access to both Fable 5 and Mythos 5 after a US export-control directive. See the 2026-06-13 entry below.
+
+### 2026-06-13 - Anthropic disables Fable 5 and Mythos 5 after US export-control directive
+
+Anthropic suspended access to Claude Fable 5 and Claude Mythos 5 after receiving a US government export-control directive on 2026-06-12. Anthropic says the directive covered access by any foreign national, inside or outside the United States, including foreign-national Anthropic employees. Because that scope was not operationally clean to enforce, Anthropic said it had to disable both models for all customers. Access to other Anthropic models was not affected.
+
+AP reported the suspension on 2026-06-13 and described the move as the US government's most significant step so far to restrict access to advanced AI models. Axios reported that Commerce treated Mythos 5 and Fable 5 as export-controlled models requiring licenses for export, re-export, or domestic transfer to foreign persons.
+
+Why it matters: this turns hosted model access into an export-control surface. The earlier June 9 launch was already a deployment-pattern shift: public safeguarded Fable 5 beside restricted Mythos 5. The June 12 directive adds a harder governance signal: frontier capability can be treated as a national-security asset even when it is already deployed through a consumer/business model selector.
+
+Careful read: Anthropic disputes the process and the technical basis, saying the government did not provide specific details and that the apparent concern involved a narrow potential jailbreak rather than a universal bypass. Do not read this as proof that Fable 5 was catastrophically broken. Also do not pretend it is nothing. A public frontier model disappearing because foreign-national access is legally snarled is the sort of thing the timeline exists for, unfortunately.
+
+Sources:
+
+- [Anthropic Fable And Mythos Access 2026](../sources/anthropic-fable-mythos-access-2026.md)
+- [Anthropic: Statement on the US government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access)
+- [AP: Anthropic says it has taken its latest AI models offline to comply with new export controls](https://apnews.com/article/anthropic-artificial-intelligence-trump-fable-mythos-d9cc7df5c02e93837d0f0bfb24d5cfd2)
+- [Axios: Trump admin blocks foreign access to Anthropic's most powerful AI](https://www.axios.com/2026/06/12/anthropic-trump-mythos-fable-national-security)
+
+### 2026-06-13 - Agent-security research sharpens prompt-injection and production-agent boundaries
+
+Three research items from the June 13 digest were folded into [Agent Security Infrastructure 2026](../sources/agent-security-infrastructure-2026.md).
+
+Abdelnabi and Bagdasarian's *AI Agents May Always Fall for Prompt Injections* argues that data-instruction separation misses attacks based on contextual manipulation. Their useful claim is not "give up"; it is that attackers can construct contexts where bad flows look legitimate, while strict defenders can block legitimate work. That pushes agent safety toward contextual policy, tool boundaries, approvals, logs, and review.
+
+Huang, Huang, and Fard's MCP-client study compares tool-poisoning prompt injection across Claude Desktop, Claude Code, Cursor, Cline, Continue, Gemini CLI, and Langflow, showing that guardrails vary substantially across clients. Product versions move, but the durable lesson is that MCP safety depends on implementation details: parameter visibility, warnings, static validation, sandboxing, and audit logging.
+
+Freitas and Gharib's Microsoft paper describes a Dynamic Threat Detection Agent in Security Copilot, deployed across tens of thousands of Defender customers. It reports `80.1%` precision from customer feedback, novel alerts for about `15%` of investigated incidents, 28-minute median investigation time, median token cost of `$2.04`, and `0.38%` job-level failure rate.
+
+Why it matters: agent security is now both a risk story and a production story. Prompt injection and MCP poisoning show why tool-using agents need real boundaries. Security Copilot shows that agentic investigation is also being deployed as infrastructure, not just debated in slide decks. Marvellous. The fire extinguisher is also on fire, but at least it has metrics.
+
+Sources:
+
+- [Agent Security Infrastructure 2026](../sources/agent-security-infrastructure-2026.md)
+- [Abdelnabi and Bagdasarian: AI Agents May Always Fall for Prompt Injections](https://arxiv.org/abs/2605.17634)
+- [Freitas and Gharib: GenAI-Driven Threat Detection with Microsoft Security Copilot](https://arxiv.org/abs/2605.20896)
+- [Huang, Huang, and Fard: Are AI-assisted Development Tools Immune to Prompt Injection?](https://arxiv.org/abs/2603.21642)
 
 ### 2026-06-08 - Anthropic shows biology agents need deterministic data rails
 
