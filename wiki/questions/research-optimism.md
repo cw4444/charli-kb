@@ -67,6 +67,10 @@ Kotikalapudi et al. 2022 adds a different structural tile: optimism bias in a co
 
 This matters because "optimism bias" is not just private cheerfulness. It can be self-valuation, downplaying a rival, group preference, reward weighting, and social comparison. Still, the task was specific and competitive, so the result should not be treated as a general brain-map for all optimism.
 
+Kotikalapudi, Moser, Dricu, Spisak, and Aue 2023 is a different paper from the 2022 VBM one, not the same Tatjana-shaped object coming back in sunglasses. It used gray-matter cortical thickness and LASSO machine learning to predict personal and social optimism bias from the same soccer-task family. After one outlier exclusion, 45 participants remained. The model predicted personal optimism bias with 17% explained variance, with ACC, pars orbitalis, and entorhinal cortex among weighted regions, but it did not predict social optimism bias.
+
+This adds a predictive-modeling step to the structural lane, which is useful. It also keeps the claim modest: small sample, competitive soccer paradigm, cortical thickness features, modest variance explained, and no evidence that a scan can read someone's general optimism or financial decision-making. The universe remains tragically unwilling to provide rent via cortical thickness.
+
 ### 4. The newest work supports your "vivid positive, abstract negative" hunch, but with caveats
 
 The 2025 PNAS paper found that more optimistic individuals had more convergent neural representations during episodic future thinking and showed clearer neural distinctions between positive and negative future events.
@@ -275,6 +279,7 @@ The bills still exist. The better version of optimism is not pretending they do 
 - Best Possible Self imagery has short-term intervention evidence, but it is not proof of durable life change or downstream health benefits.
 - The Dolcos et al. OFC result is small-sample structural/correlational evidence. It should not be read as causal proof or treatment advice.
 - The Kotikalapudi et al. VBM result is a proof-of-concept structural study in a soccer competition task. It is useful for personal/social optimism bias, not a universal optimism map.
+- Kotikalapudi et al. 2023 adds predictive modeling, but it is still a small soccer-task MRI study. The model predicted personal optimism bias modestly and did not predict social optimism bias, so do not turn it into a general optimism scanner.
 - The Kress et al. attention result uses short-term gain/loss expectancy cues in student samples. It supports a mechanism hypothesis for selective updating, not a sweeping everyday claim that optimism makes people ignore all negative evidence.
 - The Kress and Aue 2019 ABM result supports trainable comparative optimism bias after positive-social attention training, not durable clinical improvement or a universal optimism-training protocol.
 - The Singh et al. fMRI result uses immediate monetary reward/punishment expectancies in healthy participants. It supports a neural mechanism for expectancy-attention interaction, not a direct map of life-scale optimism about health, relationships, or work.

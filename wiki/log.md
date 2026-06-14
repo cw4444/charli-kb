@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-14] source update | cortical-thickness optimism-bias prediction
+- Source: Kotikalapudi, Moser, Dricu, Spisak, and Aue, *Scientific Reports*, [Predictive modeling of optimism bias using gray matter cortical thickness](https://doi.org/10.1038/s41598-022-26550-y), published 2023-01-06.
+- Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added as the predictive-modeling sequel to the existing Kotikalapudi 2022 structural optimism-bias tile. Durable point: in the soccer-task personal/social optimism-bias lane, a LASSO model using cortical thickness from 68 regions predicted personal optimism bias with 17% explained variance after one outlier exclusion, but did not predict social optimism bias. Access check: Scientific Reports gold open access; PubMed Central full text; OpenAlex/Crossref CC-BY published version. Caveat: 45-person final sample, modest variance, task-specific, not a general optimism scanner.
+
 ## [2026-06-14] source update | optimism-bias methodology caveat
 - Source: Shah, *Frontiers in Psychology*, [Toward a Neurobiology of Unrealistic Optimism](https://doi.org/10.3389/fpsyg.2012.00344), published 2012-09-12.
 - Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)

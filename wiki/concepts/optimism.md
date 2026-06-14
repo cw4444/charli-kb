@@ -50,6 +50,8 @@ Two other recurring brain-region tiles matter. Sharot et al. linked rostral ACC 
 
 Kotikalapudi et al. 2022 adds the structural optimism-bias version: in a soccer likelihood-estimation task, personal and social optimism bias shared a left-putamen gray-matter correlate, while personal bias also involved frontal-pole and temporal/hippocampal regions, and social bias involved right TPJ. In useful English: optimism bias can involve reward/value weighting, self-versus-rival comparison, and social-cognition machinery. In less useful English: no, this still does not mean the putamen is a manifestation gland.
 
+Kotikalapudi et al. 2023 is a related but separate Scientific Reports paper, because Tatjana apparently has installed herself in this lane with intent. It used cortical thickness and machine learning to predict optimism-bias scores from the same kind of soccer task. The model explained 17% of personal optimism-bias variance, with ACC, pars orbitalis, and entorhinal cortex among the predictors, but it did not predict social optimism bias. Useful distinction: personal optimism bias may have a modest structural prediction signal here; social optimism bias did not cooperate.
+
 The 2025 PNAS work adds a useful nuance: optimism may involve not only expecting better outcomes, but structuring future thought differently. More optimistic people showed clearer neural distinctions between positive and negative futures. The researchers interpret this as being consistent with negative futures being processed with greater abstraction and psychological distance, which would reduce their emotional force.
 
 The careful version of the claim is important. Optimism is not the same as denial, and the current evidence does not prove that all optimistic people consciously choose abstract construals for bad outcomes. But it does support the idea that optimism has a representational style, not just a mood label.
@@ -126,6 +128,7 @@ Ellen Langer's counterclockwise aging study belongs on the outer edge of this co
 - `Lateralization hypothesis`: older narrative-review evidence links optimism/pessimism to hemispheric approach-withdrawal and self-evaluation patterns, but this must not become cartoon left-brain/right-brain talk.
 - `OFC-anxiety link`: structural evidence connecting orbitofrontal gray matter volume, trait optimism, and anxiety symptoms in healthy participants, without causal training claims.
 - `Personal and social optimism bias`: self/rival and in-group/out-group optimism can involve overlapping reward/value systems and distinct social-comparison machinery.
+- `Cortical-thickness prediction`: machine-learning evidence that gray-matter cortical thickness modestly predicts personal, but not social, optimism bias in a small soccer-task sample.
 - `Placebo sleep`: experimentally assigned beliefs about sleep quality can shift some cognitive performance measures.
 - `Sleep-health association`: optimism is associated with lower insomnia risk in at least one population survey, but causality and mechanisms remain open.
 - `Mood-network intervention`: invasive neuromodulation can reveal how mood-related networks and white matter plasticity participate in affective state, without becoming optimism evidence or a personal protocol.
