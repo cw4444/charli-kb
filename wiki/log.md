@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-14] access check | Dolcos OFC optimism paper
+- Source: Dolcos, Hu, Iordan, Moore, and Dolcos, *Social Cognitive and Affective Neuroscience*, [Optimism and the brain: trait optimism mediates the protective role of the orbitofrontal cortex gray matter volume against anxiety](https://doi.org/10.1093/scan/nsv106), published online 2015-09-14 / issue 2016-02.
+- Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Confirmed this was already covered in the optimism package and only tightened the access note. PMC full text and Oxford PDF are publicly readable. Crossref reports delayed OUP version-of-record licence CC BY-NC 4.0; OpenAlex labels the best copy bronze OA with no clean licence field. Treat as publicly readable, not clean gold OA/CC-BY.
+
 ## [2026-06-14] source update | cortical-thickness optimism-bias prediction
 - Source: Kotikalapudi, Moser, Dricu, Spisak, and Aue, *Scientific Reports*, [Predictive modeling of optimism bias using gray matter cortical thickness](https://doi.org/10.1038/s41598-022-26550-y), published 2023-01-06.
 - Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
