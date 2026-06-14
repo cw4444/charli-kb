@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-14] source update | optimism and reward motivation in rats
+- Source: Rygula, Golebiowska, Kregiel, Kubik, and Popik, *Frontiers in Behavioral Neuroscience*, [Effects of optimism on motivation in rats](https://doi.org/10.3389/fnbeh.2015.00032), published 2015-02-25.
+- Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added the old-but-useful animal-model tile. Durable point: using repeated ambiguous-cue interpretation tests, Rygula et al. separated 80 rats into "optimistic" and "pessimistic" cognitive-judgment-bias groups; optimistic rats showed higher progressive-ratio reward breakpoints for sucrose and a positive bias/motivation correlation, while avoidance motivation for mild foot shock did not differ. Access check: Frontiers gold open access; OpenAlex reports CC-BY published version; PubMed/PubMed Central record available. Caveat: rat operant task, not human self-report, not proof of conscious rat optimism or a clinical intervention.
+
 ## [2026-06-13] source note | deep brain stimulation and white matter remodeling
 - Source: Fujimoto et al., *Nature Neuroscience*, [Deep brain stimulation induces white matter remodeling and functional changes to brain-wide networks](https://doi.org/10.1038/s41593-026-02301-4), published 2026-06-01.
 - Pages created: [Fujimoto et al. - Deep Brain Stimulation And White Matter Remodeling](sources/fujimoto-deep-brain-stimulation-white-matter-remodeling.md)

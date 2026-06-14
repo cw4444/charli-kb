@@ -3,7 +3,7 @@ title: "Research - Optimism"
 type: question
 status: draft
 created: 2026-05-12
-updated: 2026-06-13
+updated: 2026-06-14
 question: "What does public neuroscience and adjacent cognitive research suggest about optimism?"
 sources:
   - ../sources/optimism-neuroscience-source-batch.md
@@ -46,6 +46,10 @@ The 2012 Current Biology follow-up makes this more than a static brain-region st
 The same Erthal review makes IFG the second main hub, especially in belief-update tasks. The task structure matters: participants estimate future adverse events, see base-rate statistics, then revise or do not revise their estimate. IFG appears around the salience/error-coding side of that process, particularly when expectations are challenged by undesirable information. So the technical version of the "cheat code" is not just positive imagery. It is also selective evidence weighting, cue processing, and when the system decides bad news is relevant enough to update the model.
 
 Lefebvre et al. 2017 extends the update-asymmetry story into instrumental reinforcement learning. This is RL in the old cognitive/neuroeconomic sense: people choose between options, receive monetary outcomes, and update learned values from prediction errors. In their task, better-than-expected outcomes had more impact on later choices than worse-than-expected outcomes, and fMRI linked individual optimistic-learning differences to reward-circuitry prediction-error signals. The useful bridge is that optimism bias may not be confined to high-level life-event beliefs; it may also appear in lower-level value learning.
+
+Rygula, Golebiowska, Kregiel, Kubik, and Popik 2015 gives this reward/motivation lane an animal-model counterpoint. Using repeated ambiguous-cue interpretation tests, the researchers separated 80 rats into "optimistic" and "pessimistic" judgment-bias groups. The optimistic rats worked harder for sucrose reward on a progressive-ratio schedule, and cognitive bias index correlated with reward motivation. They did not differ in motivation to avoid mild foot shock.
+
+This is not human self-report and not proof that rats have human-style optimism. It is useful because it links judgment bias to approach motivation in a controlled animal model. In plain English: more reward-positive rats pushed further for reward. Apparently even lab rodents understand the assignment.
 
 ### 3. Trait optimism is linked to OFC structure and lower anxiety symptoms
 

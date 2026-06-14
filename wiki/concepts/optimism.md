@@ -3,7 +3,7 @@ title: "Optimism"
 type: concept
 status: draft
 created: 2026-05-12
-updated: 2026-06-13
+updated: 2026-06-14
 sources:
   - ../sources/optimism-neuroscience-source-batch.md
   - ../sources/fujimoto-deep-brain-stimulation-white-matter-remodeling.md
@@ -39,6 +39,8 @@ Erthal et al.'s 2021 systematic review gives the technical spine: across 14 adul
 Sharot et al.'s 2012 Current Biology paper adds the dopamine-shaped screwdriver to that machinery. L-DOPA, a drug that enhances dopaminergic function, increased optimism bias by making participants update less from undesirable future information. That belongs beside the 2011 IFG result: optimism bias is not only imagining good futures more vividly; it can also be bad news losing its normal corrective force. Useful, slightly rude to rationalist self-image, and absolutely not a recommendation to pharmacologically season your belief updates like soup.
 
 Lefebvre et al. 2017 adds the reinforcement-learning version, using RL in the cognitive-neuroscience sense rather than the modern AI-training sense. In a simple instrumental learning task, participants learned more from better-than-expected monetary outcomes than from worse-than-expected outcomes, and individual differences in that optimistic learning asymmetry tracked reward-circuitry prediction-error signals. This matters because the optimism-bias pattern is not only a story about abstract future-life beliefs. It can show up inside value learning: how the system updates what seems worth choosing after reward and disappointment. Delightfully inconvenient for anyone who wanted optimism to stay in the inspirational-mug aisle.
+
+Rygula et al. 2015 adds the optimistic-rat tile, which is old but too useful to leave under the sofa. In 80 rats screened across repeated ambiguous-cue interpretation tests, animals classed as "optimistic" worked harder for sucrose reward on a progressive-ratio task than "pessimistic" rats, while the groups did not differ in motivation to avoid mild foot shock. The careful claim: rat cognitive judgment bias was linked to approach motivation. The uncivilized claim, which we are not making despite obvious temptation: tiny rodents have vision boards.
 
 Two other recurring brain-region tiles matter. Sharot et al. linked rostral ACC and amygdala activity to imagining positive futures. Dolcos et al. 2016 adds orbitofrontal cortex structure to the pile: in a small healthy sample, higher OFC gray matter volume was associated with higher trait optimism and lower anxiety symptoms, with optimism mediating the OFC-anxiety relation. Interesting, peer-reviewed, and still not permission to prescribe vibes as neuroanatomy.
 
@@ -111,6 +113,7 @@ Ellen Langer's counterclockwise aging study belongs on the outer edge of this co
 - `ACC/IFG split`: rough neuroimaging distinction between self-relevant future construction and challenged-belief updating.
 - `Dopamine and bad-news updating`: L-DOPA evidence that dopamine modulation can increase optimism bias by weakening belief updating from undesirable information.
 - `Optimistic reinforcement learning`: human instrumental-learning evidence that better-than-expected rewards can update learned values more strongly than worse-than-expected outcomes.
+- `Optimistic rat motivation`: animal-model evidence linking positive ambiguous-cue judgment bias with greater reward-seeking persistence, without pretending rats are tiny humans with affirmations.
 - `Gamma-tACS modulation`: preprint evidence that right-frontal 40 Hz stimulation can increase delayed optimistic belief updating under lab conditions.
 - `Counterfactual gratitude`: noticing bad outcomes that did not occur, without pretending everything is fine.
 - `Embodied belief updating`: bodily systems such as vestibular input can perturb risk estimates and self-evaluation.

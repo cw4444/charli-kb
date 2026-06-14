@@ -3,7 +3,7 @@ title: "Optimism Neuroscience Source Batch"
 type: source
 status: draft
 created: 2026-05-12
-updated: 2026-06-13
+updated: 2026-06-14
 source_type: public-research-batch
 authors:
   - Sanda Dolcos
@@ -85,6 +85,11 @@ authors:
   - Tina Kaffenberger
   - Thomas Baumgartner
   - Lutz Jäncke
+  - Rafal Rygula
+  - Joanna Golebiowska
+  - Jakub Kregiel
+  - Jakub Kubik
+  - Piotr Popik
 primary_sources:
   - "Taylor and Brown, Psychological Bulletin, 1988, Illusion and well-being: A social psychological perspective on mental health, https://doi.org/10.1037/0033-2909.103.2.193"
   - "Sharot et al., Nature, 2007, Neural mechanisms mediating optimism bias, https://doi.org/10.1038/nature06280"
@@ -116,6 +121,7 @@ primary_sources:
   - "Lefebvre, Lebreton, Meyniel, Bourgeois-Gironde, and Palminteri, Nature Human Behaviour, 2017, Behavioural and neural characterization of optimistic reinforcement learning, https://doi.org/10.1038/s41562-017-0067"
   - "Morton, El-Deredy, Morton, Elliott, and Jones, European Journal of Personality, 2011, Optimism Facilitates the Utilisation of Prior Cues, https://doi.org/10.1002/per.805"
   - "Herwig, Kaffenberger, Baumgartner, and Jäncke, NeuroImage, 2007, Neural correlates of a 'pessimistic' attitude when anticipating events of unknown emotional valence, https://doi.org/10.1016/j.neuroimage.2006.09.035"
+  - "Rygula, Golebiowska, Kregiel, Kubik, and Popik, Frontiers in Behavioral Neuroscience, 2015, Effects of optimism on motivation in rats, https://doi.org/10.3389/fnbeh.2015.00032"
 counterpoint_sources:
   - "Colvin and Block, Psychological Bulletin, 1994, Do positive illusions foster mental health? An examination of the Taylor and Brown formulation, https://doi.org/10.1037/0033-2909.116.1.3"
   - "Taylor and Brown, Psychological Bulletin, 1994, Positive illusions and well-being revisited: separating fact from fiction, https://doi.org/10.1037/0033-2909.116.1.21"
@@ -147,6 +153,7 @@ sources:
   - "Public GitHub repository and GitHub API metadata for Fisher, Whyte, and Hohwy optimism_simulations, accessed 2026-06-13"
   - "Frontiers, Crossref, OpenAlex, and PubMed/PMC metadata for Kress and Aue 2019, accessed 2026-06-13"
   - "Crossref, OpenAlex, Europe PMC, PubMed citation metadata, and University of Bern/BORIS abstract metadata for Herwig et al. 2007, accessed 2026-06-13"
+  - "Frontiers, Crossref, OpenAlex, and PubMed Central full text/metadata for Rygula et al. 2015, accessed 2026-06-14"
   - "../../raw/The_effect_of_optimistic_expectancies_on.pdf"
   - "../../raw/Right_frontal_gamma_transcranial_alterna.pdf"
   - "../../raw/Seeing_through_rose_colored_glasses_How.pdf"
@@ -163,8 +170,8 @@ sources:
 ## Metadata
 
 - Topic: optimism as a cognitive and neural style rather than a manifestation claim
-- Scope: future-event simulation, optimism bias, belief updating, mental imagery interventions, repetitive negative thinking, and sleep/insomnia associations
-- Access note: this page keeps original synthesis and metadata only. It does not reproduce paywalled text. `raw/optimistic-brain.pdf`, `raw/Seeing_the_glass_half_full_A_review_of_t.pdf`, and `raw/Unveiling the neural underpinnings of optimism a systematic review.pdf` are treated as local access-controlled source material. `raw/Optimism, Agency, and Success.pdf`, `raw/Seeing_through_rose_colored_glasses_How.pdf`, `raw/The_effect_of_optimistic_expectancies_on.pdf`, `raw/Right_frontal_gamma_transcranial_alterna.pdf`, `raw/Associations_between_Optimism_and_Attent.pdf`, and `raw/Optimistic_reinforcement_learning_comput.pdf` are open-access PDFs and remain ignored by git with the rest of `raw/`. Kress and Aue 2019 is gold open access via Frontiers, PubMed Central, DOAJ, and OpenAlex, with a CC-BY license. The Wiley encyclopedia chapter by Kahle Monahan et al. was checked through public abstract/metadata and secondary bibliographic records only, not full-text access. The OxJournal 2024 article is public and useful as a student-style review/source trail, not as primary experimental evidence. The Sharot et al. 2012 dopamine paper was checked through Crossref and PubMed metadata/abstract because Cell's public page was temporarily blocked by browser verification; the PubMed record lists PMCID PMC3424419. Yao et al. 2024 is a Research Square preprint, not a peer-reviewed journal article. Lefebvre et al. 2017 is the peer-reviewed version of the local bioRxiv PDF, which used the earlier title *Optimistic reinforcement learning: computational and neural bases*. Morton et al. 2011 is restricted access on the SAGE landing page, and OpenAlex did not find an open-access repository copy; this wiki uses public abstract/metadata only. Fisher, Whyte, and Hohwy's active-inference optimism source was found as a public GitHub repository, not as an indexed DOI-bearing article; no repository license was declared, so treat the code as visible source material rather than freely reusable code. Herwig et al. 2007 has a PubMed record and University of Bern/BORIS abstract metadata, Europe PMC marks it not open access/no full text, the DOI resolves through Elsevier/ScienceDirect, and OpenAlex marks ScienceDirect as bronze OA while also seeing repository metadata. Treat it as public metadata/abstract plus possible bronze/repository access, not cleanly licensed open access; any subscription PDF stays private in `raw/`.
+- Scope: future-event simulation, optimism bias, belief updating, mental imagery interventions, repetitive negative thinking, animal judgment bias, and sleep/insomnia associations
+- Access note: this page keeps original synthesis and metadata only. It does not reproduce paywalled text. `raw/optimistic-brain.pdf`, `raw/Seeing_the_glass_half_full_A_review_of_t.pdf`, and `raw/Unveiling the neural underpinnings of optimism a systematic review.pdf` are treated as local access-controlled source material. `raw/Optimism, Agency, and Success.pdf`, `raw/Seeing_through_rose_colored_glasses_How.pdf`, `raw/The_effect_of_optimistic_expectancies_on.pdf`, `raw/Right_frontal_gamma_transcranial_alterna.pdf`, `raw/Associations_between_Optimism_and_Attent.pdf`, and `raw/Optimistic_reinforcement_learning_comput.pdf` are open-access PDFs and remain ignored by git with the rest of `raw/`. Kress and Aue 2019 is gold open access via Frontiers, PubMed Central, DOAJ, and OpenAlex, with a CC-BY license. Rygula et al. 2015 is gold open access via Frontiers, indexed in PubMed/PubMed Central/OpenAlex, and OpenAlex reports a CC-BY published version. The Wiley encyclopedia chapter by Kahle Monahan et al. was checked through public abstract/metadata and secondary bibliographic records only, not full-text access. The OxJournal 2024 article is public and useful as a student-style review/source trail, not as primary experimental evidence. The Sharot et al. 2012 dopamine paper was checked through Crossref and PubMed metadata/abstract because Cell's public page was temporarily blocked by browser verification; the PubMed record lists PMCID PMC3424419. Yao et al. 2024 is a Research Square preprint, not a peer-reviewed journal article. Lefebvre et al. 2017 is the peer-reviewed version of the local bioRxiv PDF, which used the earlier title *Optimistic reinforcement learning: computational and neural bases*. Morton et al. 2011 is restricted access on the SAGE landing page, and OpenAlex did not find an open-access repository copy; this wiki uses public abstract/metadata only. Fisher, Whyte, and Hohwy's active-inference optimism source was found as a public GitHub repository, not as an indexed DOI-bearing article; no repository license was declared, so treat the code as visible source material rather than freely reusable code. Herwig et al. 2007 has a PubMed record and University of Bern/BORIS abstract metadata, Europe PMC marks it not open access/no full text, the DOI resolves through Elsevier/ScienceDirect, and OpenAlex marks ScienceDirect as bronze OA while also seeing repository metadata. Treat it as public metadata/abstract plus possible bronze/repository access, not cleanly licensed open access; any subscription PDF stays private in `raw/`.
 
 ## Core Primary-Source Claims
 
@@ -179,6 +186,10 @@ Sharot, Guitart-Masip, Korn, Chowdhury, and Dolan 2012 adds the pharmacology til
 Lefebvre, Lebreton, Meyniel, Bourgeois-Gironde, and Palminteri 2017 pushes the same asymmetry down into instrumental reinforcement learning. In a two-armed bandit task with neutral cues and immediate monetary outcomes, participants showed optimistic learning: better-than-expected outcomes carried more updating weight than worse-than-expected outcomes. Their computational model separated positive and negative learning rates, and fMRI linked individual optimistic-learning differences to prediction-error signaling in reward circuitry.
 
 This is the old neurocomputational meaning of reinforcement learning, not the current "RL" shorthand around training AI models. The point is that optimism bias may not be limited to abstract life-event beliefs. It can appear in basic reward learning, where a person updates action values from outcomes. That makes the bridge nastier and more useful: selective good-news updating can live inside low-level value learning, not just inside narrative self-talk. Caveat still welded on: this is a controlled lab task, not proof that optimism always improves decisions, and not evidence that people should blunt learning from bad outcomes.
+
+Rygula, Golebiowska, Kregiel, Kubik, and Popik 2015 adds the animal-model motivation tile. The researchers used repeated ambiguous-cue interpretation tests to classify 80 rats by stable cognitive judgment bias: 24 "optimistic" rats with positive average bias scores and 56 "pessimistic" rats with negative average bias scores. They then used progressive-ratio tasks to test how much work the rats would do for sucrose reward or to avoid mild foot shock. The optimistic rats reached higher reward breakpoints than the pessimistic rats, and cognitive bias index correlated positively with reward motivation. The groups did not differ on avoidance motivation.
+
+This matters because it pushes the optimism/motivation bridge below human self-report. The result is not "rats have cheerful inner monologues" and not direct evidence about human optimism training. It is a behavioral-neuroscience result: reward-facing judgment bias in rats was associated with more persistent approach motivation. Useful tile, tiny lab treadmill attached.
 
 Dolcos, Hu, Iordan, Moore, and Dolcos 2016 adds a structural brain/anxiety piece. In 61 healthy participants, higher orbitofrontal cortex gray matter volume was associated with higher trait optimism, and trait optimism was associated with lower anxiety symptoms. Their mediation analysis suggested that trait optimism mediated the relation between left OFC volume and anxiety. The useful interpretation is brain-personality-symptom linkage: optimism may be one psychological pathway through which OFC-related resilience shows up. The brake is equally important: this was a small healthy sample with structural MRI and correlational mediation, not proof that optimism training changes OFC volume or cures anxiety.
 

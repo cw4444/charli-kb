@@ -3,7 +3,7 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-06-13
+updated: 2026-06-14
 ---
 
 # Current State
@@ -42,6 +42,8 @@ This repo is a plain Markdown personal knowledge base based on Karpathy's LLM Wi
 - The durable subject lanes are AI, reality, neuroscience, and their overlap: perception, belief, expectation, action, agents, knowledge systems, reality monitoring, embodiment, cellular maintenance, and related source-backed concepts.
 
 ## Latest Session Handoff
+
+On 2026-06-14, Charli flagged Rygula, Golebiowska, Kregiel, Kubik, and Popik 2015, [Effects of optimism on motivation in rats](https://doi.org/10.3389/fnbeh.2015.00032), because optimistic rats are objectively excellent bait. Codex found it was not already in the wiki and folded it into the existing optimism package rather than making a standalone page. Durable point: in 80 rats screened across repeated ambiguous-cue interpretation tests, "optimistic" rats worked harder for sucrose reward on a progressive-ratio schedule than "pessimistic" rats, and cognitive bias index correlated with reward motivation; the groups did not differ in motivation to avoid mild foot shock. Access check: Frontiers gold open access, PubMed/PubMed Central, OpenAlex CC-BY published version. Caveat: animal operant task, not human self-report, not proof that rats have human-style optimism or that optimism training is a clinical treatment.
 
 Also on 2026-06-13, Charli flagged Fujimoto et al. 2026, [Deep brain stimulation induces white matter remodeling and functional changes to brain-wide networks](https://doi.org/10.1038/s41593-026-02301-4), published in *Nature Neuroscience* on 2026-06-01. Codex found it was not already in the wiki and added [Fujimoto et al. - Deep Brain Stimulation And White Matter Remodeling](../sources/fujimoto-deep-brain-stimulation-white-matter-remodeling.md), linked from [Neuroscience](../../themes/neuroscience/overview.md) and lightly cross-linked from [Optimism](../concepts/optimism.md). Durable point: in healthy macaques, six weeks of subcallosal cingulate deep brain stimulation was associated with selective cingulum-bundle white matter remodeling, increased myelinating oligodendrocytes/myelination, and altered functional connectivity across mood-relevant networks. Access note: Nature marks it open access with PDF under CC BY-NC-ND 4.0; data and MATLAB scripts are in DANDI at DOI 10.48324/dandi.001773/0.260416.1939. Keep caveats loud: macaque mechanism study, small animal numbers, healthy subjects, not a home stimulation protocol, not direct optimism evidence.
 
