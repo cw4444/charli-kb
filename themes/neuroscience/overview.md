@@ -3,7 +3,7 @@ title: "Neuroscience"
 type: theme
 status: draft
 created: 2026-06-04
-updated: 2026-06-13
+updated: 2026-06-14
 sources:
   - ../../wiki/sources/reality-threshold-dijkstra-batch.md
   - ../../wiki/sources/wadia-shared-code-perception-imagination.md
@@ -18,6 +18,7 @@ sources:
   - ../../wiki/sources/locus-coeruleus-source-batch.md
   - ../../wiki/sources/fallon-striatal-action-counting-steering.md
   - ../../wiki/sources/fujimoto-deep-brain-stimulation-white-matter-remodeling.md
+  - ../../wiki/sources/yang-axonic-spines-action-potentials.md
 ---
 
 # Neuroscience
@@ -100,11 +101,14 @@ The useful bridge: a small cue can feel enormous when the system is already prim
 
 - [Libet, Schurger, Readiness Potential, And Agency](../../wiki/sources/libet-schurger-readiness-potential-agency.md)
 - [Fallon et al. - Striatal Action Counting And Goal-Directed Steering](../../wiki/sources/fallon-striatal-action-counting-steering.md)
+- [Yang et al. - Axonic Spines And Action Potential Initiation](../../wiki/sources/yang-axonic-spines-action-potentials.md)
 - [Practical Agency Inside Constraint](../../wiki/concepts/practical-agency-inside-constraint.md)
 
 This thread keeps neural precursors separate from fatalist storytelling. A readiness potential is not a tiny bureaucrat in the brain who already made every meaningful decision.
 
 Fallon et al. 2026 adds a motor-control version of the same anti-magic point. In mice, direct and indirect striatal pathways dissociably shaped both physical steering and action-count progress in a lever-press task. The useful bridge is that goal-directed behavior can involve counting, steering, continuation, and termination machinery at once. Agency is not an intention blob; it is constrained control in motion.
+
+Yang et al. 2026 adds a lower-level cellular caution. In adult mice, excitatory synapses onto axonic spines at the axon initial segment could boost action-potential generation and route hippocampal information through dorsal lateral septum neurons. This is not a human volition paper, but it reinforces the same anti-cartoon rule: action-related neural events are implemented through specific physical architectures, not magic buttons.
 
 ### How Can Intervention Reshape Mood-Relevant Networks?
 
@@ -122,8 +126,11 @@ This thread is behavioural rather than cellular, but it belongs near the neurosc
 ### How Does The Physical Neuron Maintain Its World?
 
 - [Moretto et al. - Tau, Axonal Transport, And p38α](../../wiki/sources/moretto-tau-axonal-transport-p38alpha.md)
+- [Yang et al. - Axonic Spines And Action Potential Initiation](../../wiki/sources/yang-axonic-spines-action-potentials.md)
 
 Neurons are long, metabolically demanding cells that depend on transport along axons. The tau/p38α paper opens a cellular-neuroscience branch around microtubules, cargo transport, stress signaling, neurodegeneration, and the possibility that some early dysfunction is reversible before cell death.
+
+The Yang et al. axonic-spines paper adds a different cellular branch: the axon initial segment can be a direct excitatory synaptic site in specific mouse circuits, not merely a downstream cable endpoint waiting for dendritic integration to finish.
 
 ## Working Principles
 

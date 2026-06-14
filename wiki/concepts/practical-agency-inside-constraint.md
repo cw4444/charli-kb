@@ -3,7 +3,7 @@ title: "Practical Agency Inside Constraint"
 type: concept
 status: draft
 created: 2026-05-20
-updated: 2026-06-13
+updated: 2026-06-14
 sources:
   - ../../themes/rovelli-relational-quantum-mechanics-and-reality.md
   - ../../themes/qbism-adlam-observer-dependent-reality.md
@@ -13,6 +13,7 @@ sources:
   - ../sources/libet-schurger-readiness-potential-agency.md
   - ../sources/langer-counterclockwise-aging-mindset.md
   - ../sources/fallon-striatal-action-counting-steering.md
+  - ../sources/yang-axonic-spines-action-potentials.md
 ---
 
 # Practical Agency Inside Constraint
@@ -80,6 +81,14 @@ Fallon et al. 2026 adds a more concrete action-control bridge. In a mouse lever-
 
 That fits this page's practical frame: agency is not an uncaused spark floating above the system. It is model-guided control inside machinery that can count, steer, inhibit, extend, and correct.
 
+## Relation To Axonic Spines And Spike Initiation
+
+Yang et al. 2026 sits several levels below human agency, but it is still a useful mechanism reminder. In adult mice, the axon initial segment could receive specialized excitatory input through axonic spines, boosting action-potential generation and routing hippocampal information through dorsal lateral septum neurons.
+
+The bridge to this page is deliberately narrow. This does not explain free will, optimism, or human choice. It does show why action-related neural stories should not be flattened into a neat command chain. Even spike initiation can depend on local synaptic placement, ion-channel context, threshold dynamics, and circuit routing.
+
+That fits the Schurger/Libet caution: neural precursors are real, but the interpretation is not simple. Physical machinery constrains action; it does not automatically make agency meaningless.
+
 ## Relation To Langer's Counterclockwise Study
 
 Ellen Langer's counterclockwise study is a caveat-heavy but useful example of agency changing through role and environment. Older men were placed in a setting staged as 1959, roughly 20 years earlier, and encouraged to speak and act as if that earlier period were present. Reported improvements included physical and cognitive measures, though the study was tiny and loosely controlled.
@@ -144,6 +153,7 @@ This is why [Mechanical World Models](mechanical-world-models.md), [Queryable Or
 - Do not say Yoneda literally explains physics, determinism, or agency.
 - Do not say relational thinking proves free will.
 - Do not say Schurger proves free will or disproves the readiness potential.
+- Do not say axonic spines prove anything about human free will, optimism, or voluntary choice.
 - Do not say Langer proved aging can be reversed by belief.
 - Do not say determinism is solved by vibes, manifestation, or optimism.
 - Do not say fictional finalism proves manifestation or reality creation.
@@ -161,6 +171,7 @@ This is why [Mechanical World Models](mechanical-world-models.md), [Queryable Or
 - [Cognitive Latency Shock](cognitive-latency-shock.md)
 - [Libet, Schurger, Readiness Potential, And Agency](../sources/libet-schurger-readiness-potential-agency.md)
 - [Fallon et al. - Striatal Action Counting And Goal-Directed Steering](../sources/fallon-striatal-action-counting-steering.md)
+- [Yang et al. - Axonic Spines And Action Potential Initiation](../sources/yang-axonic-spines-action-potentials.md)
 - [Langer Counterclockwise Study And Aging Mindset](../sources/langer-counterclockwise-aging-mindset.md)
 - [Positive Alignment](positive-alignment.md)
 - [Agentic Work Rearchitecture](agentic-work-rearchitecture.md)

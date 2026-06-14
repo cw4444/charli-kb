@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-06-14] ingest | Yang axonic spines and action-potential initiation
+- Source: `Nature Neuroscience article page for DOI 10.1038/s41593-026-02282-4`
+- Source URLs: `https://doi.org/10.1038/s41593-026-02282-4`, `https://www.nature.com/articles/s41593-026-02282-4`
+- Pages created: [Yang et al. - Axonic Spines And Action Potential Initiation](sources/yang-axonic-spines-action-potentials.md)
+- Pages updated: [Neuroscience](../themes/neuroscience/overview.md), [Practical Agency Inside Constraint](concepts/practical-agency-inside-constraint.md), [Wiki Index](index.md), [Current State](meta/current-state.md)
+- Notes: Added as a lower-level neuroscience/action-initiation note adjacent to the Libet/Schurger agency lane, not as optimism evidence. Access check: Nature marks the article closed/institutional, OpenAlex marks it closed with no repository full text, and Crossref shows Springer Nature TDM terms rather than a public OA licence. Public synthesis uses abstract/metadata, supplementary listings, and source-data listing only.
+
 ## [2026-06-14] access check | Dolcos OFC optimism paper
 - Source: Dolcos, Hu, Iordan, Moore, and Dolcos, *Social Cognitive and Affective Neuroscience*, [Optimism and the brain: trait optimism mediates the protective role of the orbitofrontal cortex gray matter volume against anxiety](https://doi.org/10.1093/scan/nsv106), published online 2015-09-14 / issue 2016-02.
 - Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
