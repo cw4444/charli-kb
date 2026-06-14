@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-14] timeline | OpenAI multistate user-safety probe
+- Source: AP, [OpenAI hit with multistate probe into possible user harm as its IPO looms](https://apnews.com/article/a95894407773307fae8ae3ce9742b586), 2026-06-14.
+- Pages updated: [OpenAI Third Phase Strategy 2026](sources/openai-third-phase-strategy-2026.md), [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Promoted the OpenAI item from Charli's Windows digest because it is a durable governance/finance-pressure signal: AP reports a subpoena from several US states as part of a ChatGPT user-safety probe while OpenAI has confidential public-market optionality through its draft S-1 path. Kept caveats sharp: subpoena/probe is not a liability finding, related lawsuit allegations are not settled facts, and a draft S-1 is not a completed IPO.
+
 ## [2026-06-14] source update | optimism and reward motivation in rats
 - Source: Rygula, Golebiowska, Kregiel, Kubik, and Popik, *Frontiers in Behavioral Neuroscience*, [Effects of optimism on motivation in rats](https://doi.org/10.3389/fnbeh.2015.00032), published 2015-02-25.
 - Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)

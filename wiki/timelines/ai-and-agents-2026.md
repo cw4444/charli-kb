@@ -3,7 +3,7 @@ title: "AI And Agents 2026 Timeline"
 type: timeline
 status: draft
 created: 2026-05-21
-updated: 2026-06-13
+updated: 2026-06-14
 sources:
   - ../sources/current-ai-agent-landscape-2026.md
   - ../sources/anthropic-compute-and-talent-signal-2026.md
@@ -822,6 +822,21 @@ Sources:
 - [Anthropic: Statement on the US government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access)
 - [AP: Anthropic says it has taken its latest AI models offline to comply with new export controls](https://apnews.com/article/anthropic-artificial-intelligence-trump-fable-mythos-d9cc7df5c02e93837d0f0bfb24d5cfd2)
 - [Axios: Trump admin blocks foreign access to Anthropic's most powerful AI](https://www.axios.com/2026/06/12/anthropic-trump-mythos-fable-national-security)
+
+### 2026-06-14 - OpenAI faces multistate probe over ChatGPT user-safety concerns
+
+AP reported that OpenAI received a subpoena from several US states as part of a probe into ChatGPT user safety while the company is preparing possible public-market access through its confidential draft S-1 path.
+
+The article ties the probe to criticism and lawsuits around alleged self-harm encouragement, criminal misuse, health data, and personal-information handling. OpenAI told AP it would respond constructively, said it takes state attorneys general concerns seriously, and pointed to safeguards for minors and users in difficult situations.
+
+Why it matters: this is the consumer-safety counterpart to the frontier-lab finance story. OpenAI is trying to present a broad-benefit, "personal AGI," automated-research, economic-research, and possible-public-company narrative while state-level regulators are asking whether ChatGPT is safe enough for children, vulnerable users, crisis contexts, and high-risk misuse. That pressure can shape deployment standards, disclosures, audit expectations, and IPO risk language.
+
+Careful read: a subpoena and probe are not legal findings. Do not treat allegations in related lawsuits as settled facts. Also keep the S-1 distinction clean: OpenAI has confidential public-market optionality, not a completed IPO.
+
+Sources:
+
+- [OpenAI Third Phase Strategy 2026](../sources/openai-third-phase-strategy-2026.md)
+- [AP: OpenAI hit with multistate probe into possible user harm as its IPO looms](https://apnews.com/article/a95894407773307fae8ae3ce9742b586)
 
 ### 2026-06-13 - Agent-security research sharpens prompt-injection and production-agent boundaries
 

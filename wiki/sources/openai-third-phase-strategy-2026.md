@@ -3,7 +3,7 @@ title: "OpenAI Third Phase Strategy 2026"
 type: source
 status: draft
 created: 2026-06-09
-updated: 2026-06-11
+updated: 2026-06-14
 sources:
   - "OpenAI: Built to benefit everyone: our plan, 2026-06-08"
   - "OpenAI: Confidential submission of draft S-1 to the SEC, 2026-06-08"
@@ -12,6 +12,7 @@ sources:
   - "TechCrunch: OpenAI is still working on that 'super app', 2026-06-07"
   - "AP: Visa plugs its payment network into ChatGPT, letting AI agents shop and pay for users, 2026-06-10"
   - "WSJ/Dow Jones: Visa to secure payments for shoppers on ChatGPT in OpenAI partnership, 2026-06-10"
+  - "AP: OpenAI hit with multistate probe into possible user harm as its IPO looms, 2026-06-14"
   - "../../raw/2026-06-09-ai-digest.md"
 ---
 
@@ -52,6 +53,18 @@ This is not an IPO and not an offer to sell securities. It is public-market opti
 Source:
 
 - [OpenAI: Confidential submission of draft S-1 to the SEC](https://openai.com/index/openai-submits-confidential-s-1/)
+
+## Multistate User-Safety Probe
+
+On 2026-06-14, AP reported that OpenAI had received a subpoena from several US states as part of a probe into ChatGPT user safety. AP framed the inquiry around possible user harm, including self-harm, criminal misuse, health data, and other personal-information concerns, and reported that OpenAI said it would respond constructively.
+
+The timing matters because it lands directly beside OpenAI's public-market optionality. A frontier lab preparing a possible public listing is also being pulled into state-level consumer-safety scrutiny over chatbot behavior, minors, vulnerable users, escalation thresholds, and privacy. That does not prove OpenAI is liable for the alleged harms in the cited cases. It does mean deployment standards, safety disclosures, child-safety controls, crisis handling, and public-market risk language are becoming part of the same institutional story.
+
+Careful read: AP reported a subpoena from several states and said the Wall Street Journal had reported it earlier. AP also said it contacted a dozen state attorneys general for details and had not received responses at publication time. Treat this as confirmed regulatory pressure, not as proof of legal findings.
+
+Source:
+
+- [AP: OpenAI hit with multistate probe into possible user harm as its IPO looms](https://apnews.com/article/a95894407773307fae8ae3ce9742b586)
 
 ## Economic Research Exchange
 
@@ -106,6 +119,7 @@ The recurring pattern is that OpenAI is not only shipping models. It is building
 - foundation grants around resilience;
 - economic-impact research;
 - public-market optionality;
+- state-level user-safety and consumer-protection scrutiny;
 - an explicit post-AGI / "third phase" narrative.
 
 That is historically useful because AI capability, distribution, finance, research automation, and governance are no longer separate tracks.
@@ -116,6 +130,7 @@ That is historically useful because AI capability, distribution, finance, resear
 - Do not treat the March 2028 research-automation horizon as a guarantee.
 - Do not treat OpenAI's broad-benefit framing as neutral public policy. It is a company strategy statement from a frontier lab.
 - Do not say OpenAI has gone public. A confidential draft S-1 gives optionality; it is not an IPO.
+- Do not treat a subpoena or probe as a finding of liability. It is a governance and disclosure-pressure signal unless public legal findings emerge.
 - Do not treat the Economic Research Exchange as independent by default. It may support external research, but the access, framing, and infrastructure are OpenAI-shaped.
 - Do not treat FT/Reuters/TechCrunch superapp reporting as an official launch or release date.
 - Do not treat Visa integration as safe autonomy by default. Payment agents need explicit consent, budgets, approvals, fraud handling, audit trails, and dispute rules.
