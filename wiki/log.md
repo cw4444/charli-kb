@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-14] source update | spontaneous positive bias
+- Source: Viviani, Lo, Sim, Beschoner, Stingl, and Horn, *PLOS ONE*, [The Neural Substrate of Positive Bias in Spontaneous Emotional Processing](https://doi.org/10.1371/journal.pone.0015454), published 2010-11-08.
+- Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added the spontaneous-positive-bias / automatic emotion-regulation tile. Durable point: in a scrambled-sentences/perfusion-imaging study with 60 healthy adults, spontaneous positive bias differed from explicit avoidance of negative material, with less effortful-attention recruitment and default-mode-adjacent/perigenual medial prefrontal involvement. Access check: PLOS ONE gold open access, PubMed Central full text, and OpenAlex CC-BY published version. Caveat: old healthy-adult task study, not trait optimism, future-event optimism, or intervention evidence.
+
 ## [2026-06-14] timeline | OpenAI multistate user-safety probe
 - Source: AP, [OpenAI hit with multistate probe into possible user harm as its IPO looms](https://apnews.com/article/a95894407773307fae8ae3ce9742b586), 2026-06-14.
 - Pages updated: [OpenAI Third Phase Strategy 2026](sources/openai-third-phase-strategy-2026.md), [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)

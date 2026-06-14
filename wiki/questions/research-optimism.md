@@ -51,6 +51,10 @@ Rygula, Golebiowska, Kregiel, Kubik, and Popik 2015 gives this reward/motivation
 
 This is not human self-report and not proof that rats have human-style optimism. It is useful because it links judgment bias to approach motivation in a controlled animal model. In plain English: more reward-positive rats pushed further for reward. Apparently even lab rodents understand the assignment.
 
+Viviani, Lo, Sim, Beschoner, Stingl, and Horn 2010 gives the lane an older spontaneous-processing anchor. In a PLOS ONE perfusion-imaging study, 60 healthy adults completed a scrambled-sentences task either spontaneously or with explicit instruction to avoid negative completions. The spontaneous group still showed a positive bias, but it did not look like simple deliberate suppression: compared with instructed avoidance, it recruited less effortful-attention machinery such as DLPFC/right frontal eye field and involved default-mode-adjacent/perigenual medial prefrontal regions.
+
+This matters because optimism-adjacent positive bias is not always the same thing as conscious self-control. Some of it may be automatic affective steering. Keep the cage locked on the claim: this is not trait optimism, not future-event optimism, not clinical intervention evidence, and not a license to call every happy interpretation "neuroscience."
+
 ### 3. Trait optimism is linked to OFC structure and lower anxiety symptoms
 
 Dolcos, Hu, Iordan, Moore, and Dolcos 2016 gives the optimism package a structural brain/anxiety anchor. In 61 healthy participants, orbitofrontal cortex gray matter volume was positively associated with trait optimism, trait optimism was negatively associated with anxiety symptoms, and optimism statistically mediated the relation between left OFC volume and anxiety.
