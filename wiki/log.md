@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-14] source update | optimism-bias methodology caveat
+- Source: Shah, *Frontiers in Psychology*, [Toward a Neurobiology of Unrealistic Optimism](https://doi.org/10.3389/fpsyg.2012.00344), published 2012-09-12.
+- Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added as commentary/methodological ballast around Sharot's dopamine and belief-updating work. Durable point: Shah treats the cognitive-neuroscience turn as promising but warns that optimism-bias research still needs measurement scrutiny, including comparison-method artifacts and task-design issues such as using only negative future events. Access check: Frontiers gold open access; PubMed Central full text; OpenAlex CC-BY published version.
+
 ## [2026-06-14] source update | spontaneous positive bias
 - Source: Viviani, Lo, Sim, Beschoner, Stingl, and Horn, *PLOS ONE*, [The Neural Substrate of Positive Bias in Spontaneous Emotional Processing](https://doi.org/10.1371/journal.pone.0015454), published 2010-11-08.
 - Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
