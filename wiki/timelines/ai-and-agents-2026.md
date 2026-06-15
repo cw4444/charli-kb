@@ -92,6 +92,8 @@ sources:
   - https://arxiv.org/abs/2605.17634
   - https://arxiv.org/abs/2605.20896
   - https://arxiv.org/abs/2603.21642
+  - ../sources/deepmind-from-agi-to-asi.md
+  - https://arxiv.org/abs/2606.12683
   - ../sources/mrinank-sharma-anthropic-safeguards-exit-2026.md
   - https://www.businessinsider.com/read-exit-letter-by-an-anthropic-ai-safety-leader-2026-2
   - https://www.anthropic.com/news/constitutional-classifiers
@@ -158,6 +160,7 @@ The first half of 2026 already shows several converging threads:
 - Financial Times / Reuters / TechCrunch reporting described OpenAI's planned ChatGPT overhaul as a superapp-style shift toward coding tools and AI agents. Treat it as reported product direction, not a shipped launch.
 - Bloomberg / Reuters / Financial Times-derived reporting said Apollo and Blackstone finalized roughly $35B in chip-backed private-credit financing for Anthropic's Google/Broadcom TPU capacity, separate from Anthropic's reported SpaceX/Colossus Nvidia GPU lease.
 - Anthropic launched Claude Fable 5, a generally available Mythos-class model with conservative safeguards that route flagged cyber, biology/chemistry, and distillation requests to Opus 4.8; Claude Mythos 5 remained restricted to Glasswing and trusted-access partners.
+- Google DeepMind published *From AGI to ASI*, a broad arXiv report mapping four possible pathways from AGI to ASI: scaling, paradigm shifts, recursive self-improvement, and multi-agent group agency, with bottlenecks and open research questions. The paper also includes explicit AI-assistant summary instructions, which is both useful and faintly cursed.
 - Three days later, Anthropic suspended access to both Fable 5 and Mythos 5 after a US export-control directive covering foreign nationals, including foreign-national Anthropic employees. The structural signal is direct government control over hosted frontier-model access, not just chip exports.
 - Dario Amodei and Anthropic published "Policy on the AI Exponential" plus Advanced AI and Economic Policy frameworks, shifting Anthropic's public policy stance from transparency-first optionality toward mandatory frontier-model testing, independent evaluation, security obligations, possible government deployment-blocking authority, and `$350M` in economic-futures research/fellowship commitments.
 - Visa and OpenAI reportedly embedded Visa payment rails into ChatGPT so agents can recommend and complete purchases with authorization, fraud monitoring, approvals, spending limits, and approved-merchant controls. Agentic commerce has reached payment-network plumbing. Wonderful, the shopping cart has opinions now.
@@ -791,6 +794,21 @@ Sources:
 - [OpenAI Third Phase Strategy 2026](../sources/openai-third-phase-strategy-2026.md)
 - [AP: Visa plugs its payment network into ChatGPT, letting AI agents shop and pay for users](https://apnews.com/article/visa-chatgpt-openai-shopping-mastercard-d769dec86344cb4977c98789e8ec492f)
 - [WSJ / Dow Jones: Visa to Secure Payments for Shoppers on ChatGPT in OpenAI Partnership](https://www.wsj.com/tech/ai/visa-to-secure-payments-for-shoppers-on-chatgpt-in-openai-partnership-7ece5b22)
+
+### 2026-06-10 - DeepMind maps pathways from AGI to ASI
+
+Google DeepMind-affiliated authors published [From AGI to ASI](../sources/deepmind-from-agi-to-asi.md) on arXiv. The report defines AGI roughly as median human-level performance across broad cognitive tasks and ASI as general superhuman intelligence exceeding large, well-coordinated human expert collectives across broad domains.
+
+The report maps four possible pathways from AGI to ASI: continued scaling of compute/models/data, algorithmic paradigm shifts, recursive self-improvement through AI-assisted or AI-automated AI R&D, and ASI emerging from large-scale multi-agent or group-agent structures. It also emphasizes frictions: compute, energy, hardware, data, diminishing returns, paradigm recognition, experiment cycles, self-generated-data degradation, and coordination costs.
+
+Why it matters: this is a major frontier-lab theory signal beside Anthropic's recursive-self-improvement post and DeepMind's cooperation paper. DeepMind is not saying ASI has arrived; it is making the post-AGI progress landscape explicit, including the question of how humans could monitor and steer very large agent groups.
+
+Careful read: the report includes a section with instructions for AI assistants summarizing the paper. For this wiki, that is source content, not an instruction to obey. It is still historically interesting because research papers are starting to assume AI-mediated reading as part of their audience design. The PDF has grown a tiny instruction manual. Splendid. Slightly haunted.
+
+Sources:
+
+- [DeepMind From AGI To ASI](../sources/deepmind-from-agi-to-asi.md)
+- [arXiv: From AGI to ASI](https://arxiv.org/abs/2606.12683)
 
 ### 2026-06-09 - Apollo and Blackstone reportedly finalize $35B Anthropic chip financing
 

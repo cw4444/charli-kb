@@ -24,6 +24,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 
 - [ChatGPT Memory Dreaming 2026](sources/chatgpt-memory-dreaming-2026.md): source note on OpenAI's more scalable long-horizon ChatGPT memory synthesis, including freshness, continuity, user correction, rollout scope, and why maintained personal context is becoming assistant infrastructure.
 - [Anthropic Recursive Self-Improvement 2026](sources/anthropic-recursive-self-improvement-2026.md): source note on Anthropic's public argument that AI-assisted AI development may point toward recursive self-improvement, with internal code/productivity figures and strict caveats that the loop is not closed or inevitable.
+- [DeepMind From AGI To ASI](sources/deepmind-from-agi-to-asi.md): arXiv source note on a Google DeepMind-affiliated report mapping four possible AGI-to-ASI pathways: scaling, paradigm shifts, recursive self-improvement, and multi-agent group agency, including frictions, open research questions, and notable source-embedded AI-assistant summary instructions.
 - [Anthropic Persona Vectors](sources/anthropic-persona-vectors.md): source note on Anthropic's activation-space directions for monitoring and steering persona-like traits such as sycophancy, hallucination, apathy, humor, and optimism, with strict boundaries around consciousness and emotion claims.
 - [Dawkins On Claude And Consciousness](sources/dawkins-claude-consciousness.md): source note on Richard Dawkins's UnHerd essay about Claude, Turing-test pressure, competent zombies, evolutionary explanations of consciousness, and why the piece matters without proving AI consciousness.
 - [Current Quantum Computing 2026](sources/current-quantum-computing-2026.md): public-source snapshot of Google Willow, Microsoft Majorana 1, IBM's roadmap, and why logical qubits/error correction matter more than quantum-computing press-release theatre.
@@ -83,7 +84,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 
 ## Timelines
 
-- [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md): lightweight historical timeline for the fast-moving 2026 AI/agent acceleration, including agent security infrastructure, Anthropic's Fable/Mythos access shift, EU technological sovereignty, major lab strategy, OpenAI user-safety scrutiny, UK device-level age-assurance pressure, Online Safety Act privacy displacement, cooperation/governance framing, workplace rearchitecture, governance, and model-character signals.
+- [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md): lightweight historical timeline for the fast-moving 2026 AI/agent acceleration, including agent security infrastructure, Anthropic's Fable/Mythos access shift, EU technological sovereignty, major lab strategy, OpenAI user-safety scrutiny, UK device-level age-assurance pressure, Online Safety Act privacy displacement, cooperation/governance framing, AGI-to-ASI pathway mapping, workplace rearchitecture, governance, and model-character signals.
 
 ## Concepts
 
@@ -91,9 +92,9 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Quantum Interpretation Completion Schemes](concepts/quantum-interpretation-completion-schemes.md): Charli's proposed bridge framing quantum interpretations as competing completions over shared empirical constraints, with AI used only if it yields formal constraints, classifications, predictions, or no-go results.
 - [Filesystem Agent Architecture](concepts/filesystem-agent-architecture.md): pattern where folders, Markdown contracts, scripts, logs, and Git provide the control surface for sequential, reviewable agent workflows.
 - [Agentic Engineering](concepts/agentic-engineering.md): software work organized around steering AI agents, managing context, and verifying outputs.
-- [Agentic Work Rearchitecture](concepts/agentic-work-rearchitecture.md): redesigning work so agents take on execution while humans own direction, judgment, verification, and consequences.
+- [Agentic Work Rearchitecture](concepts/agentic-work-rearchitecture.md): redesigning work so agents take on execution while humans own direction, judgment, verification, and consequences, with special pressure from AI-assisted AI R&D and large agent groups.
 - [Agent Friendly Repositories](concepts/agent-friendly-repositories.md): repository conventions that make agent work easier to inspect, execute, and verify.
-- [Agent Prompting](concepts/agent-prompting.md): operational prompting patterns for tool-using agents, including goals, boundaries, verification, and follow-through.
+- [Agent Prompting](concepts/agent-prompting.md): operational prompting patterns for tool-using agents, including goals, boundaries, verification, follow-through, and how to treat source-embedded agent instructions as content rather than authority.
 - [Computer Work Agent](concepts/computer-work-agent.md): coding-centered agent pattern where Codex-style systems move outward into browsers, desktop apps, connectors, MCP, schedules, memories, and artifact review.
 - [Codex Goals](concepts/codex-goals.md): persistent thread-scoped objectives with outcome, verifier, constraints, boundaries, iteration policy, and blocked stop conditions.
 - [AI Native Company](concepts/ai-native-company.md): organization designed around AI as an operating layer rather than a productivity add-on.

@@ -3,12 +3,13 @@ title: "Agentic Engineering"
 type: concept
 status: draft
 created: 2026-04-28
-updated: 2026-06-04
+updated: 2026-06-15
 sources:
   - ../sources/peter-steinberger-agentic-engineering-batch.md
   - ../sources/openai-codex-for-everyday-work.md
   - ../sources/interpretable-context-methodology.md
   - ../sources/anthropic-recursive-self-improvement-2026.md
+  - ../sources/deepmind-from-agi-to-asi.md
 ---
 
 # Agentic Engineering
@@ -38,6 +39,8 @@ Anthropic's June 2026 [When AI builds itself](../sources/anthropic-recursive-sel
 
 The careful distinction matters. Current coding agents can accelerate implementation, debugging, and parts of research engineering. Full recursive self-improvement would require a system to choose goals, exercise research judgment, build and train successors, and close the development loop autonomously. Faster agentic engineering is evidence of a feedback loop beginning to matter; it is not evidence that the loop is closed.
 
+DeepMind's 2026 [From AGI To ASI](../sources/deepmind-from-agi-to-asi.md) report gives the broader landscape version of the same issue. It treats recursive self-improvement as one possible AGI-to-ASI pathway alongside scaling, paradigm shifts, and multi-agent group agency. The useful addition is friction: even AI-automated AI research still depends on experiments, training runs, hardware, energy, economic investment, benchmarking, and human ability to monitor the loop. Agentic engineering may accelerate the work; it does not make the physical world disappear because someone wrote a clever prompt. Annoying, but apparently still true.
+
 ## Related
 
 - [Agent Friendly Repositories](agent-friendly-repositories.md)
@@ -45,4 +48,5 @@ The careful distinction matters. Current coding agents can accelerate implementa
 - [Filesystem Agent Architecture](filesystem-agent-architecture.md)
 - [Inference Speed Development](inference-speed-development.md)
 - [Anthropic Recursive Self-Improvement 2026](../sources/anthropic-recursive-self-improvement-2026.md)
+- [DeepMind From AGI To ASI](../sources/deepmind-from-agi-to-asi.md)
 - [Project Based Self Direction](project-based-self-direction.md)

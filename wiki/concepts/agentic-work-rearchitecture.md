@@ -3,12 +3,13 @@ title: "Agentic Work Rearchitecture"
 type: concept
 status: draft
 created: 2026-05-11
-updated: 2026-06-09
+updated: 2026-06-15
 sources:
   - ../sources/enterprise-agent-deployment-2026.md
   - ../sources/ai-native-company-and-sidequest-prototyping-batch.md
   - ../sources/ai-human-cognition-knowledge-collapse.md
   - ../sources/anthropic-recursive-self-improvement-2026.md
+  - ../sources/deepmind-from-agi-to-asi.md
   - ../sources/uk-ai-adoption-summit-2026.md
   - computer-work-agent.md
 ---
@@ -141,6 +142,10 @@ Anthropic's June 2026 [recursive self-improvement post](../sources/anthropic-rec
 
 That is not ordinary office automation. It is a possible capability feedback loop inside the frontier-lab development process. It also makes the human role more, not less, important in the near term: goal choice, research taste, verification, security, and deciding when not to accelerate are still the parts Anthropic says current systems do not own.
 
+DeepMind's June 2026 [From AGI To ASI](../sources/deepmind-from-agi-to-asi.md) report widens that frame. It treats AI-assisted or AI-automated AI R&D as one possible pathway from AGI toward ASI, but places it beside scaling, algorithmic paradigm shifts, and multi-agent group agency. The practical warning for work design is that the frontier version of "agentic work" may involve humans trying to steer very large, fast agent groups and research loops whose full output volume no human can read.
+
+That makes review architecture, summaries, source trails, sampling, escalation rules, and human judgment bottlenecks central. The problem is no longer just "can the agent do the task?" It becomes "can humans still understand, steer, audit, and stop the task when the agent system is faster and larger than the human review surface?"
+
 ## Do Not Overclaim
 
 - Do not say agentic work means humans become irrelevant.
@@ -149,6 +154,7 @@ That is not ordinary office automation. It is a possible capability feedback loo
 - Do not confuse vendor strategy with social progress.
 - Do not confuse moving faster with doing better work.
 - Do not confuse AI-assisted AI development with full recursive self-improvement.
+- Do not assume humans can meaningfully steer large agent groups without deliberately designed review, sampling, and escalation structures.
 - Do not treat licence rollout as adoption. Adoption requires workflow access, data access, permissions, governance, training, and redesigned handoffs.
 
 ## Charli's Working Interpretation

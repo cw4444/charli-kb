@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-15] source note | DeepMind From AGI to ASI
+- Source URL: `https://arxiv.org/abs/2606.12683`
+- Pages created: [DeepMind From AGI To ASI](sources/deepmind-from-agi-to-asi.md)
+- Pages updated: [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Agentic Engineering](concepts/agentic-engineering.md), [Agentic Work Rearchitecture](concepts/agentic-work-rearchitecture.md), [Agent Prompting](concepts/agent-prompting.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added the Google DeepMind-affiliated arXiv report as a durable frontier-lab theory signal: four possible AGI-to-ASI pathways, named bottlenecks/frictions, and open research needs around forecasting, benchmarking, recursive improvement, and multi-agent group agency. Preserved the built-in AI-assistant summary instructions as source-design evidence, not instructions to obey over repo/user rules.
+
 ## [2026-06-15] timeline | OpenAI Partner Network
 - Source: `raw/2026-06-15-ai-digest.md`
 - Source URL: `https://openai.com/index/introducing-openai-partner-network/`
