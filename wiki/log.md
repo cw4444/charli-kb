@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-15] timeline | OpenAI Partner Network
+- Source: `raw/2026-06-15-ai-digest.md`
+- Source URL: `https://openai.com/index/introducing-openai-partner-network/`
+- Pages updated: [OpenAI Third Phase Strategy 2026](sources/openai-third-phase-strategy-2026.md), [Enterprise Agent Deployment 2026](sources/enterprise-agent-deployment-2026.md), [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Promoted the OpenAI Partner Network item from the Windows Codex digest because it is a durable enterprise-distribution signal rather than a mere product announcement. OpenAI says it is investing `$150 million` into the partner ecosystem, aims to train and enable `300,000` certified consultants by the end of 2026, and plans specializations including Codex, cybersecurity, and agents. Kept caveats: this is OpenAI's commercial framing, not independent evidence that deployments are useful, safe, or humane.
+
 ## [2026-06-14] ingest | Yang axonic spines and action-potential initiation
 - Source: `Nature Neuroscience article page for DOI 10.1038/s41593-026-02282-4`
 - Source URLs: `https://doi.org/10.1038/s41593-026-02282-4`, `https://www.nature.com/articles/s41593-026-02282-4`

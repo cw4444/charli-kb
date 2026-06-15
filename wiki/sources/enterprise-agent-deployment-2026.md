@@ -3,11 +3,13 @@ title: "Enterprise Agent Deployment 2026"
 type: source
 status: draft
 created: 2026-05-11
-updated: 2026-05-11
+updated: 2026-06-15
 sources:
   - https://openai.com/index/introducing-openai-frontier/
   - https://openai.com/index/openai-to-acquire-promptfoo/
   - https://openai.com/signals/b2b/
+  - https://openai.com/index/openai-launches-the-deployment-company/
+  - https://openai.com/index/introducing-openai-partner-network/
   - https://www.microsoft.com/en-us/worklab/work-trend-index/agents-human-agency-and-the-opportunity-for-every-organization
   - https://blogs.microsoft.com/blog/2026/01/27/how-microsoft-is-empowering-frontier-transformation-with-intelligence-trust/
   - https://www.anthropic.com/product/enterprise
@@ -35,7 +37,12 @@ OpenAI's official enterprise framing centers on Frontier, B2B Signals, evaluatio
 - OpenAI's Promptfoo acquisition announcement says that as enterprises deploy AI coworkers into real workflows, evaluation, security, compliance, and clear oversight records become foundational.
 - OpenAI's B2B Signals post says enterprise adoption is moving beyond seat deployment and experimentation toward whether firms are using AI deeply enough to keep pace with the frontier.
 
-Press reports also describe OpenAI's new Deployment Company / DeployCo joint venture with private-equity investors to accelerate enterprise AI rollout. I did not find an official OpenAI page for that specific vehicle during this ingest, so those details should be treated as press-reported rather than official-source confirmed in this wiki.
+OpenAI has now made the deployment layer more explicit:
+
+- On 2026-05-11, OpenAI launched the OpenAI Deployment Company, including an agreement to acquire Tomoro and bring about 150 Forward Deployed Engineers and Deployment Specialists into the effort.
+- On 2026-06-14, OpenAI announced the OpenAI Partner Network, saying it would invest `$150 million` into the partner ecosystem, train and enable `300,000` certified consultants by the end of 2026, and later offer specializations including Codex, cybersecurity, and agents.
+
+That turns enterprise AI deployment into a recognizable stack: frontier models, agents, evaluation/security, forward-deployed experts, consulting partners, certifications, and workflow redesign. The boring organizational layer is where the knife actually goes in. Naturally, this means paperwork has achieved sentience.
 
 ## Anthropic
 
@@ -61,6 +68,7 @@ The 2026 enterprise-agent pattern is:
 
 - model access is no longer enough;
 - chat interfaces are no longer the endpoint;
+- certified partners and forward-deployed experts are becoming part of the product distribution channel;
 - agents need tools, permissions, state, memory, evaluation, and oversight;
 - workflows need redesign, not just acceleration;
 - humans move toward directing, judging, defining outcomes, handling exceptions, and owning consequences;
@@ -80,6 +88,7 @@ This source supports:
 
 - Do not assume all jobs vanish because enterprise agents are being deployed.
 - Do not assume vendor framing is neutral; OpenAI, Anthropic, Microsoft, consultancies, and private-equity firms all have commercial incentives.
+- Do not treat certification or partner tiers as proof that deployments are useful, safe, or humane.
 - Do not treat "human agency expands" as guaranteed. It depends on job design, bargaining power, governance, and whether humans actually retain judgment authority.
 - Do not treat agent rollout as automatically humane or interesting. Badly deployed agents can intensify monitoring, deskill workers, or automate bad processes.
 - Do not reduce the shift to productivity. The deeper issue is work architecture.
