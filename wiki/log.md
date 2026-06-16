@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-16] source and concept | ADHD traits and curiosity driven exploration
+- Source: Le Cunff, Russell, and Dommett, *BMC Psychology*, [Hyperactive-impulsive ADHD traits predict higher curiosity in adults](https://doi.org/10.1186/s40359-026-04504-7), published 2026-04-10 / version of record 2026-05-18.
+- Pages created: [Le Cunff et al. - ADHD Traits And Curiosity](sources/le-cunff-adhd-traits-curiosity.md), [Curiosity Driven Exploration](concepts/curiosity-driven-exploration.md)
+- Pages updated: [Neuroscience](../themes/neuroscience/overview.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added as a curiosity/ADHD/exploration source. Durable point: in a UK adult cross-sectional survey, hyperactive-impulsive ADHD traits uniquely predicted self-reported curiosity after demographic controls, while inattention did not. Caveats: cross-sectional, self-report, online convenience sample, predominantly women/White/highly educated, no causal or functional-advantage claim.
+
 ## [2026-06-16] source note | brain-controlled selective hearing
 - Source: Choudhari et al., *Nature Neuroscience*, [Real-time brain-controlled selective hearing enhances speech perception in multi-talker environments](https://doi.org/10.1038/s41593-026-02281-5), published 2026-05-11.
 - Pages created: [Choudhari et al. - Brain-Controlled Selective Hearing](sources/choudhari-brain-controlled-selective-hearing.md)

@@ -27,6 +27,7 @@ sources:
   - ../../wiki/sources/li-internal-states-v1-behavior.md
   - ../../wiki/sources/v1-feedback-task-context-source-batch.md
   - ../../wiki/sources/choudhari-brain-controlled-selective-hearing.md
+  - ../../wiki/sources/le-cunff-adhd-traits-curiosity.md
 ---
 
 # Neuroscience
@@ -110,13 +111,17 @@ The useful bridge is that selective hearing is not merely a social complaint or 
 
 - [Optimism Neuroscience Source Batch](../../wiki/sources/optimism-neuroscience-source-batch.md)
 - [Repetition As Cognitive Method Source Batch](../../wiki/sources/repetition-cognitive-method-source-batch.md)
+- [Le Cunff et al. - ADHD Traits And Curiosity](../../wiki/sources/le-cunff-adhd-traits-curiosity.md)
 - [Optimism](../../wiki/concepts/optimism.md)
 - [Repetition As Cognitive Method](../../wiki/concepts/repetition-as-cognitive-method.md)
+- [Curiosity Driven Exploration](../../wiki/concepts/curiosity-driven-exploration.md)
 - [Research - Optimism](../../wiki/questions/research-optimism.md)
 
 This thread treats optimism as a style of future representation, belief updating, attention, and agency. It is not manifestation, denial, or proof that inaccurate belief is generally healthy.
 
 The repetition thread adds the method boundary: spaced retrieval and feedback-sensitive practice can strengthen learning, while repetitive negative thinking can become a hard-to-disengage stress and aging-risk loop. The serious claim is not that repetition is good or bad. It is that repetition strengthens the loop actually being run.
+
+Le Cunff et al. 2026 adds a neurodevelopmental/psychological bridge: in a UK adult cross-sectional survey, hyperactive-impulsive ADHD traits uniquely predicted self-reported curiosity after controlling for demographics, while inattention did not. The useful wiki point is not "ADHD is a superpower." It is that curiosity, novelty seeking and uncertainty engagement may be part of some ADHD-shaped exploration patterns, especially when structure turns the search into finished knowledge rather than tab-sprawl.
 
 ### How Does Salience Distort Judgment?
 
@@ -209,6 +214,7 @@ Neuroscience connects to the rest of the wiki without swallowing it:
 - **Embodiment:** belief, perception, risk estimation, and action are implemented in bodies, not floating proposition boxes.
 - **Attention:** unsupported thought is not automatically pleasant or easy; minds often need structure, practice, or tools before quiet becomes useful.
 - **Auditory selection:** the attended voice can be neurally tracked and amplified; selective hearing is active routing, not just volume.
+- **Curiosity:** novelty and uncertainty can drive broad exploration, but structure decides whether that becomes synthesis or scatter.
 - **Mood networks:** sleep, affect, expectation, and clinical neuromodulation all point toward mood as a system-level state, not a floating thought bubble.
 - **Consciousness and language:** semantic and predictive language signals can persist below reportable awareness; decodability is evidence of processing, not automatic evidence of experience.
 - **Neurodevelopment:** autism is not one averaged brain pattern; heterogeneity may reflect multiple biological routes, but mechanism subtypes are not lived identity.
