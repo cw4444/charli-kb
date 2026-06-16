@@ -3,11 +3,12 @@ title: "Salience Weighted Judgment"
 type: concept
 status: draft
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-06-16
 sources:
   - ../sources/kahneman-tversky-judgment-under-uncertainty.md
   - ../sources/optimism-neuroscience-source-batch.md
   - ../sources/locus-coeruleus-source-batch.md
+  - ../sources/repetition-cognitive-method-source-batch.md
 ---
 
 # Salience Weighted Judgment
@@ -35,6 +36,12 @@ The useful household version: nothing is quite as important as it feels while it
 Prospect theory adds the risk-and-reference-point version. People evaluate outcomes as gains or losses relative to a current reference point, and losses often carry more motivational force than equivalent gains.
 
 This matters because a person facing a felt loss may take risks, cling to a bad option, or overprotect the status quo in ways that would look irrational from a clean spreadsheet.
+
+### Repetition
+
+Repeated material becomes easier to retrieve. That can be useful when the repeated loop is evidence-sensitive practice, and misleading when familiarity starts masquerading as truth.
+
+[Repetition As Cognitive Method](repetition-as-cognitive-method.md) keeps the distinction clean: spaced retrieval and feedback can build learning, while repetitive negative thinking can keep threat and self-evaluation overavailable.
 
 ## Why It Matters Here
 
@@ -74,5 +81,6 @@ The [Locus Coeruleus](locus-coeruleus.md) adds a biological gain-control bridge.
 - [Optimism](optimism.md)
 - [Locus Coeruleus](locus-coeruleus.md)
 - [Manifestation As Behavior Modification](manifestation-as-behavior-modification.md)
+- [Repetition As Cognitive Method](repetition-as-cognitive-method.md)
 - [Reality Threshold](reality-threshold.md)
 - [Practical Agency Inside Constraint](practical-agency-inside-constraint.md)

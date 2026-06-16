@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-16] research | repetition as cognitive method
+- Source trail: Charli's lost X screenshot memory; DOI checks for Cepeda et al. 2006, Roediger and Karpicke 2006, Dunlosky et al. 2013, Macnamara et al. 2014, Moulds and McEvoy 2025, Brosschot et al. 2006, Marchant et al. 2020, Schlosser et al. 2020, and Ye et al. 2025.
+- Pages created: [Repetition As Cognitive Method Source Batch](sources/repetition-cognitive-method-source-batch.md), [Repetition As Cognitive Method](concepts/repetition-as-cognitive-method.md)
+- Pages updated: [Neuroscience](../themes/neuroscience/overview.md), [Optimism](concepts/optimism.md), [Manifestation As Behavior Modification](concepts/manifestation-as-behavior-modification.md), [Salience Weighted Judgment](concepts/salience-weighted-judgment.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added a public-source package separating useful repetition from harmful loops. Durable point: repetition is a cognitive amplifier, not a virtue. Spacing, retrieval practice, feedback, and varied practice strengthen learning; repetitive negative thinking may act as a stress-loaded, hard-to-disengage loop associated with subjective cognitive decline, lower cognitive scores, and Alzheimer's biomarkers in older-adult studies. Kept caveats sharp: RNT evidence is not proof that negative thinking causes dementia, cross-sectional studies cannot show within-person decline, and Hebbian slogans are not enough.
+
 ## [2026-06-15] source note | DeepMind From AGI to ASI
 - Source URL: `https://arxiv.org/abs/2606.12683`
 - Pages created: [DeepMind From AGI To ASI](sources/deepmind-from-agi-to-asi.md)

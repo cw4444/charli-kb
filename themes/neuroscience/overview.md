@@ -3,7 +3,7 @@ title: "Neuroscience"
 type: theme
 status: draft
 created: 2026-06-04
-updated: 2026-06-14
+updated: 2026-06-16
 sources:
   - ../../wiki/sources/reality-threshold-dijkstra-batch.md
   - ../../wiki/sources/wadia-shared-code-perception-imagination.md
@@ -19,6 +19,7 @@ sources:
   - ../../wiki/sources/fallon-striatal-action-counting-steering.md
   - ../../wiki/sources/fujimoto-deep-brain-stimulation-white-matter-remodeling.md
   - ../../wiki/sources/yang-axonic-spines-action-potentials.md
+  - ../../wiki/sources/repetition-cognitive-method-source-batch.md
 ---
 
 # Neuroscience
@@ -40,6 +41,7 @@ The repo already contains a substantial neuroscience thread, but it has been sca
 - [Reality Threshold](../../wiki/concepts/reality-threshold.md): how internally and externally generated signals may be judged as real.
 - [Perception And Imagination Overlap](../../wiki/concepts/perception-and-imagination-overlap.md): shared machinery for seeing and imagining.
 - [Optimism](../../wiki/concepts/optimism.md): future simulation, belief updating, attention, and agency.
+- [Repetition As Cognitive Method](../../wiki/concepts/repetition-as-cognitive-method.md): repetition as an amplifier for learning, rehearsal, rumination, and cognitive-risk loops.
 - [Salience Weighted Judgment](../../wiki/concepts/salience-weighted-judgment.md): how vividness, availability, framing, and focus can inflate felt frequency, probability, or importance.
 - [Locus Coeruleus](../../wiki/concepts/locus-coeruleus.md): the brainstem noradrenergic "blue dot" as a state/gain regulator for arousal, salience, task engagement, and stress.
 - [Practical Agency Inside Constraint](../../wiki/concepts/practical-agency-inside-constraint.md): meaningful control inside neural and practical constraint.
@@ -76,10 +78,14 @@ Busch et al. 2026 adds a direct neurotechnology version. In a real-time fMRI ava
 ### How Does The Brain Build Futures And Update Beliefs?
 
 - [Optimism Neuroscience Source Batch](../../wiki/sources/optimism-neuroscience-source-batch.md)
+- [Repetition As Cognitive Method Source Batch](../../wiki/sources/repetition-cognitive-method-source-batch.md)
 - [Optimism](../../wiki/concepts/optimism.md)
+- [Repetition As Cognitive Method](../../wiki/concepts/repetition-as-cognitive-method.md)
 - [Research - Optimism](../../wiki/questions/research-optimism.md)
 
 This thread treats optimism as a style of future representation, belief updating, attention, and agency. It is not manifestation, denial, or proof that inaccurate belief is generally healthy.
+
+The repetition thread adds the method boundary: spaced retrieval and feedback-sensitive practice can strengthen learning, while repetitive negative thinking can become a hard-to-disengage stress and aging-risk loop. The serious claim is not that repetition is good or bad. It is that repetition strengthens the loop actually being run.
 
 ### How Does Salience Distort Judgment?
 

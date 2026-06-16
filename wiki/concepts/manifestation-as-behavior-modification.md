@@ -3,7 +3,7 @@ title: "Manifestation As Behavior Modification"
 type: concept
 status: draft
 created: 2026-06-08
-updated: 2026-06-11
+updated: 2026-06-16
 sources:
   - https://www.nhs.uk/conditions/cognitive-behavioural-therapy-cbt/
   - https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral
@@ -11,6 +11,7 @@ sources:
   - fictional-finalism.md
   - optimism.md
   - salience-weighted-judgment.md
+  - repetition-as-cognitive-method.md
 ---
 
 # Manifestation As Behavior Modification
@@ -49,6 +50,20 @@ That is the non-mystical spine underneath a lot of useful manifestation advice:
 - repeat.
 
 The difference is evidence contact. CBT does not need the world to be secretly controlled by thought. It only needs thoughts and behaviours to interact strongly enough that changing one can shift the other.
+
+## Relation To Repetition
+
+[Repetition As Cognitive Method](repetition-as-cognitive-method.md) is the guardrail for "repeat the new story" advice.
+
+Repetition can make a cue, identity, or action easier to retrieve. That is useful when the repeated loop includes behaviour and correction. It is not useful when a sentence is repeated until familiarity gets mistaken for evidence.
+
+The practical version:
+
+- rehearse the role;
+- do the behaviour;
+- check the result;
+- adjust the plan;
+- repeat the loop that actually pays rent.
 
 ## Salience Warning
 
@@ -98,5 +113,6 @@ The useful sentence is simple:
 - [Optimism](optimism.md)
 - [Fictional Finalism](fictional-finalism.md)
 - [Salience Weighted Judgment](salience-weighted-judgment.md)
+- [Repetition As Cognitive Method](repetition-as-cognitive-method.md)
 - [Research - Optimism](../questions/research-optimism.md)
 - [Practical Agency Inside Constraint](practical-agency-inside-constraint.md)

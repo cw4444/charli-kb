@@ -3,9 +3,10 @@ title: "Optimism"
 type: concept
 status: draft
 created: 2026-05-12
-updated: 2026-06-14
+updated: 2026-06-16
 sources:
   - ../sources/optimism-neuroscience-source-batch.md
+  - ../sources/repetition-cognitive-method-source-batch.md
   - ../sources/fujimoto-deep-brain-stimulation-white-matter-remodeling.md
   - ../sources/kahneman-tversky-judgment-under-uncertainty.md
   - ../sources/libet-schurger-readiness-potential-agency.md
@@ -25,6 +26,8 @@ The literature in this source batch points to at least four interacting pieces:
 - negative future information is not always integrated symmetrically
 - more optimistic people may keep positive and negative futures more cleanly separated
 - repetitive negative thinking appears to pull cognition in the opposite direction
+
+[Repetition As Cognitive Method](repetition-as-cognitive-method.md) is the adjacent method note. Optimism practices become more defensible when they work like spaced, feedback-sensitive future rehearsal. They become nonsense when repetition is treated as proof. Repetitive negative thinking is the opposing loop: repeated threat, loss, or self-evaluation without useful updating.
 
 The 2024 OxJournal overview is not primary evidence, but it usefully names the developmental bridge. Dispositional optimism is future expectation; attributional optimism is the habit of explaining setbacks as specific, unstable, and workable; optimism bias is the risky version where a person underweights bad evidence. For this wiki, the interesting "cheat code" is mostly the middle one: changing the explanation of a setback can preserve agency long enough for action to continue.
 
@@ -141,6 +144,7 @@ Ellen Langer's counterclockwise aging study belongs on the outer edge of this co
 ## Related
 
 - [Research - Optimism](../questions/research-optimism.md)
+- [Repetition As Cognitive Method](repetition-as-cognitive-method.md)
 - [Fujimoto et al. - Deep Brain Stimulation And White Matter Remodeling](../sources/fujimoto-deep-brain-stimulation-white-matter-remodeling.md)
 - [Salience Weighted Judgment](salience-weighted-judgment.md)
 - [Manifestation As Behavior Modification](manifestation-as-behavior-modification.md)

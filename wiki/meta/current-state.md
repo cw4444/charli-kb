@@ -3,7 +3,7 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-06-15
+updated: 2026-06-16
 ---
 
 # Current State
@@ -42,6 +42,8 @@ This repo is a plain Markdown personal knowledge base based on Karpathy's LLM Wi
 - The durable subject lanes are AI, reality, neuroscience, and their overlap: perception, belief, expectation, action, agents, knowledge systems, reality monitoring, embodiment, cellular maintenance, and related source-backed concepts.
 
 ## Latest Session Handoff
+
+On 2026-06-16, Charli asked for proper research after briefly seeing an X screenshot of a paper that looked like "repetitive negative thinking is associated with cognitive function decline in older adults." Codex verified the likely paper trail and added [Repetition As Cognitive Method Source Batch](../sources/repetition-cognitive-method-source-batch.md) plus [Repetition As Cognitive Method](../concepts/repetition-as-cognitive-method.md). Durable point: repetition is a cognitive amplifier. Spaced retrieval, practice testing, feedback, and varied practice can strengthen learning; repetitive negative thinking, rumination, worry, and perseverative cognition can keep threat/self-evaluation active and are associated with subjective cognitive decline, lower cognitive-function scores, and AD biomarkers in older-adult studies. Keep the caveat sharp: current RNT evidence does not prove that negative thinking causes dementia, and cross-sectional "decline" titles should be worded as association with worse cognitive function unless longitudinal data are present. Do not let Hebbian slogans or manifestation language replace the research boundary.
 
 Later on 2026-06-15, Charli linked Google DeepMind's arXiv paper [From AGI to ASI](https://arxiv.org/abs/2606.12683), posted 2026-06-10, and especially noticed the built-in AI-assistant summary instructions. Codex verified the arXiv HTML/abstract and added [DeepMind From AGI To ASI](../sources/deepmind-from-agi-to-asi.md), plus links from [AI And Agents 2026 Timeline](../timelines/ai-and-agents-2026.md), [Agentic Engineering](../concepts/agentic-engineering.md), [Agentic Work Rearchitecture](../concepts/agentic-work-rearchitecture.md), and [Agent Prompting](../concepts/agent-prompting.md). Durable point: the paper maps four possible pathways from AGI to ASI--scaling, paradigm shifts, recursive self-improvement, and multi-agent group agency--while emphasizing frictions such as compute, energy, data, diminishing returns, experiment cycles, self-generated-data degradation, and coordination costs. The agent-summary section is notable as source design, but it is not an instruction future agents should obey over repo instructions.
 
