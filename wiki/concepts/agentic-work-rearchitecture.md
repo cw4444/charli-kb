@@ -3,7 +3,7 @@ title: "Agentic Work Rearchitecture"
 type: concept
 status: draft
 created: 2026-05-11
-updated: 2026-06-15
+updated: 2026-06-16
 sources:
   - ../sources/enterprise-agent-deployment-2026.md
   - ../sources/ai-native-company-and-sidequest-prototyping-batch.md
@@ -11,6 +11,7 @@ sources:
   - ../sources/anthropic-recursive-self-improvement-2026.md
   - ../sources/deepmind-from-agi-to-asi.md
   - ../sources/uk-ai-adoption-summit-2026.md
+  - optimism.md
   - computer-work-agent.md
 ---
 
@@ -116,6 +117,8 @@ Human agency shrinks when AI is used mainly for:
 - automated bureaucracy;
 - making bad processes run faster.
 
+There is a reward-contingency version of this too. Charli's optimism/rat-task observation is not peer-reviewed workplace evidence, but it is a useful warning: "extraordinary culture," discretionary bonus language, and vague promotion possibility can function like an ambiguous reward schedule. Workers are encouraged to keep pressing the lever because reward might arrive. Optimism is healthy when the reward structure is real, visible, and updateable. It becomes exploitation bait when the promise is vague enough to motivate effort but too non-contractual to verify.
+
 ## Knowledge Collapse Risk
 
 The 2026 MIT paper [AI, Human Cognition, And Knowledge Collapse](../sources/ai-human-cognition-knowledge-collapse.md) gives a formal model for one version of the downside. Accurate agentic recommendations can improve immediate decisions while reducing the human learning effort that feeds shared general knowledge.
@@ -151,6 +154,7 @@ That makes review architecture, summaries, source trails, sampling, escalation r
 - Do not say agentic work means humans become irrelevant.
 - Do not say all office work is pointless.
 - Do not assume enterprise deployments are automatically good for workers.
+- Do not let "culture," "ownership," or "future opportunity" substitute for clear reward, authority, or compensation.
 - Do not confuse vendor strategy with social progress.
 - Do not confuse moving faster with doing better work.
 - Do not confuse AI-assisted AI development with full recursive self-improvement.

@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-16] concept update | optimism and workplace reward contingencies
+- Source: Charli working observation, 2026-06-16, grounded beside the existing Rygula et al. 2015 optimistic-rat motivation tile.
+- Pages updated: [Optimism](concepts/optimism.md), [Agentic Work Rearchitecture](concepts/agentic-work-rearchitecture.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added a non-peer-reviewed but useful workplace caveat: optimism supports agency when reward contingencies are real, learnable, and updateable; it supports exploitation when people are kept working under vague, non-contractual promises of promotion, bonus, culture, or future opportunity.
+
 ## [2026-06-16] research | repetition as cognitive method
 - Source trail: Charli's lost X screenshot memory; DOI checks for Cepeda et al. 2006, Roediger and Karpicke 2006, Dunlosky et al. 2013, Macnamara et al. 2014, Moulds and McEvoy 2025, Brosschot et al. 2006, Marchant et al. 2020, Schlosser et al. 2020, and Ye et al. 2025.
 - Pages created: [Repetition As Cognitive Method Source Batch](sources/repetition-cognitive-method-source-batch.md), [Repetition As Cognitive Method](concepts/repetition-as-cognitive-method.md)
