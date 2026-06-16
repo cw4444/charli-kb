@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-16] source note | brain-controlled selective hearing
+- Source: Choudhari et al., *Nature Neuroscience*, [Real-time brain-controlled selective hearing enhances speech perception in multi-talker environments](https://doi.org/10.1038/s41593-026-02281-5), published 2026-05-11.
+- Pages created: [Choudhari et al. - Brain-Controlled Selective Hearing](sources/choudhari-brain-controlled-selective-hearing.md)
+- Pages updated: [Neuroscience](../themes/neuroscience/overview.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added as an auditory-attention / neurotechnology source. Durable point: in four neurosurgical participants with intracranial EEG, real-time auditory attention decoding identified the attended speaker in two-talker noisy scenes and used that focus to amplify the target stream, improving intelligibility, reducing listening effort measures and tracking instructed and self-initiated attention shifts. Caveat: high-resolution iEEG benchmark, not a consumer hearing-aid product.
+
 ## [2026-06-16] source batch | V1 feedback, comodulation and task context
 - Sources: Xin, Yan and Li, *Nature Communications*, [A central and unified role of corticocortical feedback in parsing visual scenes](https://doi.org/10.1038/s41467-025-62279-8), published 2025-07-28; Haimerl et al., *Nature Communications*, [Targeted V1 comodulation supports task-adaptive sensory decisions](https://doi.org/10.1038/s41467-023-43432-7), published 2023-11-30; Hajnal et al., *Nature Communications*, [Continuous multiplexed population representations of task context in the mouse primary visual cortex](https://doi.org/10.1038/s41467-023-42441-w), published 2023-10-21.
 - Pages created: [V1 Feedback And Task Context Source Batch](sources/v1-feedback-task-context-source-batch.md)

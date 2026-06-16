@@ -26,6 +26,7 @@ sources:
   - ../../wiki/sources/cerebellar-climbing-fiber-disinhibition-learning.md
   - ../../wiki/sources/li-internal-states-v1-behavior.md
   - ../../wiki/sources/v1-feedback-task-context-source-batch.md
+  - ../../wiki/sources/choudhari-brain-controlled-selective-hearing.md
 ---
 
 # Neuroscience
@@ -96,6 +97,14 @@ Busch et al. 2026 adds a direct neurotechnology version. In a real-time fMRI ava
 Katlowitz et al. 2026 adds a direct human-neurosurgery anchor for unconscious processing. In anaesthetized epilepsy-surgery patients, Neuropixels recordings from hippocampus still carried tone oddball information, showed representational change over roughly 10 minutes, and encoded semantic, part-of-speech, surprisal, and contextual word information from natural speech.
 
 The useful bridge is not "the unconscious person understands language like an awake listener." It is that language-related structure can remain neurally recoverable below reportable awareness. That matters for identity, selfhood, and AI-consciousness debates because decodable semantic processing is real processing, but not proof of lived experience.
+
+### How Does Attention Select A Signal?
+
+- [Choudhari et al. - Brain-Controlled Selective Hearing](../../wiki/sources/choudhari-brain-controlled-selective-hearing.md)
+
+Choudhari et al. 2026 adds an auditory-attention and neurotechnology anchor. In four neurosurgical participants with intracranial EEG, a real-time auditory attention decoding system identified the attended talker in two-speaker noisy scenes and used that decoded focus to amplify the target stream. The system improved intelligibility, reduced listening effort measures and was preferred by participants.
+
+The useful bridge is that selective hearing is not merely a social complaint or a joke about ignoring people. Attended speech has a cortical signature strong enough to drive closed-loop gain control. Hearing, like vision, is active selection rather than neutral recording.
 
 ### How Does The Brain Build Futures And Update Beliefs?
 
@@ -199,6 +208,7 @@ Neuroscience connects to the rest of the wiki without swallowing it:
 - **Knowledge systems:** biological memory and public records are different systems with different failure modes.
 - **Embodiment:** belief, perception, risk estimation, and action are implemented in bodies, not floating proposition boxes.
 - **Attention:** unsupported thought is not automatically pleasant or easy; minds often need structure, practice, or tools before quiet becomes useful.
+- **Auditory selection:** the attended voice can be neurally tracked and amplified; selective hearing is active routing, not just volume.
 - **Mood networks:** sleep, affect, expectation, and clinical neuromodulation all point toward mood as a system-level state, not a floating thought bubble.
 - **Consciousness and language:** semantic and predictive language signals can persist below reportable awareness; decodability is evidence of processing, not automatic evidence of experience.
 - **Neurodevelopment:** autism is not one averaged brain pattern; heterogeneity may reflect multiple biological routes, but mechanism subtypes are not lived identity.
