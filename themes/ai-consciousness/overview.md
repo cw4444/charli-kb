@@ -3,10 +3,11 @@ title: "AI Consciousness And Model Welfare Overview"
 type: theme
 status: draft
 created: 2026-05-10
-updated: 2026-06-05
+updated: 2026-06-16
 sources:
   - ../../sources/ai-consciousness-sources.md
   - ../../wiki/sources/dawkins-claude-consciousness.md
+  - ../../wiki/sources/katlowitz-language-anaesthetized-hippocampus.md
 ---
 
 # AI Consciousness And Model Welfare Overview
@@ -40,6 +41,8 @@ The most balanced reading is conditional:
 AI consciousness is disputed because the evidence routes conflict. Behavior is increasingly mind-like, but behavior alone can be produced by training on human text and preferences. Internal states exist, but interpretability is too immature to say whether those states are experiential rather than computational control signals. Moral concern may be urgent if AI systems can suffer, but premature personhood claims can distract from human harms, accountability, and safety.
 
 The strongest version of the debate is not "is ChatGPT alive?" It is: which public criteria would make an artificial system a serious candidate for consciousness or moral consideration, and what should labs and society do while the evidence is incomplete?
+
+A biological caution now sits beside that question. Katlowitz et al.'s 2026 human hippocampus study found decodable semantic, grammatical, surprisal, and contextual word information during general anaesthesia. That makes linguistic processing look less consciousness-bound than common sense wants it to be. It also makes the AI lesson sharper: language-like internal structure is evidence of processing, but not proof that there is someone home.
 
 ## Plain-English summary
 

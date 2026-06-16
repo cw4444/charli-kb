@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-16] source note | language in the anaesthetized hippocampus
+- Source: Katlowitz et al., *Nature*, [Plasticity and language in the anaesthetized human hippocampus](https://doi.org/10.1038/s41586-026-10448-0), published 2026-05-06; author correction published 2026-06-11.
+- Pages created: [Katlowitz et al. - Language And Plasticity In The Anaesthetized Human Hippocampus](sources/katlowitz-language-anaesthetized-hippocampus.md)
+- Pages updated: [Neuroscience](../themes/neuroscience/overview.md), [AI Consciousness And Model Welfare](../themes/ai-consciousness/overview.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added the paper as a language/consciousness/identity bridge. Durable point: in anaesthetized epilepsy-surgery patients, hippocampal Neuropixels recordings still carried tone oddball information, showed representational change over roughly 10 minutes, and encoded semantic, part-of-speech, surprisal, and contextual word information from natural speech. Caveat kept loud: decodable semantic processing is not proof of conscious comprehension or subjective experience.
+
 ## [2026-06-16] concept update | optimism and workplace reward contingencies
 - Source: Charli working observation, 2026-06-16, grounded beside the existing Rygula et al. 2015 optimistic-rat motivation tile.
 - Pages updated: [Optimism](concepts/optimism.md), [Agentic Work Rearchitecture](concepts/agentic-work-rearchitecture.md), [Current State](meta/current-state.md), [Wiki Log](log.md)

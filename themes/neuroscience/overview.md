@@ -20,6 +20,7 @@ sources:
   - ../../wiki/sources/fujimoto-deep-brain-stimulation-white-matter-remodeling.md
   - ../../wiki/sources/yang-axonic-spines-action-potentials.md
   - ../../wiki/sources/repetition-cognitive-method-source-batch.md
+  - ../../wiki/sources/katlowitz-language-anaesthetized-hippocampus.md
 ---
 
 # Neuroscience
@@ -74,6 +75,14 @@ The current bridge to AI interpretability is deliberately narrow: sparse-autoenc
 Barenholtz's trajectory-dynamics paper adds that the recent path through model hidden-state space can predict human reading-time costs beyond surprisal. That supports a dynamic version of the bridge: not only where a representation sits, but how it has been moving, can matter for processing.
 
 Busch et al. 2026 adds a direct neurotechnology version. In a real-time fMRI avatar-control task, participants could relearn a perturbed brain-computer-interface mapping when it followed high-variance directions within their intrinsic neural manifold, but not when it went outside that manifold. That makes geometry a practical constraint on learnable control, not just a pretty diagram after the fact.
+
+### What Can Be Processed Without Conscious Access?
+
+- [Katlowitz et al. - Language And Plasticity In The Anaesthetized Human Hippocampus](../../wiki/sources/katlowitz-language-anaesthetized-hippocampus.md)
+
+Katlowitz et al. 2026 adds a direct human-neurosurgery anchor for unconscious processing. In anaesthetized epilepsy-surgery patients, Neuropixels recordings from hippocampus still carried tone oddball information, showed representational change over roughly 10 minutes, and encoded semantic, part-of-speech, surprisal, and contextual word information from natural speech.
+
+The useful bridge is not "the unconscious person understands language like an awake listener." It is that language-related structure can remain neurally recoverable below reportable awareness. That matters for identity, selfhood, and AI-consciousness debates because decodable semantic processing is real processing, but not proof of lived experience.
 
 ### How Does The Brain Build Futures And Update Beliefs?
 
@@ -160,6 +169,7 @@ Neuroscience connects to the rest of the wiki without swallowing it:
 - **Embodiment:** belief, perception, risk estimation, and action are implemented in bodies, not floating proposition boxes.
 - **Attention:** unsupported thought is not automatically pleasant or easy; minds often need structure, practice, or tools before quiet becomes useful.
 - **Mood networks:** sleep, affect, expectation, and clinical neuromodulation all point toward mood as a system-level state, not a floating thought bubble.
+- **Consciousness and language:** semantic and predictive language signals can persist below reportable awareness; decodability is evidence of processing, not automatic evidence of experience.
 
 ## Do Not Overclaim
 
