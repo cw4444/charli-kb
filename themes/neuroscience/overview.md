@@ -21,6 +21,7 @@ sources:
   - ../../wiki/sources/yang-axonic-spines-action-potentials.md
   - ../../wiki/sources/repetition-cognitive-method-source-batch.md
   - ../../wiki/sources/katlowitz-language-anaesthetized-hippocampus.md
+  - ../../wiki/sources/sulewski-fixation-duration-memory-encoding.md
 ---
 
 # Neuroscience
@@ -61,6 +62,8 @@ This page gives those ideas a shared map and makes room for lower-level cellular
 
 These pages track the problem of source monitoring: perception and imagination can share neural machinery, so the brain must actively classify experience rather than passively receive a perfect external-world feed.
 
+Sulewski et al. 2026 adds an eye-movement version of active perception. In a large natural-scene viewing dataset, longer fixations were better explained by memory-encoding measures than by visual classification difficulty. The useful correction: eyes are not just tiny rational cameras waiting for hard objects to finish processing. Gaze timing can be part of deciding what the system stabilizes for later use.
+
 ### How Are Meaningful Variables Organized Across Populations?
 
 - [Representational Geometry In Brains And LLMs](../../wiki/sources/representational-geometry-brains-and-llms.md)
@@ -99,6 +102,7 @@ The repetition thread adds the method boundary: spaced retrieval and feedback-se
 ### How Does Salience Distort Judgment?
 
 - [Kahneman And Tversky - Judgment Under Uncertainty](../../wiki/sources/kahneman-tversky-judgment-under-uncertainty.md)
+- [Sulewski et al. - Fixation Duration And Memory Encoding](../../wiki/sources/sulewski-fixation-duration-memory-encoding.md)
 - [Salience Weighted Judgment](../../wiki/concepts/salience-weighted-judgment.md)
 
 This thread tracks the judgment-under-uncertainty bridge: availability, focusing illusion, prospect theory, loss framing, and why the thing currently in focus can feel more frequent, probable, or important than it is.

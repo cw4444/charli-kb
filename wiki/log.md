@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-16] source note | fixation duration and memory encoding
+- Source: Sulewski, Amme, Hebart, König, and Kietzmann, *Nature Neuroscience*, [Fixation duration on natural scenes is explained by memory encoding not processing demand](https://doi.org/10.1038/s41593-026-02285-1), published 2026-05-25.
+- Pages created: [Sulewski et al. - Fixation Duration And Memory Encoding](sources/sulewski-fixation-duration-memory-encoding.md)
+- Pages updated: [Neuroscience](../themes/neuroscience/overview.md), [Salience Weighted Judgment](concepts/salience-weighted-judgment.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added the paper as an active-vision / memory-encoding source. Durable point: in five participants viewing 4,080 natural scenes, longer fixations were not explained by delayed visual-pattern stabilization or harder ANN classification; they were associated with later caption use, ANN-predicted memorability, MEG memorability signals, and theta-gamma coupling in frontal and hippocampal regions. Caveat: small participant sample and task-shaped scene viewing; not proof that visual demand never matters.
+
 ## [2026-06-16] source note | language in the anaesthetized hippocampus
 - Source: Katlowitz et al., *Nature*, [Plasticity and language in the anaesthetized human hippocampus](https://doi.org/10.1038/s41586-026-10448-0), published 2026-05-06; author correction published 2026-06-11.
 - Pages created: [Katlowitz et al. - Language And Plasticity In The Anaesthetized Human Hippocampus](sources/katlowitz-language-anaesthetized-hippocampus.md)

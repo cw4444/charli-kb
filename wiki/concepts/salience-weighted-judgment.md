@@ -9,6 +9,7 @@ sources:
   - ../sources/optimism-neuroscience-source-batch.md
   - ../sources/locus-coeruleus-source-batch.md
   - ../sources/repetition-cognitive-method-source-batch.md
+  - ../sources/sulewski-fixation-duration-memory-encoding.md
 ---
 
 # Salience Weighted Judgment
@@ -58,6 +59,8 @@ The optimism literature adds a useful caution. Attention bias modification tries
 
 The [Locus Coeruleus](locus-coeruleus.md) adds a biological gain-control bridge. LC-noradrenaline can help shift the system into alerting, task engagement, network reset, or stress states. That does not make salience the same thing as LC activity. It means one small brainstem nucleus can help determine how loudly a cue lands once the system has tagged it as important.
 
+[Sulewski et al.](../sources/sulewski-fixation-duration-memory-encoding.md) adds an active-vision caution. In natural scene viewing, longer fixations were better explained by memory encoding than by visual processing difficulty. That means "looked longer" is not a clean proxy for "harder to understand" or "objectively more important." The system may be selecting what to stabilize and make usable later.
+
 ## Practical Countermoves
 
 - Ask what changed: the world, your attention, the feed, the search term, or the evidence?
@@ -82,5 +85,6 @@ The [Locus Coeruleus](locus-coeruleus.md) adds a biological gain-control bridge.
 - [Locus Coeruleus](locus-coeruleus.md)
 - [Manifestation As Behavior Modification](manifestation-as-behavior-modification.md)
 - [Repetition As Cognitive Method](repetition-as-cognitive-method.md)
+- [Sulewski et al. - Fixation Duration And Memory Encoding](../sources/sulewski-fixation-duration-memory-encoding.md)
 - [Reality Threshold](reality-threshold.md)
 - [Practical Agency Inside Constraint](practical-agency-inside-constraint.md)
