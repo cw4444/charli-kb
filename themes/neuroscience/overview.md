@@ -23,6 +23,7 @@ sources:
   - ../../wiki/sources/katlowitz-language-anaesthetized-hippocampus.md
   - ../../wiki/sources/sulewski-fixation-duration-memory-encoding.md
   - ../../wiki/sources/pagani-autism-subtypes-cross-species-connectivity.md
+  - ../../wiki/sources/cerebellar-climbing-fiber-disinhibition-learning.md
 ---
 
 # Neuroscience
@@ -130,6 +131,7 @@ The brake matters. Mouse models are mechanism models, not miniature autistic peo
 - [Libet, Schurger, Readiness Potential, And Agency](../../wiki/sources/libet-schurger-readiness-potential-agency.md)
 - [Fallon et al. - Striatal Action Counting And Goal-Directed Steering](../../wiki/sources/fallon-striatal-action-counting-steering.md)
 - [Yang et al. - Axonic Spines And Action Potential Initiation](../../wiki/sources/yang-axonic-spines-action-potentials.md)
+- [Cerebellar Climbing Fibers, Disinhibition, And Learning](../../wiki/sources/cerebellar-climbing-fiber-disinhibition-learning.md)
 - [Practical Agency Inside Constraint](../../wiki/concepts/practical-agency-inside-constraint.md)
 
 This thread keeps neural precursors separate from fatalist storytelling. A readiness potential is not a tiny bureaucrat in the brain who already made every meaningful decision.
@@ -137,6 +139,8 @@ This thread keeps neural precursors separate from fatalist storytelling. A readi
 Fallon et al. 2026 adds a motor-control version of the same anti-magic point. In mice, direct and indirect striatal pathways dissociably shaped both physical steering and action-count progress in a lever-press task. The useful bridge is that goal-directed behavior can involve counting, steering, continuation, and termination machinery at once. Agency is not an intention blob; it is constrained control in motion.
 
 Yang et al. 2026 adds a lower-level cellular caution. In adult mice, excitatory synapses onto axonic spines at the axon initial segment could boost action-potential generation and route hippocampal information through dorsal lateral septum neurons. This is not a human volition paper, but it reinforces the same anti-cartoon rule: action-related neural events are implemented through specific physical architectures, not magic buttons.
+
+The paired climbing-fiber papers add a learning-gate version of the same point. In mouse cerebellar circuits, climbing-fiber events do not become equally instructive just because they arrive. Disinhibitory molecular-layer-interneuron circuits and population synchrony can determine whether climbing-fiber input produces plasticity-relevant Purkinje calcium signals and motor learning. Instruction is circuit-processed, not merely delivered.
 
 ### How Can Intervention Reshape Mood-Relevant Networks?
 
@@ -179,6 +183,7 @@ Neuroscience connects to the rest of the wiki without swallowing it:
 - **Reality:** brains construct experienced reality, but neuroscience does not settle quantum interpretation.
 - **AI:** generative models and neural representations can rhyme computationally, but brains are not literally language models.
 - **Agency:** neural constraint does not automatically imply passivity or erase responsibility.
+- **Learning:** feedback becomes instruction only when the receiving system is in a state that lets it change; error exposure alone is not magic education.
 - **Knowledge systems:** biological memory and public records are different systems with different failure modes.
 - **Embodiment:** belief, perception, risk estimation, and action are implemented in bodies, not floating proposition boxes.
 - **Attention:** unsupported thought is not automatically pleasant or easy; minds often need structure, practice, or tools before quiet becomes useful.
@@ -194,6 +199,7 @@ Neuroscience connects to the rest of the wiki without swallowing it:
 - A reversible experimental deficit does not mean the disease is broadly reversible.
 - A macaque DBS mechanism study is not proof of human treatment efficacy on its own.
 - A mouse autism model is not a tiny autistic person.
+- A mouse cerebellar learning circuit is not a school system, however personally accused the school system may feel.
 - An fMRI subtype is not a diagnosis, destiny, or self-explanation machine.
 - Shared code is not sameness.
 - Brain construction is not manifestation.

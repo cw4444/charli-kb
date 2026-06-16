@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-16] source note | cerebellar climbing fibers and disinhibitory learning gates
+- Sources: Santos-Valencia et al., *Nature*, [Climbing fibres recruit disinhibition to enhance Purkinje cell calcium signals](https://doi.org/10.1038/s41586-026-10220-4), published 2026-03-18; Park et al., *Nature Neuroscience*, [Synchronous climbing fiber activity enables instructive signaling for cerebellar learning through modulation of disinhibitory circuits](https://doi.org/10.1038/s41593-026-02268-2), published 2026-05-14.
+- Pages created: [Cerebellar Climbing Fibers, Disinhibition, And Learning](sources/cerebellar-climbing-fiber-disinhibition-learning.md)
+- Pages updated: [Neuroscience](../themes/neuroscience/overview.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added the paired cerebellar learning papers as a circuit-level example of gated instruction. Durable point: climbing-fiber activity is not automatically an instructive teaching signal; disinhibitory molecular-layer-interneuron circuits and climbing-fiber population synchrony can permit larger Purkinje calcium responses and CF-instructed motor learning. Caveat: mouse cerebellar motor-learning circuitry, not a direct human education theory, though the "feedback only teaches when the system can use it" bridge is useful.
+
 ## [2026-06-16] source note | autism subtypes and cross-species connectivity
 - Source: Pagani, Zerbi, Gini, et al., *Nature Neuroscience*, [Autism subtypes identified using cross-species functional connectivity analyses](https://doi.org/10.1038/s41593-026-02287-z), published 2026-05-15.
 - Pages created: [Pagani et al. - Autism Subtypes And Cross-Species Connectivity](sources/pagani-autism-subtypes-cross-species-connectivity.md)
