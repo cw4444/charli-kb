@@ -8,6 +8,7 @@ sources:
   - ../sources/reality-threshold-dijkstra-batch.md
   - ../sources/wadia-shared-code-perception-imagination.md
   - ../sources/li-internal-states-v1-behavior.md
+  - ../sources/v1-feedback-task-context-source-batch.md
   - ../sources/asch-conformity-social-pressure.md
   - ../sources/kahneman-tversky-judgment-under-uncertainty.md
   - ../sources/locus-coeruleus-source-batch.md
@@ -29,6 +30,8 @@ This matters because it gives a concrete model for a messy boundary: imagined im
 Wadia et al. 2026 adds single-neuron support for the overlap problem: imagined and perceived objects can reactivate some of the same object-coding neurons in human ventral temporal cortex. That does not mean imagination normally feels identical to perception. It means the brain has a genuine source-monitoring problem to solve.
 
 Li et al. 2026 adds a state-dependent V1 warning from macaque visual detection. Public abstract/metadata report that V1 membrane potential can build up before target onset, that trial-to-trial buildup correlates with reaction time, and that post-target voltage fluctuations correlate with choice depending on target contrast and location. This does not replace Dijkstra's reality-threshold model, but it sharpens the background condition: sensory signals enter a system whose gain is already fluctuating.
+
+The [V1 Feedback And Task Context Source Batch](../sources/v1-feedback-task-context-source-batch.md) adds open-access neighbors: V4-to-V1 feedback in macaque scene parsing, task-adaptive V1 comodulation in macaque sensory decisions, and multiplexed context representation in mouse V1. The point is not that V1 fabricates the world. It is that early visual processing is already organized by feedback, task and context.
 
 ## Not A Claim That Everything Is Arbitrary
 
@@ -72,6 +75,7 @@ The *Black Mirror* episode "Bete Noire" is a cultural illustration of the extrem
 - [Locus Coeruleus](locus-coeruleus.md)
 - [Wadia Shared Code For Perception And Imagination](../sources/wadia-shared-code-perception-imagination.md)
 - [Li et al. - Internal States And V1 Behavior Covariation](../sources/li-internal-states-v1-behavior.md)
+- [V1 Feedback And Task Context Source Batch](../sources/v1-feedback-task-context-source-batch.md)
 - [Interface Theory Of Perception](interface-theory-of-perception.md)
 - [Pluriverse](pluriverse.md)
 - [Nadine Dijkstra](../people/nadine-dijkstra.md)

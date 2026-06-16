@@ -6,6 +6,7 @@ created: 2026-06-16
 updated: 2026-06-16
 sources:
   - https://doi.org/10.1038/s41593-026-02296-y
+  - ./v1-feedback-task-context-source-batch.md
 ---
 
 # Li et al. - Internal States And V1 Behavior Covariation
@@ -35,6 +36,8 @@ The authors' interpretation is that covariations between single-neuron V1 membra
 ## Why It Matters
 
 This is a direct early-visual-cortex version of the wiki's active-perception lane. The result suggests that even V1 is not merely passing visual input upstream like a camera cable. Internal state can modulate sensory processing before or at V1, and those modulations can track reaction time and choice.
+
+The open-access [V1 Feedback And Task Context Source Batch](v1-feedback-task-context-source-batch.md) supplies adjacent evidence from *Nature Communications*: V4-to-V1 feedback in macaque figure-ground parsing, task-targeted V1 comodulation in macaque sensory decisions, and multiplexed task-context representation in mouse V1. Together they make the same point less dependent on one closed article.
 
 The useful bridge to [Reality Threshold](../concepts/reality-threshold.md) is cautious: perception is not just an external signal crossing a passive detector. The detector's gain and state can already be changing before the target arrives.
 

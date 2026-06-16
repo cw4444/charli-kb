@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-16] source batch | V1 feedback, comodulation and task context
+- Sources: Xin, Yan and Li, *Nature Communications*, [A central and unified role of corticocortical feedback in parsing visual scenes](https://doi.org/10.1038/s41467-025-62279-8), published 2025-07-28; Haimerl et al., *Nature Communications*, [Targeted V1 comodulation supports task-adaptive sensory decisions](https://doi.org/10.1038/s41467-023-43432-7), published 2023-11-30; Hajnal et al., *Nature Communications*, [Continuous multiplexed population representations of task context in the mouse primary visual cortex](https://doi.org/10.1038/s41467-023-42441-w), published 2023-10-21.
+- Pages created: [V1 Feedback And Task Context Source Batch](sources/v1-feedback-task-context-source-batch.md)
+- Pages updated: [Li et al. - Internal States And V1 Behavior Covariation](sources/li-internal-states-v1-behavior.md), [Neuroscience](../themes/neuroscience/overview.md), [Reality Threshold](concepts/reality-threshold.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added open-access V1 neighbors for the closed Li et al. 2026 state/gain paper. Durable point: V1 participates in feedback, task-adaptive routing and context multiplexing; it is early visual cortex, not a neutral visual cable. Caveats: macaque/mouse task studies, not proof that perception is arbitrary or that V1 contains a human self-model.
+
 ## [2026-06-16] source note | internal state and V1 behavior covariation
 - Source: Li, Samonds, Chen, Taillefumier, Priebe, and Seidemann, *Nature Neuroscience*, [Fluctuating internal states mediate neural-behavioral covariations in V1](https://doi.org/10.1038/s41593-026-02296-y), published 2026-05-13.
 - Pages created: [Li et al. - Internal States And V1 Behavior Covariation](sources/li-internal-states-v1-behavior.md)

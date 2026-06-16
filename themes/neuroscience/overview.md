@@ -25,6 +25,7 @@ sources:
   - ../../wiki/sources/pagani-autism-subtypes-cross-species-connectivity.md
   - ../../wiki/sources/cerebellar-climbing-fiber-disinhibition-learning.md
   - ../../wiki/sources/li-internal-states-v1-behavior.md
+  - ../../wiki/sources/v1-feedback-task-context-source-batch.md
 ---
 
 # Neuroscience
@@ -61,6 +62,7 @@ This page gives those ideas a shared map and makes room for lower-level cellular
 - [Reality Threshold - Dijkstra Source Batch](../../wiki/sources/reality-threshold-dijkstra-batch.md)
 - [Wadia Shared Code For Perception And Imagination](../../wiki/sources/wadia-shared-code-perception-imagination.md)
 - [Li et al. - Internal States And V1 Behavior Covariation](../../wiki/sources/li-internal-states-v1-behavior.md)
+- [V1 Feedback And Task Context Source Batch](../../wiki/sources/v1-feedback-task-context-source-batch.md)
 - [Reality Threshold](../../wiki/concepts/reality-threshold.md)
 - [Perception And Imagination Overlap](../../wiki/concepts/perception-and-imagination-overlap.md)
 
@@ -69,6 +71,8 @@ These pages track the problem of source monitoring: perception and imagination c
 Sulewski et al. 2026 adds an eye-movement version of active perception. In a large natural-scene viewing dataset, longer fixations were better explained by memory-encoding measures than by visual classification difficulty. The useful correction: eyes are not just tiny rational cameras waiting for hard objects to finish processing. Gaze timing can be part of deciding what the system stabilizes for later use.
 
 Li et al. 2026 adds an early-visual-cortex state version. In macaques doing a reaction-time detection task, V1 membrane potential often built up before target onset, and variation in that buildup correlated with reaction time; after target onset, V1 voltage fluctuations correlated with choice in a way that depended on target location and contrast. The useful correction: even early visual cortex is not a passive input cable. Internal state can tune sensory processing at, or before, V1.
+
+The V1 feedback/task-context batch adds open-access support around the same theme. In macaques, V4-to-V1 feedback causally shaped figure-ground parsing, and V1 comodulation supported task-adaptive sensory decisions. In mice, V1 population activity multiplexed task context with visual, auditory and choice variables in separable subspaces. Primary visual cortex is early, not simple.
 
 ### How Are Meaningful Variables Organized Across Populations?
 
