@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-16] source note | autism subtypes and cross-species connectivity
+- Source: Pagani, Zerbi, Gini, et al., *Nature Neuroscience*, [Autism subtypes identified using cross-species functional connectivity analyses](https://doi.org/10.1038/s41593-026-02287-z), published 2026-05-15.
+- Pages created: [Pagani et al. - Autism Subtypes And Cross-Species Connectivity](sources/pagani-autism-subtypes-cross-species-connectivity.md)
+- Pages updated: [Neuroscience](../themes/neuroscience/overview.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added as an autism-neuroscience / heterogeneity source. Durable point: resting-state fMRI dysconnectivity in 20 autism-relevant mouse models clustered into hypoconnectivity- and hyperconnectivity-dominant patterns associated with synaptic versus immune/transcriptional pathways; analogous human fMRI subtypes were identified in about one-quarter of 940 autistic scans and partly recapitulated synaptic versus immune-related pathway enrichments. Caveats kept loud: mouse models are mechanism models, not miniature autistic people; human subtypes are observational, not clinical diagnostics.
+
 ## [2026-06-16] source note | fixation duration and memory encoding
 - Source: Sulewski, Amme, Hebart, König, and Kietzmann, *Nature Neuroscience*, [Fixation duration on natural scenes is explained by memory encoding not processing demand](https://doi.org/10.1038/s41593-026-02285-1), published 2026-05-25.
 - Pages created: [Sulewski et al. - Fixation Duration And Memory Encoding](sources/sulewski-fixation-duration-memory-encoding.md)

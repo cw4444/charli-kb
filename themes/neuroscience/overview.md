@@ -22,6 +22,7 @@ sources:
   - ../../wiki/sources/repetition-cognitive-method-source-batch.md
   - ../../wiki/sources/katlowitz-language-anaesthetized-hippocampus.md
   - ../../wiki/sources/sulewski-fixation-duration-memory-encoding.md
+  - ../../wiki/sources/pagani-autism-subtypes-cross-species-connectivity.md
 ---
 
 # Neuroscience
@@ -116,6 +117,14 @@ This thread tracks the "blue dot" without turning it into a magic button. The lo
 
 The useful bridge: a small cue can feel enormous when the system is already primed for threat, uncertainty, or surprise. The caveat: the LC is not the whole brain's master switch, and pupil size is not a direct mind-reading meter.
 
+### How Does Neurodevelopmental Heterogeneity Map Onto Mechanism?
+
+- [Pagani et al. - Autism Subtypes And Cross-Species Connectivity](../../wiki/sources/pagani-autism-subtypes-cross-species-connectivity.md)
+
+Pagani et al. 2026 adds an autism-neuroscience anchor around heterogeneity. Using resting-state fMRI, the authors found hypoconnectivity- and hyperconnectivity-dominant patterns across 20 autism-relevant mouse models, then identified analogous subtypes in about one-quarter of a large human autism fMRI dataset. The useful point is not "there are two kinds of autistic people." It is narrower: some autism-related connectivity patterns may map onto dissociable synaptic versus immune-related biological pathways.
+
+The brake matters. Mouse models are mechanism models, not miniature autistic people, and these fMRI subtypes are observational rather than clinically actionable.
+
 ### How Does Neural Activity Relate To Agency?
 
 - [Libet, Schurger, Readiness Potential, And Agency](../../wiki/sources/libet-schurger-readiness-potential-agency.md)
@@ -161,6 +170,7 @@ The Yang et al. axonic-spines paper adds a different cellular branch: the axon i
 - Do not turn embodied belief updating into a home protocol.
 - Do not use neuroscience as decoration for metaphysical claims it cannot support.
 - Do not reduce people to brain scans, molecules, or one fashionable pathway.
+- Do not treat neurodevelopmental subtypes as identity labels or personal diagnostic readouts.
 
 ## Useful Bridges
 
@@ -174,6 +184,7 @@ Neuroscience connects to the rest of the wiki without swallowing it:
 - **Attention:** unsupported thought is not automatically pleasant or easy; minds often need structure, practice, or tools before quiet becomes useful.
 - **Mood networks:** sleep, affect, expectation, and clinical neuromodulation all point toward mood as a system-level state, not a floating thought bubble.
 - **Consciousness and language:** semantic and predictive language signals can persist below reportable awareness; decodability is evidence of processing, not automatic evidence of experience.
+- **Neurodevelopment:** autism is not one averaged brain pattern; heterogeneity may reflect multiple biological routes, but mechanism subtypes are not lived identity.
 
 ## Do Not Overclaim
 
@@ -182,6 +193,8 @@ Neuroscience connects to the rest of the wiki without swallowing it:
 - A pathway involved in a disease is not necessarily the single cause of that disease.
 - A reversible experimental deficit does not mean the disease is broadly reversible.
 - A macaque DBS mechanism study is not proof of human treatment efficacy on its own.
+- A mouse autism model is not a tiny autistic person.
+- An fMRI subtype is not a diagnosis, destiny, or self-explanation machine.
 - Shared code is not sameness.
 - Brain construction is not manifestation.
 - Neuroscience being fascinating is not, by itself, an inclusion criterion. Regrettably.
