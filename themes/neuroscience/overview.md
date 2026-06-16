@@ -24,6 +24,7 @@ sources:
   - ../../wiki/sources/sulewski-fixation-duration-memory-encoding.md
   - ../../wiki/sources/pagani-autism-subtypes-cross-species-connectivity.md
   - ../../wiki/sources/cerebellar-climbing-fiber-disinhibition-learning.md
+  - ../../wiki/sources/li-internal-states-v1-behavior.md
 ---
 
 # Neuroscience
@@ -59,12 +60,15 @@ This page gives those ideas a shared map and makes room for lower-level cellular
 
 - [Reality Threshold - Dijkstra Source Batch](../../wiki/sources/reality-threshold-dijkstra-batch.md)
 - [Wadia Shared Code For Perception And Imagination](../../wiki/sources/wadia-shared-code-perception-imagination.md)
+- [Li et al. - Internal States And V1 Behavior Covariation](../../wiki/sources/li-internal-states-v1-behavior.md)
 - [Reality Threshold](../../wiki/concepts/reality-threshold.md)
 - [Perception And Imagination Overlap](../../wiki/concepts/perception-and-imagination-overlap.md)
 
 These pages track the problem of source monitoring: perception and imagination can share neural machinery, so the brain must actively classify experience rather than passively receive a perfect external-world feed.
 
 Sulewski et al. 2026 adds an eye-movement version of active perception. In a large natural-scene viewing dataset, longer fixations were better explained by memory-encoding measures than by visual classification difficulty. The useful correction: eyes are not just tiny rational cameras waiting for hard objects to finish processing. Gaze timing can be part of deciding what the system stabilizes for later use.
+
+Li et al. 2026 adds an early-visual-cortex state version. In macaques doing a reaction-time detection task, V1 membrane potential often built up before target onset, and variation in that buildup correlated with reaction time; after target onset, V1 voltage fluctuations correlated with choice in a way that depended on target location and contrast. The useful correction: even early visual cortex is not a passive input cable. Internal state can tune sensory processing at, or before, V1.
 
 ### How Are Meaningful Variables Organized Across Populations?
 
@@ -112,11 +116,14 @@ This thread tracks the judgment-under-uncertainty bridge: availability, focusing
 ### How Does Arousal Change The Whole System?
 
 - [Locus Coeruleus Source Batch](../../wiki/sources/locus-coeruleus-source-batch.md)
+- [Li et al. - Internal States And V1 Behavior Covariation](../../wiki/sources/li-internal-states-v1-behavior.md)
 - [Locus Coeruleus](../../wiki/concepts/locus-coeruleus.md)
 
 This thread tracks the "blue dot" without turning it into a magic button. The locus coeruleus is a small noradrenergic brainstem nucleus with broad projections, making it a plausible state regulator for arousal, salience, task engagement, network reset, memory prioritization, and stress reactivity.
 
 The useful bridge: a small cue can feel enormous when the system is already primed for threat, uncertainty, or surprise. The caveat: the LC is not the whole brain's master switch, and pupil size is not a direct mind-reading meter.
+
+Li et al. 2026 gives this state/gain theme a V1 anchor. The paper does not prove that the locus coeruleus caused the effect, but its fluctuating-gain model fits the broader warning: sensory evidence is interpreted through a system whose baseline state is already moving.
 
 ### How Does Neurodevelopmental Heterogeneity Map Onto Mechanism?
 
@@ -181,6 +188,7 @@ The Yang et al. axonic-spines paper adds a different cellular branch: the axon i
 Neuroscience connects to the rest of the wiki without swallowing it:
 
 - **Reality:** brains construct experienced reality, but neuroscience does not settle quantum interpretation.
+- **Perception:** early sensory cortex is already state-sensitive; the world arrives through a tuned receiver, not a neutral cable.
 - **AI:** generative models and neural representations can rhyme computationally, but brains are not literally language models.
 - **Agency:** neural constraint does not automatically imply passivity or erase responsibility.
 - **Learning:** feedback becomes instruction only when the receiving system is in a state that lets it change; error exposure alone is not magic education.

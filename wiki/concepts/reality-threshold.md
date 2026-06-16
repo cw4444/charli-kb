@@ -7,6 +7,7 @@ updated: 2026-06-11
 sources:
   - ../sources/reality-threshold-dijkstra-batch.md
   - ../sources/wadia-shared-code-perception-imagination.md
+  - ../sources/li-internal-states-v1-behavior.md
   - ../sources/asch-conformity-social-pressure.md
   - ../sources/kahneman-tversky-judgment-under-uncertainty.md
   - ../sources/locus-coeruleus-source-batch.md
@@ -26,6 +27,8 @@ The core idea is simple but powerful:
 This matters because it gives a concrete model for a messy boundary: imagined images, dreams, hallucinations, virtual reality, intrusive imagery, and external perception may differ by degree and classification, not by totally separate mental machinery.
 
 Wadia et al. 2026 adds single-neuron support for the overlap problem: imagined and perceived objects can reactivate some of the same object-coding neurons in human ventral temporal cortex. That does not mean imagination normally feels identical to perception. It means the brain has a genuine source-monitoring problem to solve.
+
+Li et al. 2026 adds a state-dependent V1 warning from macaque visual detection. Public abstract/metadata report that V1 membrane potential can build up before target onset, that trial-to-trial buildup correlates with reaction time, and that post-target voltage fluctuations correlate with choice depending on target contrast and location. This does not replace Dijkstra's reality-threshold model, but it sharpens the background condition: sensory signals enter a system whose gain is already fluctuating.
 
 ## Not A Claim That Everything Is Arbitrary
 
@@ -68,6 +71,7 @@ The *Black Mirror* episode "Bete Noire" is a cultural illustration of the extrem
 - [Salience Weighted Judgment](salience-weighted-judgment.md)
 - [Locus Coeruleus](locus-coeruleus.md)
 - [Wadia Shared Code For Perception And Imagination](../sources/wadia-shared-code-perception-imagination.md)
+- [Li et al. - Internal States And V1 Behavior Covariation](../sources/li-internal-states-v1-behavior.md)
 - [Interface Theory Of Perception](interface-theory-of-perception.md)
 - [Pluriverse](pluriverse.md)
 - [Nadine Dijkstra](../people/nadine-dijkstra.md)
