@@ -59,6 +59,10 @@ Viviani, Lo, Sim, Beschoner, Stingl, and Horn 2010 gives the lane an older spont
 
 This matters because optimism-adjacent positive bias is not always the same thing as conscious self-control. Some of it may be automatic affective steering. Keep the cage locked on the claim: this is not trait optimism, not future-event optimism, not clinical intervention evidence, and not a license to call every happy interpretation "neuroscience."
 
+Petro, Tong, Henley, and Neta 2018 gives the same optimism package a sharper ambiguity counterweight. They used surprised faces as ambiguous stimuli, measured whether each participant tended to rate those faces positively or negatively, and then compared fMRI responses during face viewing with an emotion-regulation/reappraisal task. The finding supports the initial negativity hypothesis: ambiguity may first be treated as negative, and positive interpretations may require reappraisal-like regulation. More positive valence bias tracked greater activity for surprised faces in reappraisal-related regions; more negative valence bias tracked amygdala similarity between surprise and maintained negative affect, plus weaker habituation to clear negativity.
+
+This is useful because it stops "positive bias" from sounding like a simple default setting. In some contexts, a positive read of ambiguity may be active regulation. The caveat is equally important: surprised-face fMRI is not a universal law of ambiguity, and the result does not mean positive interpretation is fake. It means the nervous system may have to do work to get there.
+
 ### 3. Trait optimism is linked to OFC structure and lower anxiety symptoms
 
 Dolcos, Hu, Iordan, Moore, and Dolcos 2016 gives the optimism package a structural brain/anxiety anchor. In 61 healthy participants, orbitofrontal cortex gray matter volume was positively associated with trait optimism, trait optimism was negatively associated with anxiety symptoms, and optimism statistically mediated the relation between left OFC volume and anxiety.

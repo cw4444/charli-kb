@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-17] source update | initial negativity and valence bias
+- Source: Petro, Tong, Henley, and Neta, *Social Cognitive and Affective Neuroscience*, [Individual differences in valence bias: fMRI evidence of the initial negativity hypothesis](https://doi.org/10.1093/scan/nsy049), published online 2018-06-21.
+- Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Salience Weighted Judgment](concepts/salience-weighted-judgment.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added as a valence-bias / initial-negativity counterweight in the optimism and salience lanes. Access check: PubMed Central full text as PMCID PMC6121148; Crossref/OpenAlex/OUP report gold OA / CC BY-NC 4.0, with NCBI PMC OA marking not retracted. Durable result: surprised-face ambiguity can initially lean negative; positive valence interpretations appear to recruit reappraisal-related circuitry, while negative bias is tied to amygdala similarity between surprise and maintained negative affect plus weaker habituation to clear negative faces. Boundary: surprised-face fMRI is not a universal law of ambiguity and does not make positivity fake; it shows that positive interpretation can be regulatory work.
+
 ## [2026-06-17] source update | mouse judgement bias and foraging under predation risk
 - Source: Bračić, Bierbaum, Peng, Nimalavachchlan, Siewert, Kaiser, Sachser, and Richter, *Animal Behaviour*, [The behavioural ecology of optimism: judgement bias and foraging under predation risk in mice](https://doi.org/10.1016/j.anbehav.2024.10.005), online 2024-11-12 / issue January 2025.
 - Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
