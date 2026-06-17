@@ -43,7 +43,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Agent Security Infrastructure 2026](sources/agent-security-infrastructure-2026.md): source note on GitHub Copilot sandboxes and enterprise-managed plugins, Microsoft's ASSERT / Agent Control Specification and updated agent failure-mode taxonomy, Anthropic's AI-enabled cyber-threat analysis, and why agent controls are becoming infrastructure.
 - [EU Technological Sovereignty Package 2026](sources/eu-technological-sovereignty-package-2026.md): source note on the European Commission's package linking AI, cloud, chips, open source, energy, digital autonomy, and resilience.
 - [AI, Human Cognition, And Knowledge Collapse](sources/ai-human-cognition-knowledge-collapse.md): MIT economics source note on agentic AI, human learning incentives, shared general knowledge, and the risk that accurate recommendations can erode collective knowledge-building.
-- [OpenAI Codex For Everyday Work](sources/openai-codex-for-everyday-work.md): official OpenAI Codex docs translated into practical everyday-work concepts for non-developers.
+- [OpenAI Codex For Everyday Work](sources/openai-codex-for-everyday-work.md): official OpenAI Codex docs translated into practical everyday-work concepts for non-developers, including Codex app computer use, Chrome extension, Windows/UK availability caveats, goals, automations, plugins, MCP, memories, and internal OpenAI usage patterns.
 - [Current AI Agent Landscape 2026](sources/current-ai-agent-landscape-2026.md): current public-source snapshot of OpenAI, Anthropic, Google, xAI, OpenClaw, and the practical agent capability/safety pattern.
 - [Anthropic Compute And Talent Signal 2026](sources/anthropic-compute-and-talent-signal-2026.md): source note on Andrej Karpathy joining Anthropic pre-training, Anthropic's SpaceX/Colossus compute deal, and the later $65B Series H / multi-provider compute expansion.
 - [Anthropic Olah Vatican AI Discernment 2026](sources/anthropic-olah-vatican-ai-discernment-2026.md): source note on Chris Olah's Vatican remarks around Pope Leo XIV's AI encyclical, connecting interpretability, model character, labor displacement, welfare uncertainty, and outside moral criticism.
@@ -94,7 +94,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 
 ## Timelines
 
-- [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md): lightweight historical timeline for the fast-moving 2026 AI/agent acceleration, including agent security infrastructure, Anthropic's Fable/Mythos access shift, EU technological sovereignty, major lab strategy, OpenAI user-safety scrutiny, UK device-level age-assurance pressure, Online Safety Act privacy displacement, cooperation/governance framing, AGI-to-ASI pathway mapping, workplace rearchitecture, governance, and model-character signals.
+- [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md): lightweight historical timeline for the fast-moving 2026 AI/agent acceleration, including agent security infrastructure, Anthropic's Fable/Mythos access shift, EU technological sovereignty, major lab strategy, OpenAI user-safety scrutiny, Codex computer-use availability, UK device-level age-assurance pressure, Online Safety Act privacy displacement, cooperation/governance framing, AGI-to-ASI pathway mapping, workplace rearchitecture, governance, and model-character signals.
 
 ## Concepts
 

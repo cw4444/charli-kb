@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-17] timeline | Codex computer use and Chrome extension UK access marker
+- Sources: Charli user report of UK Windows app access on 2026-06-15; OpenAI, [Codex for (almost) everything](https://openai.com/index/codex-for-almost-everything/); OpenAI Developers, [Codex Chrome extension](https://developers.openai.com/codex/app/chrome-extension); OpenAI Developers, [Codex computer use](https://developers.openai.com/codex/app/computer-use).
+- Pages updated: [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [OpenAI Codex For Everyday Work](sources/openai-codex-for-everyday-work.md), [Computer Work Agent](concepts/computer-work-agent.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added a careful timeline marker for Codex computer use and the Chrome extension becoming available to Charli in the UK Windows app. Official docs establish the capability family: Chrome for signed-in browser state and computer use on macOS/Windows in supported regions; the exact 2026-06-15 UK access date is preserved as user-observed, not a public OpenAI rollout announcement. Kept the environment boundary: Windows app Codex can operate GUI surfaces with foreground-control limits, while WSL/terminal Codex remains the repo, shell, file, and Git curator.
+
 ## [2026-06-17] source note | Escobar and decolonial pluriverse
 - Source: Duke University Press, [*Designs for the Pluriverse: Radical Interdependence, Autonomy, and the Making of Worlds*](https://www.dukeupress.edu/designs-for-the-pluriverse), 2018.
 - Pages created: [Escobar - Designs For The Pluriverse](sources/escobar-designs-for-the-pluriverse.md)

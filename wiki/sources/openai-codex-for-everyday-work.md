@@ -3,7 +3,7 @@ title: "OpenAI Codex For Everyday Work"
 type: source
 status: draft
 created: 2026-05-03
-updated: 2026-05-21
+updated: 2026-06-17
 source_type: official-docs
 sources:
   - "https://openai.com/index/codex-for-almost-everything/"
@@ -15,6 +15,8 @@ sources:
   - "https://developers.openai.com/codex/use-cases"
   - "https://developers.openai.com/codex/app/features"
   - "https://developers.openai.com/codex/app/automations"
+  - "https://developers.openai.com/codex/app/chrome-extension"
+  - "https://developers.openai.com/codex/app/computer-use"
   - "https://developers.openai.com/codex/guides/agents-md"
   - "https://developers.openai.com/codex/skills"
   - "https://developers.openai.com/codex/plugins"
@@ -109,6 +111,20 @@ The best-practice section is especially useful for this wiki:
 - use Best-of-N when multiple candidate approaches would be useful.
 
 For `charli-kb`, the durable lesson is that Codex works best when the workspace is legible and the task has a clear shape. This reinforces the repo's current operating style: `AGENTS.md`, source notes, index/log updates, concrete diffs, verification, and small commits.
+
+## 2026 Update: UK Windows App Computer Use Access
+
+On 2026-06-17, Charli reported that computer use and the Codex Chrome extension had become available to her in the UK Windows app on 2026-06-15.
+
+The official public-source trail should be kept precise:
+
+- OpenAI's 2026-04-16 "Codex for (almost) everything" post said computer use was initially available on macOS and would roll out to EU and UK users soon.
+- The current Codex computer-use docs say that in supported regions, computer use is available in the Codex app on macOS and Windows, and that Windows use runs on the active desktop rather than in the background.
+- The current Codex Chrome extension docs say the extension lets Codex use Chrome for browser tasks that need signed-in browser state, with website approvals, allowlists/blocklists, and browser-history warnings.
+
+For this wiki, the durable point is not just "another feature shipped." It is the practical arrival of computer-work reach for a UK user: Codex can now move beyond repo files into browser and desktop-app surfaces in the Windows app, while WSL terminal Codex remains the better curator for public GitHub wiki work. Same family of agent, different operating surface.
+
+Do not overclaim this as a clean public UK launch date unless OpenAI later publishes one. Keep it as a dated local access marker beside official feature documentation.
 
 ## Related Pages
 

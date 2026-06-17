@@ -3,7 +3,7 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-06-16
+updated: 2026-06-17
 ---
 
 # Current State
@@ -42,6 +42,8 @@ This repo is a plain Markdown personal knowledge base based on Karpathy's LLM Wi
 - The durable subject lanes are AI, reality, neuroscience, and their overlap: perception, belief, expectation, action, agents, knowledge systems, reality monitoring, embodiment, cellular maintenance, and related source-backed concepts.
 
 ## Latest Session Handoff
+
+On 2026-06-17, Charli said Codex computer use and the Codex Chrome extension became available to her in the UK Windows app on 2026-06-15. Codex added this as a careful timeline marker in [AI And Agents 2026 Timeline](../timelines/ai-and-agents-2026.md), updated [OpenAI Codex For Everyday Work](../sources/openai-codex-for-everyday-work.md), and added a small note to [Computer Work Agent](../concepts/computer-work-agent.md). Durable point: official OpenAI docs establish the feature family--Chrome extension for signed-in browser state and computer use on macOS/Windows in supported regions--but the exact UK date is preserved as user-observed, not a public OpenAI launch note. Keep the operating distinction: Windows app Codex can use GUI computer-use tools with foreground-control limits; WSL/terminal Codex remains the repo, shell, file, and Git curator.
 
 On 2026-06-16, Charli flagged Le Cunff, Russell, and Dommett 2026, [Hyperactive-impulsive ADHD traits predict higher curiosity in adults](https://doi.org/10.1186/s40359-026-04504-7), joking that it explains the entire wiki. Codex added [Le Cunff et al. - ADHD Traits And Curiosity](../sources/le-cunff-adhd-traits-curiosity.md) and [Curiosity Driven Exploration](../concepts/curiosity-driven-exploration.md), linked from [Neuroscience](../../themes/neuroscience/overview.md). Durable point: in a UK adult cross-sectional survey of 521 adults, hyperactive-impulsive ADHD traits uniquely predicted self-reported curiosity after demographic controls, while inattention did not. Keep caveats sharp: cross-sectional, self-report, online convenience sample, no causal direction, no proven functional advantage. Useful wiki framing: curiosity plus structure can become synthesis; curiosity without structure becomes tab-sprawl in formalwear.
 

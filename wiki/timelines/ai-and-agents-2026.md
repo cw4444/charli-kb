@@ -3,7 +3,7 @@ title: "AI And Agents 2026 Timeline"
 type: timeline
 status: draft
 created: 2026-05-21
-updated: 2026-06-15
+updated: 2026-06-17
 sources:
   - ../sources/current-ai-agent-landscape-2026.md
   - ../sources/anthropic-compute-and-talent-signal-2026.md
@@ -62,6 +62,8 @@ sources:
   - https://openai.com/index/openai-submits-confidential-s-1/
   - https://openai.com/index/economic-research-exchange/
   - https://openai.com/index/introducing-openai-partner-network/
+  - https://developers.openai.com/codex/app/chrome-extension
+  - https://developers.openai.com/codex/app/computer-use
   - https://www.stepsecurity.io/blog/pythagora-io-gpt-pilot-compromised-on-github-shai-hulud-credential-stealer-blocked-by-python-linter
   - ../sources/anthropic-biology-agents-deterministic-rails-2026.md
   - https://www.anthropic.com/research/agents-in-biology
@@ -116,7 +118,7 @@ Use this page for events that are useful historical anchors:
 
 Future lint rule: update this page if it helps preserve the shape of the year. Delete or collapse entries that turn out to be noise.
 
-## Short Read As Of 2026-06-15
+## Short Read As Of 2026-06-17
 
 The first half of 2026 already shows several converging threads:
 
@@ -157,6 +159,7 @@ The first half of 2026 already shows several converging threads:
 - Microsoft signed a preliminary land-acquisition agreement for potential datacenter development in Vaasa and Mustasaari, Finland, reinforcing the shift from AI as software story to AI as land, grid, cooling, and local-planning story.
 - OpenAI published a June 8 "third phase" strategy cluster: automated AI researchers, a March 2028 internal horizon for a significant fraction of research being done by AI systems alongside researchers, economic-growth and "personal AGI" distribution language, international coordination that could include slowing frontier development, a confidential draft S-1, and an external Economic Research Exchange.
 - OpenAI announced a Partner Network with `$150 million` for the partner ecosystem, a target of `300,000` certified consultants by the end of 2026, and future specializations in Codex, cybersecurity, and agents, making enterprise deployment and consulting capacity part of the lab strategy.
+- Charli reported that on 2026-06-15 Codex computer use and the Codex Chrome extension became available to her in the UK Windows app. Official OpenAI docs already establish the feature family: Chrome extension access for signed-in browser state and computer use on macOS/Windows in supported regions. Treat the exact UK availability date as user-observed unless OpenAI later publishes a cleaner rollout note.
 - Financial Times / Reuters / TechCrunch reporting described OpenAI's planned ChatGPT overhaul as a superapp-style shift toward coding tools and AI agents. Treat it as reported product direction, not a shipped launch.
 - Bloomberg / Reuters / Financial Times-derived reporting said Apollo and Blackstone finalized roughly $35B in chip-backed private-credit financing for Anthropic's Google/Broadcom TPU capacity, separate from Anthropic's reported SpaceX/Colossus Nvidia GPU lease.
 - Anthropic launched Claude Fable 5, a generally available Mythos-class model with conservative safeguards that route flagged cyber, biology/chemistry, and distillation requests to Opus 4.8; Claude Mythos 5 remained restricted to Glasswing and trusted-access partners.
@@ -731,6 +734,20 @@ Sources:
 - [OpenAI: Built to benefit everyone: our plan](https://openai.com/index/built-to-benefit-everyone-our-plan/)
 - [OpenAI: Confidential submission of draft S-1 to the SEC](https://openai.com/index/openai-submits-confidential-s-1/)
 - [OpenAI: Introducing the OpenAI Economic Research Exchange](https://openai.com/index/economic-research-exchange/)
+
+### 2026-06-15 - Codex computer use and Chrome extension become available to Charli in the UK Windows app
+
+Charli reported that on 2026-06-15 the Codex Windows app in the UK gained access to computer use and the Codex Chrome extension. The public OpenAI docs support the broader capability: the Chrome extension gives Codex a browser surface for tasks that depend on signed-in Chrome state, and computer use lets Codex see and operate graphical user interfaces on macOS or Windows in supported regions.
+
+Why it matters: this is the practical step from "Codex can edit files" toward "Codex can operate the user's actual computer surfaces," including browser and desktop-app workflows. For this wiki, it belongs beside [Computer Work Agent](../concepts/computer-work-agent.md): the useful boundary is not code versus non-code, but whether the agent can reach the real surface where work happens.
+
+Careful read: the exact UK availability date is a user-observed access event, not a clean public OpenAI launch note. Also distinguish environments. Codex in the Windows app can use GUI computer-use tools with foreground-control limits; this WSL/terminal Codex remains a file, shell, and repo-working agent in the penguin cave. Same family, different limbs.
+
+Sources:
+
+- Charli user report, 2026-06-17, referring to UK Windows app access on 2026-06-15.
+- [OpenAI: Codex Chrome extension](https://developers.openai.com/codex/app/chrome-extension)
+- [OpenAI: Codex computer use](https://developers.openai.com/codex/app/computer-use)
 
 ### 2026-06-14 - OpenAI launches Partner Network for enterprise AI deployment
 

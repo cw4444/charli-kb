@@ -3,7 +3,7 @@ title: "Computer Work Agent"
 type: concept
 status: draft
 created: 2026-05-21
-updated: 2026-06-04
+updated: 2026-06-17
 sources:
   - ../sources/openai-codex-for-everyday-work.md
   - ../sources/current-ai-agent-landscape-2026.md
@@ -64,6 +64,8 @@ The broader 2026 framing is:
 > Codex helps people get computer work done, with code as one important substrate.
 
 That shift matters for normal users because the useful output may be a report, cleaned spreadsheet, deck, browser app, wiki update, drafted reply, pull request, or scheduled monitoring loop. The user does not need to care whether the agent used HTML, Python, shell commands, a browser, MCP, or a connector, as long as the permissions and result are reviewable.
+
+Charli's 2026-06-15 UK Windows app access to Codex computer use and the Codex Chrome extension is a practical marker for this concept. It also shows why environment matters: a GUI-enabled desktop app agent can operate browser and app surfaces, while WSL/terminal Codex remains strongest as a repo, shell, file, and Git curator. Computer-work agency is not one magic capability; it is the agent plus the surfaces it can actually reach.
 
 ## Relation To This Wiki
 
