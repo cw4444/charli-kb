@@ -35,6 +35,10 @@ The 2024 OxJournal overview is not primary evidence, but it usefully names the d
 
 Forgeard and Seligman's 2012 review is useful for the older map. It separates optimistic explanatory style from dispositional optimism: one asks how people explain events, the other asks what they broadly expect from the future. Its best contribution here is the adult boundary: healthy optimism is flexible. It usually helps when it supports coping, effort, opportunity scanning, and persistence, but temporary realistic pessimism can be useful when danger is near, odds are genuinely poor, or preparation matters more than morale. Optimism is a tool, not a wedding vow.
 
+Scheier, Carver, and Bridges 1994 gives the proper label for the Soap-shaped creature: dispositional optimism. This is not an exercise, affirmation habit, or "lucky girl" performance. It is a relatively stable generalized outcome expectancy: the person tends to assume that things will work out well enough to keep acting. In practical English, inconvenience arrives and the system does not immediately treat it as a verdict. It treats it as a problem, a detour, or a biscuit-level delay.
+
+The adjacent personality constructs matter because they stop this becoming a cartoon. Block and Kremen's ego-resiliency names flexible recovery and adjustment after disruption. Kobasa's hardiness names commitment, control, and challenge under stress. Fredrickson's broaden-and-build work and Tugade and Fredrickson's resilience paper add the positive-emotion angle: positive affect can keep attention and action options wider after negative events. None of that means cheerful people are correct, morally superior, or protected by cosmic admin. It means some nervous systems start from a more workable prior and recover their footing faster.
+
 Kahneman and Tversky add the salience warning. A future can feel important because it is vivid, easy to imagine, recently discussed, or framed as a loss, not because it is well-calibrated. Their availability and focusing-illusion work is a useful brake on both optimism and pessimism: while one outcome is taking up the whole mental screen, it will feel larger than it may deserve. See [Salience Weighted Judgment](salience-weighted-judgment.md).
 
 In practical terms, Rick Hanson's "taking in the good" framing fits here as a response to negativity bias: if the brain tends to hold onto threat and let ordinary good moments pass through, one reasonable intervention target is not fantasy but better encoding of small stabilizing experiences.
@@ -115,7 +119,10 @@ Ellen Langer's counterclockwise aging study belongs on the outer edge of this co
 
 - `Adaptive optimism`: positive future orientation that still updates from evidence.
 - `Agency-supporting optimism`: positive belief that helps someone keep trying, noticing options, and using available resources.
+- `Dispositional optimism`: stable generalized expectation that future outcomes will usually be workable or favourable enough to keep acting.
 - `Attributional optimism`: explaining setbacks as specific, unstable, and workable rather than permanent, global, and identity-defining.
+- `Ego-resiliency`: flexible recovery and adjustment after stress or disruption; adjacent to optimism but not the same construct.
+- `Hardiness`: stress-resistance style involving commitment, control, and challenge.
 - `Flexible optimism`: ability to shift between optimistic persistence and realistic pessimistic preparation when circumstances require it.
 - `Salience weighted judgment`: vivid, recent, emotionally loaded, or currently focused material gets overweighted unless checked against evidence.
 - `Expectancy-guided attention`: experimentally induced optimistic expectancies can steer visual attention toward rewarding evidence.

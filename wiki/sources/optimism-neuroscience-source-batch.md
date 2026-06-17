@@ -36,6 +36,14 @@ authors:
   - Rick Hanson
   - Marie J. C. Forgeard
   - Martin E. P. Seligman
+  - Michael F. Scheier
+  - Charles S. Carver
+  - Michael W. Bridges
+  - Jack Block
+  - Adam M. Kremen
+  - Suzanne C. Kobasa
+  - Barbara L. Fredrickson
+  - Michele M. Tugade
   - Michio Maruta
   - Raviteja Kotikalapudi
   - Mihai Dricu
@@ -127,6 +135,11 @@ primary_sources:
   - "Ye et al., BMC Psychiatry, 2025, Repetitive negative thinking is associated with cognitive function decline in older adults: a cross-sectional study, https://doi.org/10.1186/s12888-025-06815-2"
   - "Weinstein, Journal of Behavioral Medicine, 1987, Unrealistic optimism about susceptibility to health problems: conclusions from a community-wide sample, https://doi.org/10.1007/BF00846146"
   - "Bortolotti, Ethical Theory and Moral Practice, 2018, Optimism, Agency, and Success, https://doi.org/10.1007/s10677-018-9894-6"
+  - "Scheier, Carver, and Bridges, Journal of Personality and Social Psychology, 1994, Distinguishing optimism from neuroticism (and trait anxiety, self-mastery, and self-esteem): A reevaluation of the Life Orientation Test, https://doi.org/10.1037/0022-3514.67.6.1063"
+  - "Block and Kremen, Journal of Personality and Social Psychology, 1996, IQ and ego-resiliency: Conceptual and empirical connections and separateness, https://doi.org/10.1037/0022-3514.70.2.349"
+  - "Kobasa, Journal of Personality and Social Psychology, 1979, Stressful life events, personality, and health: An inquiry into hardiness, https://doi.org/10.1037/0022-3514.37.1.1"
+  - "Fredrickson, American Psychologist, 2001, The role of positive emotions in positive psychology: The broaden-and-build theory of positive emotions, https://doi.org/10.1037/0003-066X.56.3.218"
+  - "Tugade and Fredrickson, Journal of Personality and Social Psychology, 2004, Resilient individuals use positive emotions to bounce back from negative emotional experiences, https://doi.org/10.1037/0022-3514.86.2.320"
   - "McKay et al., Cortex, 2013, Vestibular stimulation attenuates unrealistic optimism, https://doi.org/10.1016/j.cortex.2013.04.005"
   - "Weitzer et al., Journal of Sleep Research, 2021, The contribution of dispositional optimism to understanding insomnia symptomatology: Findings from a cross-sectional population study in Austria, https://doi.org/10.1111/jsr.13132"
   - "Meevissen, Peters, and Alberts, Journal of Behavior Therapy and Experimental Psychiatry, 2011, Become more optimistic by imagining a best possible self: Effects of a two week intervention, https://doi.org/10.1016/j.jbtep.2011.02.012"
@@ -184,6 +197,7 @@ sources:
   - "Frontiers, Crossref, OpenAlex, and PubMed Central full text/metadata for Rygula et al. 2015, accessed 2026-06-14"
   - "Crossref, OpenAlex, DOI redirect, and Elsevier/ScienceDirect metadata for Bračić et al. 2025, accessed 2026-06-17"
   - "PubMed Central, Crossref, OpenAlex, NCBI PMC OA utility, and OUP metadata/full text for Petro et al. 2018, accessed 2026-06-17"
+  - "Crossref and APA DOI metadata for Scheier et al. 1994, Block and Kremen 1996, Kobasa 1979, Fredrickson 2001, and Tugade and Fredrickson 2004, accessed 2026-06-17"
   - "PLOS ONE, PubMed Central, Crossref, and OpenAlex metadata/full text for Viviani et al. 2010, accessed 2026-06-14"
   - "Frontiers in Psychology, PubMed Central, Crossref, and OpenAlex metadata/full text for Shah 2012, accessed 2026-06-14"
   - "Scientific Reports, PubMed Central, Crossref, and OpenAlex metadata/full text for Kotikalapudi et al. 2023, accessed 2026-06-14"
@@ -314,6 +328,14 @@ Bortolotti 2018 adds the agency criterion. Her argument is not that optimistic b
 
 The raw PDF sharpens two useful distinctions. First, Bortolotti argues that optimistic beliefs are not necessarily illusory because they are false; the epistemic problem can be that they are unwarranted or produced by biased reasoning. Second, she rejects both the simple "true beliefs are always better" view and the simple "small distortions are adaptive" trade-off view. Her third view is agency-based: the beliefs that matter are those that sustain motivation at critical times, especially through a sense of competence, control, efficacy, and desirable/attainable goals.
 
+Scheier, Carver, and Bridges 1994 is the clean psychometric anchor for dispositional optimism. It treats optimism as a generalized outcome expectancy: a relatively stable tendency to expect good rather than bad future outcomes. That is the closest formal research label for the "life generally works out" person. It is not learned optimism homework, not lucky-girl scripting, and not a claim that nothing bad happens. It is a broad future-expectancy prior that can shape coping, effort, persistence, and whether inconvenience is treated as a solvable interruption rather than the universe submitting a resignation letter.
+
+Block and Kremen 1996 adds the ego-resiliency neighbour. Ego-resiliency is not identical to optimism; it is more about flexible adaptation, recovering from disruption, and modulating control to fit the situation. For this wiki, it helps name the "ok, bit shite; anyway" pivot: some people do not merely expect a good outcome, they can change stance quickly when reality misbehaves.
+
+Kobasa 1979 adds the hardiness version. Hardiness is usually framed around commitment, control, and challenge: staying engaged, believing one can influence events enough to act, and treating change as something to work with rather than only as threat. It overlaps with optimism but is more stress-appraisal and action-facing. The useful bridge is that resilient optimism is not just positive belief; it is a stance toward pressure.
+
+Fredrickson 2001 and Tugade and Fredrickson 2004 add the positive-emotion route. The broaden-and-build theory argues that positive emotions can widen attention and action repertoires, while Tugade and Fredrickson's resilience paper links resilient individuals with using positive emotions to recover from negative emotional experiences. This is not the discredited "positivity ratio" circus and not a claim that cheerfulness cures adversity. The usable version is simpler: positive affect can keep options visible during stress, helping some people pivot faster after bad news.
+
 McKay et al. 2013 is the cold-water-in-the-ear counterweight. The paper builds on a 2010 Nature Precedings report from University Hospital Zurich, University of Zurich / ETH Zurich, Oxford-linked authors, and collaborators. In 31 healthy right-handed adults, cold-water caloric vestibular stimulation of the left ear, but not the right ear, raised participants' estimates of their own future illness risk relative to baseline. The authors interpret this as selective attenuation of unrealistic optimism, possibly via right inferior frontal mechanisms also implicated in anosognosia.
 
 Weitzer et al. 2021 adds a sleep-health association. In the Austrian Sleep Survey, a population-based cross-sectional online survey of 1,004 adults aged 18 to 65, dispositional optimism was measured with the Life Orientation Test-Revised and insomnia was assessed with several chronic-insomnia definitions based on ICSD-3 criteria. Compared with the least optimistic tertile, intermediate and most optimistic participants had lower odds of chronic insomnia under the exact definition after age, sex, education, and work-status adjustment (OR 0.39 and OR 0.28 respectively). Similar patterns appeared across insomnia definitions, though the association was weaker for physician-diagnosed insomnia. Happiness, depression, and self-rated health confounded or mediated much of the association; lifestyle variables did not explain it in the same way. This is useful evidence that optimism sits near sleep, affect, and health, but it is cross-sectional and cannot show that optimism prevents insomnia.
@@ -375,6 +397,9 @@ Taken together, the sources suggest that optimism is not best understood as magi
 - selective updating in response to bad news
 - dopaminergic modulation of that selective updating, with L-DOPA reducing belief correction from undesirable information in Sharot et al. 2012
 - optimistic reinforcement learning, where better-than-expected rewards can update learned values more strongly than worse-than-expected outcomes
+- dispositional optimism as a stable generalized expectation that things will tend to work out
+- ego-resiliency and hardiness as adjacent constructs for flexible recovery and active stress appraisal
+- positive emotion as a possible broadening/recovery resource under stress
 - less immersion in repetitive negative loops
 - agency-supporting beliefs that preserve action after setback
 - experimentally induced optimistic expectancies steering visual attention toward reward in Kress et al. 2018
