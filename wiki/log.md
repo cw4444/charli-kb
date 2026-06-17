@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-17] source update | mouse judgement bias and foraging under predation risk
+- Source: Bračić, Bierbaum, Peng, Nimalavachchlan, Siewert, Kaiser, Sachser, and Richter, *Animal Behaviour*, [The behavioural ecology of optimism: judgement bias and foraging under predation risk in mice](https://doi.org/10.1016/j.anbehav.2024.10.005), online 2024-11-12 / issue January 2025.
+- Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added as an animal-judgement-bias / ecological-risk counterweight to the existing Rygula 2015 optimistic-rat motivation tile. Access check: Crossref and OpenAlex report Elsevier/Animal Behaviour open access, hybrid OA, CC-BY version of record. Durable result: the rat-odour foraging task created a high-risk/high-reward versus low-risk/low-reward trade-off and individual mice showed repeatable safe-choice differences, but optimism level from a judgement-bias task did not explain foraging choices under predation risk. Useful boundary: animal "optimism" may be context-specific, not a universal brave-forager setting.
+
 ## [2026-06-17] timeline | Codex computer use and Chrome extension UK access marker
 - Sources: Charli user report of UK Windows app access on 2026-06-15; OpenAI, [Codex for (almost) everything](https://openai.com/index/codex-for-almost-everything/); OpenAI Developers, [Codex Chrome extension](https://developers.openai.com/codex/app/chrome-extension); OpenAI Developers, [Codex computer use](https://developers.openai.com/codex/app/computer-use).
 - Pages updated: [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [OpenAI Codex For Everyday Work](sources/openai-codex-for-everyday-work.md), [Computer Work Agent](concepts/computer-work-agent.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)

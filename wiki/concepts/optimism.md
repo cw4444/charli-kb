@@ -3,7 +3,7 @@ title: "Optimism"
 type: concept
 status: draft
 created: 2026-05-12
-updated: 2026-06-16
+updated: 2026-06-17
 sources:
   - ../sources/optimism-neuroscience-source-batch.md
   - ../sources/repetition-cognitive-method-source-batch.md
@@ -48,6 +48,8 @@ Shah's 2012 commentary is the brake on letting that dopamine result get too plea
 Lefebvre et al. 2017 adds the reinforcement-learning version, using RL in the cognitive-neuroscience sense rather than the modern AI-training sense. In a simple instrumental learning task, participants learned more from better-than-expected monetary outcomes than from worse-than-expected outcomes, and individual differences in that optimistic learning asymmetry tracked reward-circuitry prediction-error signals. This matters because the optimism-bias pattern is not only a story about abstract future-life beliefs. It can show up inside value learning: how the system updates what seems worth choosing after reward and disappointment. Delightfully inconvenient for anyone who wanted optimism to stay in the inspirational-mug aisle.
 
 Rygula et al. 2015 adds the optimistic-rat tile, which is old but too useful to leave under the sofa. In 80 rats screened across repeated ambiguous-cue interpretation tests, animals classed as "optimistic" worked harder for sucrose reward on a progressive-ratio task than "pessimistic" rats, while the groups did not differ in motivation to avoid mild foot shock. The careful claim: rat cognitive judgment bias was linked to approach motivation. The uncivilized claim, which we are not making despite obvious temptation: tiny rodents have vision boards.
+
+Bračić et al. 2025 adds the awkward ecological counterweight. In female laboratory mice, an established judgement-bias task classified individuals as more optimistic or pessimistic, then a new rat-odour foraging task tested high-risk/high-reward versus low-risk/low-reward choices under predation risk. The task itself worked: it produced a risk-foraging trade-off and repeatable individual differences in safe-choice tendency. But optimism level did not explain the foraging choices. Useful moral: animal "optimism" may be context-specific, and positive judgement bias is not a universal brave-forager setting.
 
 Viviani et al. 2010 adds an older but handy spontaneous-positive-bias tile. In a scrambled-sentences task with healthy adults, people tended to avoid negative completions even when the emotional alternatives were not made explicit. Compared with participants explicitly instructed to avoid negative material, spontaneous positive bias recruited less DLPFC/right-frontal-eye-field effortful-attention machinery and involved task-deactivated/default-mode-adjacent areas including perigenual medial prefrontal cortex. Useful translation: some healthy positive bias may be automatic affective steering, not a little executive manager yelling "be positive" from behind the forehead.
 
@@ -126,6 +128,7 @@ Ellen Langer's counterclockwise aging study belongs on the outer edge of this co
 - `Methodological ballast`: optimism-bias findings need measurement scrutiny; neural or pharmacological evidence does not erase comparison-method and task-design caveats.
 - `Optimistic reinforcement learning`: human instrumental-learning evidence that better-than-expected rewards can update learned values more strongly than worse-than-expected outcomes.
 - `Optimistic rat motivation`: animal-model evidence linking positive ambiguous-cue judgment bias with greater reward-seeking persistence, without pretending rats are tiny humans with affirmations.
+- `Ecological optimism boundary`: mouse evidence that judgement-bias optimism did not predict risky foraging under predator odour, even though individual safe-choice tendencies were repeatable.
 - `Reward-contingency exploitation`: Charli's workplace caveat that optimism can be used to keep people working under vague promises of promotion, bonus, or culture when the actual reward schedule is unclear or non-contractual.
 - `Spontaneous positive bias`: healthy adults can steer away from negative interpretations without explicit instruction, with a different neural pattern from deliberate suppression.
 - `Gamma-tACS modulation`: preprint evidence that right-frontal 40 Hz stimulation can increase delayed optimistic belief updating under lab conditions.

@@ -3,7 +3,7 @@ title: "Research - Optimism"
 type: question
 status: draft
 created: 2026-05-12
-updated: 2026-06-14
+updated: 2026-06-17
 question: "What does public neuroscience and adjacent cognitive research suggest about optimism?"
 sources:
   - ../sources/optimism-neuroscience-source-batch.md
@@ -52,6 +52,8 @@ Lefebvre et al. 2017 extends the update-asymmetry story into instrumental reinfo
 Rygula, Golebiowska, Kregiel, Kubik, and Popik 2015 gives this reward/motivation lane an animal-model counterpoint. Using repeated ambiguous-cue interpretation tests, the researchers separated 80 rats into "optimistic" and "pessimistic" judgment-bias groups. The optimistic rats worked harder for sucrose reward on a progressive-ratio schedule, and cognitive bias index correlated with reward motivation. They did not differ in motivation to avoid mild foot shock.
 
 This is not human self-report and not proof that rats have human-style optimism. It is useful because it links judgment bias to approach motivation in a controlled animal model. In plain English: more reward-positive rats pushed further for reward. Apparently even lab rodents understand the assignment.
+
+Bračić et al. 2025 adds the necessary behavioural-ecology brake. In female laboratory mice, an established judgement-bias task classified animals as more optimistic or pessimistic, then a rat-odour foraging task tested high-risk/high-reward versus low-risk/low-reward choices under predation risk. The task produced a real risk-foraging trade-off and repeatable individual safe-choice differences, but optimism level did not explain the foraging choices. So the animal evidence now says two things at once: judgement bias can link to reward motivation in rats, but it should not be treated as a universal predictor of ecological risk decisions in mice.
 
 Viviani, Lo, Sim, Beschoner, Stingl, and Horn 2010 gives the lane an older spontaneous-processing anchor. In a PLOS ONE perfusion-imaging study, 60 healthy adults completed a scrambled-sentences task either spontaneously or with explicit instruction to avoid negative completions. The spontaneous group still showed a positive bias, but it did not look like simple deliberate suppression: compared with instructed avoidance, it recruited less effortful-attention machinery such as DLPFC/right frontal eye field and involved default-mode-adjacent/perigenual medial prefrontal regions.
 
