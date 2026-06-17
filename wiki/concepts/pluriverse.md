@@ -3,9 +3,10 @@ title: "Pluriverse"
 type: concept
 status: draft
 created: 2026-06-01
-updated: 2026-06-11
+updated: 2026-06-17
 sources:
   - ../sources/pluriverse-qbism-predictive-reality.md
+  - ../sources/escobar-designs-for-the-pluriverse.md
   - reality-as-relational-constraint.md
 ---
 
@@ -23,6 +24,16 @@ In this wiki, use "pluriverse" narrowly. It is a bridge concept, not a new grand
 The newest wrinkle is memory. A local screenshot of an Eric Cavalcanti X post, preserved at `raw/cavalcanti.png`, puts the problem plainly: some experiences are not remembered, and some remembered experiences did not happen. That sits neatly between the [Reality Threshold](reality-threshold.md) question and the Wigner/local-friendliness question. The felt event, the remembered event, and the public record are not automatically the same thing.
 
 Charli's *Black Mirror: Bete Noire* connection is useful as fiction, not evidence. Maria is the only one who remembers an original reality after Verity uses a pendant-linked "quantum compiler" to move through realities where Verity's claims have always been true. The episode borrows the emotional shape of many-worlds language: not changing one world, but selecting a parallel reality where the desired claim already holds. That is the nightmare version of this page's sober point: private continuity, memory, social consensus, and public record can be pulled apart. The episode is a metaphor, not a physics source. Obviously. Apparently that has to be said.
+
+## Decolonial And Design Lineage
+
+Arturo Escobar's *Designs for the Pluriverse* gives this word an older decolonial/design lineage. Duke University Press describes the 2018 book as a design-theory intervention about design's world-making capacity, autonomy, relationality, justice, the Earth, and more collaborative place-based approaches.
+
+That use is not quantum physics. It is about a "world of many worlds": different ways of knowing, living, relating, organizing, designing, and making futures that should not be flattened into one dominant modern Western development template.
+
+For this wiki, the bridge is useful but bounded. Both lineages resist a single detached view-from-nowhere. The quantum/reality lineage asks how situated observers, agents, measurements, and records fit into shared reality. The decolonial/design lineage asks whose world-making practices get treated as real, legitimate, and future-worthy.
+
+Same phrase, different job. Keep both jobs visible.
 
 ## Why It Is Not The Multiverse
 
@@ -106,6 +117,7 @@ A model can be useful, public, predictive, and action-guiding before anyone has 
 - Do not treat "pluriverse" as settled physics.
 - Do not say Fuchs has pivoted away from QBism unless a primary source says so.
 - Do not collapse QBism, RQM, many-worlds, Adlam, Hoffman, and predictive processing into one theory.
+- Do not collapse Escobar's decolonial/design pluriverse into quantum foundations.
 - Do not say personal perspective means private fantasy.
 - Do not say intersubjective agreement is automatic. Shared reality has to be built through communication, records, calibration, and resistance from the world.
 - Do not use this page as a shortcut to idealism, simulation theory, manifestation, or consciousness-causes-collapse.
@@ -116,6 +128,7 @@ The sober version is plenty weird already. We needn't add glitter and call it sc
 ## Related
 
 - [Pluriverse, QBism, And Predictive Reality](../sources/pluriverse-qbism-predictive-reality.md)
+- [Escobar - Designs For The Pluriverse](../sources/escobar-designs-for-the-pluriverse.md)
 - [QBism, Global Constraints, and Observer-Dependent Reality](../../themes/qbism-adlam-observer-dependent-reality.md)
 - [Many-Worlds, Wheeler, and Observer-Dependent Reality](../../themes/many-worlds-and-observer-dependent-reality.md)
 - [Rovelli, Relational Quantum Mechanics, and Reality](../../themes/rovelli-relational-quantum-mechanics-and-reality.md)

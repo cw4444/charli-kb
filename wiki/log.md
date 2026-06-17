@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-17] source note | Escobar and decolonial pluriverse
+- Source: Duke University Press, [*Designs for the Pluriverse: Radical Interdependence, Autonomy, and the Making of Worlds*](https://www.dukeupress.edu/designs-for-the-pluriverse), 2018.
+- Pages created: [Escobar - Designs For The Pluriverse](sources/escobar-designs-for-the-pluriverse.md)
+- Pages updated: [Pluriverse](concepts/pluriverse.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added Escobar's older decolonial/design lineage for "pluriverse" as a world of many worlds. Kept it adjacent to the quantum/reality bridge but distinct from QBism, RQM, Everett/many-worlds, predictive processing, and manifestation sludge.
+
 ## [2026-06-16] source and concept | ADHD traits and curiosity driven exploration
 - Source: Le Cunff, Russell, and Dommett, *BMC Psychology*, [Hyperactive-impulsive ADHD traits predict higher curiosity in adults](https://doi.org/10.1186/s40359-026-04504-7), published 2026-04-10 / version of record 2026-05-18.
 - Pages created: [Le Cunff et al. - ADHD Traits And Curiosity](sources/le-cunff-adhd-traits-curiosity.md), [Curiosity Driven Exploration](concepts/curiosity-driven-exploration.md)
