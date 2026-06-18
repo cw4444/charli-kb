@@ -9,6 +9,7 @@ sources:
   - ../sources/trajectory-dynamics-hidden-states-reading-costs.md
   - ../sources/cloud-le-subliminal-learning-hidden-signals.md
   - ../sources/anthropic-natural-language-autoencoders.md
+  - ../sources/stclair-bio-inspired-modularity-general-learning.md
   - ../sources/busch-noninvasive-bci-manifold-geometry.md
 ---
 
@@ -99,9 +100,17 @@ The useful geometric point is that the explanation is judged by whether it prese
 
 This does not make NLA prose a perfect inner monologue. It means activation space can sometimes be compressed into human-readable language well enough to support auditing.
 
+## Modularity And Continual Learning
+
+[StClair, Hahn, and Barenholtz 2021](../sources/stclair-bio-inspired-modularity-general-learning.md) add an architecture-level version of the geometry point. Their argument is that biological modularity may help systems preserve earlier learning while still learning new tasks.
+
+The useful framing is specialization, segregation, and integration. Modules can specialize in different computations, boundaries can reduce destructive overwriting, and controlled pathways can still allow useful transfer. In newer continual-learning language, this sits near stability-plasticity, positive transfer, context-dependent processing, sparse activation, and resource efficiency.
+
+This does not make modularity magic. It makes topology part of the learning surface, not an implementation detail to shrug at while weights rewrite themselves into soup.
+
 ## What Is Not Unified Yet
 
-SAE decoder geometry, biological neural activity geometry, NLA reconstruction geometry, and BCI control-manifold geometry are not the same object. One studies learned feature-dictionary vectors in an interpretability tool; another studies activity states in living neural populations during behavior; another studies whether text can preserve activation-vector information; another asks which activity directions a person can learn to control through feedback.
+SAE decoder geometry, biological neural activity geometry, NLA reconstruction geometry, continual-learning modular topology, and BCI control-manifold geometry are not the same object. One studies learned feature-dictionary vectors in an interpretability tool; another studies activity states in living neural populations during behavior; another studies whether text can preserve activation-vector information; another asks how update boundaries and routing preserve learning; another asks which activity directions a person can learn to control through feedback.
 
 The current honest claim is that they share an organizing principle. A stronger claim would need a formal mapping between feature dictionaries, biological population codes, model activation trajectories, and generalization metrics.
 
@@ -124,6 +133,7 @@ It sharpens several existing threads:
 - Similar trajectory dynamics across model representations and human reading data do not prove shared consciousness.
 - Hidden training signal is not paranormal, intentional, or inherently semantic.
 - Natural-language activation explanations are not literal thought transcripts.
+- Modular topology is not a solved recipe for general intelligence.
 - Learnable BCI manifold directions are not mind reading or a general theory of all human learning.
 - Sparse-autoencoder features are useful interpretability objects, not guaranteed natural atoms of thought.
 - Mixed selectivity does not mean individual units are irrelevant.
@@ -135,6 +145,7 @@ It sharpens several existing threads:
 - [Trajectory Dynamics In Language Model Hidden States](../sources/trajectory-dynamics-hidden-states-reading-costs.md)
 - [Cloud et al. - Subliminal Learning And Hidden Signals](../sources/cloud-le-subliminal-learning-hidden-signals.md)
 - [Anthropic Natural Language Autoencoders](../sources/anthropic-natural-language-autoencoders.md)
+- [StClair et al. - Bio-Inspired Modularity In General Learning](../sources/stclair-bio-inspired-modularity-general-learning.md)
 - [Busch et al. - Noninvasive BCI Learning And Manifold Geometry](../sources/busch-noninvasive-bci-manifold-geometry.md)
 - [Can SAE Decoder Geometry And Neural Activity Geometry Be Unified?](../questions/can-sae-decoder-geometry-and-neural-activity-geometry-be-unified.md)
 - [Stefano Fusi](../people/stefano-fusi.md)

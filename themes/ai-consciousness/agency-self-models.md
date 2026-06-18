@@ -6,6 +6,7 @@ created: 2026-05-10
 updated: 2026-06-04
 sources:
   - ../../sources/ai-consciousness-sources.md
+  - ../../wiki/sources/stclair-bio-inspired-modularity-general-learning.md
 ---
 
 # Agency, Goals, Self-Models, And Persistence
@@ -25,6 +26,14 @@ A base LLM is usually a next-token predictor trained into an assistant. A deploy
 - self-monitoring and evaluation.
 
 Consciousness claims should specify which system is being discussed.
+
+## Persistence And Continual Learning
+
+[StClair, Hahn, and Barenholtz 2021](../../wiki/sources/stclair-bio-inspired-modularity-general-learning.md) is useful here because it treats general learning as a preservation problem, not only a performance problem. A system that learns new tasks by overwriting old ones is a poor candidate for durable agency, even if it performs well on isolated benchmarks.
+
+Their modularity argument is old and conceptual, but the pressure remains current: agentic systems need ways to preserve useful knowledge, adapt to new situations, reuse prior structure, and avoid global self-contamination during updates.
+
+This is not consciousness evidence. It is one technical condition around persistence: agency over time requires update boundaries, memory management, and some way to keep new learning from wrecking the older machinery.
 
 ## Public safety evidence
 

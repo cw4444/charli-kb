@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-18] source note | bio-inspired modularity and continual learning
+- Sources: StClair, Hahn, and Barenholtz, [The Role of Bio-Inspired Modularity in General Learning](https://arxiv.org/abs/2109.15097), arXiv, submitted 2021-09-23; van de Ven, Soures, and Kudithipudi, [Continual Learning and Catastrophic Forgetting](https://arxiv.org/abs/2403.05175), arXiv, 2024; Varma, Arani, and Zonooz, [Dynamically Modular and Sparse General Continual Learning](https://arxiv.org/abs/2301.00620), arXiv / VISAPP 2023.
+- Pages created: [StClair et al. - Bio-Inspired Modularity In General Learning](sources/stclair-bio-inspired-modularity-general-learning.md)
+- Pages updated: [Representational Geometry](concepts/representational-geometry.md), [Biological Objections And Embodiment Arguments](../themes/ai-consciousness/biology-embodiment.md), [Agency, Goals, Self-Models, And Persistence](../themes/ai-consciousness/agency-self-models.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added the 2021 Barenholtz-adjacent modularity paper as an older architecture-prior note. Durable point: general learning is partly a topology problem. Modular specialization, segregation, and integration may help preserve prior knowledge while enabling controlled reuse. Newer context kept visible: continual learning now has a broader taxonomy and modular/sparse approaches such as Dynamos, so this is not the latest state of the field. Boundary: modularity is not magic, not solved AGI, and not consciousness evidence.
+
 ## [2026-06-18] source note | natural language autoencoders and internal-state auditing
 - Sources: Anthropic, [Natural Language Autoencoders: Turning Claude's thoughts into text](https://www.anthropic.com/research/natural-language-autoencoders), published 2026-05-07; Transformer Circuits, [Natural Language Autoencoders Produce Unsupervised Explanations of LLM Activations](https://transformer-circuits.pub/2026/nla/index.html), 2026; code repository [kitft/natural_language_autoencoders](https://github.com/kitft/natural_language_autoencoders); [Neuronpedia NLA demo](https://www.neuronpedia.org/nla).
 - Pages created: [Anthropic Natural Language Autoencoders](sources/anthropic-natural-language-autoencoders.md)
