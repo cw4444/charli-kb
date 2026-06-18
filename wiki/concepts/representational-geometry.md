@@ -6,6 +6,7 @@ created: 2026-06-04
 updated: 2026-06-18
 sources:
   - ../sources/representational-geometry-brains-and-llms.md
+  - ../sources/world-properties-without-world-models-static-embeddings.md
   - ../sources/trajectory-dynamics-hidden-states-reading-costs.md
   - ../sources/anthropic-circuit-tracing-claude-thoughts.md
   - ../sources/cloud-le-subliminal-learning-hidden-signals.md
@@ -60,6 +61,12 @@ Population activity could nevertheless form geometries that supported specialize
 In Tegmark and colleagues' "The Geometry of Concepts," sparse-autoencoder features extracted from LLMs showed local analogy-like structures, intermediate-scale modularity, and large-scale anisotropic organization.
 
 The useful interpretation is not that concepts are literal objects floating inside a model. It is that relationships among model features can have measurable structure that may help explain how concepts are organized and used.
+
+## Distributional Baselines
+
+[World Properties Without World Models](../sources/world-properties-without-world-models-static-embeddings.md) adds a necessary cold shower for world-model and probing claims. Barenholtz shows that static co-occurrence embeddings such as GloVe and Word2Vec already preserve recoverable geographic, climatic, and coarse historical structure.
+
+The useful lesson is not that LLMs lack world models. It is that linear decodability alone is too weak to prove a representational move beyond text. A probe recovering latitude from hidden states is more interesting if it beats strong distributional baselines, supports richer generalization, or shows compositional use rather than merely echoing corpus co-occurrence gradients.
 
 ## Parallel Coding Directions
 
@@ -119,7 +126,7 @@ This does not make modularity magic. It makes topology part of the learning surf
 
 ## What Is Not Unified Yet
 
-SAE decoder geometry, biological neural activity geometry, NLA reconstruction geometry, continual-learning modular topology, and BCI control-manifold geometry are not the same object. One studies learned feature-dictionary vectors in an interpretability tool; another studies activity states in living neural populations during behavior; another studies whether text can preserve activation-vector information; another asks how update boundaries and routing preserve learning; another asks which activity directions a person can learn to control through feedback.
+SAE decoder geometry, biological neural activity geometry, static embedding geometry, NLA reconstruction geometry, continual-learning modular topology, and BCI control-manifold geometry are not the same object. One studies learned feature-dictionary vectors in an interpretability tool; another studies activity states in living neural populations during behavior; another asks how corpus co-occurrence preserves world-shaped structure; another studies whether text can preserve activation-vector information; another asks how update boundaries and routing preserve learning; another asks which activity directions a person can learn to control through feedback.
 
 The current honest claim is that they share an organizing principle. A stronger claim would need a formal mapping between feature dictionaries, biological population codes, model activation trajectories, and generalization metrics.
 
@@ -140,6 +147,7 @@ It sharpens several existing threads:
 - A linear or specialized readout is not a little inner observer.
 - Similar geometry across systems does not prove similar mechanisms or experiences.
 - Similar trajectory dynamics across model representations and human reading data do not prove shared consciousness.
+- Linear recoverability from embeddings is not enough to prove a world model.
 - Hidden training signal is not paranormal, intentional, or inherently semantic.
 - Natural-language activation explanations are not literal thought transcripts.
 - Modular topology is not a solved recipe for general intelligence.
@@ -152,6 +160,7 @@ It sharpens several existing threads:
 ## Related Pages
 
 - [Representational Geometry In Brains And LLMs](../sources/representational-geometry-brains-and-llms.md)
+- [World Properties Without World Models](../sources/world-properties-without-world-models-static-embeddings.md)
 - [Trajectory Dynamics In Language Model Hidden States](../sources/trajectory-dynamics-hidden-states-reading-costs.md)
 - [Anthropic Circuit Tracing And Claude's Internal Plans](../sources/anthropic-circuit-tracing-claude-thoughts.md)
 - [Cloud et al. - Subliminal Learning And Hidden Signals](../sources/cloud-le-subliminal-learning-hidden-signals.md)

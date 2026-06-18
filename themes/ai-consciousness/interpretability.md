@@ -6,6 +6,7 @@ created: 2026-05-10
 updated: 2026-06-18
 sources:
   - ../../sources/ai-consciousness-sources.md
+  - ../../wiki/sources/world-properties-without-world-models-static-embeddings.md
   - ../../wiki/sources/trajectory-dynamics-hidden-states-reading-costs.md
   - ../../wiki/sources/anthropic-circuit-tracing-claude-thoughts.md
   - ../../wiki/sources/barenholtz-disappearing-ground.md
@@ -23,6 +24,8 @@ Interpretability matters because AI consciousness cannot be assessed only from s
 Anthropic's "Mapping the Mind of a Large Language Model" reports that researchers identified millions of features inside Claude Sonnet corresponding to concepts and patterns. [Persona-vector work](../../wiki/sources/anthropic-persona-vectors.md) shows that activation directions can be associated with traits and behaviors such as sycophancy, hallucination, apathy, humor, and optimism, and that steering those directions can affect outputs.
 
 Tegmark and colleagues' "The Geometry of Concepts" adds a neighboring interpretability question: model features may have meaningful geometric relationships at local, modular, and large scales. See [Representational Geometry](../../wiki/concepts/representational-geometry.md) and [Representational Geometry In Brains And LLMs](../../wiki/sources/representational-geometry-brains-and-llms.md).
+
+[World Properties Without World Models](../../wiki/sources/world-properties-without-world-models-static-embeddings.md) adds the baseline warning. Static co-occurrence embeddings can preserve recoverable geography, climate, and coarse historical era, so linear probe success alone is too weak to prove a rich LLM world model or consciousness-relevant internal organization.
 
 Barenholtz's 2026 trajectory-dynamics preprint adds a temporal version of the same pressure. Hidden-state trajectories in GPT-2 and Pythia predict human reading-time costs beyond surprisal, suggesting that model internals can carry psychologically relevant structure that scalar output probabilities discard. See [Trajectory Dynamics In Language Model Hidden States](../../wiki/sources/trajectory-dynamics-hidden-states-reading-costs.md).
 
@@ -45,6 +48,8 @@ Simple defection probes for sleeper agents show that some dangerous behavioral s
 Interpretability does not currently reveal subjective experience. A feature for a concept, a persona vector, or a defection probe is evidence of internal computation and representation. It is not evidence that the system feels anything.
 
 The same boundary applies to representational geometry. Decodability, modularity, and generalizable readouts can be computationally important without implying a subject who experiences the represented state.
+
+The same boundary applies to static embedding baselines. Recovering latitude, temperature, or historical era from word vectors is evidence that text preserves world-shaped structure. It is not evidence that the embedding understands geography, has a world model, or experiences anything.
 
 The same boundary also applies to activation trajectories. A model path that predicts human processing cost is evidence that the model has useful internal structure. It is not evidence that the model feels the cost.
 

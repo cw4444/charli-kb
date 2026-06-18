@@ -6,6 +6,7 @@ created: 2026-06-11
 updated: 2026-06-11
 sources:
   - ../sources/rovelli-relational-quantum-mechanics.md
+  - ../sources/world-properties-without-world-models-static-embeddings.md
   - ../sources/donald-hoffman-interface-theory.md
   - ../sources/pluriverse-qbism-predictive-reality.md
   - reality-threshold.md
@@ -100,6 +101,8 @@ This also explains why AI comparisons keep becoming interesting without settling
 
 Language models, brains, and scientific theories can all build internal structures that preserve useful relations. That does not make them identical substrates, identical mechanisms, or identical subjects. It does mean "mere representation" is too lazy if the representation has stable predictive grip.
 
+Barenholtz's [World Properties Without World Models](../sources/world-properties-without-world-models-static-embeddings.md) adds a crisp distributional example. Static word embeddings have no body, no sensors, and no contextual hidden-state dynamics, yet their co-occurrence geometry preserves recoverable traces of geography, climate, and historical era. That is not a full world model. It is a reminder that relational traces can carry real constraint before anyone gets to declare ontology victory.
+
 The question becomes:
 
 > What relations does the system preserve, what constraints does it answer to, and what can its internal structure predict or control?
@@ -123,6 +126,7 @@ That is a better question than "is it real or fake?" which usually arrives drunk
 - [Reality Threshold](reality-threshold.md)
 - [Perception And Imagination Overlap](perception-and-imagination-overlap.md)
 - [Representational Geometry](representational-geometry.md)
+- [World Properties Without World Models](../sources/world-properties-without-world-models-static-embeddings.md)
 - [Rovelli And Relational Quantum Mechanics](../sources/rovelli-relational-quantum-mechanics.md)
 - [Rovelli, Relational Quantum Mechanics, and Reality](../../themes/rovelli-relational-quantum-mechanics-and-reality.md)
 - [Practical Agency Inside Constraint](practical-agency-inside-constraint.md)

@@ -7,6 +7,7 @@ updated: 2026-06-10
 sources:
   - https://www.nature.com/articles/s41593-026-02315-y
   - https://arxiv.org/abs/2410.19750
+  - https://arxiv.org/abs/2603.04317
 ---
 
 # Representational Geometry In Brains And LLMs
@@ -106,6 +107,7 @@ The resemblance should stay bounded.
 - The Tegmark paper studies sparse-autoencoder feature vectors extracted from LLM activations.
 - BLA geometry is dynamic and tied to biological circuits, behavior, bodily state, learning, and evolution.
 - LLM feature geometry is shaped by model architecture, training data, optimization, and the sparse-autoencoder analysis method.
+- [World Properties Without World Models](world-properties-without-world-models-static-embeddings.md) adds a further control: some world-shaped geometry is already recoverable from static co-occurrence embeddings, so linear decodability by itself should not be treated as proof of a rich internal world model.
 - Similar geometric vocabulary does not establish shared mechanisms, shared concepts, shared emotions, or shared consciousness.
 
 ## Do Not Overclaim
@@ -114,12 +116,14 @@ The resemblance should stay bounded.
 - Do not say single neurons are unimportant. The result is that single-neuron selectivity is insufficient for the population computation being studied.
 - Do not say LLMs think in literal crystals, lobes, or galaxies. Those are geometric descriptions and metaphors for feature-space structure.
 - Do not treat sparse-autoencoder features as guaranteed natural concepts rather than analysis-dependent model features.
+- Do not treat linear probe recoverability as sufficient evidence of world-model structure without distributional baselines.
 - Do not say similar representational geometry proves biological and artificial systems understand or feel in the same way.
 - Decodability is not consciousness.
 
 ## Related Pages
 
 - [Representational Geometry](../concepts/representational-geometry.md)
+- [World Properties Without World Models](world-properties-without-world-models-static-embeddings.md)
 - [Can SAE Decoder Geometry And Neural Activity Geometry Be Unified?](../questions/can-sae-decoder-geometry-and-neural-activity-geometry-be-unified.md)
 - [Stefano Fusi](../people/stefano-fusi.md)
 - [Neuroscience](../../themes/neuroscience/overview.md)

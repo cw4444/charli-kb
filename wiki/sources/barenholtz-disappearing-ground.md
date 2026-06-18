@@ -8,6 +8,7 @@ authors:
   - Elan Barenholtz
 sources:
   - https://elanbarenholtz.substack.com/p/the-disappearing-ground
+  - https://arxiv.org/abs/2603.04317
 ---
 
 # Barenholtz - The Disappearing Ground
@@ -19,6 +20,8 @@ Elan Barenholtz's 2026 essay, "The Disappearing Ground," argues that large langu
 The essay is commentary, not a peer-reviewed paper. It was republished on Barenholtz's Substack on 2026-06-17 and notes that it first appeared in the *Institute of Art and Ideas* online magazine on 2026-05-19.
 
 The useful claim is not that LLMs have human experience, consciousness, or biological understanding. It is sharper and less mystical: language may contain enough internal relational structure to generate useful continuations, imagery prompts, and action-guiding conditions without first mapping each word onto a fixed private essence.
+
+Barenholtz's technical preprint [World Properties Without World Models](world-properties-without-world-models-static-embeddings.md) strengthens the same lane from another angle: even static co-occurrence embeddings preserve recoverable geography, climate, and coarse historical era. That does not prove embodiment is irrelevant. It does show that "mere text" can carry much more world-shaped relational structure than the insult suggests.
 
 ## Core Argument
 
@@ -55,6 +58,7 @@ But it does weaken the lazy claim that text-trained models are "only syntax" in 
 For this wiki, the essay belongs beside:
 
 - [Relational Meaning And Hidden Signals](../concepts/relational-meaning-and-hidden-signals.md)
+- [World Properties Without World Models](world-properties-without-world-models-static-embeddings.md)
 - [Representational Geometry](../concepts/representational-geometry.md)
 - [Reality As Relational Constraint](../concepts/reality-as-relational-constraint.md)
 - [Interpretability And Whether Internal States Matter](../../themes/ai-consciousness/interpretability.md)
@@ -73,4 +77,3 @@ That is the Yoneda-shaped intuition again, carefully kept as analogy rather than
 - It does not erase the difference between language-only prediction and embodied living agents.
 - It does not turn meaning into manifestation, private fantasy, or "whatever I feel is true."
 - The useful middle is: meaning is relational and use-shaped, but use is still constrained by bodies, tools, other people, records, and the resistant world.
-

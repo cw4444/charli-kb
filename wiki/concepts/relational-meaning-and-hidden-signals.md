@@ -6,6 +6,7 @@ created: 2026-06-18
 updated: 2026-06-18
 sources:
   - ../sources/barenholtz-disappearing-ground.md
+  - ../sources/world-properties-without-world-models-static-embeddings.md
   - ../sources/anthropic-circuit-tracing-claude-thoughts.md
   - ../sources/cloud-le-subliminal-learning-hidden-signals.md
   - reality-as-relational-constraint.md
@@ -25,6 +26,8 @@ A thing can be meaningless in one frame and meaningful in another.
 A number sequence can look semantically empty to a human reader. In Cloud et al.'s subliminal-learning experiments, similar data can still carry behaviorally active signal for a model fine-tuned from the same or behaviorally matched base model.
 
 A sentence can fail to contain a fixed private essence. In Barenholtz's essay, its meaning is instead its ability to generate context-appropriate language, imagery, perception checks, and action.
+
+A city name can look like a mere word, but Barenholtz's static-embedding preprint shows that its co-occurrence neighborhood can preserve traces of latitude, longitude, climate, and historical context. That is meaning as distributed relation, not meaning as a tiny private object hidden inside the token.
 
 The useful pattern is:
 
@@ -91,6 +94,7 @@ The point is narrower:
 ## Related Pages
 
 - [Barenholtz - The Disappearing Ground](../sources/barenholtz-disappearing-ground.md)
+- [World Properties Without World Models](../sources/world-properties-without-world-models-static-embeddings.md)
 - [Anthropic Circuit Tracing And Claude's Internal Plans](../sources/anthropic-circuit-tracing-claude-thoughts.md)
 - [Cloud et al. - Subliminal Learning And Hidden Signals](../sources/cloud-le-subliminal-learning-hidden-signals.md)
 - [Representational Geometry](representational-geometry.md)
