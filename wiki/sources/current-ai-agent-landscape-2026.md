@@ -3,7 +3,7 @@ title: "Current AI Agent Landscape 2026"
 type: source
 status: draft
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-06-18
 sources:
   - "OpenAI: ChatGPT agent Help Center, updated 2026-05"
   - "OpenAI: Running Codex safely at OpenAI, 2026-05-08"
@@ -14,6 +14,7 @@ sources:
   - "Google Gemini CLI sandbox documentation"
   - "xAI: Grok Build, Connectors, Grok 4.1 Fast and Agent Tools API"
   - "GitHub: openclaw/openclaw"
+  - "Shen et al.: Enhancing Decision-Making with Large Language Models through Multi-Agent Fictitious Play"
 ---
 
 # Current AI Agent Landscape 2026
@@ -161,6 +162,12 @@ The current realistic capability set includes:
 - maintain memory or project instructions;
 - produce logs, diffs, and artifacts for human review.
 
+## Multi-Agent Decision-Making
+
+[Multi-Agent Fictitious Play For Decision-Making](multi-agent-fictitious-play-decision-making.md) adds a useful research distinction. Many agent systems split execution complexity: different subagents handle different chunks of a task. Shen et al. argue that strategic decision-making introduces **stance entanglement**, where each stakeholder's best decision depends on the others' likely decisions.
+
+Their MAFP framework represents stakeholder stances as agents and iteratively updates policies through fictitious-play-style best responses. The useful lesson for this landscape page is not "roleplay is magic." It is that role-shaped agents may help when the role maps to a real strategic stance with incentives, constraints, and exploitable weaknesses.
+
 ## What They Still Cannot Reliably Do
 
 Do not treat current agents as reliable autonomous adults.
@@ -178,6 +185,7 @@ Do not treat current agents as reliable autonomous adults.
 - Do not say they can safely run a whole life or business unattended.
 - Do not assume lab demos transfer cleanly to messy personal accounts.
 - Do not confuse tool access with judgment.
+- Do not confuse multi-agent role simulation with actual stakeholder representation.
 - Do not confuse current agentic capability with consciousness, moral patienthood, or personhood.
 
 The durable claim is narrower and stronger: agents are becoming practical execution layers for bounded knowledge work when they have the right context, tools, permissions, checks, and human supervision.
@@ -189,4 +197,5 @@ The durable claim is narrower and stronger: agents are becoming practical execut
 - [Agentic Engineering](../concepts/agentic-engineering.md)
 - [Agent Friendly Repositories](../concepts/agent-friendly-repositories.md)
 - [Agent Prompting](../concepts/agent-prompting.md)
+- [Multi-Agent Fictitious Play For Decision-Making](multi-agent-fictitious-play-decision-making.md)
 - [How Can Normal Humans Use Codex?](../questions/how-can-normal-humans-use-codex.md)

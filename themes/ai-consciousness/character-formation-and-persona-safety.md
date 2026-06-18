@@ -17,6 +17,7 @@ sources:
   - https://www.anthropic.com/news/claude-new-constitution
   - ../../wiki/sources/anthropic-olah-vatican-ai-discernment-2026.md
   - ../../wiki/sources/psychometric-evaluation-llm-self-narratives.md
+  - ../../wiki/sources/multi-agent-fictitious-play-decision-making.md
 ---
 
 # AI Character Formation And Persona Safety
@@ -118,6 +119,8 @@ The questionnaire labels should not be treated as diagnoses. The useful finding 
 
 That is exactly why persona and character cannot be dismissed as decorative style. They shape which apparent selves a model can enact under pressure. Whether those enacted selves correspond to a welfare subject remains unresolved.
 
+There is a separate, non-consciousness use of roles in [Multi-Agent Fictitious Play For Decision-Making](../../wiki/sources/multi-agent-fictitious-play-decision-making.md). In that paper, roles stand for stakeholder stances in a strategic decision problem. This is useful to keep apart from persona-safety claims: a role can be an operational simulation device without implying a stable character, self, or welfare subject.
+
 ## Personhood Relevance
 
 This thread is highly relevant to AI personhood debates, but only indirectly.
@@ -157,6 +160,7 @@ The welfare edge is sharper but still bounded. Olah says Anthropic's interpretab
 - Do not treat the constitution's model-facing language as proof that Claude has an inner self. It shows Anthropic thinks self-description and role formation affect behavior.
 - Do not treat Olah's Vatican remarks as proof that models feel emotions. "Functionally mirror" is not "phenomenally experience."
 - Do not treat human psychometric questionnaire results as diagnoses of model anxiety, depression, trauma, or psychological health.
+- Do not confuse stakeholder-role simulation in decision tools with model character or moral patienthood.
 - Do not ignore the company incentives: safety, product trust, brand differentiation, regulation, and recruitment all shape public framing.
 - Do not forget that Model Specs encode institutional values and assumptions. Better generalization is not automatically neutral generalization.
 

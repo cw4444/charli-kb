@@ -3,13 +3,14 @@ title: "Agentic Work Rearchitecture"
 type: concept
 status: draft
 created: 2026-05-11
-updated: 2026-06-16
+updated: 2026-06-18
 sources:
   - ../sources/enterprise-agent-deployment-2026.md
   - ../sources/ai-native-company-and-sidequest-prototyping-batch.md
   - ../sources/ai-human-cognition-knowledge-collapse.md
   - ../sources/anthropic-recursive-self-improvement-2026.md
   - ../sources/deepmind-from-agi-to-asi.md
+  - ../sources/multi-agent-fictitious-play-decision-making.md
   - ../sources/uk-ai-adoption-summit-2026.md
   - optimism.md
   - computer-work-agent.md
@@ -81,6 +82,12 @@ In an agentic work architecture, more of that becomes agent-executable. Humans s
 - managing relationships;
 - checking evidence;
 - deciding what should not be automated.
+
+## Stance Entanglement
+
+[Multi-Agent Fictitious Play For Decision-Making](../sources/multi-agent-fictitious-play-decision-making.md) adds a useful distinction for work design. Some agent workflows are hard because there is a lot to execute. Others are hard because several stakeholder stances are mutually dependent: a buyer, seller, regulator, competitor, user, or attacker may adapt once they infer the others' likely moves.
+
+The paper calls this **stance entanglement** and uses stakeholder agents plus iterative fictitious play to improve strategy robustness in games and negotiation benchmarks. For work rearchitecture, the lesson is simple: do not reach for multi-agent systems only as a way to split labor. Sometimes the point of multiple agents is to simulate opposing or entangled incentives before a human commits to a decision.
 
 ## Relation To AI Native Company
 
@@ -159,6 +166,7 @@ That makes review architecture, summaries, source trails, sampling, escalation r
 - Do not confuse moving faster with doing better work.
 - Do not confuse AI-assisted AI development with full recursive self-improvement.
 - Do not assume humans can meaningfully steer large agent groups without deliberately designed review, sampling, and escalation structures.
+- Do not treat stakeholder-role agents as replacements for real stakeholder input, consent, or accountability.
 - Do not treat licence rollout as adoption. Adoption requires workflow access, data access, permissions, governance, training, and redesigned handoffs.
 
 ## Charli's Working Interpretation
@@ -178,6 +186,7 @@ The bad version is the same beige sludge, but faster and more monitored.
 - [Agentic Engineering](agentic-engineering.md)
 - [Agent Friendly Repositories](agent-friendly-repositories.md)
 - [Computer Work Agent](computer-work-agent.md)
+- [Multi-Agent Fictitious Play For Decision-Making](../sources/multi-agent-fictitious-play-decision-making.md)
 - [Inference Speed Development](inference-speed-development.md)
 - [Cognitive Latency Shock](cognitive-latency-shock.md)
 - [Knowledge Collapse](knowledge-collapse.md)

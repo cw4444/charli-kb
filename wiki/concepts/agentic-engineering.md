@@ -3,13 +3,14 @@ title: "Agentic Engineering"
 type: concept
 status: draft
 created: 2026-04-28
-updated: 2026-06-15
+updated: 2026-06-18
 sources:
   - ../sources/peter-steinberger-agentic-engineering-batch.md
   - ../sources/openai-codex-for-everyday-work.md
   - ../sources/interpretable-context-methodology.md
   - ../sources/anthropic-recursive-self-improvement-2026.md
   - ../sources/deepmind-from-agi-to-asi.md
+  - ../sources/multi-agent-fictitious-play-decision-making.md
 ---
 
 # Agentic Engineering
@@ -41,6 +42,8 @@ The careful distinction matters. Current coding agents can accelerate implementa
 
 DeepMind's 2026 [From AGI To ASI](../sources/deepmind-from-agi-to-asi.md) report gives the broader landscape version of the same issue. It treats recursive self-improvement as one possible AGI-to-ASI pathway alongside scaling, paradigm shifts, and multi-agent group agency. The useful addition is friction: even AI-automated AI research still depends on experiments, training runs, hardware, energy, economic investment, benchmarking, and human ability to monitor the loop. Agentic engineering may accelerate the work; it does not make the physical world disappear because someone wrote a clever prompt. Annoying, but apparently still true.
 
+[Multi-Agent Fictitious Play For Decision-Making](../sources/multi-agent-fictitious-play-decision-making.md) adds the decision-making version of multi-agent design. Subagents are not only for parallel execution. In strategic tasks, separate agents can represent stakeholder stances and iteratively expose one another's exploitable weaknesses. That is useful when incentives are genuinely entangled; it is theatrical nonsense when the task only needed one clear prompt and a check.
+
 ## Related
 
 - [Agent Friendly Repositories](agent-friendly-repositories.md)
@@ -49,4 +52,5 @@ DeepMind's 2026 [From AGI To ASI](../sources/deepmind-from-agi-to-asi.md) report
 - [Inference Speed Development](inference-speed-development.md)
 - [Anthropic Recursive Self-Improvement 2026](../sources/anthropic-recursive-self-improvement-2026.md)
 - [DeepMind From AGI To ASI](../sources/deepmind-from-agi-to-asi.md)
+- [Multi-Agent Fictitious Play For Decision-Making](../sources/multi-agent-fictitious-play-decision-making.md)
 - [Project Based Self Direction](project-based-self-direction.md)

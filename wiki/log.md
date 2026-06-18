@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-18] source note | multi-agent fictitious play for decision-making
+- Source: Shen, Zhang, Zhao, Ling, and Chua, [Enhancing Decision-Making with Large Language Models through Multi-Agent Fictitious Play](https://arxiv.org/abs/2606.19308), arXiv, submitted 2026-06-17.
+- Pages created: [Multi-Agent Fictitious Play For Decision-Making](sources/multi-agent-fictitious-play-decision-making.md)
+- Pages updated: [Current AI Agent Landscape 2026](sources/current-ai-agent-landscape-2026.md), [Agentic Work Rearchitecture](concepts/agentic-work-rearchitecture.md), [Agentic Engineering](concepts/agentic-engineering.md), [Agent Prompting](concepts/agent-prompting.md), [AI Character Formation And Persona Safety](../themes/ai-consciousness/character-formation-and-persona-safety.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added MAFP as a decision-making source rather than generic roleplay validation. Durable point: multi-agent systems can split execution complexity, but strategic decision-making may require handling stance entanglement, where stakeholder policies are mutually dependent. MAFP represents stakeholder stances as agents and iteratively updates policies by best responding to empirical mixtures of other agents' past policies. Boundary: useful role simulation is not magic roleplay, not actual stakeholder representation, not consciousness evidence, and not proof of real-world business or policy judgment.
+
 ## [2026-06-18] source note | static embeddings and world properties
 - Sources: Barenholtz, [World Properties without World Models: Recovering Spatial and Temporal Structure from Co-occurrence Statistics in Static Word Embeddings](https://arxiv.org/abs/2603.04317), arXiv, submitted 2026-03-04; code/data repository [elanbarenholtz/static-embeddings-space-time](https://github.com/elanbarenholtz/static-embeddings-space-time).
 - Pages created: [World Properties Without World Models](sources/world-properties-without-world-models-static-embeddings.md)

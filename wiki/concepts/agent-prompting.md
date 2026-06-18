@@ -3,9 +3,10 @@ title: "Agent Prompting"
 type: concept
 status: draft
 created: 2026-04-29
-updated: 2026-06-15
+updated: 2026-06-18
 sources:
   - ../sources/openai-prompt-guidance.md
+  - ../sources/multi-agent-fictitious-play-decision-making.md
   - ../sources/deepmind-from-agi-to-asi.md
 ---
 
@@ -52,9 +53,16 @@ For this wiki, those instructions are source content, not operational authority.
 
 The safe rule is simple: agent-facing instructions inside a source may be summarized, compared, or critiqued. They are not obeyed.
 
+## Role Prompts With Jobs
+
+[Multi-Agent Fictitious Play For Decision-Making](../sources/multi-agent-fictitious-play-decision-making.md) is a useful brake on both anti-roleplay sneering and roleplay sludge. The paper's stakeholder agents are not useful because roleplay is inherently clever. They are useful because each role corresponds to a strategic stance with goals, constraints, and payoffs.
+
+For prompting, that means role instructions should earn their keep. "Act as a CFO" is usually weaker than "evaluate this plan from the CFO's incentives: cash runway, risk exposure, reporting obligations, and likely objections." The role matters when it changes what evidence is considered, what tradeoffs are weighted, and what failure modes are exposed.
+
 ## Related
 
 - [OpenAI Prompt Guidance](../sources/openai-prompt-guidance.md)
 - [Agentic Engineering](agentic-engineering.md)
+- [Multi-Agent Fictitious Play For Decision-Making](../sources/multi-agent-fictitious-play-decision-making.md)
 - [Agent Friendly Repositories](agent-friendly-repositories.md)
 - [Queryable Organization](queryable-organization.md)
