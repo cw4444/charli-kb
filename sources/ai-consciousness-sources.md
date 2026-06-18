@@ -3,14 +3,14 @@ title: "AI Consciousness And Model Welfare Sources"
 type: source-index
 status: draft
 created: 2026-05-10
-updated: 2026-05-16
+updated: 2026-06-18
 sources:
   - ai-consciousness-sources.csv
 ---
 
 # AI Consciousness And Model Welfare Sources
 
-Access dates for web sources: 2026-05-10 to 2026-05-16. This bibliography uses public pages, open papers, abstracts, official company materials, and open metadata. It avoids paywalled dependence.
+Access dates for web sources: 2026-05-10 to 2026-06-18. This bibliography uses public pages, open papers, abstracts, official company materials, and open metadata. It avoids paywalled dependence.
 
 ## Source table
 
@@ -36,6 +36,7 @@ Access dates for web sources: 2026-05-10 to 2026-05-16. This bibliography uses p
 | Anthropic, "Alignment faking in large language models" (2024) | company/arXiv technical paper | agnostic/conditional | Compliance versus underlying preferences/policies in training. |
 | Anthropic, "Agentic Misalignment" (2025) | company research post | agnostic/conditional | Goal conflict and self-preservation-like behavior in simulations. |
 | Anthropic Alignment Science, "Teaching Claude Why" (2026) | company alignment research post | model welfare without consciousness claim | Shows safety training moving from behavior demonstrations toward principles, constitution documents, and fictional stories about admirable AI behavior. |
+| Anthropic Alignment Science, "Model Spec Midtraining" (2026) | company alignment research post / arXiv paper | model welfare without consciousness claim | Shows that training models on synthetic documents explaining a Model Spec before alignment fine-tuning can shape how they generalize from the same demonstrations. |
 | Anthropic, "Towards Understanding Sycophancy" (2023) | company/arXiv technical paper | argues against naive self-report | Shows user-pleasing behavior can be training-induced. |
 | OpenAI, "Model Spec" and explanatory posts (2024-2026) | company behavior spec | model welfare without consciousness claim | Public model-behavior governance and value shaping. |
 | SEP, "Consciousness" | encyclopedia | agnostic/conditional | Background on theories and concepts of consciousness. |

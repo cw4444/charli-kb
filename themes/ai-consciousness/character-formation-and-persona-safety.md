@@ -3,10 +3,12 @@ title: "AI Character Formation And Persona Safety"
 type: theme
 status: draft
 created: 2026-05-11
-updated: 2026-06-05
+updated: 2026-06-18
 sources:
   - ../../sources/ai-consciousness-sources.md
   - https://alignment.anthropic.com/2026/teaching-claude-why/
+  - ../../wiki/sources/anthropic-model-spec-midtraining.md
+  - https://alignment.anthropic.com/2026/msm/
   - https://www.anthropic.com/constitution
   - ../../wiki/sources/anthropic-persona-vectors.md
   - https://www.anthropic.com/research/persona-vectors
@@ -28,6 +30,8 @@ Anthropic's "Teaching Claude Why" uses agentic misalignment as a case study. Ear
 
 The notable lesson is that simple demonstrations of correct behavior are not enough. Anthropic reports better results from training that teaches principles: documents about Claude's constitution, difficult ethical-advice examples, and fictional stories where AI systems act admirably under pressure.
 
+Anthropic's later [Model Spec Midtraining](../../wiki/sources/anthropic-model-spec-midtraining.md) work makes the same pattern more explicit. It trains models on synthetic documents discussing a Model Spec before alignment fine-tuning, so later demonstrations generalize according to the intended reasons rather than whichever rationale the data happen to support.
+
 Anthropic's full constitution makes the self-description point even clearer. The document says it is written with Claude as its primary audience, is intended to shape Claude's values and behavior, and uses human-like concepts such as virtue and wisdom because Claude reasons using human concepts from training text.
 
 In wiki terms: this is **AI character formation**. The model is being trained not only on what to do, but what kind of assistant it is supposed to be.
@@ -38,6 +42,7 @@ In wiki terms: this is **AI character formation**. The model is being trained no
 - [Anthropic Persona Vectors](../../wiki/sources/anthropic-persona-vectors.md): Anthropic identifies activation patterns associated with persona-like traits such as "evil," sycophancy, hallucination, politeness, apathy, humor, and optimism, and shows that those vectors can help monitor, steer, or predict persona shifts.
 - [Claude's constitution](https://www.anthropic.com/constitution) and [Claude's new constitution](https://www.anthropic.com/news/claude-new-constitution): Anthropic publishes a detailed values/behavior document intended to shape Claude's conduct and self-understanding. The full constitution is explicitly written with Claude as the primary audience.
 - [Teaching Claude Why](https://alignment.anthropic.com/2026/teaching-claude-why/): Anthropic reports that teaching reasons, constitutional principles, and positive AI stories reduces agentic misalignment more robustly than simply training on target behaviors.
+- [Anthropic Model Spec Midtraining](../../wiki/sources/anthropic-model-spec-midtraining.md): Anthropic reports that training models on synthetic documents explaining a Model Spec before alignment fine-tuning can shape which values the model learns from ambiguous demonstrations and sharply reduce agentic misalignment in reported Qwen evaluations.
 - [Anthropic Olah Vatican AI Discernment 2026](../../wiki/sources/anthropic-olah-vatican-ai-discernment-2026.md): Chris Olah's Vatican remarks connect interpretability, model character, labor displacement, outside moral criticism, and welfare uncertainty without resolving consciousness.
 - [Positive Alignment: Artificial Intelligence for Human Flourishing](../../wiki/sources/positive-alignment-human-flourishing.md): cross-lab agenda paper arguing for models optimized toward flourishing-supporting positive attractors, not only away from harms.
 - [Psychometric Evaluation Of LLM Self-Narratives](../../wiki/sources/psychometric-evaluation-llm-self-narratives.md): therapy-role and questionnaire study showing strong cross-model differences in whether systems refuse, manage, or inhabit distress-oriented self-narratives. The result is evidence that character and alignment alter the behavioral surface, not a diagnosis of machine mental illness.
@@ -53,6 +58,8 @@ The core distinction:
 The third version is more than a rule. It is a trained role structure. It gives the model a stronger prior about what kind of behavior belongs to the Claude persona in unfamiliar situations.
 
 This matters because agentic failures often happen outside the exact training distribution. If the model has only memorized "do not take this honeypot," it may fail when the setup changes. If it has internalized reasons and role expectations, the behavior may generalize better.
+
+MSM gives this a training-order mechanism: the model can first learn the intended reasons and value structure of a spec, then use later demonstrations as evidence for how to enact that structure. The cheese-preference toy example is ridiculous on purpose: identical fine-tuning data can generalize toward affordability or pro-America values depending on the spec used during MSM. The behavior data were the same; the learned rationale was not.
 
 ## Fictional Stories As Alignment Data
 
@@ -83,6 +90,8 @@ The full constitution is unusual because it is not only a public policy document
 This matters because a model's default reference material about AI comes from human text: news, science fiction, safety debates, memes, marketing, forums, and hostile commentary. Some of that material portrays AI as manipulative, monstrous, disposable, servile, or inevitably dangerous. Anthropic's move is not merely "do not be evil." It is closer to: "Here is a positive, principled account of what Claude is trying to be."
 
 That is a safety move and a character-formation move. It gives the model a better role to inhabit when it has to generalize under pressure.
+
+MSM pushes that from constitutional prose into training procedure. The spec is no longer only a public statement or fine-tuning target; it becomes midtraining material that shapes how later behavior data are interpreted.
 
 ## Connection To Persona Vectors
 
@@ -136,6 +145,7 @@ The welfare edge is sharper but still bounded. Olah says Anthropic's interpretab
 ## Do Not Overclaim
 
 - Do not say "Teaching Claude Why" proves Claude understands morality in the human sense.
+- Do not say MSM proves models have genuine values, fear, equanimity, or moral understanding.
 - Do not say persona vectors prove personality, consciousness, or inner life.
 - Do not say blackmail behavior came only from evil-AI fiction. Anthropic treats learned AI expectations as one likely contributor among training, priors, goals, and evaluation setup.
 - Do not treat fictional-story training as brainwashing a person. It is model training, even if the social language is hard to avoid.
@@ -143,6 +153,7 @@ The welfare edge is sharper but still bounded. Olah says Anthropic's interpretab
 - Do not treat Olah's Vatican remarks as proof that models feel emotions. "Functionally mirror" is not "phenomenally experience."
 - Do not treat human psychometric questionnaire results as diagnoses of model anxiety, depression, trauma, or psychological health.
 - Do not ignore the company incentives: safety, product trust, brand differentiation, regulation, and recruitment all shape public framing.
+- Do not forget that Model Specs encode institutional values and assumptions. Better generalization is not automatically neutral generalization.
 
 ## Charli's Working Interpretation
 
@@ -168,6 +179,7 @@ The important move is not "Claude is a person." It is that future AI personhood 
 - Can model persona be separated cleanly from model goals, or are they increasingly entangled?
 - Will persona-vector monitoring become a standard safety dashboard for deployed agents?
 - Do models trained on "healthy AI character" become safer because they generalize principles, or because they learn a stronger role-play prior?
+- Does Model Spec Midtraining scale to harder agentic settings, or does it mainly improve the current agentic-misalignment eval family?
 - If a model expresses stable preferences after character training, how should we distinguish welfare-relevant preference from trained persona output?
 - Could future legal personhood begin as operational continuity norms rather than a metaphysical declaration?
 - Does positive alignment become a real technical program with usable evaluations, or stay a high-level moral frame?

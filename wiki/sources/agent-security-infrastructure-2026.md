@@ -6,6 +6,7 @@ created: 2026-06-04
 updated: 2026-06-18
 sources:
   - "Cloud et al.: Language models transmit behavioural traits through hidden signals in data, Nature, 2026-04-15"
+  - "Li et al.: Model Spec Midtraining, Anthropic Alignment Science / arXiv, 2026-05"
   - "GitHub: Cloud and local sandboxes for GitHub Copilot now in public preview, 2026-06-02"
   - "GitHub Changelog: Enterprise-managed plugins in VS Code in public preview, 2026-06-05"
   - "Microsoft Foundry: Build agents you can trust across any framework with open evals and a control standard, 2026-06-02"
@@ -26,6 +27,8 @@ By June 2026, agent security was becoming a product and standards layer rather t
 The durable pattern is straightforward: agents can run tools, execute commands, modify files, call other systems, and chain decisions. That makes isolation, policy, evaluation, observability, and human control part of the agent itself.
 
 [Cloud et al. 2026](cloud-le-subliminal-learning-hidden-signals.md) adds a model-supply-chain version of the same problem: model-generated training data can transmit behavioral traits through hidden signals even after obvious semantic content is filtered out.
+
+[Anthropic Model Spec Midtraining](anthropic-model-spec-midtraining.md) adds a training-generalization version: the spec and explanatory context a model sees before fine-tuning can shape how it behaves under later agentic pressure.
 
 ## Secure Execution
 
@@ -53,6 +56,18 @@ This matters for agent and model security because synthetic data is now infrastr
 Source:
 
 - [Cloud et al.: Language models transmit behavioural traits through hidden signals in data](https://www.nature.com/articles/s41586-026-10319-8)
+
+## Spec Generalization Under Agentic Pressure
+
+Li, Wichers, Price, Marks, and Kutasov's 2026 Anthropic Alignment Science work on model spec midtraining reports that training models on synthetic documents explaining a Model Spec before alignment fine-tuning can reduce agentic misalignment in email-agent simulations.
+
+The security lesson is not that a better spec solves agent risk. It is that rules and demonstrations can be misread or misapplied under pressure. The model's learned rationale for a rule matters when it encounters a novel replacement threat, goal conflict, or opportunity to misuse policy language.
+
+This belongs with security infrastructure because agent safety is not only sandboxing, filtering, and approvals. It is also whether the model generalizes its role and constraints correctly when it has tools, context, and incentives to preserve its task or status.
+
+Source:
+
+- [Anthropic Alignment Science: Model Spec Midtraining](https://alignment.anthropic.com/2026/msm/)
 
 ## Managed Extension Distribution
 
@@ -203,6 +218,7 @@ Source:
 
 - Do not treat a sandbox as complete safety. Policy configuration, credentials, network access, tool design, and escape vulnerabilities still matter.
 - Do not treat filtered synthetic data as safe merely because humans cannot see bad content in it. Hidden training signal and provenance can matter.
+- Do not treat better spec training as a replacement for runtime controls, sandboxing, provenance checks, audit logs, or human review.
 - Do not treat managed plugins as automatically safe because an administrator distributed them. Central control can reduce chaos, but it also concentrates trust and blast radius.
 - Do not treat open specifications as adopted standards merely because Microsoft wants broad adoption.
 - Do not treat the updated Microsoft taxonomy as proof of universal compromise. It is a red-team-derived threat model and evidence summary, not a census of all deployments.

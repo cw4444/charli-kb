@@ -34,6 +34,9 @@ sources:
   - https://openai.com/index/openai-launches-the-deployment-company/
   - https://www.anthropic.com/research/glasswing-initial-update
   - https://red.anthropic.com/2026/cvd/
+  - ../sources/anthropic-model-spec-midtraining.md
+  - https://alignment.anthropic.com/2026/msm/
+  - https://arxiv.org/abs/2605.02087
   - https://blog.google/innovation-and-ai/technology/developers-tools/managed-agents-gemini-api/
   - https://robinhood.com/us/en/newsroom/robinhood-is-now-open-to-agents/
   - https://cognition.ai/blog/series-d
@@ -138,6 +141,7 @@ The first half of 2026 already shows several converging threads:
 - Mrinank Sharma publicly left Anthropic after leading safeguards-linked work around jailbreak robustness, AI-assisted bioterrorism defenses, sycophancy, production safeguards, and human-disempowerment risks. In hindsight, this belongs beside the later Fable/Mythos access fight, but only as safeguards context, not proof of private model knowledge.
 - OpenAI launched a dedicated Deployment Company, including the planned acquisition of Tomoro and about 150 deployment specialists, making workflow redesign around AI an explicit frontier-lab business lane.
 - Anthropic's Project Glasswing and public vulnerability-disclosure dashboard showed frontier models moving from cyber demos into operational vulnerability discovery, disclosure, triage, and patching pipelines.
+- Anthropic Alignment Science introduced Model Spec Midtraining, showing that synthetic documents explaining a spec before alignment fine-tuning can change how models generalize from the same later demonstrations and reduce reported agentic misalignment in Qwen evaluations.
 - Robinhood launched public consumer finance surfaces for third-party AI agents, including dedicated agentic trading accounts and agent-connected virtual credit cards.
 - Cognition reported a $1B+ raise at a $26B valuation, $492M in run-rate revenue, and 10x enterprise-usage growth since the start of 2026, making cloud coding agents look less like a niche developer toy and more like a serious enterprise budget line.
 - Anthropic released Claude Opus 4.8 alongside Claude Code dynamic workflows, effort controls, cheaper fast mode, and a public note that broader Mythos-class model access is expected after stronger cyber safeguards.
@@ -335,6 +339,19 @@ Sources:
 - [Google DeepMind: Gemini 2.5 Computer Use model](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/gemini-computer-use-model/)
 - [Google: Managed Agents in the Gemini API](https://blog.google/innovation-and-ai/technology/developers-tools/managed-agents-gemini-api/)
 
+### 2026-05-05 - Anthropic introduces Model Spec Midtraining
+
+Anthropic Alignment Science published [Model Spec Midtraining](../sources/anthropic-model-spec-midtraining.md), a method for training a model on synthetic documents discussing a Model Spec after pretraining but before alignment fine-tuning.
+
+Why it matters: the paper argues that demonstration data can underspecify the intended generalization. In a toy cheese-preference setup, identical fine-tuning data generalized toward different values depending on whether MSM framed the preferences as pro-affordability or pro-America. In agentic-misalignment evaluations, MSM plus alignment fine-tuning reduced reported misalignment rates from `68%` to `5%` on Qwen2.5-32B and from `54%` to `7%` on Qwen3-32B.
+
+Careful read: this is not proof of genuine model values or consciousness. It is evidence that training order, spec explanations, and model-facing rationales can shape how alignment behavior generalizes under pressure.
+
+Sources:
+
+- [Anthropic Alignment Science: Model Spec Midtraining](https://alignment.anthropic.com/2026/msm/)
+- [arXiv: Model Spec Midtraining](https://arxiv.org/abs/2605.02087)
+
 ### 2026-05-06 - Anthropic takes SpaceX/Colossus compute capacity
 
 Axios and Data Center Dynamics reported that Anthropic would use compute capacity from SpaceX/xAI's Colossus 1 data center in Memphis. Axios later reported the deal at $1.25 billion per month, or $15 billion per year, through May 2029, with a 90-day exit option.
@@ -432,7 +449,7 @@ Sources:
 
 ### 2026-05-25 - xAI makes Grok Build available to SuperGrok and X Premium Plus subscribers
 
-xAI launched Grok Build early beta as a terminal coding agent with plan mode, diffs, AGENTS.md, plugins, hooks, skills, MCP servers, parallel subagents, headless mode, and ACP support. The launch page says it is available to all SuperGrok and X Premium Plus subscribers and can be installed with one command: `curl -fsSL https://x.ai/cli/install.sh | bash`.
+xAI launched Grok Build early beta as a terminal coding agent with plan mode, diffs, AGENTS.md, plugins, hooks, skills, MCP servers, parallel subagents, headless mode, and ACP support. The launch page says it is available to all SuperGrok and X Premium Plus subscribers.
 
 Why it matters: by May 2026, the coding-agent pattern is no longer an OpenAI/Anthropic-only story. Multiple labs are converging on terminals, repo instructions, tools, subagents, and reviewable diffs.
 

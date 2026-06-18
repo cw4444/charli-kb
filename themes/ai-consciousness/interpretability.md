@@ -9,6 +9,7 @@ sources:
   - ../../wiki/sources/trajectory-dynamics-hidden-states-reading-costs.md
   - ../../wiki/sources/barenholtz-disappearing-ground.md
   - ../../wiki/sources/cloud-le-subliminal-learning-hidden-signals.md
+  - ../../wiki/sources/anthropic-model-spec-midtraining.md
 ---
 
 # Interpretability And Whether Internal States Matter
@@ -27,6 +28,8 @@ Barenholtz's 2026 essay [The Disappearing Ground](../../wiki/sources/barenholtz-
 
 [Cloud et al. 2026](../../wiki/sources/cloud-le-subliminal-learning-hidden-signals.md) adds a safety version: model-generated data can transmit behavioral traits through hidden signals that are not human-legible semantic content. That makes provenance, model relatedness, and training dynamics part of the evidence surface.
 
+[Anthropic Model Spec Midtraining](../../wiki/sources/anthropic-model-spec-midtraining.md) adds a training-process version: what a model is taught about a spec before alignment fine-tuning can shape how it interprets and generalizes the same later demonstrations. That makes training order and explanatory context part of the internal-state evidence surface, not just final behavior.
+
 See also [AI Character Formation And Persona Safety](character-formation-and-persona-safety.md) for the connection between persona vectors, constitutional training, and Anthropic's "Teaching Claude Why" work.
 
 Simple defection probes for sleeper agents show that some dangerous behavioral states can be detected from activations in controlled settings.
@@ -40,6 +43,8 @@ The same boundary applies to representational geometry. Decodability, modularity
 The same boundary also applies to activation trajectories. A model path that predicts human processing cost is evidence that the model has useful internal structure. It is not evidence that the model feels the cost.
 
 The same boundary applies to relational meaning and subliminal learning. A system can preserve and use signal that humans cannot read as ordinary semantic content. That is evidence against lazy behavior-only and syntax-only stories. It is not evidence of a subject having experiences.
+
+The same boundary applies to Model Spec Midtraining. Better value generalization is evidence that training can shape model reasoning-like behavior. It is not proof that the model has genuine moral understanding.
 
 ## Why it still matters
 
