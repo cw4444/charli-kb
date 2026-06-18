@@ -3,7 +3,7 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-06-17
+updated: 2026-06-18
 ---
 
 # Current State
@@ -42,6 +42,8 @@ This repo is a plain Markdown personal knowledge base based on Karpathy's LLM Wi
 - The durable subject lanes are AI, reality, neuroscience, and their overlap: perception, belief, expectation, action, agents, knowledge systems, reality monitoring, embodiment, cellular maintenance, and related source-backed concepts.
 
 ## Latest Session Handoff
+
+On 2026-06-18, Charli linked Elan Barenholtz's 2026-06-17 Substack republication [The Disappearing Ground](https://elanbarenholtz.substack.com/p/the-disappearing-ground), connecting it to the existing Yoneda / relational-constraint lane and to Cloud et al. 2026, [Language models transmit behavioural traits through hidden signals in data](https://doi.org/10.1038/s41586-026-10319-8). Codex added [Barenholtz - The Disappearing Ground](../sources/barenholtz-disappearing-ground.md), [Cloud et al. - Subliminal Learning And Hidden Signals](../sources/cloud-le-subliminal-learning-hidden-signals.md), and [Relational Meaning And Hidden Signals](../concepts/relational-meaning-and-hidden-signals.md), with links into representational geometry, AI-consciousness interpretability, embodiment/grounding, agent security, and the AI 2026 timeline. Durable point: meaning is not an inherent sealed essence; it is relational, system-relative, and use-shaped. Barenholtz supplies the language/grounding pressure, while the Cloud et al. "owls" paper supplies the model-safety pressure that data can be human-semantically empty and still carry training-dynamic signal for a related model. Keep boundary: this is not manifestation, not proof of LLM consciousness, not a claim that embodiment is irrelevant, and not licence to flatten human meaning, model hidden signal, and category theory into one soup.
 
 On 2026-06-17, Charli asked whether psychology had studied "people who genuinely believe life generally works out" rather than learned optimism or manifestation. Codex added a compact trait/default-prior bridge into [Optimism Neuroscience Source Batch](../sources/optimism-neuroscience-source-batch.md), [Optimism](../concepts/optimism.md), and [Research - Optimism](../questions/research-optimism.md). Durable point: the clean label is dispositional optimism, anchored by Scheier, Carver, and Bridges 1994 as generalized outcome expectancy. Useful neighbours are Block and Kremen 1996 ego-resiliency, Kobasa 1979 hardiness, Fredrickson 2001 broaden-and-build, and Tugade and Fredrickson 2004 resilience/positive emotion. Keep boundary: this is a source-backed way to talk about stable future expectancy, flexible recovery, and positive emotion as a resource, not proof that cheerful people are always right or that manifestation has neuroscience now.
 

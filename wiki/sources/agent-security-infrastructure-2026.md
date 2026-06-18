@@ -3,8 +3,9 @@ title: "Agent Security Infrastructure 2026"
 type: source
 status: draft
 created: 2026-06-04
-updated: 2026-06-13
+updated: 2026-06-18
 sources:
+  - "Cloud et al.: Language models transmit behavioural traits through hidden signals in data, Nature, 2026-04-15"
   - "GitHub: Cloud and local sandboxes for GitHub Copilot now in public preview, 2026-06-02"
   - "GitHub Changelog: Enterprise-managed plugins in VS Code in public preview, 2026-06-05"
   - "Microsoft Foundry: Build agents you can trust across any framework with open evals and a control standard, 2026-06-02"
@@ -24,6 +25,8 @@ By June 2026, agent security was becoming a product and standards layer rather t
 
 The durable pattern is straightforward: agents can run tools, execute commands, modify files, call other systems, and chain decisions. That makes isolation, policy, evaluation, observability, and human control part of the agent itself.
 
+[Cloud et al. 2026](cloud-le-subliminal-learning-hidden-signals.md) adds a model-supply-chain version of the same problem: model-generated training data can transmit behavioral traits through hidden signals even after obvious semantic content is filtered out.
+
 ## Secure Execution
 
 GitHub moved cloud and local sandboxes for Copilot into public preview on 2026-06-02.
@@ -38,6 +41,18 @@ This is a useful product-level acknowledgement that agentic coding needs an exec
 Source:
 
 - [GitHub: Cloud and local sandboxes for GitHub Copilot now in public preview](https://github.blog/changelog/2026-06-02-cloud-and-local-sandboxes-for-github-copilot-now-in-public-preview/)
+
+## Hidden Signals In Synthetic Data
+
+Cloud et al.'s 2026 *Nature* paper reports that teacher-model traits can transfer to student models through filtered data that appear semantically unrelated to those traits.
+
+The famous version is owl preference transmitted through number sequences. The operationally nasty version is misalignment transmitted through filtered numbers or chain-of-thought traces from a misaligned teacher.
+
+This matters for agent and model security because synthetic data is now infrastructure. If developers train models on outputs from previous models, specialized models, or external model pipelines, content filtering alone may miss behaviorally active signal. Model provenance and training lineage become part of the security boundary.
+
+Source:
+
+- [Cloud et al.: Language models transmit behavioural traits through hidden signals in data](https://www.nature.com/articles/s41586-026-10319-8)
 
 ## Managed Extension Distribution
 
@@ -187,6 +202,7 @@ Source:
 ## Do Not Overclaim
 
 - Do not treat a sandbox as complete safety. Policy configuration, credentials, network access, tool design, and escape vulnerabilities still matter.
+- Do not treat filtered synthetic data as safe merely because humans cannot see bad content in it. Hidden training signal and provenance can matter.
 - Do not treat managed plugins as automatically safe because an administrator distributed them. Central control can reduce chaos, but it also concentrates trust and blast radius.
 - Do not treat open specifications as adopted standards merely because Microsoft wants broad adoption.
 - Do not treat the updated Microsoft taxonomy as proof of universal compromise. It is a red-team-derived threat model and evidence summary, not a census of all deployments.

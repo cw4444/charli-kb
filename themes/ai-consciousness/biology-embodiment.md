@@ -3,9 +3,10 @@ title: "Biological Objections And Embodiment Arguments"
 type: theme
 status: draft
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-06-18
 sources:
   - ../../sources/ai-consciousness-sources.md
+  - ../../wiki/sources/barenholtz-disappearing-ground.md
 ---
 
 # Biological Objections And Embodiment Arguments
@@ -24,6 +25,8 @@ Bender and Koller argue that language-only systems trained on form lack a route 
 
 Multimodal models weaken but do not eliminate this objection. Seeing images, hearing audio, or controlling tools is not the same as being an embodied organism with needs, vulnerability, and homeostatic regulation.
 
+Barenholtz's [The Disappearing Ground](../../wiki/sources/barenholtz-disappearing-ground.md) adds pressure from the other side. LLMs suggest that language itself has enough relational, autogenerative structure to support context-sensitive continuation, imagery prompts, and action-guiding conditions. That does not make current models embodied organisms. It does mean "text-only therefore meaningless" is too crude.
+
 ## Affective experience
 
 Many moral-welfare concerns center on suffering. A model may represent "pain" or "distress" in text, but that does not show affective valence. Biological views treat valence as deeply tied to life processes and bodily regulation.
@@ -34,3 +37,4 @@ The pro-AI side can reply that biological systems are one implementation of func
 
 The dispute remains unresolved because consciousness science itself lacks a settled theory.
 
+The careful middle is: grounding arguments still matter for consciousness and affect, but meaning may be more relational and use-shaped than simple reference-to-world accounts assume.

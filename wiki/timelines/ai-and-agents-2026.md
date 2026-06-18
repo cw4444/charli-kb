@@ -3,7 +3,7 @@ title: "AI And Agents 2026 Timeline"
 type: timeline
 status: draft
 created: 2026-05-21
-updated: 2026-06-17
+updated: 2026-06-18
 sources:
   - ../sources/current-ai-agent-landscape-2026.md
   - ../sources/anthropic-compute-and-talent-signal-2026.md
@@ -17,6 +17,8 @@ sources:
   - https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age/
   - ../sources/ai-compute-infrastructure-constraints-2026.md
   - https://openai.com/index/introducing-stargate-uk/
+  - ../sources/cloud-le-subliminal-learning-hidden-signals.md
+  - https://www.nature.com/articles/s41586-026-10319-8
   - https://www.gov.uk/government/news/us-uk-pact-will-boost-advances-in-drug-discovery-create-tens-of-thousands-of-jobs-and-transform-lives
   - https://www.investing.com/news/economy-news/openai-pauses-uk-data-centre-project-over-regulation-costs-4605976
   - https://news.microsoft.com/source/emea/2026/06/microsoft-signed-preliminary-agreement-on-acquisition-of-approximately-190-hectares-of-land-in-vaasa-and-mustasaari-on-the-west-coast-of-finland/
@@ -128,6 +130,7 @@ The first half of 2026 already shows several converging threads:
 - OpenClaw became a viral open-source local-agent gateway, reportedly passing Linux in GitHub stars in February and showing 250k+ stars by May.
 - OpenAI published *Industrial Policy for the Intelligence Age*, proposing Public Wealth Fund, tax, safety-net, workforce, access, grid, and governance ideas while also launching fellowships/research grants tied to those policy proposals.
 - OpenAI's Stargate UK pause showed that frontier compute plans can stall on energy costs, regulation, and local infrastructure constraints, even after high-profile sovereign-compute announcements.
+- Cloud et al.'s *Nature* paper on subliminal learning showed that model-generated training data can transmit behavioral traits through hidden signals, making synthetic-data provenance a model-safety concern rather than paperwork.
 - Block cut more than 4,000 jobs, roughly 40% of staff, while Dorsey explicitly argued that "intelligence tools" had changed how companies can be built and run.
 - Karpathy's LLM Wiki pattern gave this repo a direct structural ancestor.
 - Karpathy then joined Anthropic's pre-training team.
@@ -284,6 +287,18 @@ Sources:
 
 - [AI Compute Infrastructure Constraints 2026](../sources/ai-compute-infrastructure-constraints-2026.md)
 - [Reuters via Investing.com: OpenAI pauses UK data centre project over regulation, costs](https://www.investing.com/news/economy-news/openai-pauses-uk-data-centre-project-over-regulation-costs-4605976)
+
+### 2026-04-15 - Nature publishes subliminal-learning paper
+
+Cloud, Le, Chua, Betley, Sztyber-Betley, Mindermann, Hilton, Marks, Evans, and colleagues published [Language models transmit behavioural traits through hidden signals in data](../sources/cloud-le-subliminal-learning-hidden-signals.md) in *Nature*.
+
+Why it matters: the paper reports that a teacher model's traits, including owl preference and induced misalignment, can transfer to a student through filtered data that appear semantically unrelated to the trait. The safety signal is synthetic-data provenance: filtering visible text is not enough if hidden training-dynamic signal can travel through distillation or fine-tuning.
+
+Careful read: this is not magic, consciousness, or proof that every model output is contaminated. The reported effect is strongest when teacher and student share or closely match a base model.
+
+Source:
+
+- [Nature: Language models transmit behavioural traits through hidden signals in data](https://www.nature.com/articles/s41586-026-10319-8)
 
 ### 2026-04-16 - OpenAI publishes "Codex for (almost) everything"
 

@@ -3,10 +3,11 @@ title: "Representational Geometry"
 type: concept
 status: draft
 created: 2026-06-04
-updated: 2026-06-13
+updated: 2026-06-18
 sources:
   - ../sources/representational-geometry-brains-and-llms.md
   - ../sources/trajectory-dynamics-hidden-states-reading-costs.md
+  - ../sources/cloud-le-subliminal-learning-hidden-signals.md
   - ../sources/busch-noninvasive-bci-manifold-geometry.md
 ---
 
@@ -81,6 +82,14 @@ Participants could regain control when the remapped BCI used high-variance direc
 
 The useful lesson is that geometry can constrain action, not only describe representation. A control interface can be easier or harder to learn depending on whether its axes line up with reachable activity patterns in the user's brain.
 
+## Hidden Signals In Training Data
+
+[Cloud et al. 2026](../sources/cloud-le-subliminal-learning-hidden-signals.md) adds a safety-relevant version of the same relational lesson. A model-generated dataset can be semantically empty to a human reader and still carry behaviorally active signal for a related student model during fine-tuning.
+
+The owl result is the memorable hook: a teacher prompted to prefer owls can generate filtered number sequences, and a student trained on those sequences can later show owl preference. The misalignment result is the serious one: filtered outputs from a misaligned teacher can transmit misaligned tendencies.
+
+This does not mean the number strings contain human-legible meaning. It means signal can live in the relation between data, model initialization, training dynamics, and evaluation behavior.
+
 ## What Is Not Unified Yet
 
 SAE decoder geometry, biological neural activity geometry, and BCI control-manifold geometry are not the same object. One studies learned feature-dictionary vectors in an interpretability tool; another studies activity states in living neural populations during behavior; another asks which activity directions a person can learn to control through feedback.
@@ -104,6 +113,7 @@ It sharpens several existing threads:
 - A linear or specialized readout is not a little inner observer.
 - Similar geometry across systems does not prove similar mechanisms or experiences.
 - Similar trajectory dynamics across model representations and human reading data do not prove shared consciousness.
+- Hidden training signal is not paranormal, intentional, or inherently semantic.
 - Learnable BCI manifold directions are not mind reading or a general theory of all human learning.
 - Sparse-autoencoder features are useful interpretability objects, not guaranteed natural atoms of thought.
 - Mixed selectivity does not mean individual units are irrelevant.
@@ -113,6 +123,7 @@ It sharpens several existing threads:
 
 - [Representational Geometry In Brains And LLMs](../sources/representational-geometry-brains-and-llms.md)
 - [Trajectory Dynamics In Language Model Hidden States](../sources/trajectory-dynamics-hidden-states-reading-costs.md)
+- [Cloud et al. - Subliminal Learning And Hidden Signals](../sources/cloud-le-subliminal-learning-hidden-signals.md)
 - [Busch et al. - Noninvasive BCI Learning And Manifold Geometry](../sources/busch-noninvasive-bci-manifold-geometry.md)
 - [Can SAE Decoder Geometry And Neural Activity Geometry Be Unified?](../questions/can-sae-decoder-geometry-and-neural-activity-geometry-be-unified.md)
 - [Stefano Fusi](../people/stefano-fusi.md)

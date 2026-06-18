@@ -3,10 +3,12 @@ title: "Interpretability And Whether Internal States Matter"
 type: theme
 status: draft
 created: 2026-05-10
-updated: 2026-06-11
+updated: 2026-06-18
 sources:
   - ../../sources/ai-consciousness-sources.md
   - ../../wiki/sources/trajectory-dynamics-hidden-states-reading-costs.md
+  - ../../wiki/sources/barenholtz-disappearing-ground.md
+  - ../../wiki/sources/cloud-le-subliminal-learning-hidden-signals.md
 ---
 
 # Interpretability And Whether Internal States Matter
@@ -21,6 +23,10 @@ Tegmark and colleagues' "The Geometry of Concepts" adds a neighboring interpreta
 
 Barenholtz's 2026 trajectory-dynamics preprint adds a temporal version of the same pressure. Hidden-state trajectories in GPT-2 and Pythia predict human reading-time costs beyond surprisal, suggesting that model internals can carry psychologically relevant structure that scalar output probabilities discard. See [Trajectory Dynamics In Language Model Hidden States](../../wiki/sources/trajectory-dynamics-hidden-states-reading-costs.md).
 
+Barenholtz's 2026 essay [The Disappearing Ground](../../wiki/sources/barenholtz-disappearing-ground.md) adds the language-grounding version of the pressure: LLMs expose how much work can be done by relational structure inside language itself. This does not settle consciousness or embodiment, but it does make "mere form, no meaning" too blunt to be useful.
+
+[Cloud et al. 2026](../../wiki/sources/cloud-le-subliminal-learning-hidden-signals.md) adds a safety version: model-generated data can transmit behavioral traits through hidden signals that are not human-legible semantic content. That makes provenance, model relatedness, and training dynamics part of the evidence surface.
+
 See also [AI Character Formation And Persona Safety](character-formation-and-persona-safety.md) for the connection between persona vectors, constitutional training, and Anthropic's "Teaching Claude Why" work.
 
 Simple defection probes for sleeper agents show that some dangerous behavioral states can be detected from activations in controlled settings.
@@ -32,6 +38,8 @@ Interpretability does not currently reveal subjective experience. A feature for 
 The same boundary applies to representational geometry. Decodability, modularity, and generalizable readouts can be computationally important without implying a subject who experiences the represented state.
 
 The same boundary also applies to activation trajectories. A model path that predicts human processing cost is evidence that the model has useful internal structure. It is not evidence that the model feels the cost.
+
+The same boundary applies to relational meaning and subliminal learning. A system can preserve and use signal that humans cannot read as ordinary semantic content. That is evidence against lazy behavior-only and syntax-only stories. It is not evidence of a subject having experiences.
 
 ## Why it still matters
 
