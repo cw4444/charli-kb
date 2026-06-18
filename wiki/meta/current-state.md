@@ -26,6 +26,7 @@ This repo is a plain Markdown personal knowledge base based on Karpathy's LLM Wi
 - Local `skills/` are useful but may include cloned-template leftovers; use only the parts relevant to Charli's actual workflow.
 - Codex is the gatekeeper for GitHub KB updates. Charli should capture and mark candidates, but agents should create, update, index, log, and push wiki changes.
 - Agreed wiki, rule, or handoff updates should be committed and pushed to GitHub after verification unless publication risk is unclear.
+- When running shell or git from the Windows Codex app in this WSL repo, prefer explicit WSL commands such as `wsl -e bash -lc "cd /home/cw444/projects/llm-wiki && git status --short --branch"`; Windows git against the UNC path has caused safe-directory, CRLF, sandbox, and SSL certificate failures.
 
 ## Current Priorities
 
