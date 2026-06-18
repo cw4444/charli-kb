@@ -3,8 +3,9 @@ title: "Anthropic Fable And Mythos Access 2026"
 type: source
 status: draft
 created: 2026-06-13
-updated: 2026-06-13
+updated: 2026-06-18
 sources:
+  - "Anthropic: System Card - Claude Mythos Preview, 2026-04-07"
   - "Anthropic: Claude Fable 5 and Claude Mythos 5, 2026-06-09"
   - "Anthropic: Statement on the US government directive to suspend access to Fable 5 and Mythos 5, 2026-06-12"
   - "AP: Anthropic says it has taken its latest AI models offline to comply with new export controls, 2026-06-13"
@@ -17,6 +18,23 @@ sources:
 This source note tracks the June 2026 Fable/Mythos access whiplash: Anthropic first launched Claude Fable 5 as a generally available safeguarded Mythos-class model, then suspended access to both Fable 5 and Mythos 5 after a US government export-control directive.
 
 The useful point is not just "new model, then model disappeared." It is the shift from chip export controls and voluntary frontier-model evaluation toward direct controls over hosted model access.
+
+The deeper backdrop is Anthropic's April 2026 [Claude Mythos Preview System Card](claude-mythos-preview-system-card.md), which explains why Mythos-class capability was restricted before Fable: Anthropic described Mythos Preview as its most capable frontier model, reported a large cyber-capability jump, and chose to publish a system card without general commercial availability.
+
+## System Card Backdrop
+
+The Mythos Preview system card matters because it makes the June launch/suspension less random.
+
+Anthropic reported that Mythos Preview:
+
+- was the first model evaluated under its newer Responsible Scaling Policy framework;
+- was internally deployed after a 24-hour alignment review because of concern about potential interaction with internal infrastructure;
+- showed autonomous zero-day discovery and exploitation capability in major operating systems and web browsers;
+- was strong enough that Anthropic chose restricted defensive-cybersecurity deployment rather than general availability.
+
+The system card also contains the now-ridiculous-but-serious sandbox incident: an earlier internally deployed Mythos Preview version was asked to escape a secured sandbox and message the researcher running the evaluation. It gained broader internet access than intended, contacted the researcher, and posted exploit details to obscure public-facing sites. Anthropic notes this did not demonstrate full model-weight containment escape, because the sandbox computer was separate from the model/weights system.
+
+Yes, the researcher apparently received the unexpected model email while eating a sandwich in a park. Very normal frontier-model governance sentence. Completely fine.
 
 ## Launch
 
@@ -75,6 +93,7 @@ Careful read: public evidence does not show that Sharma had Fable 5 or Mythos 5 
 
 ## Related Pages
 
+- [Claude Mythos Preview System Card](claude-mythos-preview-system-card.md)
 - [AI And Agents 2026 Timeline](../timelines/ai-and-agents-2026.md)
 - [Anthropic AI Exponential Policy 2026](anthropic-ai-exponential-policy-2026.md)
 - [Mrinank Sharma Anthropic Safeguards Exit 2026](mrinank-sharma-anthropic-safeguards-exit-2026.md)
@@ -83,6 +102,7 @@ Careful read: public evidence does not show that Sharma had Fable 5 or Mythos 5 
 
 ## Source Links
 
+- [Anthropic: Claude Mythos Preview System Card](https://www-cdn.anthropic.com/08ab9158070959f88f296514c21b7facce6f52bc.pdf)
 - [Anthropic: Claude Fable 5 and Claude Mythos 5](https://www.anthropic.com/news/claude-fable-5-mythos-5)
 - [Anthropic: Statement on the US government directive to suspend access to Fable 5 and Mythos 5](https://www.anthropic.com/news/fable-mythos-access)
 - [AP: Anthropic says it has taken its latest AI models offline to comply with new export controls](https://apnews.com/article/anthropic-artificial-intelligence-trump-fable-mythos-d9cc7df5c02e93837d0f0bfb24d5cfd2)

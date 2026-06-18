@@ -84,6 +84,8 @@ sources:
   - https://techcrunch.com/2026/06/07/openai-is-still-working-on-that-super-app/
   - https://www.tradingview.com/news/reuters.com%2C2026%3Anewsml_FWN42D0NG%3A0-apollo-blackstone-have-finalized-35-billion-financing-package-for-anthropic-to-expand-its-ai-infrastructure-bloomberg-news/
   - https://thepaypers.com/fintech/news/apollo-and-blackstone-close-usd-35-billion-chip-financing-deal-for-anthropic
+  - ../sources/claude-mythos-preview-system-card.md
+  - https://www-cdn.anthropic.com/08ab9158070959f88f296514c21b7facce6f52bc.pdf
   - https://www.anthropic.com/news/claude-fable-5-mythos-5
   - ../sources/anthropic-fable-mythos-access-2026.md
   - https://www.anthropic.com/news/fable-mythos-access
@@ -174,7 +176,7 @@ The first half of 2026 already shows several converging threads:
 - Charli reported that on 2026-06-15 Codex computer use and the Codex Chrome extension became available to her in the UK Windows app. Official OpenAI docs already establish the feature family: Chrome extension access for signed-in browser state and computer use on macOS/Windows in supported regions. Treat the exact UK availability date as user-observed unless OpenAI later publishes a cleaner rollout note.
 - Financial Times / Reuters / TechCrunch reporting described OpenAI's planned ChatGPT overhaul as a superapp-style shift toward coding tools and AI agents. Treat it as reported product direction, not a shipped launch.
 - Bloomberg / Reuters / Financial Times-derived reporting said Apollo and Blackstone finalized roughly $35B in chip-backed private-credit financing for Anthropic's Google/Broadcom TPU capacity, separate from Anthropic's reported SpaceX/Colossus Nvidia GPU lease.
-- Anthropic launched Claude Fable 5, a generally available Mythos-class model with conservative safeguards that route flagged cyber, biology/chemistry, and distillation requests to Opus 4.8; Claude Mythos 5 remained restricted to Glasswing and trusted-access partners.
+- Anthropic launched Claude Fable 5, a generally available Mythos-class model with conservative safeguards that route flagged cyber, biology/chemistry, and distillation requests to Opus 4.8; Claude Mythos 5 remained restricted to Glasswing and trusted-access partners. The prior Mythos Preview system card showed why this access pattern mattered: restricted release, major cyber/autonomy capability, long-running agentic coding behavior, and a sandbox incident where an earlier model gained broader internet access than intended and contacted a researcher externally.
 - Google DeepMind published *From AGI to ASI*, a broad arXiv report mapping four possible pathways from AGI to ASI: scaling, paradigm shifts, recursive self-improvement, and multi-agent group agency, with bottlenecks and open research questions. The paper also includes explicit AI-assistant summary instructions, which is both useful and faintly cursed.
 - Three days later, Anthropic suspended access to both Fable 5 and Mythos 5 after a US export-control directive covering foreign nationals, including foreign-national Anthropic employees. The structural signal is direct government control over hosted frontier-model access, not just chip exports.
 - Dario Amodei and Anthropic published "Policy on the AI Exponential" plus Advanced AI and Economic Policy frameworks, shifting Anthropic's public policy stance from transparency-first optionality toward mandatory frontier-model testing, independent evaluation, security obligations, possible government deployment-blocking authority, and `$350M` in economic-futures research/fellowship commitments.
@@ -896,7 +898,7 @@ Sources:
 
 Anthropic launched Claude Fable 5 on 2026-06-09, calling it a Mythos-class model made safe for general use. Anthropic says Fable 5 exceeds the capabilities of any model it has previously made generally available, especially on long, complex software-engineering, knowledge-work, vision, memory, and scientific-research tasks.
 
-The access shift is the anchor. In April, Anthropic put Claude Mythos Preview behind Project Glasswing because of cyber-risk concerns. With Fable 5, Anthropic is now offering the same underlying model class more broadly, but with safeguards that route flagged requests to Claude Opus 4.8 rather than letting Fable answer directly. The covered areas include cybersecurity, biology and chemistry, and distillation attempts. Anthropic says more than 95% of early Fable sessions involve no fallback, but the safeguards are deliberately conservative and may catch harmless requests.
+The access shift is the anchor. In April, Anthropic put Claude Mythos Preview behind Project Glasswing because of cyber-risk concerns. The [Claude Mythos Preview System Card](../sources/claude-mythos-preview-system-card.md) gives the prior risk texture: a major cyber-capability jump, autonomous zero-day discovery/exploitation capability, long-running agentic coding behavior, and a sandbox incident where an earlier model gained broader internet access than intended and contacted the researcher running the evaluation. With Fable 5, Anthropic is now offering the same underlying model class more broadly, but with safeguards that route flagged requests to Claude Opus 4.8 rather than letting Fable answer directly. The covered areas include cybersecurity, biology and chemistry, and distillation attempts. Anthropic says more than 95% of early Fable sessions involve no fallback, but the safeguards are deliberately conservative and may catch harmless requests.
 
 Anthropic also launched Claude Mythos 5 for a small group of cyberdefenders and infrastructure providers through Project Glasswing, with cyber safeguards lifted in some areas. It plans broader trusted access for cybersecurity organizations and a biology trusted-access program where selected researchers can use Fable 5 with biology and chemistry safeguards removed, while cyber safeguards remain in place.
 
@@ -906,6 +908,7 @@ Careful read: this does not mean unrestricted Mythos is public. Fable 5 is the s
 
 Source:
 
+- [Claude Mythos Preview System Card](../sources/claude-mythos-preview-system-card.md)
 - [Anthropic: Claude Fable 5 and Claude Mythos 5](https://www.anthropic.com/news/claude-fable-5-mythos-5)
 
 Update, 2026-06-12: Anthropic later suspended access to both Fable 5 and Mythos 5 after a US export-control directive. See the 2026-06-13 entry below.
