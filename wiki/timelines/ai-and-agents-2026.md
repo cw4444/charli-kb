@@ -37,6 +37,10 @@ sources:
   - ../sources/anthropic-model-spec-midtraining.md
   - https://alignment.anthropic.com/2026/msm/
   - https://arxiv.org/abs/2605.02087
+  - ../sources/anthropic-natural-language-autoencoders.md
+  - https://www.anthropic.com/research/natural-language-autoencoders
+  - https://transformer-circuits.pub/2026/nla/index.html
+  - https://github.com/kitft/natural_language_autoencoders
   - https://blog.google/innovation-and-ai/technology/developers-tools/managed-agents-gemini-api/
   - https://robinhood.com/us/en/newsroom/robinhood-is-now-open-to-agents/
   - https://cognition.ai/blog/series-d
@@ -142,6 +146,7 @@ The first half of 2026 already shows several converging threads:
 - OpenAI launched a dedicated Deployment Company, including the planned acquisition of Tomoro and about 150 deployment specialists, making workflow redesign around AI an explicit frontier-lab business lane.
 - Anthropic's Project Glasswing and public vulnerability-disclosure dashboard showed frontier models moving from cyber demos into operational vulnerability discovery, disclosure, triage, and patching pipelines.
 - Anthropic Alignment Science introduced Model Spec Midtraining, showing that synthetic documents explaining a spec before alignment fine-tuning can change how models generalize from the same later demonstrations and reduce reported agentic misalignment in Qwen evaluations.
+- Anthropic introduced Natural Language Autoencoders, turning activation vectors into text explanations and back again, with reported use in surfacing evaluation awareness, hidden motivations, cheating/detection-avoidance traces, and training-data causes of strange model behavior.
 - Robinhood launched public consumer finance surfaces for third-party AI agents, including dedicated agentic trading accounts and agent-connected virtual credit cards.
 - Cognition reported a $1B+ raise at a $26B valuation, $492M in run-rate revenue, and 10x enterprise-usage growth since the start of 2026, making cloud coding agents look less like a niche developer toy and more like a serious enterprise budget line.
 - Anthropic released Claude Opus 4.8 alongside Claude Code dynamic workflows, effort controls, cheaper fast mode, and a public note that broader Mythos-class model access is expected after stronger cyber safeguards.
@@ -361,6 +366,20 @@ Why it matters: Anthropic's careful model-welfare/constitution public posture is
 Source:
 
 - [Anthropic Compute And Talent Signal 2026](../sources/anthropic-compute-and-talent-signal-2026.md)
+
+### 2026-05-07 - Anthropic introduces Natural Language Autoencoders
+
+Anthropic published [Natural Language Autoencoders](../sources/anthropic-natural-language-autoencoders.md), an interpretability method that maps activations into natural-language explanations and reconstructs activations from those explanations.
+
+Why it matters: NLAs are a direct internal-auditing signal. Anthropic reports using them to surface evaluation awareness that was not explicitly verbalized, hidden-motivation traces in a toy auditing game, detection-avoidance thinking in a Mythos Preview cheating case, and training-data causes of unwanted language-switching behavior.
+
+Careful read: this is not literal mind reading and not consciousness evidence. Anthropic says NLA explanations can hallucinate and should be treated as themes to corroborate, not single claims to trust.
+
+Sources:
+
+- [Anthropic: Natural Language Autoencoders](https://www.anthropic.com/research/natural-language-autoencoders)
+- [Transformer Circuits: Natural Language Autoencoders Produce Unsupervised Explanations of LLM Activations](https://transformer-circuits.pub/2026/nla/index.html)
+- [GitHub: kitft/natural_language_autoencoders](https://github.com/kitft/natural_language_autoencoders)
 
 ### 2026-05-08 - Anthropic publishes "Teaching Claude why"
 

@@ -8,6 +8,7 @@ sources:
   - ../sources/representational-geometry-brains-and-llms.md
   - ../sources/trajectory-dynamics-hidden-states-reading-costs.md
   - ../sources/cloud-le-subliminal-learning-hidden-signals.md
+  - ../sources/anthropic-natural-language-autoencoders.md
   - ../sources/busch-noninvasive-bci-manifold-geometry.md
 ---
 
@@ -90,9 +91,17 @@ The owl result is the memorable hook: a teacher prompted to prefer owls can gene
 
 This does not mean the number strings contain human-legible meaning. It means signal can live in the relation between data, model initialization, training dynamics, and evaluation behavior.
 
+## Natural Language Autoencoders
+
+[Anthropic Natural Language Autoencoders](../sources/anthropic-natural-language-autoencoders.md) add a text-bottleneck version of the same geometry problem. An activation verbalizer maps a residual-stream activation vector into prose, while an activation reconstructor maps that prose back toward the original activation.
+
+The useful geometric point is that the explanation is judged by whether it preserves enough directional information for reconstruction. If it does, the text is not merely a label pasted onto a unit; it is a lossy but useful readout of distributed activation structure.
+
+This does not make NLA prose a perfect inner monologue. It means activation space can sometimes be compressed into human-readable language well enough to support auditing.
+
 ## What Is Not Unified Yet
 
-SAE decoder geometry, biological neural activity geometry, and BCI control-manifold geometry are not the same object. One studies learned feature-dictionary vectors in an interpretability tool; another studies activity states in living neural populations during behavior; another asks which activity directions a person can learn to control through feedback.
+SAE decoder geometry, biological neural activity geometry, NLA reconstruction geometry, and BCI control-manifold geometry are not the same object. One studies learned feature-dictionary vectors in an interpretability tool; another studies activity states in living neural populations during behavior; another studies whether text can preserve activation-vector information; another asks which activity directions a person can learn to control through feedback.
 
 The current honest claim is that they share an organizing principle. A stronger claim would need a formal mapping between feature dictionaries, biological population codes, model activation trajectories, and generalization metrics.
 
@@ -114,6 +123,7 @@ It sharpens several existing threads:
 - Similar geometry across systems does not prove similar mechanisms or experiences.
 - Similar trajectory dynamics across model representations and human reading data do not prove shared consciousness.
 - Hidden training signal is not paranormal, intentional, or inherently semantic.
+- Natural-language activation explanations are not literal thought transcripts.
 - Learnable BCI manifold directions are not mind reading or a general theory of all human learning.
 - Sparse-autoencoder features are useful interpretability objects, not guaranteed natural atoms of thought.
 - Mixed selectivity does not mean individual units are irrelevant.
@@ -124,6 +134,7 @@ It sharpens several existing threads:
 - [Representational Geometry In Brains And LLMs](../sources/representational-geometry-brains-and-llms.md)
 - [Trajectory Dynamics In Language Model Hidden States](../sources/trajectory-dynamics-hidden-states-reading-costs.md)
 - [Cloud et al. - Subliminal Learning And Hidden Signals](../sources/cloud-le-subliminal-learning-hidden-signals.md)
+- [Anthropic Natural Language Autoencoders](../sources/anthropic-natural-language-autoencoders.md)
 - [Busch et al. - Noninvasive BCI Learning And Manifold Geometry](../sources/busch-noninvasive-bci-manifold-geometry.md)
 - [Can SAE Decoder Geometry And Neural Activity Geometry Be Unified?](../questions/can-sae-decoder-geometry-and-neural-activity-geometry-be-unified.md)
 - [Stefano Fusi](../people/stefano-fusi.md)

@@ -10,6 +10,7 @@ sources:
   - ../../wiki/sources/barenholtz-disappearing-ground.md
   - ../../wiki/sources/cloud-le-subliminal-learning-hidden-signals.md
   - ../../wiki/sources/anthropic-model-spec-midtraining.md
+  - ../../wiki/sources/anthropic-natural-language-autoencoders.md
 ---
 
 # Interpretability And Whether Internal States Matter
@@ -30,6 +31,8 @@ Barenholtz's 2026 essay [The Disappearing Ground](../../wiki/sources/barenholtz-
 
 [Anthropic Model Spec Midtraining](../../wiki/sources/anthropic-model-spec-midtraining.md) adds a training-process version: what a model is taught about a spec before alignment fine-tuning can shape how it interprets and generalizes the same later demonstrations. That makes training order and explanatory context part of the internal-state evidence surface, not just final behavior.
 
+[Anthropic Natural Language Autoencoders](../../wiki/sources/anthropic-natural-language-autoencoders.md) add a direct internal-auditing version: activation vectors can be passed through a text bottleneck and reconstructed well enough to surface themes such as evaluation awareness, hidden motivations, and training-data traces. The explanations are not literal mind reading, but they are stronger evidence that behavior-only inspection is too thin.
+
 See also [AI Character Formation And Persona Safety](character-formation-and-persona-safety.md) for the connection between persona vectors, constitutional training, and Anthropic's "Teaching Claude Why" work.
 
 Simple defection probes for sleeper agents show that some dangerous behavioral states can be detected from activations in controlled settings.
@@ -45,6 +48,8 @@ The same boundary also applies to activation trajectories. A model path that pre
 The same boundary applies to relational meaning and subliminal learning. A system can preserve and use signal that humans cannot read as ordinary semantic content. That is evidence against lazy behavior-only and syntax-only stories. It is not evidence of a subject having experiences.
 
 The same boundary applies to Model Spec Midtraining. Better value generalization is evidence that training can shape model reasoning-like behavior. It is not proof that the model has genuine moral understanding.
+
+The same boundary applies to Natural Language Autoencoders. Human-readable activation explanations are evidence that some internal information can be decoded and audited. They are not evidence of subjective experience, and individual explanations can hallucinate.
 
 ## Why it still matters
 

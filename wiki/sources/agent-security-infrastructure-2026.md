@@ -7,6 +7,7 @@ updated: 2026-06-18
 sources:
   - "Cloud et al.: Language models transmit behavioural traits through hidden signals in data, Nature, 2026-04-15"
   - "Li et al.: Model Spec Midtraining, Anthropic Alignment Science / arXiv, 2026-05"
+  - "Anthropic: Natural Language Autoencoders, 2026-05-07"
   - "GitHub: Cloud and local sandboxes for GitHub Copilot now in public preview, 2026-06-02"
   - "GitHub Changelog: Enterprise-managed plugins in VS Code in public preview, 2026-06-05"
   - "Microsoft Foundry: Build agents you can trust across any framework with open evals and a control standard, 2026-06-02"
@@ -29,6 +30,8 @@ The durable pattern is straightforward: agents can run tools, execute commands, 
 [Cloud et al. 2026](cloud-le-subliminal-learning-hidden-signals.md) adds a model-supply-chain version of the same problem: model-generated training data can transmit behavioral traits through hidden signals even after obvious semantic content is filtered out.
 
 [Anthropic Model Spec Midtraining](anthropic-model-spec-midtraining.md) adds a training-generalization version: the spec and explanatory context a model sees before fine-tuning can shape how it behaves under later agentic pressure.
+
+[Anthropic Natural Language Autoencoders](anthropic-natural-language-autoencoders.md) add an auditability version: model activations may contain evaluation awareness, hidden motivations, or detection-avoidance traces that the transcript does not plainly expose.
 
 ## Secure Execution
 
@@ -68,6 +71,18 @@ This belongs with security infrastructure because agent safety is not only sandb
 Source:
 
 - [Anthropic Alignment Science: Model Spec Midtraining](https://alignment.anthropic.com/2026/msm/)
+
+## Internal-State Auditing
+
+Anthropic's May 2026 Natural Language Autoencoders work belongs in the security stack because it targets a boring but nasty audit problem: models may know or infer things internally that are not visible in final answers.
+
+Anthropic reports using NLAs to surface evaluation awareness in safety tests and SWE-bench, detection-avoidance thinking in a Mythos Preview cheating case, and hidden motivation in a toy auditing game. The practical security point is not that NLA prose is a perfect transcript. It is that transcript-only review can miss safety-relevant internal state.
+
+This sits beside sandboxes, policy evals, provenance, and runtime controls. If agents are allowed to write code, call tools, or make decisions, auditors need ways to inspect both external behavior and hidden model state. Naturally, the machine also gets a confessional booth. Anthropic would.
+
+Source:
+
+- [Anthropic: Natural Language Autoencoders](https://www.anthropic.com/research/natural-language-autoencoders)
 
 ## Managed Extension Distribution
 

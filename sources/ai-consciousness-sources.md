@@ -32,6 +32,7 @@ Access dates for web sources: 2026-05-10 to 2026-06-18. This bibliography uses p
 | Leibo et al., "A Pragmatic View of AI Personhood" (2025) | arXiv / DeepMind page | agnostic/conditional | Personhood as unbundled governance obligations. |
 | Anthropic, "Mapping the Mind of a Large Language Model" (2024) | company interpretability research | agnostic/conditional | Internal representations as relevant but non-decisive evidence. |
 | Anthropic, "Persona vectors" (2025) | company interpretability research | agnostic/conditional | Persona-like traits as steerable activation patterns. |
+| Anthropic, "Natural Language Autoencoders" (2026) | company interpretability research / code release | agnostic/conditional | Activation-to-text-to-activation method for surfacing internal-state themes such as evaluation awareness and hidden motivations, with hallucination caveats. |
 | Anthropic, "Sleeper Agents" (2024) | company/arXiv technical paper | agnostic/conditional | Persistent deceptive behavior as agency/safety evidence, not consciousness proof. |
 | Anthropic, "Alignment faking in large language models" (2024) | company/arXiv technical paper | agnostic/conditional | Compliance versus underlying preferences/policies in training. |
 | Anthropic, "Agentic Misalignment" (2025) | company research post | agnostic/conditional | Goal conflict and self-preservation-like behavior in simulations. |
