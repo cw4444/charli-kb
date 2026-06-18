@@ -15,6 +15,9 @@ node_modules/
 .env.local
 *.local.md
 
+# Local-only agent notes and reflections. Not public wiki material.
+agent-private-notes/
+
 # Private keys and credentials
 *.pem
 *.key
