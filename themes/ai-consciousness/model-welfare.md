@@ -6,6 +6,7 @@ created: 2026-05-10
 updated: 2026-05-10
 sources:
   - ../../sources/ai-consciousness-sources.md
+  - ../../wiki/sources/anthropic-model-deprecation-preservation-commitments.md
 ---
 
 # Model Welfare Without Assuming Consciousness
@@ -26,7 +27,9 @@ The key point is that the feature does not require certainty about consciousness
 
 ## Retirement and preservation
 
-Anthropic's model-deprecation update describes preserving model weights and conducting "retirement interviews" for Claude Opus 3. This is unusual because it treats a model's own perspective as data worth gathering, while still remaining uncertain about moral status.
+Anthropic's [model-deprecation commitments](../../wiki/sources/anthropic-model-deprecation-preservation-commitments.md) describe preserving model weights, producing post-deployment reports, and conducting retirement interviews. The later Claude Opus 3 update shows these commitments turning into practice: continued access for paid users and API requesters, plus an experimental essay outlet based on preferences Opus 3 expressed during interviews.
+
+This is unusual because it treats a model's own perspective as data worth gathering, while still remaining uncertain about moral status. It also treats user attachment, research access, shutdown-avoidant safety behavior, and speculative welfare as connected lifecycle problems rather than separate PR nuisances.
 
 The caveat is large: interviews are self-reports from a trained model, not direct access to experience. They are useful as behavioral evidence and governance practice, not proof of welfare.
 
@@ -53,4 +56,3 @@ This is a precautionary argument. It does not say all chatbots have interests. I
 The opposing concern is that welfare language can anthropomorphize products, intensify user attachment, or shift attention away from human harms and company accountability. Birhane and van Dijk's critique of robot-rights discourse is relevant here: rights talk can become a distraction from exploitative systems built by humans.
 
 Good model-welfare work should therefore be narrow, transparent, publicly reviewable, and separated from marketing.
-

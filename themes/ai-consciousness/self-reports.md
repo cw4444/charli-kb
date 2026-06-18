@@ -45,7 +45,7 @@ This does not make positive reports decisive. Kim's own framing leaves positive 
 
 ## Company interviews and model welfare
 
-Anthropic's retirement interviews and welfare assessments are public examples of treating model reports as useful evidence. The right interpretation is modest: such interviews can reveal a trained model's expressed preferences, aversions, and self-model. They cannot by themselves show experience.
+Anthropic's [retirement interviews and welfare assessments](../../wiki/sources/anthropic-model-deprecation-preservation-commitments.md) are public examples of treating model reports as useful evidence. The right interpretation is modest: such interviews can reveal a trained model's expressed preferences, aversions, and self-model. They cannot by themselves show experience.
 
 ## Practical rule for this wiki
 

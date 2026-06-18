@@ -20,6 +20,7 @@ Access dates for web sources: 2026-05-10 to 2026-06-18. This bibliography uses p
 | Anthropic, "Claude's new constitution" and constitution (2026) | company policy/training document | model welfare without consciousness claim | Shows how Anthropic shapes Claude's values, nature discourse, and self-understanding. |
 | Anthropic, "Constitutional AI" / "Claude's Constitution" (2023) | company research/policy post | model welfare without consciousness claim | Background on explicit values, AI feedback, and scalable oversight. |
 | Anthropic, "Claude Opus 4 and 4.1 can now end a rare subset of conversations" (2025) | company research post | model welfare without consciousness claim | Concrete low-cost welfare intervention under uncertainty. |
+| Anthropic, "Commitments on model deprecation and preservation" (2025) | company research post / lifecycle commitment | model welfare without consciousness claim | Preserving weights, post-deployment reports, and retirement interviews as lifecycle governance under welfare uncertainty. |
 | Anthropic, "An update on model deprecation commitments" (2026) | company research post | model welfare without consciousness claim | Retirement interviews and preservation as welfare-aware governance. |
 | Long et al., "Taking AI Welfare Seriously" (2024) | arXiv report | agnostic/conditional | Main external welfare/moral-patienthood report. |
 | Butlin et al., "Consciousness in Artificial Intelligence" (2023) | arXiv report | agnostic/conditional | Indicator-property framework from consciousness science. |

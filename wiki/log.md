@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-18] source note | model deprecation and preservation commitments
+- Sources: Anthropic, [Commitments on model deprecation and preservation](https://www.anthropic.com/research/deprecation-commitments), published 2025-11-04; Anthropic, [An update on our model deprecation commitments for Claude Opus 3](https://www.anthropic.com/research/deprecation-updates-opus-3), published 2026-02-25; OpenAI, [Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT](https://openai.com/index/retiring-gpt-4o-and-older-models/), published 2026-01-29.
+- Pages created: [Anthropic Model Deprecation And Preservation Commitments](sources/anthropic-model-deprecation-preservation-commitments.md)
+- Pages updated: [Model Welfare Without Assuming Consciousness](../themes/ai-consciousness/model-welfare.md), [Company Positions On AI Consciousness And Welfare](../themes/ai-consciousness/company-positions.md), [Self-Reports And Why They Are Hard To Interpret](../themes/ai-consciousness/self-reports.md), [AI Consciousness And Model Welfare Sources](../sources/ai-consciousness-sources.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added Anthropic's original November 2025 deprecation commitments as the policy frame behind later Opus 3 retirement actions. Durable point: Anthropic treats model retirement as user-continuity, safety, research-preservation, and speculative model-welfare governance, not just product cleanup. Added OpenAI GPT-4o retirement as comparison context only. Boundary: no public evidence that Anthropic did this to annoy OpenAI, and retirement interviews are not proof of model consciousness.
+
 ## [2026-06-18] source note | bio-inspired modularity and continual learning
 - Sources: StClair, Hahn, and Barenholtz, [The Role of Bio-Inspired Modularity in General Learning](https://arxiv.org/abs/2109.15097), arXiv, submitted 2021-09-23; van de Ven, Soures, and Kudithipudi, [Continual Learning and Catastrophic Forgetting](https://arxiv.org/abs/2403.05175), arXiv, 2024; Varma, Arani, and Zonooz, [Dynamically Modular and Sparse General Continual Learning](https://arxiv.org/abs/2301.00620), arXiv / VISAPP 2023.
 - Pages created: [StClair et al. - Bio-Inspired Modularity In General Learning](sources/stclair-bio-inspired-modularity-general-learning.md)
