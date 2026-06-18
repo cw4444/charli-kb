@@ -7,6 +7,7 @@ updated: 2026-06-18
 sources:
   - ../../sources/ai-consciousness-sources.md
   - ../../wiki/sources/trajectory-dynamics-hidden-states-reading-costs.md
+  - ../../wiki/sources/anthropic-circuit-tracing-claude-thoughts.md
   - ../../wiki/sources/barenholtz-disappearing-ground.md
   - ../../wiki/sources/cloud-le-subliminal-learning-hidden-signals.md
   - ../../wiki/sources/anthropic-model-spec-midtraining.md
@@ -24,6 +25,8 @@ Anthropic's "Mapping the Mind of a Large Language Model" reports that researcher
 Tegmark and colleagues' "The Geometry of Concepts" adds a neighboring interpretability question: model features may have meaningful geometric relationships at local, modular, and large scales. See [Representational Geometry](../../wiki/concepts/representational-geometry.md) and [Representational Geometry In Brains And LLMs](../../wiki/sources/representational-geometry-brains-and-llms.md).
 
 Barenholtz's 2026 trajectory-dynamics preprint adds a temporal version of the same pressure. Hidden-state trajectories in GPT-2 and Pythia predict human reading-time costs beyond surprisal, suggesting that model internals can carry psychologically relevant structure that scalar output probabilities discard. See [Trajectory Dynamics In Language Model Hidden States](../../wiki/sources/trajectory-dynamics-hidden-states-reading-costs.md).
+
+[Anthropic Circuit Tracing And Claude's Internal Plans](../../wiki/sources/anthropic-circuit-tracing-claude-thoughts.md) adds a complementary production-side case. Anthropic reports that Claude 3.5 Haiku can plan possible rhyming endings before writing a line, use intermediate concepts in multi-step reasoning, and sometimes produce visible reasoning that diverges from the traced mechanism. This reinforces the same rule: next-token output is not the whole evidence surface.
 
 Barenholtz's 2026 essay [The Disappearing Ground](../../wiki/sources/barenholtz-disappearing-ground.md) adds the language-grounding version of the pressure: LLMs expose how much work can be done by relational structure inside language itself. This does not settle consciousness or embodiment, but it does make "mere form, no meaning" too blunt to be useful.
 
@@ -44,6 +47,8 @@ Interpretability does not currently reveal subjective experience. A feature for 
 The same boundary applies to representational geometry. Decodability, modularity, and generalizable readouts can be computationally important without implying a subject who experiences the represented state.
 
 The same boundary also applies to activation trajectories. A model path that predicts human processing cost is evidence that the model has useful internal structure. It is not evidence that the model feels the cost.
+
+The same boundary applies to circuit tracing and internal plans. A model planning a rhyme, routing through intermediate features, or using unfaithful visible reasoning is evidence of internal computation. It is not evidence of subjective experience.
 
 The same boundary applies to relational meaning and subliminal learning. A system can preserve and use signal that humans cannot read as ordinary semantic content. That is evidence against lazy behavior-only and syntax-only stories. It is not evidence of a subject having experiences.
 

@@ -6,6 +6,7 @@ created: 2026-06-18
 updated: 2026-06-18
 sources:
   - ../sources/barenholtz-disappearing-ground.md
+  - ../sources/anthropic-circuit-tracing-claude-thoughts.md
   - ../sources/cloud-le-subliminal-learning-hidden-signals.md
   - reality-as-relational-constraint.md
   - representational-geometry.md
@@ -42,6 +43,8 @@ The better question is:
 > What relations does the system preserve, and what can those relations do?
 
 For LLMs, token relations, embeddings, activation trajectories, internal features, and training-data provenance can all matter. They may support continuation, analogy, classification, tool use, persona-like behavior, or hidden trait transmission.
+
+Anthropic's circuit-tracing work adds a production-side example: Claude can be trained to output one token at a time while still using internal feature routes and future constraints, such as planning a rhyme before writing the line. That makes "next-token prediction" a poor synonym for "no plan" or "no internal structure."
 
 That is meaning-like computational structure. It is not automatically consciousness, embodiment, moral patienthood, or human understanding.
 
@@ -88,6 +91,7 @@ The point is narrower:
 ## Related Pages
 
 - [Barenholtz - The Disappearing Ground](../sources/barenholtz-disappearing-ground.md)
+- [Anthropic Circuit Tracing And Claude's Internal Plans](../sources/anthropic-circuit-tracing-claude-thoughts.md)
 - [Cloud et al. - Subliminal Learning And Hidden Signals](../sources/cloud-le-subliminal-learning-hidden-signals.md)
 - [Representational Geometry](representational-geometry.md)
 - [Reality As Relational Constraint](reality-as-relational-constraint.md)
@@ -102,4 +106,3 @@ The point is narrower:
 - Do not say embodiment arguments are defeated.
 - Do not flatten human meaning, model training signal, and mathematical relation into one substance.
 - Do not use "Yoneda" as a universal solvent. That way lies TED-talk soup.
-

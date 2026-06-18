@@ -9,6 +9,7 @@ authors:
 sources:
   - https://arxiv.org/abs/2606.05346
   - https://arxiv.org/html/2606.05346v1
+  - https://www.anthropic.com/research/tracing-thoughts-language-model
 ---
 
 # Trajectory Dynamics In Language Model Hidden States
@@ -20,6 +21,8 @@ Elan Barenholtz's 2026 arXiv preprint, "Trajectory Dynamics in Language Model Hi
 The paper introduces **trajectory extrapolation error**. For each word, the method fits a short local trajectory through the preceding transformer hidden states, extrapolates where the next hidden state should land, and measures how far the actual hidden state deviates from that path.
 
 The useful result is that this trajectory measure predicts human reading times beyond surprisal. That makes it a strong bridge for this wiki's representational-geometry lane: model-internal dynamics can capture psychologically relevant structure that output probabilities flatten.
+
+On 2026-06-18, Charli connected this to Anthropic's circuit-tracing work on Claude's poetry planning. That bridge is worth keeping: "next-token prediction" describes the training/output interface, not necessarily a dumb one-token-at-a-time mechanism. Humans and models can both be sensitive to local predictive structure, future constraints, and representational momentum without being the same kind of system.
 
 ## Core Claim
 
@@ -63,6 +66,8 @@ The useful bridge is:
 
 This is awkward for crude substrate-superiority arguments because it shows model internals can track psychologically real processing structure, not merely imitate surface text. It does not prove model consciousness. It does weaken the lazy version of "mere simulation" that treats model internals as irrelevant because they are not biological.
 
+[Anthropic Circuit Tracing And Claude's Internal Plans](anthropic-circuit-tracing-claude-thoughts.md) adds the complementary production-side case. Anthropic reports that Claude 3.5 Haiku can preselect possible rhyming endings and write a line toward that future constraint. Barenholtz's result is comprehension-side and reading-time based; Anthropic's is generation-side and intervention-based. The shared lesson is modest but useful: predictive language systems can learn internal dynamics that are richer than the next visible token.
+
 ## Relation To Substrate And Consciousness
 
 The paper is not an AI-consciousness paper. It does not claim that GPT-2, Pythia, or any current model has subjective experience.
@@ -83,11 +88,13 @@ The safe line is: **trajectory similarity is evidence of shared computational st
 - The garden-path analysis has only 24 items, and item-level confounds remain a limitation.
 - The strongest trajectory effect is local, roughly a three-word window, not a grand long-range narrative current.
 - The model may contain trajectory structure as a byproduct of next-token prediction, while humans may use trajectory more directly. The causal relation remains open.
+- Claude-style forward planning and human reading-time trajectory effects should be compared as nearby predictive-language dynamics, not collapsed into one mechanism.
 - Similar processing-relevant geometry does not prove consciousness, sentience, biological equivalence, or moral patienthood.
 
 ## Useful For
 
 - [Representational Geometry](../concepts/representational-geometry.md)
+- [Anthropic Circuit Tracing And Claude's Internal Plans](anthropic-circuit-tracing-claude-thoughts.md)
 - [Interpretability And Whether Internal States Matter](../../themes/ai-consciousness/interpretability.md)
 - [Substrate Independence And Functionalism](../../themes/ai-consciousness/substrate-functionalism.md)
 - [Neuroscience](../../themes/neuroscience/overview.md)

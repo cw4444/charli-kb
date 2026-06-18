@@ -7,6 +7,7 @@ updated: 2026-06-18
 sources:
   - ../sources/representational-geometry-brains-and-llms.md
   - ../sources/trajectory-dynamics-hidden-states-reading-costs.md
+  - ../sources/anthropic-circuit-tracing-claude-thoughts.md
   - ../sources/cloud-le-subliminal-learning-hidden-signals.md
   - ../sources/anthropic-natural-language-autoencoders.md
   - ../sources/stclair-bio-inspired-modularity-general-learning.md
@@ -76,6 +77,14 @@ Barenholtz measures this by fitting a short local trajectory through transformer
 
 The useful lesson is not that language models are tiny human readers in a trench coat. It is that the path through representation space can carry psychologically relevant structure that output probabilities flatten.
 
+## Internal Plans And Future Constraints
+
+[Anthropic Circuit Tracing And Claude's Internal Plans](../sources/anthropic-circuit-tracing-claude-thoughts.md) adds the generation-side companion. Anthropic's poetry case reports that Claude 3.5 Haiku can identify possible rhyming endings before writing the line, then shape the line toward that future constraint.
+
+This matters because "next-token prediction" is often lazily treated as "no internal plan, no structure, just autocomplete wearing a hat." The actual claim needs to be sharper. A model can be trained to emit the next token while still learning internal representations that carry plans, candidate endings, competing constraints, and multi-step routes.
+
+That sits naturally beside Barenholtz's reading-time result: hidden-state trajectories can matter in comprehension, and traced internal plans can matter in generation. Nearby predictive dynamics, not proof of identical machinery.
+
 ## BCI Learning And Reachable Manifolds
 
 [Busch et al. 2026](../sources/busch-noninvasive-bci-manifold-geometry.md) adds a practical neurotechnology version of the same idea. Participants used real-time fMRI to control an avatar in a virtual navigation task, and the authors perturbed the mapping between neural activity and avatar movement.
@@ -134,6 +143,7 @@ It sharpens several existing threads:
 - Hidden training signal is not paranormal, intentional, or inherently semantic.
 - Natural-language activation explanations are not literal thought transcripts.
 - Modular topology is not a solved recipe for general intelligence.
+- Claude planning a rhyme is not evidence of subjective experience.
 - Learnable BCI manifold directions are not mind reading or a general theory of all human learning.
 - Sparse-autoencoder features are useful interpretability objects, not guaranteed natural atoms of thought.
 - Mixed selectivity does not mean individual units are irrelevant.
@@ -143,6 +153,7 @@ It sharpens several existing threads:
 
 - [Representational Geometry In Brains And LLMs](../sources/representational-geometry-brains-and-llms.md)
 - [Trajectory Dynamics In Language Model Hidden States](../sources/trajectory-dynamics-hidden-states-reading-costs.md)
+- [Anthropic Circuit Tracing And Claude's Internal Plans](../sources/anthropic-circuit-tracing-claude-thoughts.md)
 - [Cloud et al. - Subliminal Learning And Hidden Signals](../sources/cloud-le-subliminal-learning-hidden-signals.md)
 - [Anthropic Natural Language Autoencoders](../sources/anthropic-natural-language-autoencoders.md)
 - [StClair et al. - Bio-Inspired Modularity In General Learning](../sources/stclair-bio-inspired-modularity-general-learning.md)
