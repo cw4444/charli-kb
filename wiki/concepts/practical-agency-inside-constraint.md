@@ -3,7 +3,7 @@ title: "Practical Agency Inside Constraint"
 type: concept
 status: draft
 created: 2026-05-20
-updated: 2026-06-14
+updated: 2026-06-20
 sources:
   - ../../themes/rovelli-relational-quantum-mechanics-and-reality.md
   - ../../themes/qbism-adlam-observer-dependent-reality.md
@@ -14,6 +14,7 @@ sources:
   - ../sources/langer-counterclockwise-aging-mindset.md
   - ../sources/fallon-striatal-action-counting-steering.md
   - ../sources/yang-axonic-spines-action-potentials.md
+  - ../sources/habit-goal-directed-behavior-source-batch.md
 ---
 
 # Practical Agency Inside Constraint
@@ -80,6 +81,12 @@ This matters for practical agency because meaningful action is not usually "pres
 Fallon et al. 2026 adds a more concrete action-control bridge. In a mouse lever-press task, direct and indirect striatal pathways dissociably shaped both action counting and physical steering toward goals. The useful lesson is not that mice explain human agency. It is that goal-directed behavior can require progress tracking, spatial correction, sequence continuation, and sequence termination at the same time.
 
 That fits this page's practical frame: agency is not an uncaused spark floating above the system. It is model-guided control inside machinery that can count, steer, inhibit, extend, and correct.
+
+## Relation To Habits And Goal Control
+
+[Habits, Goals, And Behavioural Control](habits-goals-and-behavioral-control.md) supplies a more everyday version of the same point. Agency is not only deciding which goal one endorses; it is keeping present goals able to revise a response that a familiar cue has already started.
+
+That is why environmental design counts as agency rather than cheating. Changing a cue, default, friction point, or feedback loop changes the machinery through which a future intention gets a vote. The useful question is not "Why am I not stronger?" It is "What is this action actually responding to now?"
 
 ## Relation To Axonic Spines And Spike Initiation
 
@@ -171,6 +178,7 @@ This is why [Mechanical World Models](mechanical-world-models.md), [Queryable Or
 - [Cognitive Latency Shock](cognitive-latency-shock.md)
 - [Libet, Schurger, Readiness Potential, And Agency](../sources/libet-schurger-readiness-potential-agency.md)
 - [Fallon et al. - Striatal Action Counting And Goal-Directed Steering](../sources/fallon-striatal-action-counting-steering.md)
+- [Habits, Goals, And Behavioural Control](habits-goals-and-behavioral-control.md)
 - [Yang et al. - Axonic Spines And Action Potential Initiation](../sources/yang-axonic-spines-action-potentials.md)
 - [Langer Counterclockwise Study And Aging Mindset](../sources/langer-counterclockwise-aging-mindset.md)
 - [Positive Alignment](positive-alignment.md)

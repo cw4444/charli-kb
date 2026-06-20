@@ -3,10 +3,12 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-06-18
+updated: 2026-06-20
 ---
 
 # Current State
+
+On 2026-06-20, Charli brought Alana I. Mendelsohn's 2019 open PMC commentary [Creatures of Habit: The Neuroscience of Habit and Purposeful Behavior](https://pmc.ncbi.nlm.nih.gov/articles/PMC6701929/), then correctly became fascinated by the older Anthony Dickinson citation, *Actions and habits: The development of behavioural autonomy* (1985; University of Cambridge, CB2 2EB--a more civilised age). Codex added [Habit, Goal-Directed Action, And Behavioural Control Source Batch](../sources/habit-goal-directed-behavior-source-batch.md) and [Habits, Goals, And Behavioural Control](../concepts/habits-goals-and-behavioral-control.md), linking them into neuroscience, practical agency, and manifestation-as-behaviour-modification. Durable point: habitual control is cue-responsive and efficient; goal-directed action tracks current outcome value and action-outcome contingency. The real interest is switching when a context-cued default is no longer serving the present goal. Keep the brakes: this is not optimism evidence, not a moral willpower story, not a direct human brain map, and not a claim that repetition mechanically produces habits in people. Gremel and Costa 2013 supplies mouse circuit evidence; de Wit et al. 2018 supplies five failed healthy-human habit-induction attempts as the necessary methodological annoyer.
 
 This repo is a plain Markdown personal knowledge base based on Karpathy's LLM Wiki idea. It is meant to be readable by humans and AI agents directly on GitHub.
 

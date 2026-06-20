@@ -3,7 +3,7 @@ title: "Manifestation As Behavior Modification"
 type: concept
 status: draft
 created: 2026-06-08
-updated: 2026-06-16
+updated: 2026-06-20
 sources:
   - https://www.nhs.uk/conditions/cognitive-behavioural-therapy-cbt/
   - https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral
@@ -116,3 +116,4 @@ The useful sentence is simple:
 - [Repetition As Cognitive Method](repetition-as-cognitive-method.md)
 - [Research - Optimism](../questions/research-optimism.md)
 - [Practical Agency Inside Constraint](practical-agency-inside-constraint.md)
+- [Habits, Goals, And Behavioural Control](habits-goals-and-behavioral-control.md)

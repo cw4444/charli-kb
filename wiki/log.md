@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-20] research package | habits, goals, and behavioural control
+- Source: Mendelsohn 2019, [Creatures of Habit: The Neuroscience of Habit and Purposeful Behavior](https://pmc.ncbi.nlm.nih.gov/articles/PMC6701929/), plus Dickinson 1985, Gremel and Costa 2013, and de Wit et al. 2018.
+- Pages created: [Habit, Goal-Directed Action, And Behavioural Control Source Batch](sources/habit-goal-directed-behavior-source-batch.md); [Habits, Goals, And Behavioural Control](concepts/habits-goals-and-behavioral-control.md).
+- Pages updated: [Neuroscience](../themes/neuroscience/overview.md); [Practical Agency Inside Constraint](concepts/practical-agency-inside-constraint.md); [Manifestation As Behavior Modification](concepts/manifestation-as-behavior-modification.md); [Wiki Index](index.md); [Current State](meta/current-state.md).
+- Notes: Built a distinct behaviour-control lane rather than misfiling it as optimism evidence. Durable point: habits are cue-driven and efficient; goal-directed action remains sensitive to current outcome value and contingency. The interesting mechanism is the switch between them. Gremel and Costa provides a mouse corticostriatal/OFC experiment; de Wit et al. supplies the methodological brake that extensive repetition did not reliably induce stronger laboratory-defined habits across five healthy-human experiments. Keep the boundaries: this is not a human willpower map, diagnosis, or productivity sermon.
+
 ## [2026-06-18] source note | multi-agent fictitious play for decision-making
 - Source: Shen, Zhang, Zhao, Ling, and Chua, [Enhancing Decision-Making with Large Language Models through Multi-Agent Fictitious Play](https://arxiv.org/abs/2606.19308), arXiv, submitted 2026-06-17.
 - Pages created: [Multi-Agent Fictitious Play For Decision-Making](sources/multi-agent-fictitious-play-decision-making.md)

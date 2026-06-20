@@ -3,7 +3,7 @@ title: "Optimism"
 type: concept
 status: draft
 created: 2026-05-12
-updated: 2026-06-17
+updated: 2026-06-20
 sources:
   - ../sources/optimism-neuroscience-source-batch.md
   - ../sources/repetition-cognitive-method-source-batch.md
@@ -12,6 +12,7 @@ sources:
   - ../sources/libet-schurger-readiness-potential-agency.md
   - ../sources/langer-counterclockwise-aging-mindset.md
   - manifestation-as-behavior-modification.md
+  - habits-goals-and-behavioral-control.md
 ---
 
 # Optimism
@@ -89,6 +90,8 @@ Adlerian [Fictional Finalism](fictional-finalism.md) gives an older historical n
 
 This is also the salvageable core inside some manifestation writing. "Live in the state of the wish fulfilled" is useful if it means behaviour modification: act from the cues, identity, routines, and expectations that make the desired future more reachable. It is useless if it means deny evidence and wait for cosmic customer service. See [Manifestation As Behavior Modification](manifestation-as-behavior-modification.md).
 
+[Habits, Goals, And Behavioural Control](habits-goals-and-behavioral-control.md) supplies the less glamorous but more useful bridge: an optimistic future expectation has to contend with whatever cues and routines are already running the show. It helps when it supports persistence *and* ongoing outcome updating; it becomes a very cheerful mistake when it keeps an obsolete response going after the evidence has changed.
+
 Lisa Bortolotti's "Optimism, Agency, and Success" adds a bluntly useful test: does the optimistic belief help the person keep acting as a competent agent? Optimism earns its keep when it supports goal pursuit, persistence, resourcefulness, and recovery after setbacks. It stops earning its keep when it becomes invulnerability fantasy or refusal to prepare.
 
 Bortolotti's extra sting is that "unrealistic" is often the wrong complaint. An optimistic belief may be true by luck but still unwarranted because it came from biased reasoning. The better question is whether the belief helps agency while still allowing enough contact with evidence to correct course.
@@ -165,4 +168,5 @@ Ellen Langer's counterclockwise aging study belongs on the outer edge of this co
 - [Salience Weighted Judgment](salience-weighted-judgment.md)
 - [Manifestation As Behavior Modification](manifestation-as-behavior-modification.md)
 - [Fictional Finalism](fictional-finalism.md)
+- [Habits, Goals, And Behavioural Control](habits-goals-and-behavioral-control.md)
 - [Langer Counterclockwise Study And Aging Mindset](../sources/langer-counterclockwise-aging-mindset.md)

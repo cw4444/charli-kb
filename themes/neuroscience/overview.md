@@ -3,7 +3,7 @@ title: "Neuroscience"
 type: theme
 status: draft
 created: 2026-06-04
-updated: 2026-06-16
+updated: 2026-06-20
 sources:
   - ../../wiki/sources/reality-threshold-dijkstra-batch.md
   - ../../wiki/sources/wadia-shared-code-perception-imagination.md
@@ -28,6 +28,7 @@ sources:
   - ../../wiki/sources/v1-feedback-task-context-source-batch.md
   - ../../wiki/sources/choudhari-brain-controlled-selective-hearing.md
   - ../../wiki/sources/le-cunff-adhd-traits-curiosity.md
+  - ../../wiki/sources/habit-goal-directed-behavior-source-batch.md
 ---
 
 # Neuroscience
@@ -158,6 +159,7 @@ The brake matters. Mouse models are mechanism models, not miniature autistic peo
 - [Yang et al. - Axonic Spines And Action Potential Initiation](../../wiki/sources/yang-axonic-spines-action-potentials.md)
 - [Cerebellar Climbing Fibers, Disinhibition, And Learning](../../wiki/sources/cerebellar-climbing-fiber-disinhibition-learning.md)
 - [Practical Agency Inside Constraint](../../wiki/concepts/practical-agency-inside-constraint.md)
+- [Habits, Goals, And Behavioural Control](../../wiki/concepts/habits-goals-and-behavioral-control.md)
 
 This thread keeps neural precursors separate from fatalist storytelling. A readiness potential is not a tiny bureaucrat in the brain who already made every meaningful decision.
 
@@ -166,6 +168,8 @@ Fallon et al. 2026 adds a motor-control version of the same anti-magic point. In
 Yang et al. 2026 adds a lower-level cellular caution. In adult mice, excitatory synapses onto axonic spines at the axon initial segment could boost action-potential generation and route hippocampal information through dorsal lateral septum neurons. This is not a human volition paper, but it reinforces the same anti-cartoon rule: action-related neural events are implemented through specific physical architectures, not magic buttons.
 
 The paired climbing-fiber papers add a learning-gate version of the same point. In mouse cerebellar circuits, climbing-fiber events do not become equally instructive just because they arrive. Disinhibitory molecular-layer-interneuron circuits and population synchrony can determine whether climbing-fiber input produces plasticity-relevant Purkinje calcium signals and motor learning. Instruction is circuit-processed, not merely delivered.
+
+The [habit and goal-control source batch](../../wiki/sources/habit-goal-directed-behavior-source-batch.md) adds the everyday behavioural-control version: cue-driven routines and outcome-sensitive action are both useful modes, and the important machinery is the ability to switch when the outcome or context changes. Keep the human-methods brake visible: repetition does not straightforwardly manufacture laboratory-defined habits in healthy humans.
 
 ### How Can Intervention Reshape Mood-Relevant Networks?
 
