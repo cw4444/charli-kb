@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-20] source-batch update | hippocampal goal-directed sequences
+- Source: Schmidt, Wikenheiser, and Redish, [Goal-Directed Sequences in the Hippocampus](http://redishlab.neuroscience.umn.edu/papers/2018-Schmidt-bookchapter.pdf), Chapter 6 in *Goal-Directed Decision Making: Computations and Neural Circuits* (2018).
+- Page updated: [Habit, Goal-Directed Action, And Behavioural Control Source Batch](sources/habit-goal-directed-behavior-source-batch.md).
+- Notes: Added only the relevant chapter material, not a duplicate book page. Durable point: hippocampal cognitive maps, VTE, theta sequences, and sharp-wave ripples supply a prospective-planning complement to cue-driven dorsal-striatal control. Boundaries: mostly animal decision-neuroscience evidence; VTE, theta sequences, and ripples are not direct readouts of conscious thought or universal proof of planning.
+
 ## [2026-06-20] source-batch update | dorsal-striatum plasticity substrate
 - Source: Lovinger, [Neurotransmitter Roles in Synaptic Modulation, Plasticity and Learning in the Dorsal Striatum](https://pmc.ncbi.nlm.nih.gov/articles/PMC2849868/), *Neuropharmacology*, 2010.
 - Page updated: [Habit, Goal-Directed Action, And Behavioural Control Source Batch](sources/habit-goal-directed-behavior-source-batch.md).

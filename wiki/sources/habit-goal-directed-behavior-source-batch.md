@@ -10,6 +10,7 @@ sources:
   - "Gremel and Costa 2013, Nature Communications, PMC4026062"
   - "de Wit et al. 2018, Journal of Experimental Psychology: General, PMC6033090"
   - "Lovinger 2010, Neuropharmacology, PMC2849868"
+  - "Schmidt, Wikenheiser, and Redish 2018, book chapter"
 ---
 
 # Habit, Goal-Directed Action, And Behavioural Control Source Batch
@@ -65,6 +66,21 @@ The review's useful broad map is:
 
 This is a review, mostly synthesizing animal, slice, lesion, and pharmacological work available by 2010. It gives the habit lane a mechanism floor rather than a fresh room: no conclusion here licenses a human dopamine hack, a cannabinoid protocol, or a diagnosis of why somebody keeps opening the fridge.
 
+## Prospective Planning: Schmidt, Wikenheiser, And Redish 2018
+
+This is not the whole edited volume. It is the 32-page PDF of Chapter 6, *Goal-Directed Sequences in the Hippocampus*, from the larger 2018 book *Goal-Directed Decision Making: Computations and Neural Circuits*.
+
+Its useful contribution is the hippocampal complement to the striatal story. A goal-directed decision may require more than updating the value of a learned action: it can involve constructing possible future paths through a cognitive map, comparing their likely consequences, and choosing under uncertainty.
+
+The chapter gathers several evidence lines:
+
+- **Vicarious trial and error (VTE):** pauses and back-and-forth looking at choice points can mark deliberation, especially in novel or difficult decisions; they are not a direct thought readout.
+- **Hippocampal theta sequences:** within a theta cycle, place-cell activity can represent locations ahead of the animal, including alternate routes at decision points. This is consistent with prospective simulation, although the exact causal role remains unresolved.
+- **Sharp-wave ripples (SWRs):** replay-like hippocampal events may support memory retrieval and planning; disrupting waking SWRs can impair working-memory performance in animal work, but does not prove that every ripple is a conscious plan.
+- **Interaction with prefrontal cortex:** deliberative behaviour is treated as a network process involving hippocampal map-like representations and prefrontal evaluation/control, rather than a hippocampus-only imagination organ.
+
+For this wiki, the clean bridge is: goal-directed action can mean using a learned model to simulate routes and outcomes before acting. That belongs beside, not above, the striatal cue-response and plasticity material. Planning, cached skills, context, action value, and bodily control are different jobs in the same extremely unhelpful committee.
+
 ## Why It Matters Here
 
 This is the neuroscience underneath several existing wiki interests:
@@ -89,6 +105,7 @@ This is the neuroscience underneath several existing wiki interests:
 - Gremel, C. M., & Costa, R. M. (2013). [*Orbitofrontal and striatal circuits dynamically encode the shift between goal-directed and habitual actions*](https://pmc.ncbi.nlm.nih.gov/articles/PMC4026062/). *Nature Communications*, 4, 2264. Mouse circuit experiment; author manuscript in PMC. DOI: <https://doi.org/10.1038/ncomms3264>.
 - de Wit, S., Kindt, M., Knot, S. L., Verhoeven, A. A. C., Robbins, T. W., Gasull-Camós, J., & Evans, J. (2018). [*Shifting the Balance Between Goals and Habits: Five Failures in Experimental Habit Induction*](https://pmc.ncbi.nlm.nih.gov/articles/PMC6033090/). *Journal of Experimental Psychology: General*, 147(7), 1043-1065. Open full text in PMC. DOI: <https://doi.org/10.1037/xge0000402>.
 - Lovinger, D. M. (2010). [*Neurotransmitter Roles in Synaptic Modulation, Plasticity and Learning in the Dorsal Striatum*](https://pmc.ncbi.nlm.nih.gov/articles/PMC2849868/). *Neuropharmacology*, 58(7), 951-961. Public NIH author manuscript in PMC; publisher version via subscription. DOI: <https://doi.org/10.1016/j.neuropharm.2010.01.008>.
+- Schmidt, B., Wikenheiser, A. M., & Redish, A. D. (2018). [*Goal-Directed Sequences in the Hippocampus*](http://redishlab.neuroscience.umn.edu/papers/2018-Schmidt-bookchapter.pdf), Chapter 6 (pp. 125-151) in R. W. Morris, A. Bornstein, & A. Shenhav (Eds.), *Goal-Directed Decision Making: Computations and Neural Circuits*. Academic Press. Public author-hosted chapter PDF. DOI: <https://doi.org/10.1016/B978-0-12-812098-9.00006-1>.
 
 ## Useful For
 
