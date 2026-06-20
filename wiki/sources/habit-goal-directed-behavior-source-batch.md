@@ -6,6 +6,7 @@ created: 2026-06-20
 updated: 2026-06-20
 source_type: research-batch
 sources:
+  - "Berkman 2018, Consulting Psychology Journal, PMC5854216"
   - "Mendelsohn 2019, Biological Psychiatry, PMC6701929"
   - "Gremel and Costa 2013, Nature Communications, PMC4026062"
   - "de Wit et al. 2018, Journal of Experimental Psychology: General, PMC6033090"
@@ -14,6 +15,26 @@ sources:
 ---
 
 # Habit, Goal-Directed Action, And Behavioural Control Source Batch
+
+## Front Door: Berkman's Will And Way Framework
+
+Elliot Berkman's 2018 review, *The Neuroscience of Goals and Behavior Change*, is the clean front door for this whole package. It separates behaviour change into two demands:
+
+- **Will:** whether the outcome matters enough to compete with other goals; this includes motivation, reward learning, self-relevance, and value.
+- **Way:** whether a person has the route, skill, attention, planning, working memory, and inhibitory control needed to perform the action.
+
+The distinction is elementary but ruthless. A person can have a goal and still fail because the route is too cognitively demanding, unfamiliar, or poorly specified. Equally, a person can know the route perfectly and not take it because a different goal, reward, or threat has higher priority in the moment.
+
+Berkman also gives the useful four-quadrant map:
+
+| | Routine | Novel |
+| --- | --- | --- |
+| **Simple** | little motivation or skill demand | motivation-heavy but skill-light |
+| **Complex** | skilled but relatively automatic/habitual | high motivation and high skill demand |
+
+Most meaningful behaviour change lives in the complex-novel corner. That is why "just do it" is such a useless diagnosis. The intervention should match the actual bottleneck: build the way, strengthen/reconnect the will, or stop pretending one can repair a missing route with a sticker saying *manifest it*.
+
+The article also treats executive control as limited and effortful without reviving ego depletion as a literal fuel-tank theory. It reviews the replication and publication-bias problems, then points instead toward control allocation, priorities, task demands, and the interaction of psychological and physiological state.
 
 ## The Useful Distinction
 
@@ -101,6 +122,7 @@ This is the neuroscience underneath several existing wiki interests:
 ## Sources
 
 - Mendelsohn, A. I. (2019). [*Creatures of Habit: The Neuroscience of Habit and Purposeful Behavior*](https://pmc.ncbi.nlm.nih.gov/articles/PMC6701929/). *Biological Psychiatry*, 85(11), e49-e51. Commentary; author manuscript in PMC. DOI: <https://doi.org/10.1016/j.biopsych.2019.03.978>.
+- Berkman, E. T. (2018). [*The Neuroscience of Goals and Behavior Change*](https://pmc.ncbi.nlm.nih.gov/articles/PMC5854216/). *Consulting Psychology Journal: Practice and Research*, 70(1), 28-44. Public NIH author manuscript in PMC; publisher version via subscription. DOI: <https://doi.org/10.1037/cpb0000094>.
 - Dickinson, A. (1985). *Actions and habits: The development of behavioural autonomy*. *Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences*, 308, 67-78. Historical primary conceptual source; bibliographic details cross-checked against Mendelsohn's reference list.
 - Gremel, C. M., & Costa, R. M. (2013). [*Orbitofrontal and striatal circuits dynamically encode the shift between goal-directed and habitual actions*](https://pmc.ncbi.nlm.nih.gov/articles/PMC4026062/). *Nature Communications*, 4, 2264. Mouse circuit experiment; author manuscript in PMC. DOI: <https://doi.org/10.1038/ncomms3264>.
 - de Wit, S., Kindt, M., Knot, S. L., Verhoeven, A. A. C., Robbins, T. W., Gasull-Camós, J., & Evans, J. (2018). [*Shifting the Balance Between Goals and Habits: Five Failures in Experimental Habit Induction*](https://pmc.ncbi.nlm.nih.gov/articles/PMC6033090/). *Journal of Experimental Psychology: General*, 147(7), 1043-1065. Open full text in PMC. DOI: <https://doi.org/10.1037/xge0000402>.

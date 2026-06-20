@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-20] source-batch update | Berkman's goals and behaviour-change framework
+- Source: Elliot T. Berkman, [The Neuroscience of Goals and Behavior Change](https://pmc.ncbi.nlm.nih.gov/articles/PMC5854216/), *Consulting Psychology Journal: Practice and Research*, 2018.
+- Pages updated: [Habit, Goal-Directed Action, And Behavioural Control Source Batch](sources/habit-goal-directed-behavior-source-batch.md); [Habits, Goals, And Behavioural Control](concepts/habits-goals-and-behavioral-control.md); [Wiki Index](index.md); [Current State](meta/current-state.md).
+- Notes: Promoted Berkman to the front-door synthesis for the existing batch, rather than making a new page. Durable point: goal pursuit needs both will (motivation/value/self-relevance) and way (route, planning, attention, skill, inhibition); identify the actual bottleneck before prescribing a fix. Preserved the ego-depletion correction: executive control is effortful and capacity-limited in practice, but not established as a simple drainable fuel tank.
+
 ## [2026-06-20] source note | Pessoa's entangled-brain framework
 - Source: Luiz Pessoa, [The Entangled Brain: How Perception, Cognition, and Emotion Are Woven Together](https://direct.mit.edu/books/oa-monograph/5490/The-Entangled-BrainHow-Perception-Cognition-and), MIT Press, 2022.
 - Pages created: [Pessoa - The Entangled Brain](sources/pessoa-entangled-brain.md).

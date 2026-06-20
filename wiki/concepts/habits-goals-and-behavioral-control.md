@@ -17,6 +17,8 @@ The most useful question about behaviour is often not "Do I really want this?" I
 
 Sometimes the answer is a current goal: the action changes when its likely outcome changes. Sometimes it is a learned cue-response loop: the context has pressed play before anyone has convened a committee meeting.
 
+Elliot Berkman's useful front-door distinction is between **will** and **way**. Will is the motivation, value, and self-relevance that makes a goal compete successfully; way is the planning, attention, skill, working memory, and inhibition that make the route executable. A goal can fail on either axis. See [Habit, Goal-Directed Action, And Behavioural Control Source Batch](../sources/habit-goal-directed-behavior-source-batch.md).
+
 ## Two Control Modes
 
 | Control mode | What it tracks | Strength | Failure mode |
