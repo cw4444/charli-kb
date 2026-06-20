@@ -3,13 +3,14 @@ title: "Salience Weighted Judgment"
 type: concept
 status: draft
 created: 2026-06-11
-updated: 2026-06-17
+updated: 2026-06-20
 sources:
   - ../sources/kahneman-tversky-judgment-under-uncertainty.md
   - ../sources/optimism-neuroscience-source-batch.md
   - ../sources/locus-coeruleus-source-batch.md
   - ../sources/repetition-cognitive-method-source-batch.md
   - ../sources/sulewski-fixation-duration-memory-encoding.md
+  - ../sources/pessoa-entangled-brain.md
 ---
 
 # Salience Weighted Judgment
@@ -63,6 +64,8 @@ The [Locus Coeruleus](locus-coeruleus.md) adds a biological gain-control bridge.
 
 [Sulewski et al.](../sources/sulewski-fixation-duration-memory-encoding.md) adds an active-vision caution. In natural scene viewing, longer fixations were better explained by memory encoding than by visual processing difficulty. That means "looked longer" is not a clean proxy for "harder to understand" or "objectively more important." The system may be selecting what to stabilize and make usable later.
 
+[Pessoa's *The Entangled Brain*](../sources/pessoa-entangled-brain.md) provides the broader network framing: salience is not simply an emotion switch or an attention switch. What gets weight depends on a changing coalition of perception, valuation, body state, memory, goals, and available action. Useful framing; not permission to call every complicated feeling a network effect and go home early.
+
 ## Practical Countermoves
 
 - Ask what changed: the world, your attention, the feed, the search term, or the evidence?
@@ -89,4 +92,5 @@ The [Locus Coeruleus](locus-coeruleus.md) adds a biological gain-control bridge.
 - [Repetition As Cognitive Method](repetition-as-cognitive-method.md)
 - [Sulewski et al. - Fixation Duration And Memory Encoding](../sources/sulewski-fixation-duration-memory-encoding.md)
 - [Reality Threshold](reality-threshold.md)
+- [Pessoa - The Entangled Brain](../sources/pessoa-entangled-brain.md)
 - [Practical Agency Inside Constraint](practical-agency-inside-constraint.md)

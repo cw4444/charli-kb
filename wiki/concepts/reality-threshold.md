@@ -3,7 +3,7 @@ title: "Reality Threshold"
 type: concept
 status: draft
 created: 2026-04-28
-updated: 2026-06-11
+updated: 2026-06-20
 sources:
   - ../sources/reality-threshold-dijkstra-batch.md
   - ../sources/wadia-shared-code-perception-imagination.md
@@ -12,6 +12,7 @@ sources:
   - ../sources/asch-conformity-social-pressure.md
   - ../sources/kahneman-tversky-judgment-under-uncertainty.md
   - ../sources/locus-coeruleus-source-batch.md
+  - ../sources/pessoa-entangled-brain.md
 ---
 
 # Reality Threshold
@@ -49,6 +50,8 @@ The two should not be collapsed. A thought can feel important without feeling pe
 
 That matters because an aroused system may treat ambiguous cues as more urgent or consequential. It does not mean LC activity creates reality or makes every vivid signal true. It means felt force can be partly a body-brain state, not just evidence.
 
+Pessoa's [*The Entangled Brain*](../sources/pessoa-entangled-brain.md) supplies a higher-level framework for that caveat. Perception, cognition, emotion, bodily regulation, attention, and possible action are interwoven network processes; a signal is evaluated by a living system already in a state. That does not make reality arbitrary. It explains why source monitoring is more than a little camera deciding whether it saw a thing.
+
 ## Relation To Social Reality Pressure
 
 [Social Reality Pressure](social-reality-pressure.md) adds the group layer. Asch's line-judgment experiments show that public consensus can pressure a person to give a wrong answer even when the perceptual evidence is simple.
@@ -73,6 +76,7 @@ The *Black Mirror* episode "Bete Noire" is a cultural illustration of the extrem
 - [Social Reality Pressure](social-reality-pressure.md)
 - [Salience Weighted Judgment](salience-weighted-judgment.md)
 - [Locus Coeruleus](locus-coeruleus.md)
+- [Pessoa - The Entangled Brain](../sources/pessoa-entangled-brain.md)
 - [Wadia Shared Code For Perception And Imagination](../sources/wadia-shared-code-perception-imagination.md)
 - [Li et al. - Internal States And V1 Behavior Covariation](../sources/li-internal-states-v1-behavior.md)
 - [V1 Feedback And Task Context Source Batch](../sources/v1-feedback-task-context-source-batch.md)

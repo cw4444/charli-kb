@@ -29,6 +29,7 @@ sources:
   - ../../wiki/sources/choudhari-brain-controlled-selective-hearing.md
   - ../../wiki/sources/le-cunff-adhd-traits-curiosity.md
   - ../../wiki/sources/habit-goal-directed-behavior-source-batch.md
+  - ../../wiki/sources/pessoa-entangled-brain.md
 ---
 
 # Neuroscience
@@ -55,6 +56,7 @@ The repo already contains a substantial neuroscience thread, but it has been sca
 - [Locus Coeruleus](../../wiki/concepts/locus-coeruleus.md): the brainstem noradrenergic "blue dot" as a state/gain regulator for arousal, salience, task engagement, and stress.
 - [Practical Agency Inside Constraint](../../wiki/concepts/practical-agency-inside-constraint.md): meaningful control inside neural and practical constraint.
 - [Interface Theory Of Perception](../../wiki/concepts/interface-theory-of-perception.md): perception as action-oriented interface rather than raw reality.
+- [Pessoa - The Entangled Brain](../../wiki/sources/pessoa-entangled-brain.md): network-level framing for why perception, cognition, emotion, body state, and action do not behave as tidy separate departments.
 
 This page gives those ideas a shared map and makes room for lower-level cellular and molecular neuroscience.
 

@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-20] source note | Pessoa's entangled-brain framework
+- Source: Luiz Pessoa, [The Entangled Brain: How Perception, Cognition, and Emotion Are Woven Together](https://direct.mit.edu/books/oa-monograph/5490/The-Entangled-BrainHow-Perception-Cognition-and), MIT Press, 2022.
+- Pages created: [Pessoa - The Entangled Brain](sources/pessoa-entangled-brain.md).
+- Pages updated: [Neuroscience](../themes/neuroscience/overview.md); [Reality Threshold](concepts/reality-threshold.md); [Salience Weighted Judgment](concepts/salience-weighted-judgment.md); [Representational Geometry In Brains And LLMs](sources/representational-geometry-brains-and-llms.md); [Wiki Index](index.md); [Current State](meta/current-state.md).
+- Notes: Added only the book's relevant framework: perception, cognition, emotion, body state, action, and context form interacting network processes rather than tidy departmental modules. It is a useful bridge for BLA population geometry, state-sensitive perception, salience, and agency. Boundary: book-length theoretical synthesis, not a single decisive experiment; network entanglement is not "anything causes everything" sludge.
+
 ## [2026-06-20] source-batch update | hippocampal goal-directed sequences
 - Source: Schmidt, Wikenheiser, and Redish, [Goal-Directed Sequences in the Hippocampus](http://redishlab.neuroscience.umn.edu/papers/2018-Schmidt-bookchapter.pdf), Chapter 6 in *Goal-Directed Decision Making: Computations and Neural Circuits* (2018).
 - Page updated: [Habit, Goal-Directed Action, And Behavioural Control Source Batch](sources/habit-goal-directed-behavior-source-batch.md).
