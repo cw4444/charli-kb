@@ -9,6 +9,7 @@ sources:
   - "Mendelsohn 2019, Biological Psychiatry, PMC6701929"
   - "Gremel and Costa 2013, Nature Communications, PMC4026062"
   - "de Wit et al. 2018, Journal of Experimental Psychology: General, PMC6033090"
+  - "Lovinger 2010, Neuropharmacology, PMC2849868"
 ---
 
 # Habit, Goal-Directed Action, And Behavioural Control Source Batch
@@ -51,6 +52,19 @@ de Wit and colleagues reported five failed attempts to produce stronger habitual
 
 The authors' interpretation is especially useful for the clinical literature: poor adjustment after outcome devaluation may reflect weak goal-directed control rather than a supercharged habit system. In plain English, an apparently stubborn action does not tell you by itself whether the habit engine is too strong, the goal-updating system is underpowered, or the task failed to measure the distinction cleanly.
 
+## Molecular Substrate: Lovinger 2010
+
+David Lovinger's 2010 review supplies the lower-level machinery beneath the DMS/DLS and OFC control story. The dorsal striatum is not a single habit button; it is a dense learning-and-action system in which medium spiny neurons integrate cortical and thalamic glutamate input with dopamine, acetylcholine, GABA, adenosine, and endocannabinoid modulation.
+
+The review's useful broad map is:
+
+- glutamatergic LTP in striatal projection neurons involves NMDA receptors plus D1 dopamine or A2A adenosine signalling;
+- a major form of glutamatergic LTD uses metabotropic glutamate receptors, D2 dopamine signalling, and retrograde endocannabinoid/CB1 mechanisms;
+- DMS and DLS differ in their learning roles, while direct and indirect pathway neurons have partly distinct plasticity conditions;
+- receptor manipulations and lesions in animal tasks point to separable molecular contributions to action-outcome learning, habit learning, extinction, and skilled action sequences.
+
+This is a review, mostly synthesizing animal, slice, lesion, and pharmacological work available by 2010. It gives the habit lane a mechanism floor rather than a fresh room: no conclusion here licenses a human dopamine hack, a cannabinoid protocol, or a diagnosis of why somebody keeps opening the fridge.
+
 ## Why It Matters Here
 
 This is the neuroscience underneath several existing wiki interests:
@@ -74,6 +88,7 @@ This is the neuroscience underneath several existing wiki interests:
 - Dickinson, A. (1985). *Actions and habits: The development of behavioural autonomy*. *Philosophical Transactions of the Royal Society of London. Series B, Biological Sciences*, 308, 67-78. Historical primary conceptual source; bibliographic details cross-checked against Mendelsohn's reference list.
 - Gremel, C. M., & Costa, R. M. (2013). [*Orbitofrontal and striatal circuits dynamically encode the shift between goal-directed and habitual actions*](https://pmc.ncbi.nlm.nih.gov/articles/PMC4026062/). *Nature Communications*, 4, 2264. Mouse circuit experiment; author manuscript in PMC. DOI: <https://doi.org/10.1038/ncomms3264>.
 - de Wit, S., Kindt, M., Knot, S. L., Verhoeven, A. A. C., Robbins, T. W., Gasull-Camós, J., & Evans, J. (2018). [*Shifting the Balance Between Goals and Habits: Five Failures in Experimental Habit Induction*](https://pmc.ncbi.nlm.nih.gov/articles/PMC6033090/). *Journal of Experimental Psychology: General*, 147(7), 1043-1065. Open full text in PMC. DOI: <https://doi.org/10.1037/xge0000402>.
+- Lovinger, D. M. (2010). [*Neurotransmitter Roles in Synaptic Modulation, Plasticity and Learning in the Dorsal Striatum*](https://pmc.ncbi.nlm.nih.gov/articles/PMC2849868/). *Neuropharmacology*, 58(7), 951-961. Public NIH author manuscript in PMC; publisher version via subscription. DOI: <https://doi.org/10.1016/j.neuropharm.2010.01.008>.
 
 ## Useful For
 

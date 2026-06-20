@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-20] source-batch update | dorsal-striatum plasticity substrate
+- Source: Lovinger, [Neurotransmitter Roles in Synaptic Modulation, Plasticity and Learning in the Dorsal Striatum](https://pmc.ncbi.nlm.nih.gov/articles/PMC2849868/), *Neuropharmacology*, 2010.
+- Page updated: [Habit, Goal-Directed Action, And Behavioural Control Source Batch](sources/habit-goal-directed-behavior-source-batch.md).
+- Notes: Folded this open NIH author-manuscript review into the existing habit/goal-control batch rather than making a new article. Durable point: dopamine, glutamate, acetylcholine, GABA, adenosine, and endocannabinoid modulation supply the synaptic-plasticity substrate beneath dorsal-striatal action, skill, goal-directed, and habit learning. Boundary: mostly animal/slice/pharmacology review through 2010; not a human intervention manual or a new standalone lane.
+
 ## [2026-06-20] research package | habits, goals, and behavioural control
 - Source: Mendelsohn 2019, [Creatures of Habit: The Neuroscience of Habit and Purposeful Behavior](https://pmc.ncbi.nlm.nih.gov/articles/PMC6701929/), plus Dickinson 1985, Gremel and Costa 2013, and de Wit et al. 2018.
 - Pages created: [Habit, Goal-Directed Action, And Behavioural Control Source Batch](sources/habit-goal-directed-behavior-source-batch.md); [Habits, Goals, And Behavioural Control](concepts/habits-goals-and-behavioral-control.md).
