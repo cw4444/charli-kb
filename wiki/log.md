@@ -1,5 +1,10 @@
 # Wiki Log
 
+## [2026-06-21] source-batch update | belief in optimism counterweight
+- Source: Michael Roy, [Belief in optimism might be more problematic than actual optimism](https://doi.org/10.3389/fpsyg.2014.00624), *Frontiers in Psychology*, 2014.
+- Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md); [Optimism](concepts/optimism.md); [Research - Optimism](questions/research-optimism.md); [Wiki Index](index.md); [Current State](meta/current-state.md).
+- Notes: Filed Roy as explicitly philosophical/normative ballast, not as a new experiment or a claim that optimism is harmful. Durable point: treating optimism as inherently virtuous or causally sufficient can conceal structural constraints and make caution or bad outcomes look like personal attitude failure. The useful target remains flexible, evidence-sensitive optimism that supports action without becoming compulsory cheerfulness.
+
 ## [2026-06-21] source note | prosocial reward and negative emotional inertia
 - Source: Shi, Liu, Chen, Luo, and Luo, [Sustained dorsolateral prefrontal cortex response to prosocial reward predicts lower real-world negative emotional inertia](https://doi.org/10.3758/s13415-025-01368-z), *Cognitive, Affective, & Behavioral Neuroscience*, 2026.
 - Pages created: [Shi et al. - Prosocial Reward And Negative Emotional Inertia](sources/shi-prosocial-reward-emotional-inertia.md).

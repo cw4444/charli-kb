@@ -3,7 +3,7 @@ title: "Research - Optimism"
 type: question
 status: draft
 created: 2026-05-12
-updated: 2026-06-17
+updated: 2026-06-21
 question: "What does public neuroscience and adjacent cognitive research suggest about optimism?"
 sources:
   - ../sources/optimism-neuroscience-source-batch.md
@@ -135,6 +135,8 @@ Kahle Monahan, Chang, Yu, and Yu's 2020 Wiley encyclopedia chapter is useful her
 The 2024 OxJournal overview adds the development-friendly version of this same mechanism. It distinguishes dispositional optimism, attributional optimism, and optimism bias, and it points toward learned-optimism/Penn Optimism Program style interventions. The part worth keeping is not a grand adolescent-neuroplasticity claim. It is the practical attribution shift: after a setback, a person can learn to ask whether the cause is specific, unstable, and workable rather than treating it as permanent, global, and identity-defining. That is optimism as agency maintenance, not decorative cheerfulness.
 
 Forgeard and Seligman's 2012 review is worth keeping in the same conceptual shelf rather than as a new evidence spine. It cleanly separates two older research traditions: optimistic explanatory style, rooted in learned helplessness and attributional habits, and dispositional optimism, rooted in broad future expectancy and goal pursuit. Its useful warning is that the goal is flexible, realistic optimism. Optimism often helps because it supports active coping, persistence, resource-seeking, and openness to opportunity. But when threat is immediate, odds are bad, preparation is the point, or disengagement from a losing goal is wiser, realistic pessimism can be adaptive.
+
+Roy's 2014 Frontiers opinion article adds a useful second-order check: a culture that treats optimism as inherently good or causally sufficient can turn it into a moral demand, make real constraints disappear from the explanation, and blame people for appropriate caution or outcomes they did not control. It is conceptual ballast rather than a new experiment, but that is precisely why it belongs beside the mechanisms: the package should not quietly use neuroscience to launder an ideology of compulsory cheerfulness.
 
 Scheier, Carver, and Bridges 1994 gives the clean research label for people who seem to arrive with optimism already installed: dispositional optimism. It is a stable generalized outcome expectancy, usually measured by Life Orientation Test-style self-report, not necessarily a learned practice. That makes it a better fit for the "life generally works out" pattern than manifestation language. The person may not be rehearsing positivity; they may simply start from a different prior about whether effort, help, and time are likely to produce a tolerable outcome.
 
@@ -285,6 +287,7 @@ The bills still exist. The better version of optimism is not pretending they do 
 - The 2021 systematic review found only 14 eligible neuroimaging studies; many samples were small, measures were mixed, and the evidence was mostly correlational.
 - The 2012 dopamine paper is useful mechanism evidence, but it does not make dopamine the whole story, justify medication-as-optimism, or erase serotonin, noradrenaline, stress, context, personality, and learning history.
 - Shah 2012 is commentary, not a new experiment, but it matters because it keeps the methodological caveat visible: optimism-bias tasks can be artifact-prone, and newer neuroscience methods still need the same scrutiny as older comparison measures.
+- Roy 2014 is an opinion article, not evidence that optimism is harmful. It is a normative warning against treating optimism as a universal virtue, cure, or explanation for outcomes shaped by structural conditions.
 - The 2017 optimistic reinforcement-learning paper uses human instrumental learning and fMRI, not modern AI RL. It is mechanism evidence about value updating, not proof that optimism is always useful or that negative outcomes should be underweighted.
 - Best Possible Self imagery has short-term intervention evidence, but it is not proof of durable life change or downstream health benefits.
 - The Dolcos et al. OFC result is small-sample structural/correlational evidence. It should not be read as causal proof or treatment advice.

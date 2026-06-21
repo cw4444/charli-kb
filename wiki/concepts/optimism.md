@@ -3,7 +3,7 @@ title: "Optimism"
 type: concept
 status: draft
 created: 2026-05-12
-updated: 2026-06-20
+updated: 2026-06-21
 sources:
   - ../sources/optimism-neuroscience-source-batch.md
   - ../sources/repetition-cognitive-method-source-batch.md
@@ -35,6 +35,8 @@ Charli's workplace observation adds a useful non-peer-reviewed warning: optimism
 The 2024 OxJournal overview is not primary evidence, but it usefully names the developmental bridge. Dispositional optimism is future expectation; attributional optimism is the habit of explaining setbacks as specific, unstable, and workable; optimism bias is the risky version where a person underweights bad evidence. For this wiki, the interesting "cheat code" is mostly the middle one: changing the explanation of a setback can preserve agency long enough for action to continue.
 
 Forgeard and Seligman's 2012 review is useful for the older map. It separates optimistic explanatory style from dispositional optimism: one asks how people explain events, the other asks what they broadly expect from the future. Its best contribution here is the adult boundary: healthy optimism is flexible. It usually helps when it supports coping, effort, opportunity scanning, and persistence, but temporary realistic pessimism can be useful when danger is near, odds are genuinely poor, or preparation matters more than morale. Optimism is a tool, not a wedding vow.
+
+Michael Roy's 2014 opinion piece adds the social-level warning: belief in optimism can be more troublesome than optimism itself when it becomes a moral demand or universal explanation for outcomes. That framing can erase structural constraints and make sensible caution look like a character flaw. This is philosophical ballast, not experimental proof that optimism harms people; it keeps the useful version evidence-sensitive, non-moralising, and allergic to cosmic admin.
 
 Scheier, Carver, and Bridges 1994 gives the proper label for the Soap-shaped creature: dispositional optimism. This is not an exercise, affirmation habit, or "lucky girl" performance. It is a relatively stable generalized outcome expectancy: the person tends to assume that things will work out well enough to keep acting. In practical English, inconvenience arrives and the system does not immediately treat it as a verdict. It treats it as a problem, a detour, or a biscuit-level delay.
 
@@ -138,6 +140,7 @@ Ellen Langer's counterclockwise aging study belongs on the outer edge of this co
 - `ACC/IFG split`: rough neuroimaging distinction between self-relevant future construction and challenged-belief updating.
 - `Dopamine and bad-news updating`: L-DOPA evidence that dopamine modulation can increase optimism bias by weakening belief updating from undesirable information.
 - `Methodological ballast`: optimism-bias findings need measurement scrutiny; neural or pharmacological evidence does not erase comparison-method and task-design caveats.
+- `Normative ballast`: optimism may be a useful cognitive resource without being a moral virtue, a universal cure, or an explanation for outcomes shaped by material conditions.
 - `Optimistic reinforcement learning`: human instrumental-learning evidence that better-than-expected rewards can update learned values more strongly than worse-than-expected outcomes.
 - `Optimistic rat motivation`: animal-model evidence linking positive ambiguous-cue judgment bias with greater reward-seeking persistence, without pretending rats are tiny humans with affirmations.
 - `Ecological optimism boundary`: mouse evidence that judgement-bias optimism did not predict risky foraging under predator odour, even though individual safe-choice tendencies were repeatable.

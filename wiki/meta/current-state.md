@@ -3,10 +3,12 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-06-20
+updated: 2026-06-21
 ---
 
 # Current State
+
+Later on 2026-06-21, Charli found Michael Roy's 2014 [Belief in optimism might be more problematic than actual optimism](https://doi.org/10.3389/fpsyg.2014.00624). Codex folded it into [Optimism Neuroscience Source Batch](../sources/optimism-neuroscience-source-batch.md), [Optimism](../concepts/optimism.md), and [Research - Optimism](../questions/research-optimism.md), rather than starting an optimism-metaphysics annex. Roy is an opinion/philosophical counterweight, not experimental evidence that optimism harms people. Durable point: treating optimism as a virtue or universal causal explanation can hide structural constraints and turn sensible caution or bad outcomes into alleged attitude failure. Keep the useful standard: flexible, evidence-sensitive optimism that supports action; no compulsory cheerfulness, no cosmic admin.
 
 Later on 2026-06-21, Charli found Shi et al.'s 2026 [Sustained dorsolateral prefrontal cortex response to prosocial reward predicts lower real-world negative emotional inertia](https://doi.org/10.3758/s13415-025-01368-z), then sensibly objected to Springer Nature accidentally validating spiritual influencers. Codex added [Shi et al. - Prosocial Reward And Negative Emotional Inertia](../sources/shi-prosocial-reward-emotional-inertia.md) as a small reward/emotion-dynamics note only. Access: hybrid/no-access Springer page; public abstract/metadata synthesis, while Charli's Dropbox subscription PDF remains private. Durable point: among 61 young adults, more sustained left-DLPFC response to prosocial reward was associated with less self-reported negative emotional inertia over two weeks. Keep caveats: relatively weak prosocial response, small/restricted sample, self-report ESM, correlational result; not proof that prosocial behaviour, spirituality, or DLPFC interventions cure sadness.
 

@@ -3,7 +3,7 @@ title: "Optimism Neuroscience Source Batch"
 type: source
 status: draft
 created: 2026-05-12
-updated: 2026-06-17
+updated: 2026-06-21
 source_type: public-research-batch
 authors:
   - Sanda Dolcos
@@ -167,6 +167,7 @@ counterpoint_sources:
   - "Shepperd, Pogge, and Howell, Consciousness and Cognition, 2017, Assessing the consequences of unrealistic optimism: Challenges and recommendations, https://doi.org/10.1016/j.concog.2016.07.004"
 commentary_sources:
   - "Shah, Frontiers in Psychology, 2012, Toward a Neurobiology of Unrealistic Optimism, https://doi.org/10.3389/fpsyg.2012.00344"
+  - "Roy, Frontiers in Psychology, 2014, Belief in optimism might be more problematic than actual optimism, https://doi.org/10.3389/fpsyg.2014.00624"
   - "Hecht, Experimental Neurobiology, 2013, The Neural Basis of Optimism and Pessimism, https://doi.org/10.5607/en.2013.22.3.173"
   - "Forgeard and Seligman, Pratiques psychologiques, 2012, Seeing the glass half full: A review of the causes and consequences of optimism, https://doi.org/10.1016/j.prps.2012.02.002"
   - "Kahle Monahan, Chang, Yu, and Yu, The Wiley Encyclopedia of Personality and Individual Differences, 2020, Optimism and Pessimism: Conceptualization, Personality Correlates, and Contextual Considerations, https://doi.org/10.1002/9781118970843.ch231"
@@ -231,6 +232,8 @@ Sharot, Korn, and Dolan 2011 shifts the emphasis from imagery to learning. Parti
 Sharot, Guitart-Masip, Korn, Chowdhury, and Dolan 2012 adds the pharmacology tile that was missing from this package. In a belief-updating task, administration of L-DOPA, which enhances dopaminergic function, increased optimism bias by impairing updating from undesirable future information. The useful addition is not simply "dopamine makes people happy." It is narrower: dopamine modulation can make bad-news prediction errors carry less corrective force when people revise beliefs about personal future risks.
 
 Shah 2012 is a short commentary on the Sharot dopamine and belief-updating line, useful mainly as a methodological guardrail. Shah accepts that the cognitive-neuroscience turn is promising, but reminds the reader that optimism-bias research had already faced serious criticism around the traditional comparison approach and possible statistical artifacts. The commentary argues that the newer belief-update method should be examined with the same rigor as the older methods, especially because using only negative future events can itself create interpretive problems. This belongs in the package as anti-confirmation-bias ballast: Sharot et al. may be important mechanism evidence, but it should not become a trump card that makes measurement caveats vanish.
+
+Roy 2014 adds a different kind of brake: philosophical and normative rather than experimental. Roy argues that treating optimism as inherently virtuous or universally causally beneficial can turn an outlook into a moral demand, obscuring structural constraints and recasting appropriate caution or bad outcomes as personal attitude failure. It does not show that optimism is harmful, nor cancel empirical associations between some forms of optimism and useful outcomes. Its job here is narrower and more valuable: ask when optimism is evidence-sensitive, contextually viable, and serving action rather than becoming an ideology with a smiley-face sticker.
 
 Lefebvre, Lebreton, Meyniel, Bourgeois-Gironde, and Palminteri 2017 pushes the same asymmetry down into instrumental reinforcement learning. In a two-armed bandit task with neutral cues and immediate monetary outcomes, participants showed optimistic learning: better-than-expected outcomes carried more updating weight than worse-than-expected outcomes. Their computational model separated positive and negative learning rates, and fMRI linked individual optimistic-learning differences to prediction-error signaling in reward circuitry.
 
@@ -371,6 +374,8 @@ Colvin and Block 1994 pushed back on Taylor and Brown's thesis. Their review arg
 Taylor and Brown replied the same year, clarifying that they were not defending all forms of distortion or claiming that realism is always bad. Their position was narrower: some positively biased perceptions may be adaptive under some conditions.
 
 Shepperd, Pogge, and Howell 2017 is useful because it cools down the whole field. Their review argues that the consequences of unrealistic optimism are difficult to assess cleanly, especially when researchers infer bias at the group level rather than the individual level. That is a methodological warning against simplistic claims in either direction.
+
+Roy 2014 supplies the normative companion warning: do not convert a possible cognitive resource into a universal virtue, an explanation for every outcome, or a stick for beating people whose conditions are objectively difficult.
 
 ## What The "Abstract Negative Events" Claim Seems To Mean
 
