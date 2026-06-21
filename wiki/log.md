@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-21] source note | prosocial reward and negative emotional inertia
+- Source: Shi, Liu, Chen, Luo, and Luo, [Sustained dorsolateral prefrontal cortex response to prosocial reward predicts lower real-world negative emotional inertia](https://doi.org/10.3758/s13415-025-01368-z), *Cognitive, Affective, & Behavioral Neuroscience*, 2026.
+- Pages created: [Shi et al. - Prosocial Reward And Negative Emotional Inertia](sources/shi-prosocial-reward-emotional-inertia.md).
+- Pages updated: [Wiki Index](index.md); [Current State](meta/current-state.md).
+- Notes: Added a narrow, abstract-bound reward/emotion-dynamics note, not a spiritual-influencer validation packet. In 61 young adults, a more sustained left-DLPFC response to prosocial reward was associated with lower self-reported negative emotional inertia across two weeks; weak prosocial responses, small/restricted sample, self-report, and correlation remain loud caveats.
+
 ## [2026-06-21] sidebar source note | volatile neurons and reliable sensory coding
 - Source: Ebrahimi, Lecoq, Rumyantsev, Tasci, Zhang, Irimia, Li, Ganguli, and Schnitzer, [Emergent reliability in sensory cortical coding and inter-area communication](https://doi.org/10.1038/s41586-022-04724-y), *Nature*, 2022.
 - Pages created: [Ebrahimi et al. - Reliable Sensory Coding Despite Cellular Variability](sources/ebrahimi-reliable-sensory-coding.md).
