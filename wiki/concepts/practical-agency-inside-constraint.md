@@ -16,6 +16,7 @@ sources:
   - ../sources/yang-axonic-spines-action-potentials.md
   - ../sources/habit-goal-directed-behavior-source-batch.md
   - ../sources/veiga-zarza-cognitive-dissonance-attitude-change.md
+  - ../sources/zhao-thalamus-brainstem-history-biased-decisions.md
 ---
 
 # Practical Agency Inside Constraint
@@ -94,6 +95,12 @@ That is why environmental design counts as agency rather than cheating. Changing
 [Veiga-Zarza et al.](../sources/veiga-zarza-cognitive-dissonance-attitude-change.md) adds a difficult but useful agency warning: when action, commitment, identity, or evidence clash, the system may change an attitude or value representation to reduce the conflict. Their scoping review places ACC conflict detection, DLPFC-linked value updating, and ventral-striatal preference representation in the proposed neural story.
 
 The practical version is not "never change your mind." It is to ask whether a revised attitude has improved contact with evidence or merely made an existing commitment easier to live with. Updating is agency when it becomes better model correction; it is self-sealing when it only protects the old action from review.
+
+## Relation To History-Biased Decisions
+
+[Zhao et al.](../sources/zhao-thalamus-brainstem-history-biased-decisions.md) adds a fish-scale control-system reminder: current choice can begin from a state that already encodes the recent past. In larval zebrafish, a dorsal-thalamus attractor held the most recent obstacle position, while a hindbrain integrator combined that state with current cues to bias the next evasive manoeuvre.
+
+For practical agency, the useful inference is cautious. Better decisions do not require pretending one has no priors; they require noticing that a recent experience may be supplying a useful or outdated starting bias. The next action can incorporate current evidence without being produced by current evidence alone.
 
 ## Relation To Axonic Spines And Spike Initiation
 
@@ -187,6 +194,7 @@ This is why [Mechanical World Models](mechanical-world-models.md), [Queryable Or
 - [Fallon et al. - Striatal Action Counting And Goal-Directed Steering](../sources/fallon-striatal-action-counting-steering.md)
 - [Habits, Goals, And Behavioural Control](habits-goals-and-behavioral-control.md)
 - [Veiga-Zarza et al. - Cognitive Dissonance And Attitude Change](../sources/veiga-zarza-cognitive-dissonance-attitude-change.md)
+- [Zhao et al. - Thalamus-Brainstem History-Biased Decisions](../sources/zhao-thalamus-brainstem-history-biased-decisions.md)
 - [Yang et al. - Axonic Spines And Action Potential Initiation](../sources/yang-axonic-spines-action-potentials.md)
 - [Langer Counterclockwise Study And Aging Mindset](../sources/langer-counterclockwise-aging-mindset.md)
 - [Positive Alignment](positive-alignment.md)

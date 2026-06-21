@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-21] source note | zebrafish history-biased decisions
+- Source: Zhao et al., [A thalamus-brainstem attractor network drives history-biased decisions](https://doi.org/10.1038/s41586-026-10623-3), *Nature*, published 2026-06-10.
+- Pages created: [Zhao et al. - Thalamus-Brainstem History-Biased Decisions](sources/zhao-thalamus-brainstem-history-biased-decisions.md).
+- Pages updated: [Neuroscience](../themes/neuroscience/overview.md); [Practical Agency Inside Constraint](concepts/practical-agency-inside-constraint.md); [Wiki Index](index.md); [Current State](meta/current-state.md).
+- Notes: Added a narrow, abstract/metadata-bound note for the larval-zebrafish result. Durable point: dorsal-thalamus attractors maintained the last obstacle as categorical persistent activity, while a hindbrain integrator combined recent history with current cues to bias the next evasive action. Boundary: closed/hybrid Nature article, fish task, short-lived recent-event memory, not a human-decision or free-will theory.
+
 ## [2026-06-21] source note | cognitive dissonance and attitude change
 - Source: Veiga-Zarza, Álvarez, Harmon-Jones, and Carretié, [Neural basis of attitude change motivated by cognitive dissonance: a scoping review](https://doi.org/10.3758/s13415-025-01369-y), *Cognitive, Affective, & Behavioral Neuroscience*, 2026.
 - Pages created: [Veiga-Zarza et al. - Cognitive Dissonance And Attitude Change](sources/veiga-zarza-cognitive-dissonance-attitude-change.md).

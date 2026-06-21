@@ -30,6 +30,7 @@ sources:
   - ../../wiki/sources/le-cunff-adhd-traits-curiosity.md
   - ../../wiki/sources/habit-goal-directed-behavior-source-batch.md
   - ../../wiki/sources/pessoa-entangled-brain.md
+  - ../../wiki/sources/zhao-thalamus-brainstem-history-biased-decisions.md
 ---
 
 # Neuroscience
@@ -115,6 +116,7 @@ The useful bridge is that selective hearing is not merely a social complaint or 
 - [Optimism Neuroscience Source Batch](../../wiki/sources/optimism-neuroscience-source-batch.md)
 - [Repetition As Cognitive Method Source Batch](../../wiki/sources/repetition-cognitive-method-source-batch.md)
 - [Le Cunff et al. - ADHD Traits And Curiosity](../../wiki/sources/le-cunff-adhd-traits-curiosity.md)
+- [Zhao et al. - Thalamus-Brainstem History-Biased Decisions](../../wiki/sources/zhao-thalamus-brainstem-history-biased-decisions.md)
 - [Optimism](../../wiki/concepts/optimism.md)
 - [Repetition As Cognitive Method](../../wiki/concepts/repetition-as-cognitive-method.md)
 - [Curiosity Driven Exploration](../../wiki/concepts/curiosity-driven-exploration.md)
@@ -125,6 +127,8 @@ This thread treats optimism as a style of future representation, belief updating
 The repetition thread adds the method boundary: spaced retrieval and feedback-sensitive practice can strengthen learning, while repetitive negative thinking can become a hard-to-disengage stress and aging-risk loop. The serious claim is not that repetition is good or bad. It is that repetition strengthens the loop actually being run.
 
 Le Cunff et al. 2026 adds a neurodevelopmental/psychological bridge: in a UK adult cross-sectional survey, hyperactive-impulsive ADHD traits uniquely predicted self-reported curiosity after controlling for demographics, while inattention did not. The useful wiki point is not "ADHD is a superpower." It is that curiosity, novelty seeking and uncertainty engagement may be part of some ADHD-shaped exploration patterns, especially when structure turns the search into finished knowledge rather than tab-sprawl.
+
+Zhao et al. 2026 adds a state-history mechanism in larval zebrafish. A dorsal-thalamus attractor held the latest obstacle location as a categorical 10–20-second memory; a downstream hindbrain integrator combined that memory with current cues to bias the next evasive decision. The useful warning is that current evidence enters a system already carrying recent history. Tiny fish; no license to diagnose every human decision as a thalamic leftover.
 
 ### How Does Salience Distort Judgment?
 
