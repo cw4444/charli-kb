@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-21] source note | cognitive dissonance and attitude change
+- Source: Veiga-Zarza, Álvarez, Harmon-Jones, and Carretié, [Neural basis of attitude change motivated by cognitive dissonance: a scoping review](https://doi.org/10.3758/s13415-025-01369-y), *Cognitive, Affective, & Behavioral Neuroscience*, 2026.
+- Pages created: [Veiga-Zarza et al. - Cognitive Dissonance And Attitude Change](sources/veiga-zarza-cognitive-dissonance-attitude-change.md).
+- Pages updated: [Practical Agency Inside Constraint](concepts/practical-agency-inside-constraint.md); [Salience Weighted Judgment](concepts/salience-weighted-judgment.md); [Wiki Index](index.md); [Current State](meta/current-state.md).
+- Notes: Added one compact source note rather than a new cognitive-dissonance universe. Public abstract/metadata support a review-level ACC conflict-detection -> DLPFC-linked attitude/value-updating -> preference-region framing, with anterior insula and precuneus unresolved. Boundary: hybrid/no-access Springer article; scoping review, not a causal neural circuit map or a universal explanation for belief change.
+
 ## [2026-06-20] source-batch update | Berkman's goals and behaviour-change framework
 - Source: Elliot T. Berkman, [The Neuroscience of Goals and Behavior Change](https://pmc.ncbi.nlm.nih.gov/articles/PMC5854216/), *Consulting Psychology Journal: Practice and Research*, 2018.
 - Pages updated: [Habit, Goal-Directed Action, And Behavioural Control Source Batch](sources/habit-goal-directed-behavior-source-batch.md); [Habits, Goals, And Behavioural Control](concepts/habits-goals-and-behavioral-control.md); [Wiki Index](index.md); [Current State](meta/current-state.md).

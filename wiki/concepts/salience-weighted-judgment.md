@@ -11,6 +11,7 @@ sources:
   - ../sources/repetition-cognitive-method-source-batch.md
   - ../sources/sulewski-fixation-duration-memory-encoding.md
   - ../sources/pessoa-entangled-brain.md
+  - ../sources/veiga-zarza-cognitive-dissonance-attitude-change.md
 ---
 
 # Salience Weighted Judgment
@@ -66,6 +67,8 @@ The [Locus Coeruleus](locus-coeruleus.md) adds a biological gain-control bridge.
 
 [Pessoa's *The Entangled Brain*](../sources/pessoa-entangled-brain.md) provides the broader network framing: salience is not simply an emotion switch or an attention switch. What gets weight depends on a changing coalition of perception, valuation, body state, memory, goals, and available action. Useful framing; not permission to call every complicated feeling a network effect and go home early.
 
+[Veiga-Zarza et al.](../sources/veiga-zarza-cognitive-dissonance-attitude-change.md) adds a dissonance-shaped route into that problem. When relevant cognitions conflict, the conflict itself can become salient and aversive enough to motivate attitude/value change. The useful boundary is that salience may trigger reweighting, but it does not tell us whether the resulting belief became more accurate or merely more comfortable.
+
 ## Practical Countermoves
 
 - Ask what changed: the world, your attention, the feed, the search term, or the evidence?
@@ -93,4 +96,5 @@ The [Locus Coeruleus](locus-coeruleus.md) adds a biological gain-control bridge.
 - [Sulewski et al. - Fixation Duration And Memory Encoding](../sources/sulewski-fixation-duration-memory-encoding.md)
 - [Reality Threshold](reality-threshold.md)
 - [Pessoa - The Entangled Brain](../sources/pessoa-entangled-brain.md)
+- [Veiga-Zarza et al. - Cognitive Dissonance And Attitude Change](../sources/veiga-zarza-cognitive-dissonance-attitude-change.md)
 - [Practical Agency Inside Constraint](practical-agency-inside-constraint.md)

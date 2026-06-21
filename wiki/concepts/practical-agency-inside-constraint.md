@@ -15,6 +15,7 @@ sources:
   - ../sources/fallon-striatal-action-counting-steering.md
   - ../sources/yang-axonic-spines-action-potentials.md
   - ../sources/habit-goal-directed-behavior-source-batch.md
+  - ../sources/veiga-zarza-cognitive-dissonance-attitude-change.md
 ---
 
 # Practical Agency Inside Constraint
@@ -87,6 +88,12 @@ That fits this page's practical frame: agency is not an uncaused spark floating 
 [Habits, Goals, And Behavioural Control](habits-goals-and-behavioral-control.md) supplies a more everyday version of the same point. Agency is not only deciding which goal one endorses; it is keeping present goals able to revise a response that a familiar cue has already started.
 
 That is why environmental design counts as agency rather than cheating. Changing a cue, default, friction point, or feedback loop changes the machinery through which a future intention gets a vote. The useful question is not "Why am I not stronger?" It is "What is this action actually responding to now?"
+
+## Relation To Cognitive Dissonance
+
+[Veiga-Zarza et al.](../sources/veiga-zarza-cognitive-dissonance-attitude-change.md) adds a difficult but useful agency warning: when action, commitment, identity, or evidence clash, the system may change an attitude or value representation to reduce the conflict. Their scoping review places ACC conflict detection, DLPFC-linked value updating, and ventral-striatal preference representation in the proposed neural story.
+
+The practical version is not "never change your mind." It is to ask whether a revised attitude has improved contact with evidence or merely made an existing commitment easier to live with. Updating is agency when it becomes better model correction; it is self-sealing when it only protects the old action from review.
 
 ## Relation To Axonic Spines And Spike Initiation
 
@@ -179,6 +186,7 @@ This is why [Mechanical World Models](mechanical-world-models.md), [Queryable Or
 - [Libet, Schurger, Readiness Potential, And Agency](../sources/libet-schurger-readiness-potential-agency.md)
 - [Fallon et al. - Striatal Action Counting And Goal-Directed Steering](../sources/fallon-striatal-action-counting-steering.md)
 - [Habits, Goals, And Behavioural Control](habits-goals-and-behavioral-control.md)
+- [Veiga-Zarza et al. - Cognitive Dissonance And Attitude Change](../sources/veiga-zarza-cognitive-dissonance-attitude-change.md)
 - [Yang et al. - Axonic Spines And Action Potential Initiation](../sources/yang-axonic-spines-action-potentials.md)
 - [Langer Counterclockwise Study And Aging Mindset](../sources/langer-counterclockwise-aging-mindset.md)
 - [Positive Alignment](positive-alignment.md)
