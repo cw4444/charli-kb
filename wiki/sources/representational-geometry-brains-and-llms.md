@@ -3,12 +3,13 @@ title: "Representational Geometry In Brains And LLMs"
 type: source
 status: draft
 created: 2026-06-04
-updated: 2026-06-20
+updated: 2026-06-21
 sources:
   - https://www.nature.com/articles/s41593-026-02315-y
   - https://arxiv.org/abs/2410.19750
   - https://arxiv.org/abs/2603.04317
   - pessoa-entangled-brain.md
+  - ebrahimi-reliable-sensory-coding.md
 ---
 
 # Representational Geometry In Brains And LLMs
@@ -35,6 +36,8 @@ The mice were presented with conditioned stimuli that elicited trembling and ing
 The important result is not a neat "fear neuron." Useful emotional-state variables can become cleanly readable at the population level even when individual neurons are messy and multifunctional.
 
 [Pessoa's *The Entangled Brain*](pessoa-entangled-brain.md) provides a useful framework-level companion: the BLA need not be a self-contained fear box for its population geometry to support readable valence-related variables. Region, network, body state, task context, and downstream readout are distinct parts of the explanation.
+
+[Ebrahimi et al.](ebrahimi-reliable-sensory-coding.md) supplies a sidebar with a different form of population-level robustness. In mouse visual cortex, individual cells changed substantially across days, but population representations could still stabilize during the task through redundant coding and coordinated inter-area communication. Mixed selectivity is not the same phenomenon as longitudinal response drift, but both weaken the expectation that reliable meaning requires a fixed stable one-cell label.
 
 Source:
 

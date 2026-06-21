@@ -3,7 +3,7 @@ title: "Neuroscience"
 type: theme
 status: draft
 created: 2026-06-04
-updated: 2026-06-20
+updated: 2026-06-21
 sources:
   - ../../wiki/sources/reality-threshold-dijkstra-batch.md
   - ../../wiki/sources/wadia-shared-code-perception-imagination.md
@@ -30,6 +30,7 @@ sources:
   - ../../wiki/sources/le-cunff-adhd-traits-curiosity.md
   - ../../wiki/sources/habit-goal-directed-behavior-source-batch.md
   - ../../wiki/sources/pessoa-entangled-brain.md
+  - ../../wiki/sources/ebrahimi-reliable-sensory-coding.md
   - ../../wiki/sources/zhao-thalamus-brainstem-history-biased-decisions.md
 ---
 
@@ -85,6 +86,7 @@ The V1 feedback/task-context batch adds open-access support around the same them
 - [Representational Geometry In Brains And LLMs](../../wiki/sources/representational-geometry-brains-and-llms.md)
 - [Trajectory Dynamics In Language Model Hidden States](../../wiki/sources/trajectory-dynamics-hidden-states-reading-costs.md)
 - [Busch et al. - Noninvasive BCI Learning And Manifold Geometry](../../wiki/sources/busch-noninvasive-bci-manifold-geometry.md)
+- [Ebrahimi et al. - Reliable Sensory Coding Despite Cellular Variability](../../wiki/sources/ebrahimi-reliable-sensory-coding.md)
 - [Representational Geometry](../../wiki/concepts/representational-geometry.md)
 
 The representational-geometry thread asks how distributed activity can make variables such as valence, safety, or concept relationships readable even when individual neurons or features do not carry one tidy label.
@@ -94,6 +96,8 @@ The current bridge to AI interpretability is deliberately narrow: sparse-autoenc
 Barenholtz's trajectory-dynamics paper adds that the recent path through model hidden-state space can predict human reading-time costs beyond surprisal. That supports a dynamic version of the bridge: not only where a representation sits, but how it has been moving, can matter for processing.
 
 Busch et al. 2026 adds a direct neurotechnology version. In a real-time fMRI avatar-control task, participants could relearn a perturbed brain-computer-interface mapping when it followed high-variance directions within their intrinsic neural manifold, but not when it went outside that manifold. That makes geometry a practical constraint on learnable control, not just a pretty diagram after the fact.
+
+Ebrahimi et al. 2022 adds a population-reliability version. Across eight mouse neocortical areas, individual neurons could vary day-to-day while task-relevant visual population representations stabilized through brief redundant encoding and coordinated inter-area communication. Reliability need not mean each cell is a perfectly behaved little clerk.
 
 ### What Can Be Processed Without Conscious Access?
 

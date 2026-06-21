@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-21] sidebar source note | volatile neurons and reliable sensory coding
+- Source: Ebrahimi, Lecoq, Rumyantsev, Tasci, Zhang, Irimia, Li, Ganguli, and Schnitzer, [Emergent reliability in sensory cortical coding and inter-area communication](https://doi.org/10.1038/s41586-022-04724-y), *Nature*, 2022.
+- Pages created: [Ebrahimi et al. - Reliable Sensory Coding Despite Cellular Variability](sources/ebrahimi-reliable-sensory-coding.md).
+- Pages updated: [Representational Geometry In Brains And LLMs](sources/representational-geometry-brains-and-llms.md); [Neuroscience](../themes/neuroscience/overview.md); [Wiki Index](index.md); [Current State](meta/current-state.md).
+- Notes: Added a small sidebar note, not a new concept lane. Durable point: in a mouse visual task across eight cortical areas and five days, population-level representations could stabilize despite volatile individual-cell responses, supported by brief redundant coding and coordinated inter-area communication. Boundary: closed/hybrid Nature paper, public abstract/metadata only, mouse task, not a general theory of stable experience or consciousness.
+
 ## [2026-06-21] source note | zebrafish history-biased decisions
 - Source: Zhao et al., [A thalamus-brainstem attractor network drives history-biased decisions](https://doi.org/10.1038/s41586-026-10623-3), *Nature*, published 2026-06-10.
 - Pages created: [Zhao et al. - Thalamus-Brainstem History-Biased Decisions](sources/zhao-thalamus-brainstem-history-biased-decisions.md).
