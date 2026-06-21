@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-21] sidebar source note | prairie vole social experience and oxytocin receptors
+- Source: Zheng, Prounis, and Ophir, [Interactive impacts of social deprivation and intranasal oxytocin administration on oxytocin receptor density in prairie vole brains](https://doi.org/10.3389/fnbeh.2026.1772423), *Frontiers in Behavioral Neuroscience*, 2026.
+- Pages created: [Zheng et al. - Prairie Vole Social Experience And Oxytocin Receptors](sources/zheng-prairie-vole-oxytocin-receptors.md).
+- Pages updated: [Neuroscience](../themes/neuroscience/overview.md); [Wiki Index](index.md); [Current State](meta/current-state.md).
+- Notes: Approved as a deliberately small prairie-vole sidebar, not an oxytocin universe. In male voles, socially limited rearing was associated with higher prefrontal OTR density and adolescent intranasal oxytocin with higher lateral-septum OTR density; most examined forebrain regions showed no differences and the interaction was not decisive. Boundary: controlled animal receptor-autoradiography study, not evidence that oxytocin repairs human social deprivation or that receptor density equals attachment.
+
 ## [2026-06-21] source-batch update | belief in optimism counterweight
 - Source: Michael Roy, [Belief in optimism might be more problematic than actual optimism](https://doi.org/10.3389/fpsyg.2014.00624), *Frontiers in Psychology*, 2014.
 - Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md); [Optimism](concepts/optimism.md); [Research - Optimism](questions/research-optimism.md); [Wiki Index](index.md); [Current State](meta/current-state.md).

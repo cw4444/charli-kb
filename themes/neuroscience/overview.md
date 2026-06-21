@@ -32,6 +32,7 @@ sources:
   - ../../wiki/sources/pessoa-entangled-brain.md
   - ../../wiki/sources/ebrahimi-reliable-sensory-coding.md
   - ../../wiki/sources/zhao-thalamus-brainstem-history-biased-decisions.md
+  - ../../wiki/sources/zheng-prairie-vole-oxytocin-receptors.md
 ---
 
 # Neuroscience
@@ -153,6 +154,12 @@ This thread tracks the "blue dot" without turning it into a magic button. The lo
 The useful bridge: a small cue can feel enormous when the system is already primed for threat, uncertainty, or surprise. The caveat: the LC is not the whole brain's master switch, and pupil size is not a direct mind-reading meter.
 
 Li et al. 2026 gives this state/gain theme a V1 anchor. The paper does not prove that the locus coeruleus caused the effect, but its fluctuating-gain model fits the broader warning: sensory evidence is interpreted through a system whose baseline state is already moving.
+
+### How Do Social Experience And Neurochemistry Meet?
+
+- [Zheng et al. - Prairie Vole Social Experience And Oxytocin Receptors](../../wiki/sources/zheng-prairie-vole-oxytocin-receptors.md)
+
+Zheng et al. 2026 adds a prairie-vole restraint tile to the oxytocin story. Male voles raised with limited early social contact showed higher prefrontal oxytocin-receptor density, while adolescent intranasal oxytocin was associated with higher receptor density in lateral septum. Most examined forebrain regions showed no difference, and there was no decisive rearing-by-treatment interaction. Useful result: social conditions and a neuropeptide intervention can matter in specific places without becoming a whole-brain romance molecule or a human treatment prescription.
 
 ### How Does Neurodevelopmental Heterogeneity Map Onto Mechanism?
 
