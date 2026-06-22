@@ -3,7 +3,7 @@ title: "Optimism Neuroscience Source Batch"
 type: source
 status: draft
 created: 2026-05-12
-updated: 2026-06-21
+updated: 2026-06-22
 source_type: public-research-batch
 authors:
   - Sanda Dolcos
@@ -120,6 +120,8 @@ authors:
   - Julia C. Stingl
   - Andrea B. Horn
   - Punit Shah
+  - Hallgeir Sjåstad
+  - Roy F. Baumeister
 primary_sources:
   - "Taylor and Brown, Psychological Bulletin, 1988, Illusion and well-being: A social psychological perspective on mental health, https://doi.org/10.1037/0033-2909.103.2.193"
   - "Sharot et al., Nature, 2007, Neural mechanisms mediating optimism bias, https://doi.org/10.1038/nature06280"
@@ -161,6 +163,7 @@ primary_sources:
   - "Bračić, Bierbaum, Peng, Nimalavachchlan, Siewert, Kaiser, Sachser, and Richter, Animal Behaviour, 2025, The behavioural ecology of optimism: judgement bias and foraging under predation risk in mice, https://doi.org/10.1016/j.anbehav.2024.10.005"
   - "Petro, Tong, Henley, and Neta, Social Cognitive and Affective Neuroscience, 2018, Individual differences in valence bias: fMRI evidence of the initial negativity hypothesis, https://doi.org/10.1093/scan/nsy049"
   - "Viviani, Lo, Sim, Beschoner, Stingl, and Horn, PLOS ONE, 2010, The Neural Substrate of Positive Bias in Spontaneous Emotional Processing, https://doi.org/10.1371/journal.pone.0015454"
+  - "Sjåstad and Baumeister, Cognition, 2023, Fast optimism, slow realism? Causal evidence for a two-step model of future thinking, https://doi.org/10.1016/j.cognition.2023.105447"
 counterpoint_sources:
   - "Colvin and Block, Psychological Bulletin, 1994, Do positive illusions foster mental health? An examination of the Taylor and Brown formulation, https://doi.org/10.1037/0033-2909.116.1.3"
   - "Taylor and Brown, Psychological Bulletin, 1994, Positive illusions and well-being revisited: separating fact from fiction, https://doi.org/10.1037/0033-2909.116.1.21"
@@ -202,6 +205,7 @@ sources:
   - "PLOS ONE, PubMed Central, Crossref, and OpenAlex metadata/full text for Viviani et al. 2010, accessed 2026-06-14"
   - "Frontiers in Psychology, PubMed Central, Crossref, and OpenAlex metadata/full text for Shah 2012, accessed 2026-06-14"
   - "Scientific Reports, PubMed Central, Crossref, and OpenAlex metadata/full text for Kotikalapudi et al. 2023, accessed 2026-06-14"
+  - "ScienceDirect full text and publisher metadata for Sjåstad and Baumeister 2023, accessed 2026-06-22"
   - "../../raw/The_effect_of_optimistic_expectancies_on.pdf"
   - "../../raw/Right_frontal_gamma_transcranial_alterna.pdf"
   - "../../raw/Seeing_through_rose_colored_glasses_How.pdf"
@@ -228,6 +232,10 @@ Taylor and Brown 1988 is the classic "positive illusions" paper behind a lot of 
 Sharot et al. 2007 is the classic neural optimism-bias paper. In that study, optimism was associated with stronger activity in the amygdala and rostral anterior cingulate cortex when participants imagined positive future events relative to negative ones. Across individuals, rostral ACC activity tracked trait optimism.
 
 Sharot, Korn, and Dolan 2011 shifts the emphasis from imagery to learning. Participants updated beliefs more when new information was better than expected than when it was worse. The paper argues that unrealistic optimism is maintained partly by reduced neural tracking of undesirable information, especially in right inferior frontal gyrus.
+
+Sjåstad and Baumeister 2023 add a clean time-course tile: prospective judgment may begin with a desired outcome and only later move to obstacles, difficulty, and base rates. Across five experiments in the United States and Norway (combined N = 3,213), participants assigned to fast, time-pressured intuition made more optimistic personal forecasts than participants given delayed reflection. The effect appeared for comparative life events, health-risk predictions, and a binary exercise-habit prediction; in the direct self-versus-average-person comparison, it was specific to the self.
+
+The title is excellent, but it does not license the cartoon version that slow thinking automatically equals truth. In the exercise-habit experiment, slower reflection became less optimistic only for participants whose beliefs about the relevant social base rate were reasonably accurate. Reflection made judgments more consistent with existing beliefs; it only improved realism when those beliefs contained usable world knowledge. The paper also treats comparative optimism measures cautiously and reserves its stronger realism claim for the final base-rate-linked experiment. This is causal evidence that response mode changes *optimism in prediction*, not a proof that every fast feeling is wishful thinking or every long meeting is wisdom.
 
 Sharot, Guitart-Masip, Korn, Chowdhury, and Dolan 2012 adds the pharmacology tile that was missing from this package. In a belief-updating task, administration of L-DOPA, which enhances dopaminergic function, increased optimism bias by impairing updating from undesirable future information. The useful addition is not simply "dopamine makes people happy." It is narrower: dopamine modulation can make bad-news prediction errors carry less corrective force when people revise beliefs about personal future risks.
 
@@ -402,6 +410,7 @@ Taken together, the sources suggest that optimism is not best understood as magi
 - selective updating in response to bad news
 - dopaminergic modulation of that selective updating, with L-DOPA reducing belief correction from undesirable information in Sharot et al. 2012
 - optimistic reinforcement learning, where better-than-expected rewards can update learned values more strongly than worse-than-expected outcomes
+- a two-step prospective sequence in which fast personal prediction is more optimistic, while later reflection can incorporate obstacles and base rates when those beliefs are accurate
 - dispositional optimism as a stable generalized expectation that things will tend to work out
 - ego-resiliency and hardiness as adjacent constructs for flexible recovery and active stress appraisal
 - positive emotion as a possible broadening/recovery resource under stress
@@ -438,6 +447,10 @@ Charli's "pessimist gratitude" practice fits here as calibrated negative simulat
 ### Adaptive optimism
 
 A future style that supports action, resilience, and persistence without severing contact with evidence.
+
+### Fast optimism, slow realism
+
+Sjåstad and Baumeister's 2023 experiments support a narrow temporal distinction: the first personal prediction can be more optimistic under time pressure, while delayed reflection can produce a more cautious estimate. Their model treats adaptive foresight as a sequence: generate the wanted future, then inspect the route, obstacles, and frequency of success. The second step is only a correction when it has decent information to work with; slow reflection using bad base-rate beliefs is simply slower nonsense.
 
 ### Agency-supporting optimism
 

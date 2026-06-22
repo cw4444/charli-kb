@@ -3,10 +3,12 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-06-21
+updated: 2026-06-22
 ---
 
 # Current State
+
+On 2026-06-22, Charli added Sjåstad and Baumeister's open-access *Cognition* paper [Fast optimism, slow realism? Causal evidence for a two-step model of future thinking](https://doi.org/10.1016/j.cognition.2023.105447). Codex folded it into the existing optimism package rather than making a tiny shrine page. Durable point: across five experiments (USA and Norway; combined N = 3,213), time-pressured intuitive personal forecasts were more optimistic than delayed reflective ones. Keep the crucial condition: in the exercise-habit experiment, reflection reduced optimism only when people had reasonably accurate social base-rate beliefs. Reflection is therefore a route for integrating obstacles and facts, not an automatic realism machine. This is response-mode evidence about personal future prediction, not a proof that intuition is always wishful thinking or deliberation always wise.
 
 Later on 2026-06-21, Charli found Zheng, Prounis, and Ophir's very title-approved [Interactive impacts of social deprivation and intranasal oxytocin administration on oxytocin receptor density in prairie vole brains](https://doi.org/10.3389/fnbeh.2026.1772423). Codex added [Zheng et al. - Prairie Vole Social Experience And Oxytocin Receptors](../sources/zheng-prairie-vole-oxytocin-receptors.md) as a deliberately small neuroscience sidebar, because prairie voles do not get to bypass the inclusion bar merely by being prairie voles. Durable point: in male voles, the specific socially limited rearing condition was associated with higher prefrontal OTR density, and adolescent intranasal oxytocin with higher lateral-septum OTR density; most examined forebrain regions did not differ and the interaction was not decisive. Keep boundary: animal receptor-autoradiography study, not evidence that intranasal oxytocin repairs human deprivation or that receptor density equals attachment quality.
 

@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-22] research update | Sjåstad and Baumeister - Fast Optimism, Slow Realism
+
+- Source: Sjåstad and Baumeister, *Cognition*, [Fast optimism, slow realism? Causal evidence for a two-step model of future thinking](https://doi.org/10.1016/j.cognition.2023.105447), 2023 (open access; five experiments, combined N = 3,213).
+- Pages updated: [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), and [Wiki Index](index.md).
+- Notes: Added the two-step prospective model as a bounded mechanism: fast personal forecasts were more optimistic than delayed reflective forecasts. Kept the vital correction: reflection only became more realistic in the exercise-habit study when participants held reasonably accurate base-rate beliefs, so slow thought is not a truth machine.
+
 ## [2026-06-21] sidebar source note | prairie vole social experience and oxytocin receptors
 - Source: Zheng, Prounis, and Ophir, [Interactive impacts of social deprivation and intranasal oxytocin administration on oxytocin receptor density in prairie vole brains](https://doi.org/10.3389/fnbeh.2026.1772423), *Frontiers in Behavioral Neuroscience*, 2026.
 - Pages created: [Zheng et al. - Prairie Vole Social Experience And Oxytocin Receptors](sources/zheng-prairie-vole-oxytocin-receptors.md).
