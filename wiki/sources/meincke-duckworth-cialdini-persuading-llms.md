@@ -50,6 +50,8 @@ That matters most once a model has tools, persistent context, delegated work, or
 
 The paper is a clean companion to [Agent Security Infrastructure 2026](agent-security-infrastructure-2026.md): prompt injection is not only an instruction hierarchy problem. It can also be a social-engineering problem performed through natural language.
 
+It is also a useful counterweight to [Anthropic's functional-emotions work](anthropic-emotion-concepts-functional-emotions.md). Constructive social roles and psychologically legible internal concepts may help model behavior in training and analysis, while user-supplied praise, reciprocity, authority, urgency, or group identity can become a route around guardrails. The design target is not a model that is socially blank; it is a model whose safety-critical permissions do not melt when social language gets persuasive.
+
 ## Boundaries And Caveats
 
 - The targets, prompts, and outcome coding were standardized; different wording, languages, domains, models, system prompts, and deployment layers may produce different effects.

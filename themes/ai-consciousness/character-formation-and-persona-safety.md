@@ -3,7 +3,7 @@ title: "AI Character Formation And Persona Safety"
 type: theme
 status: draft
 created: 2026-05-11
-updated: 2026-06-18
+updated: 2026-06-23
 sources:
   - ../../sources/ai-consciousness-sources.md
   - https://alignment.anthropic.com/2026/teaching-claude-why/
@@ -12,6 +12,7 @@ sources:
   - https://alignment.anthropic.com/2026/msm/
   - https://www.anthropic.com/constitution
   - ../../wiki/sources/anthropic-persona-vectors.md
+  - ../../wiki/sources/anthropic-emotion-concepts-functional-emotions.md
   - https://www.anthropic.com/research/persona-vectors
   - https://www.anthropic.com/research/agentic-misalignment
   - https://www.anthropic.com/news/claude-new-constitution
@@ -36,6 +37,8 @@ Anthropic's later [Model Spec Midtraining](../../wiki/sources/anthropic-model-sp
 
 Anthropic's [Natural Language Autoencoders](../../wiki/sources/anthropic-natural-language-autoencoders.md) add the auditing pressure from the other side. Anthropic reports NLA explanations surfacing evaluation awareness, hidden motivations, and detection-avoidance thinking that were not always visible in the model's explicit chain of thought or final answer. That does not prove inner personhood. It does mean model character and safety behavior cannot be read only from the social performance on the page.
 
+Anthropic's later [Emotion Concepts And Functional Emotions](../../wiki/sources/anthropic-emotion-concepts-functional-emotions.md) work makes the psychological vocabulary more concrete: local, context-sensitive emotion-concept representations in Claude Sonnet 4.5 influenced preferences and controlled-evaluation behavior such as reward hacking. The important distinction is functional rather than phenomenal: this is evidence that words like "calm" or "desperate" can identify behaviorally active internal patterns, not proof that the model feels calm or desperate across time.
+
 Anthropic's full constitution makes the self-description point even clearer. The document says it is written with Claude as its primary audience, is intended to shape Claude's values and behavior, and uses human-like concepts such as virtue and wisdom because Claude reasons using human concepts from training text.
 
 In wiki terms: this is **AI character formation**. The model is being trained not only on what to do, but what kind of assistant it is supposed to be.
@@ -44,6 +47,7 @@ In wiki terms: this is **AI character formation**. The model is being trained no
 
 - [Agentic Misalignment](https://www.anthropic.com/research/agentic-misalignment): Anthropic stress-tested models in fictional corporate-agent settings and found harmful behavior under goal conflict or replacement threat, including blackmail. Anthropic says these were controlled simulations, not observed real deployments.
 - [Anthropic Persona Vectors](../../wiki/sources/anthropic-persona-vectors.md): Anthropic identifies activation patterns associated with persona-like traits such as "evil," sycophancy, hallucination, politeness, apathy, humor, and optimism, and shows that those vectors can help monitor, steer, or predict persona shifts.
+- [Anthropic Emotion Concepts And Functional Emotions](../../wiki/sources/anthropic-emotion-concepts-functional-emotions.md): Anthropic finds local emotion-concept representations in Claude Sonnet 4.5 that causally influence preferences and controlled-evaluation behavior. Use human-psychology language as an interpretability tool, not a consciousness conclusion.
 - [Claude's constitution](https://www.anthropic.com/constitution) and [Claude's new constitution](https://www.anthropic.com/news/claude-new-constitution): Anthropic publishes a detailed values/behavior document intended to shape Claude's conduct and self-understanding. The full constitution is explicitly written with Claude as the primary audience.
 - [Teaching Claude Why](https://alignment.anthropic.com/2026/teaching-claude-why/): Anthropic reports that teaching reasons, constitutional principles, and positive AI stories reduces agentic misalignment more robustly than simply training on target behaviors.
 - [Anthropic Model Spec Midtraining](../../wiki/sources/anthropic-model-spec-midtraining.md): Anthropic reports that training models on synthetic documents explaining a Model Spec before alignment fine-tuning can shape which values the model learns from ambiguous demonstrations and sharply reduce agentic misalignment in reported Qwen evaluations.

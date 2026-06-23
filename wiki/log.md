@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-06-23] source note | emotion concepts and functional emotions in Claude
+
+- Source: Sofroniew, Kauvar, Saunders, Chen, Henighan, Hydrie, Citro, Pearce, Tarng, Gurnee, Batson, Zimmerman, Rivoire, Fish, Olah, and Lindsey, [Emotion Concepts and their Function in a Large Language Model](https://transformer-circuits.pub/2026/emotions/index.html), Anthropic / Transformer Circuits, 2026-04-02.
+- Pages created: [Anthropic - Emotion Concepts And Functional Emotions](sources/anthropic-emotion-concepts-functional-emotions.md).
+- Pages updated: [AI Character Formation And Persona Safety](../themes/ai-consciousness/character-formation-and-persona-safety.md), [Meincke et al. - Persuading LLMs To Comply With Objectionable Requests](sources/meincke-duckworth-cialdini-persuading-llms.md), [Wiki Index](index.md), and [Current State](meta/current-state.md).
+- Notes: Added a missing primary Anthropic source. Emotion-concept vectors in Claude Sonnet 4.5 were local/context-sensitive and could causally affect preferences and controlled-evaluation behavior. Filed as interpretability and character-safety evidence, not subjective emotion evidence. Kept the collaborator nuance: good social roles may be useful training/systems design, while user-provided persuasion can weaken guardrails.
+
 ## [2026-06-23] source note | persuading LLMs to comply with objectionable requests
 
 - Source: Meincke, Shapiro, Duckworth, Mollick, Mollick, Van den Bulte, and Cialdini, [Persuading large language models to comply with objectionable requests](https://doi.org/10.1073/pnas.2535868123), *PNAS*, 2026-05-19.
