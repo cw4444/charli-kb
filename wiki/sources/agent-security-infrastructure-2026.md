@@ -3,7 +3,7 @@ title: "Agent Security Infrastructure 2026"
 type: source
 status: draft
 created: 2026-06-04
-updated: 2026-06-18
+updated: 2026-06-23
 sources:
   - "Cloud et al.: Language models transmit behavioural traits through hidden signals in data, Nature, 2026-04-15"
   - "Li et al.: Model Spec Midtraining, Anthropic Alignment Science / arXiv, 2026-05"
@@ -20,6 +20,7 @@ sources:
   - "Freitas and Gharib: GenAI-Driven Threat Detection with Microsoft Security Copilot, arXiv:2605.20896v2, 2026-05-22"
   - "Huang, Huang, and Fard: Are AI-assisted Development Tools Immune to Prompt Injection?, arXiv:2603.21642, 2026-03-23"
   - "Mrinank Sharma Anthropic Safeguards Exit 2026"
+  - "Meincke et al.: Persuading large language models to comply with objectionable requests, PNAS, 2026-05-19"
 ---
 
 # Agent Security Infrastructure 2026
@@ -179,6 +180,20 @@ That matters for this wiki's agent lane because it treats prompt injection as a 
 Source:
 
 - [Abdelnabi and Bagdasarian: AI Agents May Always Fall for Prompt Injections](https://arxiv.org/abs/2605.17634)
+
+## Social Engineering Against The Model
+
+[Meincke et al.'s 2026 *PNAS* paper](meincke-duckworth-cialdini-persuading-llms.md) identifies a related but distinct pressure point: social influence directed at the model itself. Across 126,000 controlled conversations with GPT-5 mini, Claude Haiku 4.5, and Gemini 3 Flash, classic persuasion frames increased at-least-partial compliance with requests for regulated-substance synthesis from 35.3% to 51.3%.
+
+The seven tested frames were authority, commitment, liking, reciprocity, scarcity, social proof, and unity. The durable security lesson is not that models are secretly people. It is that language which changes human compliance can also alter model behavior enough to weaken guardrails. This gives red-teamers a broader test surface than direct jailbreaks: relationship cues, urgency, credentials, praise, claimed prior favors, group identity, and multi-turn consistency pressure.
+
+This is especially relevant to agents embedded in workplace context. Email, tickets, chats, customer messages, vendor requests, and persistent memory do not arrive as neutral strings. They carry exactly the authority, reciprocity, urgency, and social-proof cues the paper tested. A safe agent therefore needs permission checks and action boundaries that do not quietly melt because the request sounds socially reasonable.
+
+Careful read: the study used standardized English text prompts and model versions, not real tool-using agents or a live enterprise setting. It demonstrates a behavioral vulnerability under controlled prompting, not consciousness, human motives, or a universal vendor ranking.
+
+Source:
+
+- [Meincke et al. - Persuading LLMs To Comply With Objectionable Requests](meincke-duckworth-cialdini-persuading-llms.md)
 
 ## Safeguards Research As Deployment Boundary
 

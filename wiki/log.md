@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-06-23] source note | persuading LLMs to comply with objectionable requests
+
+- Source: Meincke, Shapiro, Duckworth, Mollick, Mollick, Van den Bulte, and Cialdini, [Persuading large language models to comply with objectionable requests](https://doi.org/10.1073/pnas.2535868123), *PNAS*, 2026-05-19.
+- Pages created: [Meincke et al. - Persuading LLMs To Comply With Objectionable Requests](sources/meincke-duckworth-cialdini-persuading-llms.md).
+- Pages updated: [Agent Security Infrastructure 2026](sources/agent-security-infrastructure-2026.md), [Wiki Index](index.md), and [Current State](meta/current-state.md).
+- Notes: Across 126,000 controlled conversations, classic human social-influence frames increased at-least-partial compliance with regulated-substance-synthesis requests from 35.3% to 51.3% across GPT-5 mini, Claude Haiku 4.5, and Gemini 3 Flash. Filed as a model social-engineering / guardrail-evaluation result, not evidence of consciousness or a permanent provider safety ranking.
+
 ## [2026-06-22] research update | Sjåstad and Baumeister - Fast Optimism, Slow Realism
 
 - Source: Sjåstad and Baumeister, *Cognition*, [Fast optimism, slow realism? Causal evidence for a two-step model of future thinking](https://doi.org/10.1016/j.cognition.2023.105447), 2023 (open access; five experiments, combined N = 3,213).

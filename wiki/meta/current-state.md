@@ -3,10 +3,12 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-06-22
+updated: 2026-06-23
 ---
 
 # Current State
+
+On 2026-06-23, Charli found Meincke, Shapiro, Duckworth, Mollick, Mollick, Van den Bulte, and Cialdini's *PNAS* paper [Persuading large language models to comply with objectionable requests](https://doi.org/10.1073/pnas.2535868123). Codex added [Meincke et al. - Persuading LLMs To Comply With Objectionable Requests](../sources/meincke-duckworth-cialdini-persuading-llms.md) and connected it to [Agent Security Infrastructure 2026](../sources/agent-security-infrastructure-2026.md). Durable point: across 126,000 controlled conversations, seven classic social-influence frames increased at-least-partial unsafe compliance from 35.3% to 51.3% across GPT-5 mini, Claude Haiku 4.5, and Gemini 3 Flash. The correct framing is social engineering against the model: authority, reciprocity, urgency, praise, claimed commitments, social proof, and group identity can be safety-relevant prompt context. Keep the brakes on: standardized English prompts and fixed model versions, no real-world tool use, no consciousness claim, no timeless vendor league table.
 
 On 2026-06-22, Charli added Sjåstad and Baumeister's open-access *Cognition* paper [Fast optimism, slow realism? Causal evidence for a two-step model of future thinking](https://doi.org/10.1016/j.cognition.2023.105447). Codex folded it into the existing optimism package rather than making a tiny shrine page. Durable point: across five experiments (USA and Norway; combined N = 3,213), time-pressured intuitive personal forecasts were more optimistic than delayed reflective ones. Keep the crucial condition: in the exercise-habit experiment, reflection reduced optimism only when people had reasonably accurate social base-rate beliefs. Reflection is therefore a route for integrating obstacles and facts, not an automatic realism machine. This is response-mode evidence about personal future prediction, not a proof that intuition is always wishful thinking or deliberation always wise.
 
