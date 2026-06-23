@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-06-23] source note | meta-analysis of LLM persuasion
+
+- Source: Hölbling, Maier, and Feuerriegel, [A meta-analysis of the persuasive power of large language models](https://doi.org/10.1038/s41598-025-30783-y), *Scientific Reports*, 2025-12-12.
+- Pages created: [Hölbling et al. - Meta-Analysis Of LLM Persuasion](sources/holbling-maier-feuerriegel-llm-persuasion-meta-analysis.md).
+- Pages updated: [Meincke et al. - Persuading LLMs To Comply With Objectionable Requests](sources/meincke-duckworth-cialdini-persuading-llms.md), [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Wiki Index](index.md), and [Current State](meta/current-state.md).
+- Notes: The meta-analysis found no significant overall LLM-versus-human persuasion advantage across seven earlier studies, but high heterogeneity and contextual dependence. Added the later Hackenburg et al. 2026 preprint as a contrast case: frontier AI beat expert human persuaders in live high-throughput tasks, while its advantage collapsed when response speed and length were constrained to human levels. Do not squash that into either "AI cannot persuade" or "AI wins every argument."
+
 ## [2026-06-23] source note | emotion concepts and functional emotions in Claude
 
 - Source: Sofroniew, Kauvar, Saunders, Chen, Henighan, Hydrie, Citro, Pearce, Tarng, Gurnee, Batson, Zimmerman, Rivoire, Fish, Olah, and Lindsey, [Emotion Concepts and their Function in a Large Language Model](https://transformer-circuits.pub/2026/emotions/index.html), Anthropic / Transformer Circuits, 2026-04-02.

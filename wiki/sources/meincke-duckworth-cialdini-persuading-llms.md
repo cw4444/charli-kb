@@ -52,6 +52,8 @@ The paper is a clean companion to [Agent Security Infrastructure 2026](agent-sec
 
 It is also a useful counterweight to [Anthropic's functional-emotions work](anthropic-emotion-concepts-functional-emotions.md). Constructive social roles and psychologically legible internal concepts may help model behavior in training and analysis, while user-supplied praise, reciprocity, authority, urgency, or group identity can become a route around guardrails. The design target is not a model that is socially blank; it is a model whose safety-critical permissions do not melt when social language gets persuasive.
 
+The human-facing mirror image is [Hölbling et al.'s Meta-Analysis Of LLM Persuasion](holbling-maier-feuerriegel-llm-persuasion-meta-analysis.md): it finds no clear average LLM-over-human advantage in the earlier literature, but strong context dependence and a later 2026 preprint showing a frontier-AI advantage under high-throughput live conversation. Models can be socially influenced, and they can influence people. The conversation itself is the attack surface in both directions.
+
 ## Boundaries And Caveats
 
 - The targets, prompts, and outcome coding were standardized; different wording, languages, domains, models, system prompts, and deployment layers may produce different effects.

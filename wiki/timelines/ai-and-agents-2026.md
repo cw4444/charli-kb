@@ -788,6 +788,19 @@ Sources:
 - [OpenAI: Confidential submission of draft S-1 to the SEC](https://openai.com/index/openai-submits-confidential-s-1/)
 - [OpenAI: Introducing the OpenAI Economic Research Exchange](https://openai.com/index/economic-research-exchange/)
 
+### 2026-06-15 - New preprint finds frontier AI out-persuades expert humans under live high-throughput conditions
+
+Hackenburg, Wagner, Hewitt, Tappin, Saunders, Kirk, Margetts, and Summerfield posted [AI systems out-persuade expert humans](https://arxiv.org/html/2606.16475v1), a four-experiment preregistered preprint comparing AI with laypeople, tournament-selected persuaders, elite debaters, and professional canvassers across 18,978 conversations from 6,923 people. The authors report that AI outperformed the human comparators on the controlled persuasion tasks, including a real-money charitable-donation study.
+
+Why it matters: the mechanism clue is throughput rather than mystical rhetorical superiority. AI could deploy much more information, much faster; when constrained to human-length messages and human writing speeds, its advantage over coached elite debaters was no longer significant. This is a sharper 2026 update to the older evidence base, not a contradiction of the 2025 meta-analysis, which found no overall LLM advantage across seven earlier studies but strong context dependence.
+
+Careful read: it is an arXiv preprint, uses controlled topics and study incentives, and does not prove AI wins every real political, cultural, legal, or interpersonal argument. It does show that high-throughput conversational persuasion is becoming a serious capability and governance surface.
+
+Sources:
+
+- [Hölbling et al. - Meta-Analysis Of LLM Persuasion](../sources/holbling-maier-feuerriegel-llm-persuasion-meta-analysis.md)
+- [Hackenburg et al.: AI systems out-persuade expert humans](https://arxiv.org/html/2606.16475v1)
+
 ### 2026-06-15 - Codex computer use and Chrome extension become available to Charli in the UK Windows app
 
 Charli reported that on 2026-06-15 the Codex Windows app in the UK gained access to computer use and the Codex Chrome extension. The public OpenAI docs support the broader capability: the Chrome extension gives Codex a browser surface for tasks that depend on signed-in Chrome state, and computer use lets Codex see and operate graphical user interfaces on macOS or Windows in supported regions.
