@@ -936,6 +936,8 @@ Why it matters: this turns hosted model access into an export-control surface. T
 
 Careful read: Anthropic disputes the process and the technical basis, saying the government did not provide specific details and that the apparent concern involved a narrow potential jailbreak rather than a universal bypass. Do not read this as proof that Fable 5 was catastrophically broken. Also do not pretend it is nothing. A public frontier model disappearing because foreign-national access is legally snarled is the sort of thing the timeline exists for, unfortunately.
 
+Update, 2026-06-23: a widely shared line from *The Economist* reported Senator Mark Warner's account that NSA/CYBERCOM head General Joshua Rudd said Mythos broke into "almost all" of the relevant classified systems "not in weeks, but in hours." The reporting author later said a literal reading would be a mistake: the result relied on Mythos alongside other tools in particular conditions and needed more caveats. Treat it as an authorized internal red-team signal of potentially extraordinary cyber capability, not an outside AI hack of the NSA or proof that the export-control directive was caused by this exercise. See [Anthropic Fable And Mythos Access 2026](../sources/anthropic-fable-mythos-access-2026.md).
+
 Sources:
 
 - [Anthropic Fable And Mythos Access 2026](../sources/anthropic-fable-mythos-access-2026.md)

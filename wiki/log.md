@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-23] source update | Mythos red-team claim and export-control context
+
+- Source: local screenshots `raw/mythos-1.jpeg` and `raw/mythos-2.jpeg`; *The Economist* reporting as contextualized by Shashank Joshi's public clarification; [Anthropic's official access-directive statement](https://www.anthropic.com/news/fable-mythos-access); [Straight Arrow's report](https://san.com/cc/no-the-nsa-wasnt-hacked-by-ai-heres-what-actually-happened/).
+- Pages updated: [Anthropic Fable And Mythos Access 2026](sources/anthropic-fable-mythos-access-2026.md), [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), and [Current State](meta/current-state.md).
+- Notes: Preserved the notable Warner/Rudd "hours" quotation but corrected the viral reading: public reporting describes an authorized internal Mythos-assisted red-team exercise, not an external NSA breach. Public sources do not establish scope, access, tooling, or a causal link to the Fable/Mythos foreign-national directive. The screenshot's claimed next Mythos successor remains unverified intake only.
+
 ## [2026-06-23] source note | meta-analysis of LLM persuasion
 
 - Source: Hölbling, Maier, and Feuerriegel, [A meta-analysis of the persuasive power of large language models](https://doi.org/10.1038/s41598-025-30783-y), *Scientific Reports*, 2025-12-12.
