@@ -3,10 +3,12 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-06-23
+updated: 2026-06-26
 ---
 
 # Current State
+
+On 2026-06-26, Charli flagged Axios / The Information reporting that the US government asked OpenAI not to roll GPT-5.6 out broadly at first, but to limit access to government-approved partners or a small enterprise preview. Codex verified public reporting through Axios, The Verge's The Information summary, and the 2026-06-02 White House executive order, then updated [OpenAI Third Phase Strategy 2026](../sources/openai-third-phase-strategy-2026.md) and [AI And Agents 2026 Timeline](../timelines/ai-and-agents-2026.md). Durable point: this is reported pre-release access sequencing, not a confirmed statute, permanent ban, or public GPT-5.6 launch. Keep it next to Anthropic Fable/Mythos as a frontier-model access-governance signal: government evaluation, trusted partners, enterprise preview customers, and public rollout are becoming separate gates. Charli's dystopia read is fair as interpretation, but wiki wording should keep the source boundary clean: fear/order language can ration tools without proving every safety concern is fake.
 
 Also on 2026-06-23, Charli left two screenshots in `raw/` around a circulating Mythos claim. Codex read them and updated [Anthropic Fable And Mythos Access 2026](../sources/anthropic-fable-mythos-access-2026.md) plus the timeline. Durable point: *The Economist* reported Senator Mark Warner relaying that NSA/CYBERCOM head General Joshua Rudd said Mythos had broken into "almost all" of the relevant classified systems "not in weeks, but in hours." But the reporting author, Shashank Joshi, later said it was a mistake to read literally: it depended on Mythos alongside other tools under particular conditions and needed caveats. Treat this as a reported authorized internal red-team signal, not an external AI hack of the NSA. No public technical scope, access, tooling, or causal link to the export-control directive was found; Anthropic's official statement separately describes the government concern as a narrow potential Fable jailbreak. The screenshot's purported next Mythos successor is unverified social-post intake and stays out of public canon.
 

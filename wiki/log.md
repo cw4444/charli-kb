@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-06-26] timeline update | GPT-5.6 limited-release pressure
+
+- Sources: [Axios reporting on the Trump administration asking OpenAI to limit GPT-5.6's release](https://www.axios.com/2026/06/25/trump-administration-openai-gpt-model-release); [The Verge summary of The Information's employee-Q&A reporting](https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request); [White House Executive Order 14409](https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/).
+- Pages updated: [OpenAI Third Phase Strategy 2026](sources/openai-third-phase-strategy-2026.md), [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Wiki Index](index.md), and [Current State](meta/current-state.md).
+- Notes: Added the reported GPT-5.6 access-sequencing story as a durable governance marker. The careful frame is reported government pressure and case-by-case partner approval during limited preview, not a confirmed statute, permanent ban, or broad GPT-5.6 launch. This belongs beside Anthropic's Fable/Mythos directive because frontier model access is becoming a government-shaped release surface before the public even touches the model.
+
 ## [2026-06-23] source update | Mythos red-team claim and export-control context
 
 - Source: local screenshots `raw/mythos-1.jpeg` and `raw/mythos-2.jpeg`; *The Economist* reporting as contextualized by Shashank Joshi's public clarification; [Anthropic's official access-directive statement](https://www.anthropic.com/news/fable-mythos-access); [Straight Arrow's report](https://san.com/cc/no-the-nsa-wasnt-hacked-by-ai-heres-what-actually-happened/).

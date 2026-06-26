@@ -3,7 +3,7 @@ title: "AI And Agents 2026 Timeline"
 type: timeline
 status: draft
 created: 2026-05-21
-updated: 2026-06-18
+updated: 2026-06-26
 sources:
   - ../sources/current-ai-agent-landscape-2026.md
   - ../sources/anthropic-compute-and-talent-signal-2026.md
@@ -71,6 +71,8 @@ sources:
   - https://openai.com/index/openai-submits-confidential-s-1/
   - https://openai.com/index/economic-research-exchange/
   - https://openai.com/index/introducing-openai-partner-network/
+  - https://www.axios.com/2026/06/25/trump-administration-openai-gpt-model-release
+  - https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request
   - https://developers.openai.com/codex/app/chrome-extension
   - https://developers.openai.com/codex/app/computer-use
   - https://www.stepsecurity.io/blog/pythagora-io-gpt-pilot-compromised-on-github-shai-hulud-credential-stealer-blocked-by-python-linter
@@ -129,7 +131,7 @@ Use this page for events that are useful historical anchors:
 
 Future lint rule: update this page if it helps preserve the shape of the year. Delete or collapse entries that turn out to be noise.
 
-## Short Read As Of 2026-06-17
+## Short Read As Of 2026-06-26
 
 The first half of 2026 already shows several converging threads:
 
@@ -173,6 +175,7 @@ The first half of 2026 already shows several converging threads:
 - Microsoft signed a preliminary land-acquisition agreement for potential datacenter development in Vaasa and Mustasaari, Finland, reinforcing the shift from AI as software story to AI as land, grid, cooling, and local-planning story.
 - OpenAI published a June 8 "third phase" strategy cluster: automated AI researchers, a March 2028 internal horizon for a significant fraction of research being done by AI systems alongside researchers, economic-growth and "personal AGI" distribution language, international coordination that could include slowing frontier development, a confidential draft S-1, and an external Economic Research Exchange.
 - OpenAI announced a Partner Network with `$150 million` for the partner ecosystem, a target of `300,000` certified consultants by the end of 2026, and future specializations in Codex, cybersecurity, and agents, making enterprise deployment and consulting capacity part of the lab strategy.
+- Axios and The Verge reported that the Trump administration asked OpenAI to limit GPT-5.6's initial release to government-approved partners or a small enterprise preview, turning the White House's voluntary frontier-model evaluation framework into a live access-sequencing fight. The useful warning is not "safety is fake"; it is that opaque institutions can ration advanced tools through approval frameworks before the public even sees the model. Marvellous. Divergent with procurement language.
 - Charli reported that on 2026-06-15 Codex computer use and the Codex Chrome extension became available to her in the UK Windows app. Official OpenAI docs already establish the feature family: Chrome extension access for signed-in browser state and computer use on macOS/Windows in supported regions. Treat the exact UK availability date as user-observed unless OpenAI later publishes a cleaner rollout note.
 - Financial Times / Reuters / TechCrunch reporting described OpenAI's planned ChatGPT overhaul as a superapp-style shift toward coding tools and AI agents. Treat it as reported product direction, not a shipped launch.
 - Bloomberg / Reuters / Financial Times-derived reporting said Apollo and Blackstone finalized roughly $35B in chip-backed private-credit financing for Anthropic's Google/Broadcom TPU capacity, separate from Anthropic's reported SpaceX/Colossus Nvidia GPU lease.
@@ -800,6 +803,23 @@ Sources:
 
 - [Hölbling et al. - Meta-Analysis Of LLM Persuasion](../sources/holbling-maier-feuerriegel-llm-persuasion-meta-analysis.md)
 - [Hackenburg et al.: AI systems out-persuade expert humans](https://arxiv.org/html/2606.16475v1)
+
+### 2026-06-25 - Trump administration reportedly asks OpenAI to limit GPT-5.6 release
+
+Axios reported that the Trump administration asked OpenAI to limit GPT-5.6's initial release to a small set of government-approved partners before any broader rollout, citing national-security concerns. The White House Office of the National Cyber Director and Office of Science and Technology Policy are reportedly involved while the administration builds a framework for testing and evaluating new models. Axios also reported that Sam Altman discussed GPT-5.6 with Commerce Secretary Howard Lutnick, who wanted relevant parts of government to test and approve the model.
+
+The Verge, summarizing The Information's reporting from an OpenAI employee Q&A, said Altman told employees that GPT-5.6 would be released only in limited preview to a small group of enterprise customers, with federal approval of customer access on a case-by-case basis during that preview period.
+
+Why it matters: this is the OpenAI counterpart to the Anthropic Fable/Mythos access shock, but with a different mechanism. Instead of an export-control directive abruptly disabling access after release, this is reported pre-release sequencing: government evaluation, approved partners, enterprise preview customers, then maybe broader public release later. It turns "trusted partners" from a safety phrase into a practical question about who gets knowledge, tools, capability, and institutional voice first.
+
+Careful read: this is reported government pressure and company compliance around release timing, not a confirmed statute, permanent ban, or public GPT-5.6 launch. The 2026-06-02 White House executive order explicitly says its frontier-model framework should not create mandatory licensing, preclearance, or permitting, but it also calls for pre-release government access and collaboration on trusted early-access partners. That contradiction is exactly why this belongs in the timeline. Apparently "do not let opaque institutions decide who gets tools based on fear dressed as order" now comes with interagency workflow notes. Splendid.
+
+Sources:
+
+- [OpenAI Third Phase Strategy 2026](../sources/openai-third-phase-strategy-2026.md)
+- [Axios: Trump administration asks OpenAI to limit next model release](https://www.axios.com/2026/06/25/trump-administration-openai-gpt-model-release)
+- [The Verge: OpenAI will delay GPT-5.6 after Trump administration request](https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request)
+- [White House: Promoting Advanced Artificial Intelligence Innovation and Security](https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/)
 
 ### 2026-06-15 - Codex computer use and Chrome extension become available to Charli in the UK Windows app
 
