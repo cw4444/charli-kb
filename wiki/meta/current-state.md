@@ -3,10 +3,12 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-06-26
+updated: 2026-06-27
 ---
 
 # Current State
+
+On 2026-06-27, Charli found D'Ambrogio et al.'s open-access *Nature Neuroscience* paper [Interpretable abstractions of artificial neural networks predict behavior and neural activity during human information gathering](https://doi.org/10.1038/s41593-026-02342-9). Codex added [D'Ambrogio et al. - Interpretable ANN Models Of Human Information Gathering](../sources/dambrogio-interpretable-ann-information-gathering.md), then linked it into [Curiosity Driven Exploration](../concepts/curiosity-driven-exploration.md) and [Neuroscience](../../themes/neuroscience/overview.md). Durable point: a constrained ANN learned a value-of-information function from human sampling choices, and symbolic regression distilled it into four psychologically interpretable parameters with almost no loss of behavioral or 7T fMRI predictive accuracy. The recovered information-symmetry rule says sampling responds to relative evidence across alternatives: as the attended option becomes better sampled, staying loses value and switching gains it. Keep the brakes: 20-person structured two-option task, decision/evidence/reward uncertainty not cleanly separated, model-guided neural associations rather than a universal curiosity law or scanner-based mind-reading. Code and data are public on GitHub and archived on Zenodo.
 
 On 2026-06-26, Charli flagged Axios / The Information reporting that the US government asked OpenAI not to roll GPT-5.6 out broadly at first, but to limit access to government-approved partners or a small enterprise preview. Codex verified public reporting through Axios, The Verge's The Information summary, and the 2026-06-02 White House executive order, then updated [OpenAI Third Phase Strategy 2026](../sources/openai-third-phase-strategy-2026.md) and [AI And Agents 2026 Timeline](../timelines/ai-and-agents-2026.md). Durable point: this is reported pre-release access sequencing, not a confirmed statute, permanent ban, or public GPT-5.6 launch. Keep it next to Anthropic Fable/Mythos as a frontier-model access-governance signal: government evaluation, trusted partners, enterprise preview customers, and public rollout are becoming separate gates. Charli's dystopia read is fair as interpretation, but wiki wording should keep the source boundary clean: fear/order language can ration tools without proving every safety concern is fake.
 

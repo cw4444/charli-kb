@@ -3,7 +3,7 @@ title: "Neuroscience"
 type: theme
 status: draft
 created: 2026-06-04
-updated: 2026-06-21
+updated: 2026-06-27
 sources:
   - ../../wiki/sources/reality-threshold-dijkstra-batch.md
   - ../../wiki/sources/wadia-shared-code-perception-imagination.md
@@ -33,6 +33,7 @@ sources:
   - ../../wiki/sources/ebrahimi-reliable-sensory-coding.md
   - ../../wiki/sources/zhao-thalamus-brainstem-history-biased-decisions.md
   - ../../wiki/sources/zheng-prairie-vole-oxytocin-receptors.md
+  - ../../wiki/sources/dambrogio-interpretable-ann-information-gathering.md
 ---
 
 # Neuroscience
@@ -121,6 +122,7 @@ The useful bridge is that selective hearing is not merely a social complaint or 
 - [Optimism Neuroscience Source Batch](../../wiki/sources/optimism-neuroscience-source-batch.md)
 - [Repetition As Cognitive Method Source Batch](../../wiki/sources/repetition-cognitive-method-source-batch.md)
 - [Le Cunff et al. - ADHD Traits And Curiosity](../../wiki/sources/le-cunff-adhd-traits-curiosity.md)
+- [D'Ambrogio et al. - Interpretable ANN Models Of Human Information Gathering](../../wiki/sources/dambrogio-interpretable-ann-information-gathering.md)
 - [Zhao et al. - Thalamus-Brainstem History-Biased Decisions](../../wiki/sources/zhao-thalamus-brainstem-history-biased-decisions.md)
 - [Optimism](../../wiki/concepts/optimism.md)
 - [Repetition As Cognitive Method](../../wiki/concepts/repetition-as-cognitive-method.md)
@@ -132,6 +134,8 @@ This thread treats optimism as a style of future representation, belief updating
 The repetition thread adds the method boundary: spaced retrieval and feedback-sensitive practice can strengthen learning, while repetitive negative thinking can become a hard-to-disengage stress and aging-risk loop. The serious claim is not that repetition is good or bad. It is that repetition strengthens the loop actually being run.
 
 Le Cunff et al. 2026 adds a neurodevelopmental/psychological bridge: in a UK adult cross-sectional survey, hyperactive-impulsive ADHD traits uniquely predicted self-reported curiosity after controlling for demographics, while inattention did not. The useful wiki point is not "ADHD is a superpower." It is that curiosity, novelty seeking and uncertainty engagement may be part of some ADHD-shaped exploration patterns, especially when structure turns the search into finished knowledge rather than tab-sprawl.
+
+D'Ambrogio et al. 2026 adds a computational and neural account of information seeking. In a two-option task, a hybrid ANN discovered a relative evidence-balancing rule; symbolic regression compressed it into four interpretable parameters that predicted behavior and 7T fMRI activity nearly as well as the network. The durable point is information symmetry: people shifted toward the less sampled alternative as evidence accumulated in the current focus. ACC and anterior insula tracked the fitted value-of-information signals, while VTA activity distinguished information-gathering value from selection value. This is a small structured experiment and a model-guided neural association, not a universal curiosity equation or an ANN reading thoughts from a scanner.
 
 Zhao et al. 2026 adds a state-history mechanism in larval zebrafish. A dorsal-thalamus attractor held the latest obstacle location as a categorical 10–20-second memory; a downstream hindbrain integrator combined that memory with current cues to bias the next evasive decision. The useful warning is that current evidence enters a system already carrying recent history. Tiny fish; no license to diagnose every human decision as a thalamic leftover.
 
@@ -236,6 +240,7 @@ Neuroscience connects to the rest of the wiki without swallowing it:
 - **Attention:** unsupported thought is not automatically pleasant or easy; minds often need structure, practice, or tools before quiet becomes useful.
 - **Auditory selection:** the attended voice can be neurally tracked and amplified; selective hearing is active routing, not just volume.
 - **Curiosity:** novelty and uncertainty can drive broad exploration, but structure decides whether that becomes synthesis or scatter.
+- **Information symmetry:** exploration can respond to relative evidence imbalance across alternatives, not only uncertainty inside one option.
 - **Mood networks:** sleep, affect, expectation, and clinical neuromodulation all point toward mood as a system-level state, not a floating thought bubble.
 - **Consciousness and language:** semantic and predictive language signals can persist below reportable awareness; decodability is evidence of processing, not automatic evidence of experience.
 - **Neurodevelopment:** autism is not one averaged brain pattern; heterogeneity may reflect multiple biological routes, but mechanism subtypes are not lived identity.

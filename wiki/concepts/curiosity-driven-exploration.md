@@ -3,9 +3,10 @@ title: "Curiosity Driven Exploration"
 type: concept
 status: draft
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-06-27
 sources:
   - ../sources/le-cunff-adhd-traits-curiosity.md
+  - ../sources/dambrogio-interpretable-ann-information-gathering.md
   - ../sources/repetition-cognitive-method-source-batch.md
   - ../sources/optimism-neuroscience-source-batch.md
 ---
@@ -28,6 +29,14 @@ Curiosity is useful when it produces:
 - enough novelty to keep attention online.
 
 In this form, curiosity is a search engine with taste. It notices odd bridges, follows loose threads and finds papers that a more obedient workflow would miss.
+
+## Information Balance, Not Just Uncertainty
+
+[D'Ambrogio et al. 2026](../sources/dambrogio-interpretable-ann-information-gathering.md) adds a computational account of when people keep sampling the current option and when they switch. In a two-option information-gathering task, an ANN-derived model suggested that participants sought relative balance in the evidence gathered across alternatives rather than reducing each option's uncertainty independently.
+
+The useful idea is **information symmetry**: as the current focus becomes better sampled than its alternative, the value of staying falls and the value of switching rises. Curiosity may therefore respond to a knowledge imbalance across available paths, not merely to one isolated unknown.
+
+This does not mean every open tab deserves equal attention. The study used a tightly controlled two-option task with explicit rewards and time costs. In real research, some alternatives are rubbish and symmetry would be a terrible filing policy. The practical question is narrower: has the current branch received enough evidence that inspecting the under-sampled alternative now has greater value?
 
 ## The Expensive Version
 
@@ -67,12 +76,14 @@ That turns associative exploration into a knowledge system instead of a pile of 
 - Novelty is not importance.
 - ADHD traits are not a personality brand.
 - A cross-sectional association is not causation.
+- A two-option information-sampling equation is not a universal law of curiosity.
 - Strength-based framing should not erase impairment or support needs.
 - The wiki being large is not, by itself, proof of wisdom. Annoying, but true.
 
 ## Related
 
 - [Le Cunff et al. - ADHD Traits And Curiosity](../sources/le-cunff-adhd-traits-curiosity.md)
+- [D'Ambrogio et al. - Interpretable ANN Models Of Human Information Gathering](../sources/dambrogio-interpretable-ann-information-gathering.md)
 - [Repetition As Cognitive Method](repetition-as-cognitive-method.md)
 - [Salience Weighted Judgment](salience-weighted-judgment.md)
 - [Optimism](optimism.md)

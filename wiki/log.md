@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-06-27] source note | interpretable ANN models of human information gathering
+
+- Source: D'Ambrogio et al., [Interpretable abstractions of artificial neural networks predict behavior and neural activity during human information gathering](https://doi.org/10.1038/s41593-026-02342-9), *Nature Neuroscience*, 2026-06-26.
+- Page created: [D'Ambrogio et al. - Interpretable ANN Models Of Human Information Gathering](sources/dambrogio-interpretable-ann-information-gathering.md).
+- Pages updated: [Curiosity Driven Exploration](concepts/curiosity-driven-exploration.md), [Neuroscience](../themes/neuroscience/overview.md), [Wiki Index](index.md), and [Current State](meta/current-state.md).
+- Notes: Added an open-access human information-seeking study that used a constrained ANN to discover a richer value-of-information function, then symbolic regression to compress it into four interpretable parameters. The model suggests people seek relative evidence balance across alternatives and predicts both sampling behavior and 7T fMRI signals. Boundary: 20-person structured two-option experiment, correlated uncertainty types, model-guided associations rather than a universal curiosity equation or neural mind-reading.
+
 ## [2026-06-26] timeline update | GPT-5.6 limited-release pressure
 
 - Sources: [Axios reporting on the Trump administration asking OpenAI to limit GPT-5.6's release](https://www.axios.com/2026/06/25/trump-administration-openai-gpt-model-release); [The Verge summary of The Information's employee-Q&A reporting](https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request); [White House Executive Order 14409](https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/).
