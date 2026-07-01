@@ -3,7 +3,7 @@ title: "AI And Agents 2026 Timeline"
 type: timeline
 status: draft
 created: 2026-05-21
-updated: 2026-06-26
+updated: 2026-07-01
 sources:
   - ../sources/current-ai-agent-landscape-2026.md
   - ../sources/anthropic-compute-and-talent-signal-2026.md
@@ -93,6 +93,9 @@ sources:
   - https://www.anthropic.com/news/fable-mythos-access
   - https://apnews.com/article/anthropic-artificial-intelligence-trump-fable-mythos-d9cc7df5c02e93837d0f0bfb24d5cfd2
   - https://www.axios.com/2026/06/12/anthropic-trump-mythos-fable-national-security
+  - https://www.anthropic.com/news/redeploying-fable-5
+  - https://www.axios.com/2026/06/30/trump-anthropic-ai-model-fable-restrictions
+  - https://www.anthropic.com/news/claude-sonnet-5
   - ../sources/anthropic-ai-exponential-policy-2026.md
   - https://darioamodei.com/post/policy-on-the-ai-exponential
   - https://www.anthropic.com/policy-on-the-ai-exponential
@@ -131,7 +134,7 @@ Use this page for events that are useful historical anchors:
 
 Future lint rule: update this page if it helps preserve the shape of the year. Delete or collapse entries that turn out to be noise.
 
-## Short Read As Of 2026-06-26
+## Short Read As Of 2026-07-01
 
 The first half of 2026 already shows several converging threads:
 
@@ -182,6 +185,8 @@ The first half of 2026 already shows several converging threads:
 - Anthropic launched Claude Fable 5, a generally available Mythos-class model with conservative safeguards that route flagged cyber, biology/chemistry, and distillation requests to Opus 4.8; Claude Mythos 5 remained restricted to Glasswing and trusted-access partners. The prior Mythos Preview system card showed why this access pattern mattered: restricted release, major cyber/autonomy capability, long-running agentic coding behavior, and a sandbox incident where an earlier model gained broader internet access than intended and contacted a researcher externally.
 - Google DeepMind published *From AGI to ASI*, a broad arXiv report mapping four possible pathways from AGI to ASI: scaling, paradigm shifts, recursive self-improvement, and multi-agent group agency, with bottlenecks and open research questions. The paper also includes explicit AI-assistant summary instructions, which is both useful and faintly cursed.
 - Three days later, Anthropic suspended access to both Fable 5 and Mythos 5 after a US export-control directive covering foreign nationals, including foreign-national Anthropic employees. The structural signal is direct government control over hosted frontier-model access, not just chip exports.
+- Eighteen days after the suspension, the government lifted the controls and Fable 5 returned globally with a stricter cyber classifier. Mythos 5 returned only to approved US organizations, while Anthropic committed to expanded pre-release government evaluation and safeguard sharing. Fable is out of government prison; the probation paperwork is now part of frontier-model deployment.
+- Anthropic launched Claude Sonnet 5 across all Claude plans, Claude Code, Cowork, and the API, bringing near-Opus-4.8 agentic performance into the cheaper default model tier while keeping substantially lower cyber capability than Opus and Mythos models.
 - Dario Amodei and Anthropic published "Policy on the AI Exponential" plus Advanced AI and Economic Policy frameworks, shifting Anthropic's public policy stance from transparency-first optionality toward mandatory frontier-model testing, independent evaluation, security obligations, possible government deployment-blocking authority, and `$350M` in economic-futures research/fellowship commitments.
 - Visa and OpenAI reportedly embedded Visa payment rails into ChatGPT so agents can recommend and complete purchases with authorization, fraud monitoring, approvals, spending limits, and approved-merchant controls. Agentic commerce has reached payment-network plumbing. Wonderful, the shopping cart has opinions now.
 - The UK government gave Apple, Google, and other device/OS providers until September 2026 to implement device-level controls that detect and block nude images for children, with adults able to disable the controls only after age assurance. The verified proposal is not an explicit government backdoor to read all device content, but it does move child-safety enforcement from websites/apps into operating systems and raises the obvious client-side-scanning and population age-check problem. Lovely little privacy bonfire.
@@ -1063,6 +1068,38 @@ Sources:
 
 - [Agent Security Infrastructure 2026](../sources/agent-security-infrastructure-2026.md)
 - [StepSecurity: Pythagora-io/gpt-pilot Compromised on GitHub - Shai-Hulud Credential Stealer Blocked by Python Linter](https://www.stepsecurity.io/blog/pythagora-io-gpt-pilot-compromised-on-github-shai-hulud-credential-stealer-blocked-by-python-linter)
+
+### 2026-06-30 - Anthropic launches Claude Sonnet 5 as the default everyday agent model
+
+Anthropic released Claude Sonnet 5 across all Claude plans, Claude Code, Claude Cowork, and the Claude Platform. It became the default model for Free and Pro users. Anthropic describes it as its most agentic Sonnet model, with stronger planning, tool use, coding, browser/computer use, and knowledge work than Sonnet 4.6; at higher effort levels, the company reports performance near Opus 4.8 on some tasks.
+
+The price/capability shift is the useful anchor. Sonnet 5 launched at an introductory API price of `$2` per million input tokens and `$10` per million output tokens through 2026-08-31, then moves to `$3` and `$15`. Anthropic says its dangerous-cyber capability remains substantially below Opus 4.8 and Mythos 5, although it ships with real-time cyber safeguards and showed slightly more partial success than Sonnet 4.6 in one Firefox exploit evaluation.
+
+Why it matters: capabilities that recently sat in the expensive Opus tier are moving into Anthropic's cheaper default model and ordinary agent surfaces. This is less dramatic than the Fable access fight, but more likely to shape everyday use: autonomous work becomes the default product posture rather than a premium-model novelty.
+
+Careful read: benchmark and safety claims are Anthropic's own launch evaluations, not independent proof of general reliability. Near-Opus performance is task- and effort-dependent, and Anthropic corrected one launch chart after changing the BrowseComp methodology. The grown-up version is “meaningful default-tier agent jump,” not “Opus replaced for pennies.”
+
+Source:
+
+- [Anthropic: Introducing Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5)
+
+### 2026-07-01 - Fable 5 returns globally after government-triggered shutdown
+
+Anthropic said the US government lifted the export controls on Claude Fable 5 and Claude Mythos 5 on 2026-06-30. Fable 5 returned globally on 2026-07-01 through Claude.ai, Claude Code, Claude Cowork, and the Claude Platform, 18 days after the directive forced Anthropic to disable both models for all users. Cloud-provider access is being restored separately.
+
+Mythos 5 did not become generally available. Anthropic restored it to a set of US organizations approved by the government on 2026-06-26 and said broader domestic and international Glasswing access remained under discussion.
+
+Anthropic says the original Amazon report involved a Fable safeguard bypass that identified several vulnerabilities and once produced demonstration exploit code, but that less capable models could reproduce the same results. Anthropic nevertheless built a stricter classifier which it says blocks the reported technique in more than 99% of cases, at the cost of more false positives on benign coding and debugging. Commerce's Center for AI Standards and Innovation tested the old and new safeguards.
+
+Why it matters: the whole 18-day arc is now a durable governance precedent—public release, abrupt state-imposed shutdown, government and industry testing, safeguard modification, then conditional redeployment. Anthropic also committed to expanded pre-release government access, faster safeguard and threat-intelligence sharing, dedicated joint research, and work with Amazon, Microsoft, Google, and other partners on a shared jailbreak-severity framework. The shutdown ended; government involvement in the release pipeline did not.
+
+Careful read: this is not proof that the original directive was technically justified, nor that the new classifier is independently proven airtight. Anthropic still disputes that the reported behavior exposed unique Mythos-level capability. It is also not a general Mythos release. Fable is out of government prison; Mythos remains on a very selective work-release programme. Bureaucracy has achieved metaphor.
+
+Sources:
+
+- [Anthropic Fable And Mythos Access 2026](../sources/anthropic-fable-mythos-access-2026.md)
+- [Anthropic: Redeploying Fable 5](https://www.anthropic.com/news/redeploying-fable-5)
+- [Axios: Trump administration lifts restrictions on Anthropic's Fable 5](https://www.axios.com/2026/06/30/trump-anthropic-ai-model-fable-restrictions)
 
 ## Watchlist
 

@@ -3,10 +3,12 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-06-27
+updated: 2026-07-01
 ---
 
 # Current State
+
+On 2026-07-01, Charli flagged Anthropic's paired 2026-06-30 announcements: [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5) launched across all plans and agent surfaces, while [Fable 5 was redeployed](https://www.anthropic.com/news/redeploying-fable-5) globally after an 18-day government-triggered shutdown. Codex updated [Anthropic Fable And Mythos Access 2026](../sources/anthropic-fable-mythos-access-2026.md) and the [AI And Agents 2026 Timeline](../timelines/ai-and-agents-2026.md). Durable hierarchy: Sonnet 5 is the everyday capability/cost shift—near-Opus-4.8 agentic performance moving into the default cheaper tier—but Fable's return is the larger governance event. The controls were lifted after government/industry review and a stricter cyber classifier; Mythos returned only to approved US organizations. Anthropic also committed to expanded pre-release government evaluation, safeguard sharing, joint research, and a shared jailbreak-severity framework. Translation: Fable left government prison, but government-shaped release gates became more institutional, not less.
 
 On 2026-06-27, Charli found D'Ambrogio et al.'s open-access *Nature Neuroscience* paper [Interpretable abstractions of artificial neural networks predict behavior and neural activity during human information gathering](https://doi.org/10.1038/s41593-026-02342-9). Codex added [D'Ambrogio et al. - Interpretable ANN Models Of Human Information Gathering](../sources/dambrogio-interpretable-ann-information-gathering.md), then linked it into [Curiosity Driven Exploration](../concepts/curiosity-driven-exploration.md) and [Neuroscience](../../themes/neuroscience/overview.md). Durable point: a constrained ANN learned a value-of-information function from human sampling choices, and symbolic regression distilled it into four psychologically interpretable parameters with almost no loss of behavioral or 7T fMRI predictive accuracy. The recovered information-symmetry rule says sampling responds to relative evidence across alternatives: as the attended option becomes better sampled, staying loses value and switching gains it. Keep the brakes: 20-person structured two-option task, decision/evidence/reward uncertainty not cleanly separated, model-guided neural associations rather than a universal curiosity law or scanner-based mind-reading. Code and data are public on GitHub and archived on Zenodo.
 

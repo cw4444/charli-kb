@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-07-01] timeline update | Sonnet 5 launch and Fable 5 redeployment
+
+- Sources: Anthropic, [Introducing Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5), 2026-06-30; Anthropic, [Redeploying Fable 5](https://www.anthropic.com/news/redeploying-fable-5), 2026-06-30; Axios, [Trump administration lifts restrictions on Anthropic's Fable 5](https://www.axios.com/2026/06/30/trump-anthropic-ai-model-fable-restrictions), updated 2026-07-01.
+- Pages updated: [Anthropic Fable And Mythos Access 2026](sources/anthropic-fable-mythos-access-2026.md), [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Wiki Index](index.md), and [Current State](meta/current-state.md).
+- Notes: Added Sonnet 5 as a default-tier agentic capability/cost marker, but treated Fable 5's return after an 18-day government-triggered shutdown as the larger governance event. Fable returned globally after a stricter classifier and government testing; Mythos returned only to approved US organizations. Boundary: Anthropic's `>99%` block rate is a company claim about the reported Amazon technique, not independent proof of airtight safeguards. The controls ended, while expanded pre-release government evaluation and release collaboration became part of the settlement.
+
 ## [2026-06-27] source note | interpretable ANN models of human information gathering
 
 - Source: D'Ambrogio et al., [Interpretable abstractions of artificial neural networks predict behavior and neural activity during human information gathering](https://doi.org/10.1038/s41593-026-02342-9), *Nature Neuroscience*, 2026-06-26.
