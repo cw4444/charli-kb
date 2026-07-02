@@ -3,12 +3,13 @@ title: "Optimism"
 type: concept
 status: draft
 created: 2026-05-12
-updated: 2026-06-22
+updated: 2026-07-02
 sources:
   - ../sources/optimism-neuroscience-source-batch.md
   - ../sources/repetition-cognitive-method-source-batch.md
   - ../sources/fujimoto-deep-brain-stimulation-white-matter-remodeling.md
   - ../sources/kahneman-tversky-judgment-under-uncertainty.md
+  - ../sources/morewedge-least-likely-of-times.md
   - ../sources/libet-schurger-readiness-potential-agency.md
   - ../sources/langer-counterclockwise-aging-mindset.md
   - manifestation-as-behavior-modification.md
@@ -37,6 +38,8 @@ The 2024 OxJournal overview is not primary evidence, but it usefully names the d
 Forgeard and Seligman's 2012 review is useful for the older map. It separates optimistic explanatory style from dispositional optimism: one asks how people explain events, the other asks what they broadly expect from the future. Its best contribution here is the adult boundary: healthy optimism is flexible. It usually helps when it supports coping, effort, opportunity scanning, and persistence, but temporary realistic pessimism can be useful when danger is near, odds are genuinely poor, or preparation matters more than morale. Optimism is a tool, not a wedding vow.
 
 Sjåstad and Baumeister's 2023 *Cognition* experiments give that flexibility a useful time structure: fast personal forecasts were more optimistic than forecasts made after a delay for reflection. Their proposed two-step model is not "intuition bad, deliberation good." First the mind generates a wanted future; then it has time to ask how difficult the route is. In the exercise-habit study, however, reflection only shifted people toward a less optimistic forecast when their beliefs about how often other people sustain the habit were fairly accurate. So the useful practice is **fast optimism, then slow realism with actual base rates**—not just sitting with a thought until it develops a PowerPoint.
+
+Morewedge, Gilbert, and Wilson's 2005 [Least Likely Of Times](../sources/morewedge-least-likely-of-times.md) paper adds the memory input to that sequence. When people forecast from one freely recalled past event, the episode that comes to mind may be as unusually good or bad as an explicitly requested best or worst case. The difference is metacognitive: people told to retrieve an extreme know it is unrepresentative and correct, while free recallers may treat the same kind of outlier as ordinary evidence. Optimistic and pessimistic forecasts can therefore inherit their extremity from a biased memory sample before later reasoning even begins.
 
 Michael Roy's 2014 opinion piece adds the social-level warning: belief in optimism can be more troublesome than optimism itself when it becomes a moral demand or universal explanation for outcomes. That framing can erase structural constraints and make sensible caution look like a character flaw. This is philosophical ballast, not experimental proof that optimism harms people; it keeps the useful version evidence-sensitive, non-moralising, and allergic to cosmic admin.
 
@@ -132,6 +135,7 @@ Ellen Langer's counterclockwise aging study belongs on the outer edge of this co
 - `Hardiness`: stress-resistance style involving commitment, control, and challenge.
 - `Flexible optimism`: ability to shift between optimistic persistence and realistic pessimistic preparation when circumstances require it.
 - `Fast optimism, slow realism`: a two-step prospection model in which an initial desired-future prediction can be more optimistic, while later reflection incorporates obstacles and base rates; its corrective value depends on the quality of those base-rate beliefs.
+- `Unlabelled extreme memory`: a freely retrieved past episode may be unusually good or bad without feeling unrepresentative, allowing it to pull the next emotional forecast toward the same extreme.
 - `Salience weighted judgment`: vivid, recent, emotionally loaded, or currently focused material gets overweighted unless checked against evidence.
 - `Expectancy-guided attention`: experimentally induced optimistic expectancies can steer visual attention toward rewarding evidence.
 - `Salience/control network bridge`: fMRI evidence links unexpected evidence under optimistic expectancies to salience and executive-control network activity.

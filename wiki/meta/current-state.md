@@ -3,10 +3,12 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-07-01
+updated: 2026-07-02
 ---
 
 # Current State
+
+On 2026-07-02, Charli found Morewedge, Gilbert, and Wilson's 2005 *Psychological Science* paper [The Least Likely of Times: How Remembering the Past Biases Forecasts of the Future](https://doi.org/10.1111/j.1467-9280.2005.01585.x). Codex added [Morewedge et al. - The Least Likely Of Times](../sources/morewedge-least-likely-of-times.md) and linked it into availability and optimism rather than building a five-page-paper cathedral. Durable point: when people freely recalled one missed train or sports win, they selected memories about as extreme as participants explicitly asked for the worst/best case; only the explicitly prompted groups knew the sample was unrepresentative and moderated their forecasts. Keep the sequence: extreme memory retrieval -> unnoticed unrepresentativeness -> extreme future forecast. Keep the boundary louder: three small field studies, 215 usable participants, forecast ratings only, no later experienced-emotion outcome, and no direct preregistered replication identified in this pass.
 
 On 2026-07-01, Charli flagged Anthropic's paired 2026-06-30 announcements: [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5) launched across all plans and agent surfaces, while [Fable 5 was redeployed](https://www.anthropic.com/news/redeploying-fable-5) globally after an 18-day government-triggered shutdown. Codex updated [Anthropic Fable And Mythos Access 2026](../sources/anthropic-fable-mythos-access-2026.md) and the [AI And Agents 2026 Timeline](../timelines/ai-and-agents-2026.md). Durable hierarchy: Sonnet 5 is the everyday capability/cost shift—near-Opus-4.8 agentic performance moving into the default cheaper tier—but Fable's return is the larger governance event. The controls were lifted after government/industry review and a stricter cyber classifier; Mythos returned only to approved US organizations. Anthropic also committed to expanded pre-release government evaluation, safeguard sharing, joint research, and a shared jailbreak-severity framework. Translation: Fable left government prison, but government-shaped release gates became more institutional, not less.
 

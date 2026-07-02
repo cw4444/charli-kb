@@ -3,7 +3,7 @@ title: "Optimism Neuroscience Source Batch"
 type: source
 status: draft
 created: 2026-05-12
-updated: 2026-06-22
+updated: 2026-07-02
 source_type: public-research-batch
 authors:
   - Sanda Dolcos
@@ -122,6 +122,9 @@ authors:
   - Punit Shah
   - Hallgeir Sjåstad
   - Roy F. Baumeister
+  - Carey K. Morewedge
+  - Daniel T. Gilbert
+  - Timothy D. Wilson
 primary_sources:
   - "Taylor and Brown, Psychological Bulletin, 1988, Illusion and well-being: A social psychological perspective on mental health, https://doi.org/10.1037/0033-2909.103.2.193"
   - "Sharot et al., Nature, 2007, Neural mechanisms mediating optimism bias, https://doi.org/10.1038/nature06280"
@@ -164,6 +167,7 @@ primary_sources:
   - "Petro, Tong, Henley, and Neta, Social Cognitive and Affective Neuroscience, 2018, Individual differences in valence bias: fMRI evidence of the initial negativity hypothesis, https://doi.org/10.1093/scan/nsy049"
   - "Viviani, Lo, Sim, Beschoner, Stingl, and Horn, PLOS ONE, 2010, The Neural Substrate of Positive Bias in Spontaneous Emotional Processing, https://doi.org/10.1371/journal.pone.0015454"
   - "Sjåstad and Baumeister, Cognition, 2023, Fast optimism, slow realism? Causal evidence for a two-step model of future thinking, https://doi.org/10.1016/j.cognition.2023.105447"
+  - "Morewedge, Gilbert, and Wilson, Psychological Science, 2005, The Least Likely of Times: How Remembering the Past Biases Forecasts of the Future, https://doi.org/10.1111/j.1467-9280.2005.01585.x"
 counterpoint_sources:
   - "Colvin and Block, Psychological Bulletin, 1994, Do positive illusions foster mental health? An examination of the Taylor and Brown formulation, https://doi.org/10.1037/0033-2909.116.1.3"
   - "Taylor and Brown, Psychological Bulletin, 1994, Positive illusions and well-being revisited: separating fact from fiction, https://doi.org/10.1037/0033-2909.116.1.21"
@@ -206,6 +210,7 @@ sources:
   - "Frontiers in Psychology, PubMed Central, Crossref, and OpenAlex metadata/full text for Shah 2012, accessed 2026-06-14"
   - "Scientific Reports, PubMed Central, Crossref, and OpenAlex metadata/full text for Kotikalapudi et al. 2023, accessed 2026-06-14"
   - "ScienceDirect full text and publisher metadata for Sjåstad and Baumeister 2023, accessed 2026-06-22"
+  - "SAGE, PubMed, Crossref, OpenAlex, and author-hosted Harvard PDF for Morewedge et al. 2005, accessed 2026-07-02"
   - "../../raw/The_effect_of_optimistic_expectancies_on.pdf"
   - "../../raw/Right_frontal_gamma_transcranial_alterna.pdf"
   - "../../raw/Seeing_through_rose_colored_glasses_How.pdf"
@@ -234,6 +239,8 @@ Sharot et al. 2007 is the classic neural optimism-bias paper. In that study, opt
 Sharot, Korn, and Dolan 2011 shifts the emphasis from imagery to learning. Participants updated beliefs more when new information was better than expected than when it was worse. The paper argues that unrealistic optimism is maintained partly by reduced neural tracking of undesirable information, especially in right inferior frontal gyrus.
 
 Sjåstad and Baumeister 2023 add a clean time-course tile: prospective judgment may begin with a desired outcome and only later move to obstacles, difficulty, and base rates. Across five experiments in the United States and Norway (combined N = 3,213), participants assigned to fast, time-pressured intuition made more optimistic personal forecasts than participants given delayed reflection. The effect appeared for comparative life events, health-risk predictions, and a binary exercise-habit prediction; in the direct self-versus-average-person comparison, it was specific to the self.
+
+Morewedge, Gilbert, and Wilson 2005 add a complementary memory-sampling tile. Across three field studies involving missed trains and upcoming football/baseball games, people asked for any one past instance recalled episodes as affectively extreme as people explicitly asked for the worst or best instance. Free recallers then made more extreme forecasts; explicitly biased recallers moderated theirs because the prompt exposed the memory as unrepresentative. The paper therefore suggests that positive or negative forecasts can inherit their intensity from an unlabeled outlier in memory. Important boundary: the studies measured forecasts, not later experienced emotion, so they demonstrate a candidate source of impact bias rather than directly measuring the complete forecasting error.
 
 The title is excellent, but it does not license the cartoon version that slow thinking automatically equals truth. In the exercise-habit experiment, slower reflection became less optimistic only for participants whose beliefs about the relevant social base rate were reasonably accurate. Reflection made judgments more consistent with existing beliefs; it only improved realism when those beliefs contained usable world knowledge. The paper also treats comparative optimism measures cautiously and reserves its stronger realism claim for the final base-rate-linked experiment. This is causal evidence that response mode changes *optimism in prediction*, not a proof that every fast feeling is wishful thinking or every long meeting is wisdom.
 

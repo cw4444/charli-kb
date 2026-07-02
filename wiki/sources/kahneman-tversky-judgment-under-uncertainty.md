@@ -3,7 +3,7 @@ title: "Kahneman And Tversky - Judgment Under Uncertainty"
 type: source
 status: draft
 created: 2026-06-11
-updated: 2026-06-11
+updated: 2026-07-02
 source_type: public-research-batch
 authors:
   - Daniel Kahneman
@@ -39,6 +39,8 @@ Tversky and Kahneman's 1973 paper defines availability as judging frequency or p
 That is the serious research cousin of the everyday "frequency illusion" rabbit hole. If something has just become salient, it can start appearing everywhere. The world may not have changed much. The retrieval and attention system has.
 
 Useful wiki translation: do not trust "I keep seeing this" until you have checked whether the base rate changed, your attention changed, the feed changed, or the search terms changed. Google is an availability machine with a search bar on it. Lovely. Dangerous.
+
+[Morewedge, Gilbert, and Wilson's 2005 affective-forecasting experiments](morewedge-least-likely-of-times.md) add a memory-selection version of the same problem. When asked to recall any single occasion, people retrieved experiences about as extreme as those retrieved under explicit "best" or "worst" instructions. Only the explicitly prompted groups knew they had selected an outlier and moderated their forecasts. The first memory can therefore act like an unlabeled extreme sample: available enough to guide the future, unrepresentative enough to mislead it.
 
 ### Heuristics And Biases
 
@@ -91,5 +93,6 @@ For AI work, this is a useful steering rule: a fluent model can make a topic fee
 - [Salience Weighted Judgment](../concepts/salience-weighted-judgment.md)
 - [Daniel Kahneman](../people/daniel-kahneman.md)
 - [Optimism](../concepts/optimism.md)
+- [Morewedge et al. - The Least Likely Of Times](morewedge-least-likely-of-times.md)
 - [Reality Threshold](../concepts/reality-threshold.md)
 - [Practical Agency Inside Constraint](../concepts/practical-agency-inside-constraint.md)

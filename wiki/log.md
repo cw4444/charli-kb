@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-07-02] source note | Morewedge et al. - The Least Likely Of Times
+
+- Source: Morewedge, Gilbert, and Wilson, [The Least Likely of Times: How Remembering the Past Biases Forecasts of the Future](https://doi.org/10.1111/j.1467-9280.2005.01585.x), *Psychological Science*, 2005.
+- Page created: [Morewedge et al. - The Least Likely Of Times](sources/morewedge-least-likely-of-times.md).
+- Pages updated: [Kahneman And Tversky - Judgment Under Uncertainty](sources/kahneman-tversky-judgment-under-uncertainty.md), [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Wiki Index](index.md), and [Current State](meta/current-state.md).
+- Notes: Added the memory-selection mechanism beneath affective forecasting: a freely recalled episode can be as unusually good or bad as an explicitly requested best/worst case, but without the warning label that prompts correction. Kept the boundary loud: three small 2005 field studies, 215 usable participants, immediate self-report forecasts, and no measurement of later experienced emotion; candidate source of impact bias, not a complete direct test of forecast error.
+
 ## [2026-07-01] timeline update | Sonnet 5 launch and Fable 5 redeployment
 
 - Sources: Anthropic, [Introducing Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5), 2026-06-30; Anthropic, [Redeploying Fable 5](https://www.anthropic.com/news/redeploying-fable-5), 2026-06-30; Axios, [Trump administration lifts restrictions on Anthropic's Fable 5](https://www.axios.com/2026/06/30/trump-anthropic-ai-model-fable-restrictions), updated 2026-07-01.
