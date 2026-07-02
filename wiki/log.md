@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-07-02] research signal | Isaac and Calder - Mere Forecasting Effect
+
+- Source: Isaac and Calder, [The Mere Forecasting Effect: How Focusing on the Future Influences Current Attitudes](https://www.kellogg.northwestern.edu/academics-research/research/detail/2009/the-mere-forecasting-effect-how-focusing-on-the-future/), in *Asia-Pacific Advances in Consumer Research*, volume 8, 2009, pp. 60-61; [archived proceedings PDF](https://citeseerx.ist.psu.edu/document?doi=a532ee2820e74c9b88e2cb6178c481fe227a1769&repid=rep1&type=pdf). The original ACR proceedings URL now returns 404.
+- Pages updated: [Salience Weighted Judgment](concepts/salience-weighted-judgment.md), [Manifestation As Behavior Modification](concepts/manifestation-as-behavior-modification.md), [Wiki Index](index.md), and [Current State](meta/current-state.md).
+- Notes: Added a genuinely distinct mechanism rather than another forecast-accuracy paper: making an affective forecast may itself change a current product attitude by increasing the weight of future or distal information, with a proposed additional metacognitive route. Kept it as a research signal rather than a standalone effect page because the public source is a two-page conference proceedings abstract with no exposed methods, sample sizes, effect sizes, or clear later journal publication or replication. It supports forecasting reactivity, not reality creation.
+
 ## [2026-07-02] source note | Van Dijk et al. - Emotional Time Travel
 
 - Sources: van Dijk, van Dillen, Seip, and Rotteveel, [Emotional time travel: Emotion regulation and the overestimation of future anger and sadness](https://doi.org/10.1002/ejsp.1853), *European Journal of Social Psychology*, 2012; van Dijk, van Dillen, Rotteveel, and Seip, [Looking into the crystal ball of our emotional lives](https://doi.org/10.1080/02699931.2015.1129313), *Cognition and Emotion*, 2017.

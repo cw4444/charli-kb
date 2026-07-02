@@ -3,7 +3,7 @@ title: "Salience Weighted Judgment"
 type: concept
 status: draft
 created: 2026-06-11
-updated: 2026-06-20
+updated: 2026-07-02
 sources:
   - ../sources/kahneman-tversky-judgment-under-uncertainty.md
   - ../sources/optimism-neuroscience-source-batch.md
@@ -12,6 +12,8 @@ sources:
   - ../sources/sulewski-fixation-duration-memory-encoding.md
   - ../sources/pessoa-entangled-brain.md
   - ../sources/veiga-zarza-cognitive-dissonance-attitude-change.md
+  - https://www.kellogg.northwestern.edu/academics-research/research/detail/2009/the-mere-forecasting-effect-how-focusing-on-the-future/
+  - https://citeseerx.ist.psu.edu/document?doi=a532ee2820e74c9b88e2cb6178c481fe227a1769&repid=rep1&type=pdf
 ---
 
 # Salience Weighted Judgment
@@ -46,6 +48,12 @@ Repeated material becomes easier to retrieve. That can be useful when the repeat
 
 [Repetition As Cognitive Method](repetition-as-cognitive-method.md) keeps the distinction clean: spaced retrieval and feedback can build learning, while repetitive negative thinking can keep threat and self-evaluation overavailable.
 
+### Forecasting Reactivity
+
+Isaac and Calder's 2009 Asia-Pacific Association for Consumer Research proceedings abstract proposes a slightly different problem: asking people to anticipate a future experience with a product may itself alter their current attitude toward it. Their suggested routes are that future focus gives disproportionate weight to distal information and that the act of contemplating a future attitude may change judgment through a metacognitive process, even when the forecast itself is not informative.
+
+That is useful because it makes forecasting an intervention, not always a neutral measurement. It is also a thin research signal: the public record is a two-page conference abstract without exposed methods, sample sizes, effect sizes, or a clear later journal publication or replication. Keep the mechanism; do not promote the label into a settled psychological law.
+
 ## Why It Matters Here
 
 This concept is a guardrail for several wiki lanes:
@@ -77,6 +85,7 @@ The [Locus Coeruleus](locus-coeruleus.md) adds a biological gain-control bridge.
 - Sleep on any conclusion that arrived with theatrical certainty.
 - Use AI to widen the frame, not only to deepen the current tunnel.
 - Ask what you are not thinking about because one factor has taken the spotlight.
+- Before treating a forecast as evidence, ask whether making it changed which information now feels important.
 
 ## Do Not Overclaim
 
@@ -84,6 +93,7 @@ The [Locus Coeruleus](locus-coeruleus.md) adds a biological gain-control bridge.
 - Bias does not mean useless. Heuristics are often efficient.
 - A topic feeling newly everywhere is not proof of synchronicity, destiny, or cosmic signage. It may be search, memory, and attention doing normal machinery.
 - Debiasing is not becoming emotionless. It is adding checks before action.
+- A conference abstract suggesting that forecasting can shift present attitudes does not show that all forecasts do so, or that imagining an outcome causes the external outcome.
 
 ## Related
 

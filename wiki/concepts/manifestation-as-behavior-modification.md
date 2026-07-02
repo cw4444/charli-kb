@@ -3,7 +3,7 @@ title: "Manifestation As Behavior Modification"
 type: concept
 status: draft
 created: 2026-06-08
-updated: 2026-06-20
+updated: 2026-07-02
 sources:
   - https://www.nhs.uk/conditions/cognitive-behavioural-therapy-cbt/
   - https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral
@@ -70,6 +70,8 @@ The practical version:
 [Salience Weighted Judgment](salience-weighted-judgment.md) is the guardrail. Making a future vivid can help action, but vividness is not evidence. A desired future can feel more likely because it is rehearsed. A feared future can feel more likely because it is intrusive. A search trail can make a concept feel suddenly everywhere because the attention system is now tuned to it.
 
 The adult move is to use salience as a steering aid, then check the world. If the belief changes attention and behaviour usefully, fine. If it starts treating felt importance as proof, put it back in its box.
+
+Isaac and Calder's 2009 conference abstract adds a narrow but useful wrinkle: the act of forecasting a future product experience may change the person's current evaluation by making distal information more salient, with a possible additional metacognitive effect from contemplating the future. That gives future rehearsal one plausible route into present attitude. The evidence available here is only a two-page proceedings abstract, however, so it is a research signal about judgment—not Abraham Hicks receiving retrospective institutional accreditation.
 
 ## Relation To Positive Psychology
 
