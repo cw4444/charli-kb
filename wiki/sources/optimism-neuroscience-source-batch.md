@@ -125,6 +125,10 @@ authors:
   - Carey K. Morewedge
   - Daniel T. Gilbert
   - Timothy D. Wilson
+  - Wilco W. van Dijk
+  - Lotte F. van Dillen
+  - Elise C. Seip
+  - Mark Rotteveel
 primary_sources:
   - "Taylor and Brown, Psychological Bulletin, 1988, Illusion and well-being: A social psychological perspective on mental health, https://doi.org/10.1037/0033-2909.103.2.193"
   - "Sharot et al., Nature, 2007, Neural mechanisms mediating optimism bias, https://doi.org/10.1038/nature06280"
@@ -168,6 +172,8 @@ primary_sources:
   - "Viviani, Lo, Sim, Beschoner, Stingl, and Horn, PLOS ONE, 2010, The Neural Substrate of Positive Bias in Spontaneous Emotional Processing, https://doi.org/10.1371/journal.pone.0015454"
   - "Sjåstad and Baumeister, Cognition, 2023, Fast optimism, slow realism? Causal evidence for a two-step model of future thinking, https://doi.org/10.1016/j.cognition.2023.105447"
   - "Morewedge, Gilbert, and Wilson, Psychological Science, 2005, The Least Likely of Times: How Remembering the Past Biases Forecasts of the Future, https://doi.org/10.1111/j.1467-9280.2005.01585.x"
+  - "van Dijk, van Dillen, Seip, and Rotteveel, European Journal of Social Psychology, 2012, Emotional time travel: Emotion regulation and the overestimation of future anger and sadness, https://doi.org/10.1002/ejsp.1853"
+  - "van Dijk, van Dillen, Rotteveel, and Seip, Cognition and Emotion, 2017, Looking into the crystal ball of our emotional lives: Emotion regulation and the overestimation of future guilt and shame, https://doi.org/10.1080/02699931.2015.1129313"
 counterpoint_sources:
   - "Colvin and Block, Psychological Bulletin, 1994, Do positive illusions foster mental health? An examination of the Taylor and Brown formulation, https://doi.org/10.1037/0033-2909.116.1.3"
   - "Taylor and Brown, Psychological Bulletin, 1994, Positive illusions and well-being revisited: separating fact from fiction, https://doi.org/10.1037/0033-2909.116.1.21"
@@ -211,6 +217,7 @@ sources:
   - "Scientific Reports, PubMed Central, Crossref, and OpenAlex metadata/full text for Kotikalapudi et al. 2023, accessed 2026-06-14"
   - "ScienceDirect full text and publisher metadata for Sjåstad and Baumeister 2023, accessed 2026-06-22"
   - "SAGE, PubMed, Crossref, OpenAlex, and author-hosted Harvard PDF for Morewedge et al. 2005, accessed 2026-07-02"
+  - "Wiley, UvA-DARE, Crossref, and OpenAlex abstract/metadata for van Dijk et al. 2012; UvA-DARE CC BY-NC-ND full text for van Dijk et al. 2017, accessed 2026-07-02"
   - "../../raw/The_effect_of_optimistic_expectancies_on.pdf"
   - "../../raw/Right_frontal_gamma_transcranial_alterna.pdf"
   - "../../raw/Seeing_through_rose_colored_glasses_How.pdf"
@@ -241,6 +248,8 @@ Sharot, Korn, and Dolan 2011 shifts the emphasis from imagery to learning. Parti
 Sjåstad and Baumeister 2023 add a clean time-course tile: prospective judgment may begin with a desired outcome and only later move to obstacles, difficulty, and base rates. Across five experiments in the United States and Norway (combined N = 3,213), participants assigned to fast, time-pressured intuition made more optimistic personal forecasts than participants given delayed reflection. The effect appeared for comparative life events, health-risk predictions, and a binary exercise-habit prediction; in the direct self-versus-average-person comparison, it was specific to the self.
 
 Morewedge, Gilbert, and Wilson 2005 add a complementary memory-sampling tile. Across three field studies involving missed trains and upcoming football/baseball games, people asked for any one past instance recalled episodes as affectively extreme as people explicitly asked for the worst or best instance. Free recallers then made more extreme forecasts; explicitly biased recallers moderated theirs because the prompt exposed the memory as unrepresentative. The paper therefore suggests that positive or negative forecasts can inherit their intensity from an unlabeled outlier in memory. Important boundary: the studies measured forecasts, not later experienced emotion, so they demonstrate a candidate source of impact bias rather than directly measuring the complete forecasting error.
+
+Van Dijk, van Dillen, Seip, and Rotteveel 2012 add the emotion-regulation tile. People forecasting social exclusion predicted more anger and sadness, and less reappraisal, than people actually experiencing exclusion reported. The publicly exposed specific mechanism was relativisation: experiencers who placed the exclusion in a broader frame reported less anger, while predicted relativisation did not track forecast anger. Their 2017 guilt/shame follow-up found a related gap through underestimated acceptance and overestimated rumination. Together, the papers suggest that emotional forecasts can model the event while under-modelling the later mind that will continue processing it. Keep the brakes: one closed-access 2012 paradigm plus a 52-woman laboratory follow-up; useful mechanism evidence, not a universal resilience law.
 
 The title is excellent, but it does not license the cartoon version that slow thinking automatically equals truth. In the exercise-habit experiment, slower reflection became less optimistic only for participants whose beliefs about the relevant social base rate were reasonably accurate. Reflection made judgments more consistent with existing beliefs; it only improved realism when those beliefs contained usable world knowledge. The paper also treats comparative optimism measures cautiously and reserves its stronger realism claim for the final base-rate-linked experiment. This is causal evidence that response mode changes *optimism in prediction*, not a proof that every fast feeling is wishful thinking or every long meeting is wisdom.
 

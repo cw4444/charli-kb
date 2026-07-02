@@ -14,6 +14,7 @@ primary_sources:
 reference_sources:
   - "Levine and Lench, Current Opinion in Behavioral Sciences, 2018, Bias in predicted and remembered emotion, https://doi.org/10.1016/j.cobeha.2017.10.008"
   - "Morewedge and Todorov, Social Psychological and Personality Science, 2012, The Least Likely Act: Overweighting Atypical Past Behavior in Behavioral Predictions, https://doi.org/10.1177/1948550611434784"
+  - "van Dijk, van Dillen, Seip, and Rotteveel, European Journal of Social Psychology, 2012, Emotional time travel: Emotion regulation and the overestimation of future anger and sadness, https://doi.org/10.1002/ejsp.1853"
 ---
 
 # Morewedge et al. - The Least Likely Of Times
@@ -67,6 +68,8 @@ Levine and Lench's 2018 review places the paper inside a broader account of pred
 
 Morewedge and Todorov's 2012 experiments extended the atypical-example mechanism from emotional experience to predicting behaviour. Atypical past actions were more cognitively accessible and were overweighted when people predicted what an individual would do next. That is related evidence, not a direct replication of the 2005 affective-forecasting studies.
 
+[Van Dijk et al.'s 2012 Emotional Time Travel study](van-dijk-emotional-time-travel.md) adds a different source of forecasting error. Even when the future event is specified, forecasters can underrepresent the reappraisal and emotion regulation that future-you will actually perform. Morewedge supplies the biased input; van Dijk supplies the incompletely simulated emotional process.
+
 ## Limits
 
 - The three studies had 215 usable participants altogether and relied on immediate self-report ratings in narrow field settings.
@@ -80,4 +83,5 @@ Morewedge and Todorov's 2012 experiments extended the atypical-example mechanism
 - [Kahneman And Tversky - Judgment Under Uncertainty](kahneman-tversky-judgment-under-uncertainty.md)
 - [Optimism](../concepts/optimism.md)
 - [Optimism Neuroscience Source Batch](optimism-neuroscience-source-batch.md)
+- [Van Dijk et al. - Emotional Time Travel](van-dijk-emotional-time-travel.md)
 - [Salience Weighted Judgment](../concepts/salience-weighted-judgment.md)

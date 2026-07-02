@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-07-02] source note | Van Dijk et al. - Emotional Time Travel
+
+- Sources: van Dijk, van Dillen, Seip, and Rotteveel, [Emotional time travel: Emotion regulation and the overestimation of future anger and sadness](https://doi.org/10.1002/ejsp.1853), *European Journal of Social Psychology*, 2012; van Dijk, van Dillen, Rotteveel, and Seip, [Looking into the crystal ball of our emotional lives](https://doi.org/10.1080/02699931.2015.1129313), *Cognition and Emotion*, 2017.
+- Page created: [Van Dijk et al. - Emotional Time Travel](sources/van-dijk-emotional-time-travel.md).
+- Pages updated: [Morewedge et al. - The Least Likely Of Times](sources/morewedge-least-likely-of-times.md), [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Optimism](concepts/optimism.md), [Wiki Index](index.md), and [Current State](meta/current-state.md).
+- Notes: Added a distinct affective-forecasting mechanism: people can represent the negative event while under-representing the reappraisal and emotion regulation their future selves will actually perform. Kept the evidence boundary: closed-access 2012 study available through public abstract/metadata, later 52-woman guilt/shame follow-up under CC BY-NC-ND, self-report laboratory paradigms, and no universal claim that distress will harmlessly regulate itself away.
+
 ## [2026-07-02] source note | Morewedge et al. - The Least Likely Of Times
 
 - Source: Morewedge, Gilbert, and Wilson, [The Least Likely of Times: How Remembering the Past Biases Forecasts of the Future](https://doi.org/10.1111/j.1467-9280.2005.01585.x), *Psychological Science*, 2005.
