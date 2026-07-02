@@ -14,6 +14,7 @@ sources:
   - ../sources/veiga-zarza-cognitive-dissonance-attitude-change.md
   - https://www.kellogg.northwestern.edu/academics-research/research/detail/2009/the-mere-forecasting-effect-how-focusing-on-the-future/
   - https://citeseerx.ist.psu.edu/document?doi=a532ee2820e74c9b88e2cb6178c481fe227a1769&repid=rep1&type=pdf
+  - ../sources/hawkins-hastie-hindsight-bias.md
 ---
 
 # Salience Weighted Judgment
@@ -54,6 +55,12 @@ Isaac and Calder's 2009 Asia-Pacific Association for Consumer Research proceedin
 
 That is useful because it makes forecasting an intervention, not always a neutral measurement. It is also a thin research signal: the public record is a two-page conference abstract without exposed methods, sample sizes, effect sizes, or a clear later journal publication or replication. Keep the mechanism; do not promote the label into a settled psychological law.
 
+### Hindsight Reweighting
+
+[Hawkins and Hastie's 1990 review](../sources/hawkins-hastie-hindsight-bias.md) adds the reverse-time version. Once an outcome is known, facts that fit it can become easier to select, look more diagnostic, and integrate into a coherent causal story. That story then makes the outcome feel as though it was predictable all along.
+
+The result is not just "memory is bad." Present outcome knowledge changes the weighting scheme used to reconstruct past uncertainty. Explainable now is not the same as predictable then.
+
 ## Why It Matters Here
 
 This concept is a guardrail for several wiki lanes:
@@ -86,6 +93,7 @@ The [Locus Coeruleus](locus-coeruleus.md) adds a biological gain-control bridge.
 - Use AI to widen the frame, not only to deepen the current tunnel.
 - Ask what you are not thinking about because one factor has taken the spotlight.
 - Before treating a forecast as evidence, ask whether making it changed which information now feels important.
+- When reviewing a past decision, reconstruct the information and plausible alternatives available before the outcome was known.
 
 ## Do Not Overclaim
 
@@ -107,4 +115,5 @@ The [Locus Coeruleus](locus-coeruleus.md) adds a biological gain-control bridge.
 - [Reality Threshold](reality-threshold.md)
 - [Pessoa - The Entangled Brain](../sources/pessoa-entangled-brain.md)
 - [Veiga-Zarza et al. - Cognitive Dissonance And Attitude Change](../sources/veiga-zarza-cognitive-dissonance-attitude-change.md)
+- [Hindsight Bias](hindsight-bias.md)
 - [Practical Agency Inside Constraint](practical-agency-inside-constraint.md)

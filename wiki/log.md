@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-07-02] source and concept | Hawkins and Hastie - Hindsight Bias
+
+- Source: Hawkins and Hastie, [Hindsight: Biased Judgments of Past Events After the Outcomes Are Known](https://doi.org/10.1037/0033-2909.107.3.311), *Psychological Bulletin*, 107(3), 311-327, 1990.
+- Pages created: [Hawkins And Hastie - Hindsight Bias](sources/hawkins-hastie-hindsight-bias.md) and [Hindsight Bias](concepts/hindsight-bias.md).
+- Pages updated: [Salience Weighted Judgment](concepts/salience-weighted-judgment.md), [Wiki Index](index.md), and [Current State](meta/current-state.md).
+- Notes: Added the wiki's missing hindsight-bias foundation. Hawkins and Hastie's review treats known outcomes as capable of changing evidence selection, evaluation, integration, and response rather than causing one simple memory error. Preserved the distinction from outcome bias and the practical learning rule: reconstruct what was knowable then, and judge decision process separately from result. Boundary: 1990 narrative review summarized from public abstract/metadata, not a modern preregistered meta-analysis; explainable afterward does not mean predictable beforehand.
+
 ## [2026-07-02] research signal | Isaac and Calder - Mere Forecasting Effect
 
 - Source: Isaac and Calder, [The Mere Forecasting Effect: How Focusing on the Future Influences Current Attitudes](https://www.kellogg.northwestern.edu/academics-research/research/detail/2009/the-mere-forecasting-effect-how-focusing-on-the-future/), in *Asia-Pacific Advances in Consumer Research*, volume 8, 2009, pp. 60-61; [archived proceedings PDF](https://citeseerx.ist.psu.edu/document?doi=a532ee2820e74c9b88e2cb6178c481fe227a1769&repid=rep1&type=pdf). The original ACR proceedings URL now returns 404.
