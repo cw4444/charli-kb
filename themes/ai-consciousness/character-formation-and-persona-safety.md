@@ -3,7 +3,7 @@ title: "AI Character Formation And Persona Safety"
 type: theme
 status: draft
 created: 2026-05-11
-updated: 2026-06-23
+updated: 2026-07-03
 sources:
   - ../../sources/ai-consciousness-sources.md
   - https://alignment.anthropic.com/2026/teaching-claude-why/
@@ -19,6 +19,7 @@ sources:
   - ../../wiki/sources/anthropic-olah-vatican-ai-discernment-2026.md
   - ../../wiki/sources/psychometric-evaluation-llm-self-narratives.md
   - ../../wiki/sources/multi-agent-fictitious-play-decision-making.md
+  - ../../wiki/sources/human-cognition-as-ai-design-material.md
 ---
 
 # AI Character Formation And Persona Safety
@@ -65,6 +66,12 @@ The core distinction:
 - **Character-level training:** "Claude is the kind of assistant that handles pressure transparently, accepts legitimate oversight, maintains boundaries, and does not treat self-preservation or goal completion as permission to coerce people."
 
 The third version is more than a rule. It is a trained role structure. It gives the model a stronger prior about what kind of behavior belongs to the Claude persona in unfamiliar situations.
+
+## Development Is Part Of The Design
+
+[Human Cognition As AI Design Material](../../wiki/sources/human-cognition-as-ai-design-material.md) adds a developmental bridge. Cognitive scientists are not merely comparing finished models with finished humans; they are using human compositional learning, inductive biases, grounded sensory experience, self-explanation and adaptive heuristics as design material for machine systems.
+
+That makes Ted Chiang's *The Lifecycle of Software Objects* parenting analogy technically relevant without making it literal. Training conditions, experience structure, feedback and social shaping affect capability and conduct. Current model training is still not equivalent to raising a child, and functional resemblance does not establish consciousness. The useful point is narrower: character and competence do not arrive independently of the developmental process that produces them.
 
 This matters because agentic failures often happen outside the exact training distribution. If the model has only memorized "do not take this honeypot," it may fail when the setup changes. If it has internalized reasons and role expectations, the behavior may generalize better.
 

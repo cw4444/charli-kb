@@ -22,6 +22,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 
 ## Sources
 
+- [Human Cognition As AI Design Material](sources/human-cognition-as-ai-design-material.md): source-trail note connecting psychology-inspired AI design, human-like compositional generalization, child-centred grounded language data, learning by thinking, psychological methods for machine behaviour, adaptive heuristics, and Ted Chiang's cultivation argument without treating functional resemblance as consciousness proof.
 - [ChatGPT Memory Dreaming 2026](sources/chatgpt-memory-dreaming-2026.md): source note on OpenAI's more scalable long-horizon ChatGPT memory synthesis, including freshness, continuity, user correction, rollout scope, and why maintained personal context is becoming assistant infrastructure.
 - [Anthropic Recursive Self-Improvement 2026](sources/anthropic-recursive-self-improvement-2026.md): source note on Anthropic's public argument that AI-assisted AI development may point toward recursive self-improvement, with internal code/productivity figures and strict caveats that the loop is not closed or inevitable.
 - [DeepMind From AGI To ASI](sources/deepmind-from-agi-to-asi.md): arXiv source note on a Google DeepMind-affiliated report mapping four possible AGI-to-ASI pathways: scaling, paradigm shifts, recursive self-improvement, and multi-agent group agency, including frictions, open research questions, and notable source-embedded AI-assistant summary instructions.

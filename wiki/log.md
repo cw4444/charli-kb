@@ -1,5 +1,13 @@
 # Wiki Log
 
+## [2026-07-03] source note | Human cognition as AI design material
+
+- Discovery source: Scott Sleek, [Human Insights for Machine Smarts](https://www.psychologicalscience.org/publications/observer/human-insights-machine-smarts.html), APS *Observer*, 2024-11-26.
+- Primary-source anchors: Lake and Baroni on human-like systematic generalization; Vong et al. on language learning from one child's head-camera data; Lombrozo on learning by thinking; Taylor and Taylor on experimental psychology for machine behaviour; Gigerenzer on psychologically informed heuristics.
+- Page created: [Human Cognition As AI Design Material](sources/human-cognition-as-ai-design-material.md).
+- Pages updated: [AI Character Formation And Persona Safety](../themes/ai-consciousness/character-formation-and-persona-safety.md), [Wiki Index](index.md), and [Current State](meta/current-state.md).
+- Notes: Added a small bridge from psychology-inspired AI design to Ted Chiang's cultivation/parenting argument. Durable point: developmental conditions are part of system design; researchers deliberately import human learning structure, grounding, biases and heuristics into AI. Boundary: functional resemblance does not establish consciousness, current training is not a synthetic childhood, and machine behaviour does not remove human responsibility.
+
 ## [2026-07-03] source update | Hofmann, Friese, and Strack - Impulse and Self-Control
 
 - Source: Hofmann, Friese, and Strack, [Impulse and Self-Control From a Dual-Systems Perspective](https://doi.org/10.1111/j.1745-6924.2009.01116.x), *Perspectives on Psychological Science*, 4(2), 162-176, 2009; public [author-hosted PDF](https://www.uni-saarland.de/fileadmin/upload/lehrstuhl/friese/Publikationen_Malte/HFS_2009.pdf).
