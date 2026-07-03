@@ -3,10 +3,12 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-07-02
+updated: 2026-07-03
 ---
 
 # Current State
+
+On 2026-07-03, Charli found Hofmann, Friese, and Strack's 2009 review [Impulse and Self-Control From a Dual-Systems Perspective](https://doi.org/10.1111/j.1745-6924.2009.01116.x) through Arthur C. Brooks's Aquinas-and-happiness article. Codex folded it into [Habit, Goal-Directed Action, And Behavioural Control Source Batch](../sources/habit-goal-directed-behavior-source-batch.md) and [Habits, Goals, And Behavioural Control](../concepts/habits-goals-and-behavioral-control.md), rather than opening a dual-systems chapel. Durable point: a self-control outcome is better diagnosed through three interacting elements—strength of the specific learned impulse, availability of reflective standards or longer-term goals, and boundary conditions such as cognitive load, time pressure, alcohol, current need, working-memory demands, or trait differences. Keep two brakes loud. First, the paper's ego-depletion evidence does not survive as a simple finite-resource theory after large preregistered replications. Second, later value-integration models reject a one-to-one mapping where every goal-consistent choice is cool/deliberate and every tempting choice is hot/automatic. Brooks is discovery context, not primary evidence: the paper does not directly test his claim that simple awareness and acknowledgment of an impulse improves control; mindfulness appears only as future research. The supplied DOI was missing its final `.x`.
 
 Also on 2026-07-02, Charli found Hawkins and Hastie's 1990 *Psychological Bulletin* review [Hindsight: Biased Judgments of Past Events After the Outcomes Are Known](https://doi.org/10.1037/0033-2909.107.3.311). Codex added [Hawkins And Hastie - Hindsight Bias](../sources/hawkins-hastie-hindsight-bias.md) and [Hindsight Bias](../concepts/hindsight-bias.md). Durable point: outcome knowledge can leak backward into evidence selection, evaluation, integration, and response, making the finished causal story feel as though it was predictable all along. Keep hindsight bias distinct from outcome bias: one inflates remembered predictability; the other judges a decision through its result. Practical rule: reconstruct what was knowable then and evaluate process separately from outcome. Boundary: influential 1990 narrative review, summarized here from public abstract/metadata rather than treated as a modern preregistered meta-analysis.
 

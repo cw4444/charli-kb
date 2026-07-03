@@ -3,7 +3,7 @@ title: "Habits, Goals, And Behavioural Control"
 type: concept
 status: draft
 created: 2026-06-20
-updated: 2026-06-20
+updated: 2026-07-03
 sources:
   - ../sources/habit-goal-directed-behavior-source-batch.md
   - practical-agency-inside-constraint.md
@@ -27,6 +27,18 @@ Elliot Berkman's useful front-door distinction is between **will** and **way**. 
 | Goal-directed | current outcome value and action-outcome contingency | flexibility, re-planning, correction | slow, effortful, vulnerable under overload or stress |
 
 The modes are not enemies. A competent life needs a great deal of automation. The point is to keep automation from silently overruling a changed plan, need, or reality.
+
+## The Conflict Is Conditional
+
+Hofmann, Friese, and Strack's 2009 dual-systems review supplies a useful three-part question for moments of temptation:
+
+1. How strong and specific is the learned impulse toward this cue?
+2. How available is the reflective standard or longer-term goal?
+3. What conditions are changing their relative influence right now?
+
+That is better than treating every lapse as a global shortage of character. Cognitive load, time pressure, alcohol, fatigue, current need, working-memory demands, and learned cue strength can alter which response controls behaviour. The practical move may be to weaken or avoid the cue, make the goal easier to retrieve, automate a better response, or reduce the decision burden—not merely summon a larger quantity of sternness.
+
+Keep the model schematic. Later value-integration accounts show why a hot/impulsive choice is not always automatic and a cool/goal-consistent choice is not always effortful. The old ego-depletion resource model used in part of the 2009 evidence base also performed poorly in large preregistered replications. See the citation audit and evidence boundaries in [Habit, Goal-Directed Action, And Behavioural Control Source Batch](../sources/habit-goal-directed-behavior-source-batch.md).
 
 ## The Outcome Test
 
@@ -75,6 +87,7 @@ In other words: do not make every decision from scratch. Do make sure the defaul
 - Stress-linked habitual responding is not a character indictment.
 - Future visualisation is not a substitute for feedback, contingency learning, resources, or changing the environment.
 - A goal-directed system is not morally superior in every situation; slow deliberation can be wasteful when a well-calibrated routine is safer.
+- Dual-systems language is a useful model of competing influences, not proof of two discrete brain systems or an inner angel wrestling an inner biscuit goblin.
 
 ## Related Pages
 

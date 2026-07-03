@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-07-03] source update | Hofmann, Friese, and Strack - Impulse and Self-Control
+
+- Source: Hofmann, Friese, and Strack, [Impulse and Self-Control From a Dual-Systems Perspective](https://doi.org/10.1111/j.1745-6924.2009.01116.x), *Perspectives on Psychological Science*, 4(2), 162-176, 2009; public [author-hosted PDF](https://www.uni-saarland.de/fileadmin/upload/lehrstuhl/friese/Publikationen_Malte/HFS_2009.pdf).
+- Pages updated: [Habit, Goal-Directed Action, And Behavioural Control Source Batch](sources/habit-goal-directed-behavior-source-batch.md), [Habits, Goals, And Behavioural Control](concepts/habits-goals-and-behavioral-control.md), [Wiki Index](index.md), and [Current State](meta/current-state.md).
+- Notes: Added the useful three-part model: self-control outcomes depend on impulsive precursors, reflective standards/goals, and situational or dispositional boundary conditions. Kept it as a historical framework rather than a new page. Added modern brakes: large preregistered replications undermine the simple ego-depletion fuel-tank account, and value-integration models challenge literal hot-versus-cold process/outcome mapping. Brooks's Aquinas article is discovery context only; the 2009 paper does not directly test his stronger claim that simple awareness and acknowledgment of an impulse improves control. Also corrected the supplied DOI by restoring its final `.x`.
+
 ## [2026-07-02] source and concept | Hawkins and Hastie - Hindsight Bias
 
 - Source: Hawkins and Hastie, [Hindsight: Biased Judgments of Past Events After the Outcomes Are Known](https://doi.org/10.1037/0033-2909.107.3.311), *Psychological Bulletin*, 107(3), 311-327, 1990.

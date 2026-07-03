@@ -3,7 +3,7 @@ title: "Habit, Goal-Directed Action, And Behavioural Control Source Batch"
 type: source
 status: draft
 created: 2026-06-20
-updated: 2026-06-20
+updated: 2026-07-03
 source_type: research-batch
 sources:
   - "Berkman 2018, Consulting Psychology Journal, PMC5854216"
@@ -12,6 +12,10 @@ sources:
   - "de Wit et al. 2018, Journal of Experimental Psychology: General, PMC6033090"
   - "Lovinger 2010, Neuropharmacology, PMC2849868"
   - "Schmidt, Wikenheiser, and Redish 2018, book chapter"
+  - "Hofmann, Friese, and Strack 2009, Perspectives on Psychological Science"
+  - "Hagger et al. 2016, Perspectives on Psychological Science"
+  - "Vohs et al. 2021, Psychological Science"
+  - "Berkman, Livingston, and Kahn 2017, Psychological Inquiry"
 ---
 
 # Habit, Goal-Directed Action, And Behavioural Control Source Batch
@@ -35,6 +39,29 @@ Berkman also gives the useful four-quadrant map:
 Most meaningful behaviour change lives in the complex-novel corner. That is why "just do it" is such a useless diagnosis. The intervention should match the actual bottleneck: build the way, strengthen/reconnect the will, or stop pretending one can repair a missing route with a sticker saying *manifest it*.
 
 The article also treats executive control as limited and effortful without reviving ego depletion as a literal fuel-tank theory. It reviews the replication and publication-bias problems, then points instead toward control allocation, priorities, task demands, and the interaction of psychological and physiological state.
+
+## Historical Bridge: Impulse, Reflection, And Boundary Conditions
+
+Hofmann, Friese, and Strack's 2009 theoretical review adds a useful diagnostic layer. Instead of explaining a self-control outcome only through the person's capacity to resist, it asks researchers to measure three things together:
+
+- **impulsive precursors:** learned automatic affective or approach-avoidance reactions toward the specific temptation;
+- **reflective precursors:** deliberate evaluations, restraint standards, plans, and longer-term goals;
+- **boundary conditions:** situational or dispositional factors that alter the relative influence of the first two, such as cognitive load, time pressure, alcohol, working-memory capacity, or trait self-control.
+
+The durable point is not that two tiny people live in the skull and hold a referendum over biscuits. It is that the same visible behaviour can arise from different underlying balances. A person may act against a stated goal because the immediate impulse is unusually strong, because the goal is weak or unavailable in the moment, or because the conditions make reflective control harder to recruit. Measuring only the final choice—or only asking how much self-control somebody possesses—hides those differences.
+
+The paper is a narrative theoretical review, not one decisive experiment. It illustrates the framework with then-recent studies of eating, drinking, sexual-interest behaviour, and social responses, often combining implicit-task measures with self-report and laboratory outcomes. Its practical implication is broader than heroic inhibition: interventions can reduce cue exposure or impulse strength, strengthen and automate goal-consistent responses, or change the conditions under which conflict occurs.
+
+Two modern brakes matter:
+
+- The paper relies partly on the strength-model idea that prior control effort depletes a limited resource. A 23-lab preregistered replication found an effect estimate near zero, and later large multisite tests have also found null or very small effects. Cognitive load, fatigue, motivation, and context can still matter without treating willpower as a fuel tank.
+- Later value-integration models challenge the clean hot-versus-cold contest. A supposedly impulsive choice can be deliberate; a goal-consistent choice can become automatic; and identity, effort, social influence, reward, and competing goals can all contribute to one choice. The dual-systems model is therefore a useful historical map, not settled cognitive anatomy.
+
+### Brooks And Aquinas Citation Audit
+
+Arthur C. Brooks used the paper in *The Atlantic* while translating Aquinas's idea of governing appetites into modern self-control language. The philosophical bridge is fair at a broad level: impulses are not automatically bad, but action depends on how immediate appetites interact with longer-term standards and circumstances.
+
+The scientific citation is looser than the prose suggests. Hofmann and colleagues do **not** directly test whether simple conscious awareness and acknowledgment of an impulse improves control. The paper contains no awareness intervention; mindfulness appears only in a list of possible future moderators. Treat Brooks as the discovery trail and Hofmann et al. as evidence for a conditional impulse-control framework, not for the stronger claim that noticing an urge is by itself an established intervention.
 
 ## The Useful Distinction
 
@@ -128,6 +155,10 @@ This is the neuroscience underneath several existing wiki interests:
 - de Wit, S., Kindt, M., Knot, S. L., Verhoeven, A. A. C., Robbins, T. W., Gasull-Camós, J., & Evans, J. (2018). [*Shifting the Balance Between Goals and Habits: Five Failures in Experimental Habit Induction*](https://pmc.ncbi.nlm.nih.gov/articles/PMC6033090/). *Journal of Experimental Psychology: General*, 147(7), 1043-1065. Open full text in PMC. DOI: <https://doi.org/10.1037/xge0000402>.
 - Lovinger, D. M. (2010). [*Neurotransmitter Roles in Synaptic Modulation, Plasticity and Learning in the Dorsal Striatum*](https://pmc.ncbi.nlm.nih.gov/articles/PMC2849868/). *Neuropharmacology*, 58(7), 951-961. Public NIH author manuscript in PMC; publisher version via subscription. DOI: <https://doi.org/10.1016/j.neuropharm.2010.01.008>.
 - Schmidt, B., Wikenheiser, A. M., & Redish, A. D. (2018). [*Goal-Directed Sequences in the Hippocampus*](http://redishlab.neuroscience.umn.edu/papers/2018-Schmidt-bookchapter.pdf), Chapter 6 (pp. 125-151) in R. W. Morris, A. Bornstein, & A. Shenhav (Eds.), *Goal-Directed Decision Making: Computations and Neural Circuits*. Academic Press. Public author-hosted chapter PDF. DOI: <https://doi.org/10.1016/B978-0-12-812098-9.00006-1>.
+- Hofmann, W., Friese, M., & Strack, F. (2009). [*Impulse and Self-Control From a Dual-Systems Perspective*](https://www.uni-saarland.de/fileadmin/upload/lehrstuhl/friese/Publikationen_Malte/HFS_2009.pdf). *Perspectives on Psychological Science*, 4(2), 162-176. Public author-hosted PDF; theoretical review. DOI: <https://doi.org/10.1111/j.1745-6924.2009.01116.x>.
+- Hagger, M. S., et al. (2016). [*A Multilab Preregistered Replication of the Ego-Depletion Effect*](https://pubmed.ncbi.nlm.nih.gov/27474142/). *Perspectives on Psychological Science*, 11(4), 546-573. Registered replication report; 23 laboratories, total N = 2,141. DOI: <https://doi.org/10.1177/1745691616652873>.
+- Vohs, K. D., et al. (2021). [*A Multisite Preregistered Paradigmatic Test of the Ego-Depletion Effect*](https://pubmed.ncbi.nlm.nih.gov/34520296/). *Psychological Science*, 32(10), 1566-1581. Preregistered 36-laboratory test, total N = 3,531; confirmatory analyses found no depletion effect. DOI: <https://doi.org/10.1177/0956797621989733>.
+- Berkman, E. T., Livingston, J. L., & Kahn, L. E. (2017). [*The Identity-Value Model of Self-Regulation: Integration, Extension, and Open Questions*](https://pmc.ncbi.nlm.nih.gov/articles/PMC6377198/). *Psychological Inquiry*, 28(2-3), 157-164. Public NIH author manuscript; later value-integration alternative to simple hot-versus-cold mapping. DOI: <https://doi.org/10.1080/1047840X.2017.1343069>.
 
 ## Useful For
 
