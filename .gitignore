@@ -18,6 +18,9 @@ node_modules/
 # Local-only agent notes and reflections. Not public wiki material.
 agent-private-notes/
 
+# Local Codex workspace configuration.
+/.codex/
+
 # Private keys and credentials
 *.pem
 *.key
