@@ -3,7 +3,7 @@ title: "Practical Agency Inside Constraint"
 type: concept
 status: draft
 created: 2026-05-20
-updated: 2026-06-20
+updated: 2026-07-05
 sources:
   - ../../themes/rovelli-relational-quantum-mechanics-and-reality.md
   - ../../themes/qbism-adlam-observer-dependent-reality.md
@@ -17,6 +17,7 @@ sources:
   - ../sources/habit-goal-directed-behavior-source-batch.md
   - ../sources/veiga-zarza-cognitive-dissonance-attitude-change.md
   - ../sources/zhao-thalamus-brainstem-history-biased-decisions.md
+  - ../sources/hershfield-future-self-continuity.md
 ---
 
 # Practical Agency Inside Constraint
@@ -130,6 +131,12 @@ This fits practical agency when the guiding fiction creates better action inside
 
 It fails when the guiding fiction becomes rigid, grandiose, or evidence-proof. The future self is meant to guide action, not become a private dictator in a nice coat.
 
+## Relation To Future Self-Continuity
+
+[Future Self-Continuity](future-self-continuity.md) adds a decision-level constraint: a future goal has less leverage if the person who receives its benefits feels remote, abstract, or unrelated to the current self. Practical agency therefore includes building a credible bridge between present action and future consequence, not merely announcing an inspiring endpoint.
+
+This does not mean maximizing sacrifice for future-you. Present need, uncertainty, scarcity, and changing identity remain real constraints. The useful move is fair representation: let the future beneficiary into the decision without pretending present-you has no vote.
+
 ## Relation To Social Reality Pressure
 
 [Social Reality Pressure](social-reality-pressure.md) is another constraint on agency. Asch's line-judgment experiments show that a unanimous group can make it harder to publicly report what perception says.
@@ -178,6 +185,7 @@ This is why [Mechanical World Models](mechanical-world-models.md), [Queryable Or
 - Do not say Langer proved aging can be reversed by belief.
 - Do not say determinism is solved by vibes, manifestation, or optimism.
 - Do not say fictional finalism proves manifestation or reality creation.
+- Do not use future-self continuity to moralize present need or demand a fixed identity across time.
 - Do not say Asch proves consensus is always false or dissent is always correct.
 - Do not collapse RQM, QBism, Adlam, and category theory into one view.
 - Do not treat "everything is relational" as an excuse for ignoring material constraints.

@@ -22,6 +22,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 
 ## Sources
 
+- [Hershfield - Future Self-Continuity](sources/hershfield-future-self-continuity.md): foundational 2011 review linking intertemporal choice to perceived relatedness, vividness, and positivity of the future self, with neural, savings, aged-avatar, measurement, and later construct-boundary caveats.
 - [Human Cognition As AI Design Material](sources/human-cognition-as-ai-design-material.md): source-trail note connecting psychology-inspired AI design, human-like compositional generalization, child-centred grounded language data, learning by thinking, psychological methods for machine behaviour, adaptive heuristics, and Ted Chiang's cultivation argument without treating functional resemblance as consciousness proof.
 - [ChatGPT Memory Dreaming 2026](sources/chatgpt-memory-dreaming-2026.md): source note on OpenAI's more scalable long-horizon ChatGPT memory synthesis, including freshness, continuity, user correction, rollout scope, and why maintained personal context is becoming assistant infrastructure.
 - [Anthropic Recursive Self-Improvement 2026](sources/anthropic-recursive-self-improvement-2026.md): source note on Anthropic's public argument that AI-assisted AI development may point toward recursive self-improvement, with internal code/productivity figures and strict caveats that the loop is not closed or inevitable.
@@ -123,6 +124,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 
 ## Concepts
 
+- [Future Self-Continuity](concepts/future-self-continuity.md): perceived connection between present and future selves as one influence on delayed choice, separating relatedness, vividness, and positivity from manifestation claims and fixed-identity demands.
 - [Fault-Tolerant Quantum Computing](concepts/fault-tolerant-quantum-computing.md): concept note on logical qubits, error correction, and why useful quantum computing depends on reliable scalable computation rather than raw physical-qubit counts.
 - [Quantum Interpretation Completion Schemes](concepts/quantum-interpretation-completion-schemes.md): Charli's proposed bridge framing quantum interpretations as competing completions over shared empirical constraints, with AI used only if it yields formal constraints, classifications, predictions, or no-go results.
 - [Filesystem Agent Architecture](concepts/filesystem-agent-architecture.md): pattern where folders, Markdown contracts, scripts, logs, and Git provide the control surface for sequential, reviewable agent workflows.

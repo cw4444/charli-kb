@@ -3,12 +3,13 @@ title: "Fictional Finalism"
 type: concept
 status: draft
 created: 2026-06-08
-updated: 2026-06-08
+updated: 2026-07-05
 sources:
   - https://www.ncbi.nlm.nih.gov/books/NBK599518/
   - https://www.alfredadler.edu/about/alfred-adler-theory-application/
   - https://adler.institute/wp-content/uploads/2019/01/Individual-Psychology-Alfred-Adler-min.pdf
   - manifestation-as-behavior-modification.md
+  - ../sources/hershfield-future-self-continuity.md
 ---
 
 # Fictional Finalism
@@ -69,6 +70,12 @@ The modern self-help version often says some sensible things: future identity ca
 
 Adlerian fictional finalism is the older, more structurally useful version for this wiki because it includes the danger as well as the promise. A future self can guide agency, but it can also become a tyrant, an escape hatch, or a private fiction that refuses correction.
 
+## Relation To Future Self-Continuity
+
+[Future Self-Continuity](future-self-continuity.md) supplies the missing decision-science mechanism beneath this bridge. Fictional finalism asks what imagined future goal organizes behaviour; future self-continuity asks whether the person living in that future feels connected, concrete, and valuable enough to influence a choice now.
+
+The distinction matters. A desired future can be vivid but feel like it belongs to a glamorous stranger. A guiding fiction becomes more practically useful when present-you can see a credible line of identity and action leading to the person who receives the delayed benefit.
+
 ## Relation To Manifestation Language
 
 [Manifestation As Behavior Modification](manifestation-as-behavior-modification.md) is the translation layer. When manifestation writing says "live in the state of the wish fulfilled," the useful reading is not cosmic ordering. It is: rehearse the identity, attention, choices, and environment that would make the desired future more reachable.
@@ -91,4 +98,5 @@ That fits fictional finalism when the guiding future changes behaviour. It fails
 - [Manifestation As Behavior Modification](manifestation-as-behavior-modification.md)
 - [Research - Optimism](../questions/research-optimism.md)
 - [Practical Agency Inside Constraint](practical-agency-inside-constraint.md)
+- [Future Self-Continuity](future-self-continuity.md)
 - [Langer Counterclockwise Study And Aging Mindset](../sources/langer-counterclockwise-aging-mindset.md)

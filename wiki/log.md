@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-07-05] ingest | Hershfield future self-continuity
+
+- Source: Hal E. Hershfield, 2011, *Future self-continuity: how conceptions of the future self transform intertemporal choice*, public NIH author manuscript, PMCID PMC3764505.
+- Pages created: [Hershfield - Future Self-Continuity](sources/hershfield-future-self-continuity.md), [Future Self-Continuity](concepts/future-self-continuity.md)
+- Pages updated: [Fictional Finalism](concepts/fictional-finalism.md), [Manifestation As Behavior Modification](concepts/manifestation-as-behavior-modification.md), [Practical Agency Inside Constraint](concepts/practical-agency-inside-constraint.md), [Wiki Index](index.md), [Current State](meta/current-state.md)
+- Notes: Added the missing decision-science foundation beneath the wiki's future-self material. Preserved Hershfield's relatedness-vividness-positivity map while marking the positivity branch as indirect, the aged-avatar outcomes as mostly laboratory or hypothetical, the neural evidence as correlational rather than proof that future-you is literally a stranger, and Bixter et al.'s later future-self-identification terminology as a useful construct correction.
+
 ## [2026-07-03] source note | Human cognition as AI design material
 
 - Discovery source: Scott Sleek, [Human Insights for Machine Smarts](https://www.psychologicalscience.org/publications/observer/human-insights-machine-smarts.html), APS *Observer*, 2024-11-26.

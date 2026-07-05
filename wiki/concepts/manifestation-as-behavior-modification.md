@@ -3,7 +3,7 @@ title: "Manifestation As Behavior Modification"
 type: concept
 status: draft
 created: 2026-06-08
-updated: 2026-07-02
+updated: 2026-07-05
 sources:
   - https://www.nhs.uk/conditions/cognitive-behavioural-therapy-cbt/
   - https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral
@@ -12,6 +12,7 @@ sources:
   - optimism.md
   - salience-weighted-judgment.md
   - repetition-as-cognitive-method.md
+  - ../sources/hershfield-future-self-continuity.md
 ---
 
 # Manifestation As Behavior Modification
@@ -97,6 +98,12 @@ That makes "state of the wish fulfilled" useful only when the imagined state cha
 
 It fails when the fiction becomes evidence-proof, grandiose, passive, or contemptuous of material constraints.
 
+## Relation To Future Self-Continuity
+
+[Future Self-Continuity](future-self-continuity.md) sharpens the useful part of "feel it real." Hershfield's review suggests that present choices can become more future-oriented when future-you feels more connected, vivid, and positively valued. The mechanism is not reality creation; it is giving the delayed beneficiary more psychological weight now.
+
+The caveat is doing actual work here. Vividness can alter salience without improving accuracy, positivity is the least secure branch of the early evidence, and most famous age-progressed-self studies measured laboratory choices or hypothetical allocations. A compelling future image is a decision aid, not a notarized prophecy.
+
 ## Do Not Overclaim
 
 - Do not say manifestation is secretly proven by CBT.
@@ -119,3 +126,4 @@ The useful sentence is simple:
 - [Research - Optimism](../questions/research-optimism.md)
 - [Practical Agency Inside Constraint](practical-agency-inside-constraint.md)
 - [Habits, Goals, And Behavioural Control](habits-goals-and-behavioral-control.md)
+- [Future Self-Continuity](future-self-continuity.md)
