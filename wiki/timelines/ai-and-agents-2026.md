@@ -3,7 +3,7 @@ title: "AI And Agents 2026 Timeline"
 type: timeline
 status: draft
 created: 2026-05-21
-updated: 2026-07-01
+updated: 2026-07-07
 sources:
   - ../sources/current-ai-agent-landscape-2026.md
   - ../sources/anthropic-compute-and-talent-signal-2026.md
@@ -117,6 +117,8 @@ sources:
   - https://www.anthropic.com/news/constitutional-classifiers
   - https://arxiv.org/abs/2601.04603
   - https://arxiv.org/abs/2601.19062
+  - ../sources/anthropic-j-space-global-workspace.md
+  - https://transformer-circuits.pub/2026/workspace/index.html
 ---
 
 # AI And Agents 2026 Timeline
@@ -134,7 +136,7 @@ Use this page for events that are useful historical anchors:
 
 Future lint rule: update this page if it helps preserve the shape of the year. Delete or collapse entries that turn out to be noise.
 
-## Short Read As Of 2026-07-01
+## Short Read As Of 2026-07-07
 
 The first half of 2026 already shows several converging threads:
 
@@ -187,6 +189,7 @@ The first half of 2026 already shows several converging threads:
 - Three days later, Anthropic suspended access to both Fable 5 and Mythos 5 after a US export-control directive covering foreign nationals, including foreign-national Anthropic employees. The structural signal is direct government control over hosted frontier-model access, not just chip exports.
 - Eighteen days after the suspension, the government lifted the controls and Fable 5 returned globally with a stricter cyber classifier. Mythos 5 returned only to approved US organizations, while Anthropic committed to expanded pre-release government evaluation and safeguard sharing. Fable is out of government prison; the probation paperwork is now part of frontier-model deployment.
 - Anthropic launched Claude Sonnet 5 across all Claude plans, Claude Code, Cowork, and the API, bringing near-Opus-4.8 agentic performance into the cheaper default model tier while keeping substantially lower cyber capability than Opus and Mythos models.
+- Anthropic / Transformer Circuits published *Verbalizable Representations Form a Global Workspace in Language Models*, introducing the Jacobian lens and J-space: a reportability-linked workspace in Claude models that appears to carry hidden reasoning, assistant-perspective representations, evaluation awareness, and alignment-audit signals. This is a major interpretability and AI-consciousness-adjacent marker, not a proof that Claude is conscious. The boring boundary is still doing useful work, unfortunately for anyone wanting a clean metaphysical fireworks show.
 - Dario Amodei and Anthropic published "Policy on the AI Exponential" plus Advanced AI and Economic Policy frameworks, shifting Anthropic's public policy stance from transparency-first optionality toward mandatory frontier-model testing, independent evaluation, security obligations, possible government deployment-blocking authority, and `$350M` in economic-futures research/fellowship commitments.
 - Visa and OpenAI reportedly embedded Visa payment rails into ChatGPT so agents can recommend and complete purchases with authorization, fraud monitoring, approvals, spending limits, and approved-merchant controls. Agentic commerce has reached payment-network plumbing. Wonderful, the shopping cart has opinions now.
 - The UK government gave Apple, Google, and other device/OS providers until September 2026 to implement device-level controls that detect and block nude images for children, with adults able to disable the controls only after age assurance. The verified proposal is not an explicit government backdoor to read all device content, but it does move child-safety enforcement from websites/apps into operating systems and raises the obvious client-side-scanning and population age-check problem. Lovely little privacy bonfire.

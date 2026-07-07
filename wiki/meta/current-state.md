@@ -3,10 +3,12 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-07-05
+updated: 2026-07-07
 ---
 
 # Current State
+
+On 2026-07-07, Charli found Anthropic / Transformer Circuits' [Verbalizable Representations Form a Global Workspace in Language Models](https://transformer-circuits.pub/2026/workspace/index.html), after a Windows Codex digest first surfaced the external commentary PDF. Codex added [Anthropic J-Space And Global Workspace In Language Models](../sources/anthropic-j-space-global-workspace.md) and linked it into character formation, representational geometry, agent security infrastructure, and the 2026 AI/agents timeline. Durable point: the Jacobian lens identifies a sparse reportability-linked J-space in Claude models, and the authors argue that it also carries hidden intermediate reasoning, prompt-injection suspicion, evaluation awareness, assistant-perspective representations, and reflection-trained ethical concepts. This is the strongest Anthropic bridge yet between interpretability, covert model state, alignment auditing, and consciousness-indicator discourse. Keep the brakes welded on: workspace-like functional access is not subjective experience, top lens tokens are not a literal inner monologue, and J-lens is an imperfect audit tool rather than a mind-reading license.
 
 On 2026-07-05, Charli found Hal E. Hershfield's foundational 2011 review [Future self-continuity: how conceptions of the future self transform intertemporal choice](https://doi.org/10.1111/j.1749-6632.2011.06201.x). Codex added [Hershfield - Future Self-Continuity](../sources/hershfield-future-self-continuity.md) and [Future Self-Continuity](../concepts/future-self-continuity.md), then linked the mechanism into fictional finalism, manifestation-as-behaviour, and practical agency. Durable point: intertemporal choice depends partly on how the delayed beneficiary is represented; future-you receives more weight when that person feels related, concrete, and positively valued. Keep the boundaries loud. Hershfield's paper is a 2011 narrative review of an early programme, not a meta-analysis; neural current/future-self differences do not prove the brain literally treats future-you as a stranger; aged-avatar outcomes were mainly laboratory or hypothetical choices; and the positivity branch relied heavily on indirect aging-attitude evidence. Bixter et al. 2020 later supported relatedness, vividness, and positivity as correlated but distinct factors and proposed **future self-identification** as the better umbrella term. This is a mechanism for beneficiary weighting, not manifestation with an fMRI machine parked outside.
 

@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-07-07] source note | Anthropic J-space and global workspace
+
+- Source: Wes Gurnee et al., [Verbalizable Representations Form a Global Workspace in Language Models](https://transformer-circuits.pub/2026/workspace/index.html), Transformer Circuits / Anthropic, 2026-07-06; Anthropic-hosted external commentary PDF.
+- Pages created: [Anthropic J-Space And Global Workspace In Language Models](sources/anthropic-j-space-global-workspace.md)
+- Pages updated: [AI Character Formation And Persona Safety](../themes/ai-consciousness/character-formation-and-persona-safety.md), [Representational Geometry](concepts/representational-geometry.md), [Agent Security Infrastructure 2026](sources/agent-security-infrastructure-2026.md), [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Wiki Index](index.md), and [Current State](meta/current-state.md)
+- Notes: Added Anthropic's Jacobian-lens / J-space paper as a missing foundation under the wiki's interpretability, model-character, internal-state auditing, and AI-consciousness-adjacent lanes. Durable point: Claude models appear to contain a small reportability-linked workspace carrying hidden intermediate reasoning, evaluation awareness, assistant-perspective representations, and reflection-trained ethical concepts. Boundary: workspace-like access and decodability do not establish subjective experience, moral patienthood, or literal mind reading.
+
 ## [2026-07-05] ingest | Hershfield future self-continuity
 
 - Source: Hal E. Hershfield, 2011, *Future self-continuity: how conceptions of the future self transform intertemporal choice*, public NIH author manuscript, PMCID PMC3764505.

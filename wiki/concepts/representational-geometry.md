@@ -3,7 +3,7 @@ title: "Representational Geometry"
 type: concept
 status: draft
 created: 2026-06-04
-updated: 2026-06-18
+updated: 2026-07-07
 sources:
   - ../sources/representational-geometry-brains-and-llms.md
   - ../sources/world-properties-without-world-models-static-embeddings.md
@@ -13,6 +13,7 @@ sources:
   - ../sources/anthropic-natural-language-autoencoders.md
   - ../sources/stclair-bio-inspired-modularity-general-learning.md
   - ../sources/busch-noninvasive-bci-manifold-geometry.md
+  - ../sources/anthropic-j-space-global-workspace.md
 ---
 
 # Representational Geometry
@@ -116,6 +117,14 @@ The useful geometric point is that the explanation is judged by whether it prese
 
 This does not make NLA prose a perfect inner monologue. It means activation space can sometimes be compressed into human-readable language well enough to support auditing.
 
+## J-Space And Workspace Geometry
+
+[Anthropic J-Space And Global Workspace In Language Models](../sources/anthropic-j-space-global-workspace.md) adds a reportability-linked version of the same geometry problem. The Jacobian lens identifies activation directions associated with concepts the model is disposed to verbalize across contexts. The authors then define J-space as a sparse, token-indexed subframe of activation space.
+
+The notable claim is not just that concepts are decodable. It is that this small workspace-like subset appears usable for internal reasoning, flexible recombination, assistant-perspective monitoring, evaluation awareness, and counterfactual reflection training. That makes J-space a bridge between representational geometry and agent safety: some directions are not merely readable by humans after the fact, but appear to be read and written by many model circuits during the forward pass.
+
+Keep the brake on. J-space is a functional and geometric interpretability object, not a little conscious observer inside the residual stream. Charming image. Bad ontology.
+
 ## Modularity And Continual Learning
 
 [StClair, Hahn, and Barenholtz 2021](../sources/stclair-bio-inspired-modularity-general-learning.md) add an architecture-level version of the geometry point. Their argument is that biological modularity may help systems preserve earlier learning while still learning new tasks.
@@ -165,6 +174,7 @@ It sharpens several existing threads:
 - [Anthropic Circuit Tracing And Claude's Internal Plans](../sources/anthropic-circuit-tracing-claude-thoughts.md)
 - [Cloud et al. - Subliminal Learning And Hidden Signals](../sources/cloud-le-subliminal-learning-hidden-signals.md)
 - [Anthropic Natural Language Autoencoders](../sources/anthropic-natural-language-autoencoders.md)
+- [Anthropic J-Space And Global Workspace In Language Models](../sources/anthropic-j-space-global-workspace.md)
 - [StClair et al. - Bio-Inspired Modularity In General Learning](../sources/stclair-bio-inspired-modularity-general-learning.md)
 - [Busch et al. - Noninvasive BCI Learning And Manifold Geometry](../sources/busch-noninvasive-bci-manifold-geometry.md)
 - [Can SAE Decoder Geometry And Neural Activity Geometry Be Unified?](../questions/can-sae-decoder-geometry-and-neural-activity-geometry-be-unified.md)
