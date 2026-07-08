@@ -2,9 +2,9 @@
 
 ## [2026-07-08] timeline update | OpenAI GPT-Live and GPT-5.6 preview wording
 
-- Sources: OpenAI, [Introducing GPT-Live](https://openai.com/index/introducing-gpt-live/), 2026-07-08; OpenAI Help Center, [ChatGPT Voice](https://help.openai.com/en/articles/20001274), updated 2026-07-08; OpenAI, [Previewing GPT-5.6 Sol](https://openai.com/index/previewing-gpt-5-6-sol/), 2026-06-26.
+- Sources: OpenAI, [Introducing GPT-Live](https://openai.com/index/introducing-gpt-live/), 2026-07-08; OpenAI Help Center, [ChatGPT Voice](https://help.openai.com/en/articles/20001274), updated 2026-07-08; OpenAI, [Previewing GPT-5.6 Sol](https://openai.com/index/previewing-gpt-5-6-sol/), 2026-06-26; OpenAI [X post](https://x.com/OpenAI/status/2074704958419792299), 2026-07-08, locally captured as `raw/5.6-release.png`.
 - Pages updated: [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Wiki Index](index.md), and [Current State](meta/current-state.md).
-- Notes: Added GPT-Live as a timeline-worthy voice-interface shift: full-duplex listening and speaking, fewer false interruptions, live translation, visual cards, and delegation to frontier models. Also tightened the GPT-5.6 Sol/Terra/Luna entry now that OpenAI's own preview page confirms the naming and government-shaped limited partner release. Boundary: OpenAI says broader GPT-5.6 availability is planned "in the coming weeks"; do not turn secondary chatter into a clean 2026-07-09 general-release claim until an official launch exists.
+- Notes: Added GPT-Live as a timeline-worthy voice-interface shift: full-duplex listening and speaking, fewer false interruptions, live translation, visual cards, and delegation to frontier models. Also tightened the GPT-5.6 Sol/Terra/Luna entry now that OpenAI's own preview page confirms the naming and government-shaped limited partner release, and OpenAI's official X account says public launch is Thursday, 2026-07-09, with preview access expanding globally. Boundary: the X post is an official launch tease, not a post-launch capability record.
 
 ## [2026-07-07] source note | Anthropic J-space and global workspace
 
