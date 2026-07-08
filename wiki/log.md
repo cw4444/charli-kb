@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-07-08] source update | Fable 5 subscription access extension
+
+- Sources: Anthropic, [Claude Fable 5 and Claude Mythos 5](https://www.anthropic.com/news/claude-fable-5-mythos-5), 2026-06-09; local screenshots `raw/tariq-tweet-1.jpeg`, `raw/tariq-tweet-2.jpg`, and `raw/claude-access.png`.
+- Pages updated: [Anthropic Fable And Mythos Access 2026](sources/anthropic-fable-mythos-access-2026.md), [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Wiki Index](index.md), and [Current State](meta/current-state.md).
+- Notes: Added the small but future-useful subscription detail: Anthropic's original launch post framed Fable subscription access as capacity-managed and aimed to restore standard subscription access when capacity allowed; later screenshots show Fable moving off included subscription use after the extended promo. Charli's Anthropic email says Fable stayed in-plan through Sunday, 2026-07-12 at 11:59pm PT, then all Fable 5 usage runs on usage credits starting 2026-07-13. Boundary: this is an account-facing access/pricing note, not a new capability release.
+
 ## [2026-07-08] timeline update | OpenAI GPT-Live and GPT-5.6 preview wording
 
 - Sources: OpenAI, [Introducing GPT-Live](https://openai.com/index/introducing-gpt-live/), 2026-07-08; OpenAI Help Center, [ChatGPT Voice](https://help.openai.com/en/articles/20001274), updated 2026-07-08; OpenAI, [Previewing GPT-5.6 Sol](https://openai.com/index/previewing-gpt-5-6-sol/), 2026-06-26; OpenAI [X post](https://x.com/OpenAI/status/2074704958419792299), 2026-07-08, locally captured as `raw/5.6-release.png`.

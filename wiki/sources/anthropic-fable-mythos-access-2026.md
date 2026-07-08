@@ -3,7 +3,7 @@ title: "Anthropic Fable And Mythos Access 2026"
 type: source
 status: draft
 created: 2026-06-13
-updated: 2026-07-01
+updated: 2026-07-08
 sources:
   - "Anthropic: System Card - Claude Mythos Preview, 2026-04-07"
   - "Anthropic: Claude Fable 5 and Claude Mythos 5, 2026-06-09"
@@ -14,6 +14,9 @@ sources:
   - "Straight Arrow News: No, the NSA wasn't hacked by AI. Here's what actually happened, 2026-06-22"
   - "Anthropic: Redeploying Fable 5, 2026-06-30"
   - "Axios: Trump administration lifts restrictions on Anthropic's Fable 5, 2026-06-30"
+  - "../../raw/tariq-tweet-1.jpeg"
+  - "../../raw/tariq-tweet-2.jpg"
+  - "../../raw/claude-access.png"
   - "../../raw/mythos-1.jpeg"
   - "../../raw/mythos-2.jpeg"
   - "Mrinank Sharma Anthropic Safeguards Exit 2026"
@@ -54,6 +57,16 @@ Anthropic described Fable 5 as a Mythos-class model made safe for general use. T
 - Data retention: 30-day retention for traffic on Mythos-class models, framed as safety monitoring rather than training data.
 
 Anthropic's own launch caveat matters. It said perfect jailbreak resistance may not be possible, and framed its goal as making attacks narrow, expensive, slow, and detectable. That is a defensive-operating posture, not a magic forcefield. Shocking, I know.
+
+## Subscription Access And Usage Credits
+
+The June 9 launch post also treated Fable 5 access as a capacity-management problem, not simply a model-picker switch. Anthropic said Fable 5 was fully available on the Claude API and consumption-based Enterprise plans, but subscription-plan access would roll out conservatively. The original blog plan included Fable 5 on Pro, Max, Team, and seat-based Enterprise at no extra cost through 2026-06-22, then moved usage after that point to usage credits unless capacity allowed an extension. Anthropic also said it aimed to restore Fable 5 as a standard part of subscription plans once sufficient capacity allowed.
+
+The later access window moved around after the export-control interruption and redeployment. Local screenshots from Thariq's verified X account say Fable would come off subscriptions after 2026-07-07, that Anthropic aimed to restore it as a standard subscription feature when capacity allowed, and that "compute can be tricky" while Anthropic worked on making Fable a regular part of subscriptions.
+
+Charli then received an Anthropic/Claude email, locally captured as `raw/claude-access.png`, saying Fable 5 had been set to start drawing from usage credits on 2026-07-08, but that Anthropic extended the promotion so Fable stayed in her plan through Sunday, 2026-07-12 at 11:59pm PT. The email said the mechanics did not otherwise change: up to 50% of weekly plan limits could be used on Fable 5 at no additional subscription cost, Fable drew down those limits faster than Opus or Sonnet, and starting 2026-07-13 all Fable 5 usage would run on usage credits.
+
+Careful read: this is an account-facing subscription/access note, not a new capability release. It is still worth preserving because it marks when Fable stopped being included in ordinary subscription usage after the launch/suspension/redeployment mess. Future Charli will absolutely ask "when did Fable leave the plan?" and future agents will otherwise look at each other like useless furniture.
 
 ## Suspension
 

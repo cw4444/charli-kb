@@ -973,7 +973,9 @@ The access shift is the anchor. In April, Anthropic put Claude Mythos Preview be
 
 Anthropic also launched Claude Mythos 5 for a small group of cyberdefenders and infrastructure providers through Project Glasswing, with cyber safeguards lifted in some areas. It plans broader trusted access for cybersecurity organizations and a biology trusted-access program where selected researchers can use Fable 5 with biology and chemistry safeguards removed, while cyber safeguards remain in place.
 
-Why it matters: this is the first broad release of Mythos-class capability after Anthropic's earlier "too risky for general access" posture. The structural signal is not only a stronger model; it is a new deployment pattern for frontier capability: public model access plus risk-domain routing, mandatory safety telemetry/data retention for Mythos-class models, restricted high-risk access, and government-linked trusted-access expansion.
+The subscription-access detail is messy but useful. The launch blog said Fable 5 was fully available on API and consumption-based Enterprise plans, while subscription-plan access would be capacity-managed: initially included on Pro, Max, Team, and seat-based Enterprise plans, then expected to require usage credits after the included window unless capacity allowed extension. A later Anthropic email to Charli said Fable had been set to start drawing from usage credits on 2026-07-08, but the promotion was extended so Fable stayed in her plan through Sunday, 2026-07-12 at 11:59pm PT; starting 2026-07-13, all Fable 5 usage would run on usage credits.
+
+Why it matters: this is the first broad release of Mythos-class capability after Anthropic's earlier "too risky for general access" posture. The structural signal is not only a stronger model; it is a new deployment pattern for frontier capability: public model access plus risk-domain routing, mandatory safety telemetry/data retention for Mythos-class models, restricted high-risk access, government-linked trusted-access expansion, and capacity-managed subscription access.
 
 Careful read: this does not mean unrestricted Mythos is public. Fable 5 is the safeguarded public version; Mythos 5 remains restricted. It also does not prove the safeguards are airtight. Anthropic says universal jailbreaks may be impossible to prevent completely, and that the goal is to make remaining attacks slow and costly enough to detect. Lovely. Very comforting. Still timeline-worthy.
 
@@ -981,6 +983,7 @@ Source:
 
 - [Claude Mythos Preview System Card](../sources/claude-mythos-preview-system-card.md)
 - [Anthropic: Claude Fable 5 and Claude Mythos 5](https://www.anthropic.com/news/claude-fable-5-mythos-5)
+- Anthropic email screenshot, `raw/claude-access.png`, received by Charli on 2026-07-08
 
 Update, 2026-06-12: Anthropic later suspended access to both Fable 5 and Mythos 5 after a US export-control directive. See the 2026-06-13 entry below.
 
