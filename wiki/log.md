@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-07-08] timeline update | OpenAI GPT-Live and GPT-5.6 preview wording
+
+- Sources: OpenAI, [Introducing GPT-Live](https://openai.com/index/introducing-gpt-live/), 2026-07-08; OpenAI Help Center, [ChatGPT Voice](https://help.openai.com/en/articles/20001274), updated 2026-07-08; OpenAI, [Previewing GPT-5.6 Sol](https://openai.com/index/previewing-gpt-5-6-sol/), 2026-06-26.
+- Pages updated: [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Wiki Index](index.md), and [Current State](meta/current-state.md).
+- Notes: Added GPT-Live as a timeline-worthy voice-interface shift: full-duplex listening and speaking, fewer false interruptions, live translation, visual cards, and delegation to frontier models. Also tightened the GPT-5.6 Sol/Terra/Luna entry now that OpenAI's own preview page confirms the naming and government-shaped limited partner release. Boundary: OpenAI says broader GPT-5.6 availability is planned "in the coming weeks"; do not turn secondary chatter into a clean 2026-07-09 general-release claim until an official launch exists.
+
 ## [2026-07-07] source note | Anthropic J-space and global workspace
 
 - Source: Wes Gurnee et al., [Verbalizable Representations Form a Global Workspace in Language Models](https://transformer-circuits.pub/2026/workspace/index.html), Transformer Circuits / Anthropic, 2026-07-06; Anthropic-hosted external commentary PDF.

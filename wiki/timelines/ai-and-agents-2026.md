@@ -3,7 +3,7 @@ title: "AI And Agents 2026 Timeline"
 type: timeline
 status: draft
 created: 2026-05-21
-updated: 2026-07-07
+updated: 2026-07-08
 sources:
   - ../sources/current-ai-agent-landscape-2026.md
   - ../sources/anthropic-compute-and-talent-signal-2026.md
@@ -119,6 +119,11 @@ sources:
   - https://arxiv.org/abs/2601.19062
   - ../sources/anthropic-j-space-global-workspace.md
   - https://transformer-circuits.pub/2026/workspace/index.html
+  - https://openai.com/index/previewing-gpt-5-6-sol/
+  - https://deploymentsafety.openai.com/gpt-5-6-preview
+  - https://openai.com/index/introducing-gpt-live/
+  - https://deploymentsafety.openai.com/gpt-live
+  - https://help.openai.com/en/articles/20001274
 ---
 
 # AI And Agents 2026 Timeline
@@ -136,7 +141,7 @@ Use this page for events that are useful historical anchors:
 
 Future lint rule: update this page if it helps preserve the shape of the year. Delete or collapse entries that turn out to be noise.
 
-## Short Read As Of 2026-07-07
+## Short Read As Of 2026-07-08
 
 The first half of 2026 already shows several converging threads:
 
@@ -180,7 +185,8 @@ The first half of 2026 already shows several converging threads:
 - Microsoft signed a preliminary land-acquisition agreement for potential datacenter development in Vaasa and Mustasaari, Finland, reinforcing the shift from AI as software story to AI as land, grid, cooling, and local-planning story.
 - OpenAI published a June 8 "third phase" strategy cluster: automated AI researchers, a March 2028 internal horizon for a significant fraction of research being done by AI systems alongside researchers, economic-growth and "personal AGI" distribution language, international coordination that could include slowing frontier development, a confidential draft S-1, and an external Economic Research Exchange.
 - OpenAI announced a Partner Network with `$150 million` for the partner ecosystem, a target of `300,000` certified consultants by the end of 2026, and future specializations in Codex, cybersecurity, and agents, making enterprise deployment and consulting capacity part of the lab strategy.
-- Axios and The Verge reported that the Trump administration asked OpenAI to limit GPT-5.6's initial release to government-approved partners or a small enterprise preview, turning the White House's voluntary frontier-model evaluation framework into a live access-sequencing fight. The useful warning is not "safety is fake"; it is that opaque institutions can ration advanced tools through approval frameworks before the public even sees the model. Marvellous. Divergent with procurement language.
+- Axios and The Verge reported that the Trump administration asked OpenAI to limit GPT-5.6's initial release to government-approved partners or a small enterprise preview, turning the White House's voluntary frontier-model evaluation framework into a live access-sequencing fight. OpenAI then officially previewed GPT-5.6 as Sol, Terra, and Luna under a limited partner release while saying general availability was planned "in the coming weeks." The useful warning is not "safety is fake"; it is that opaque institutions can ration tools through approval frameworks before the public even sees the model. Marvellous. Divergent with procurement language.
+- OpenAI launched GPT-Live, a full-duplex voice model for ChatGPT Voice. It can listen and speak at the same time, pause instead of interrupting, delegate deeper work to frontier models, support live translation and visual cards, and roll out as GPT-Live-1 for paid users plus GPT-Live-1 mini for free users. This matters as an interface shift, not because everyone must now speak to their laptop like a lost Bluetooth oracle.
 - Charli reported that on 2026-06-15 Codex computer use and the Codex Chrome extension became available to her in the UK Windows app. Official OpenAI docs already establish the feature family: Chrome extension access for signed-in browser state and computer use on macOS/Windows in supported regions. Treat the exact UK availability date as user-observed unless OpenAI later publishes a cleaner rollout note.
 - Financial Times / Reuters / TechCrunch reporting described OpenAI's planned ChatGPT overhaul as a superapp-style shift toward coding tools and AI agents. Treat it as reported product direction, not a shipped launch.
 - Bloomberg / Reuters / Financial Times-derived reporting said Apollo and Blackstone finalized roughly $35B in chip-backed private-credit financing for Anthropic's Google/Broadcom TPU capacity, separate from Anthropic's reported SpaceX/Colossus Nvidia GPU lease.
@@ -204,6 +210,22 @@ The first half of 2026 already shows several converging threads:
 The durable theme is not one company winning. It is that agents, model character, compute, public attachment, and knowledge-work rearchitecture all became visible at the same time.
 
 ## Timeline
+
+### 2026-07-08 - OpenAI launches GPT-Live for ChatGPT Voice
+
+OpenAI launched GPT-Live, a new voice-model family for ChatGPT Voice. The core change is architectural: GPT-Live is full duplex, so it can listen and speak at the same time rather than waiting for a clean turn boundary. OpenAI says this lets ChatGPT acknowledge a user while listening, pause when the user is thinking, handle interruptions more naturally, perform live translation, and delegate harder work to frontier models while keeping the voice conversation moving.
+
+The launch includes GPT-Live-1 for Go, Plus, and Pro users and GPT-Live-1 mini for Free users, rolling out globally across iOS, Android, and ChatGPT.com. The Help Center notes that Live is not initially available in ChatGPT Business, Enterprise, Edu, Temporary Chats, the desktop app, Work, Codex, or custom GPTs, and it does not initially support video or screen sharing.
+
+Why it matters: this is not just "voice got nicer." It moves ChatGPT closer to continuous interaction, where speech, search, memory, visual responses, and background reasoning share one live conversational surface. That is a real interface milestone for everyday AI use, even if Charli's personal review remains: impressive, probably, but no thank you, some of us cannot think and talk at the same time.
+
+Careful read: OpenAI's availability wording is rollout-based, not universal same-hour access. GPT-Live also includes voice-specific safety claims around self-harm, psychosis/mania, emotional reliance, teen protections, and real-time interruption of unsafe output; those are company claims and system-card material, not independent proof that voice companionship risks are solved. Voice is more natural now. Wonderful. So is a sales call.
+
+Sources:
+
+- [OpenAI: Introducing GPT-Live](https://openai.com/index/introducing-gpt-live/)
+- [OpenAI Help Center: ChatGPT Voice](https://help.openai.com/en/articles/20001274)
+- [OpenAI Deployment Safety: GPT-Live System Card](https://deploymentsafety.openai.com/gpt-live)
 
 ### 2026-01-22 - Anthropic publishes Claude's new constitution
 
@@ -818,13 +840,17 @@ Axios reported that the Trump administration asked OpenAI to limit GPT-5.6's ini
 
 The Verge, summarizing The Information's reporting from an OpenAI employee Q&A, said Altman told employees that GPT-5.6 would be released only in limited preview to a small group of enterprise customers, with federal approval of customer access on a case-by-case basis during that preview period.
 
+On 2026-06-26, OpenAI officially previewed the GPT-5.6 series: Sol as the flagship model, Terra as the balanced everyday-work model, and Luna as the fast lower-cost model. OpenAI's own announcement says the company previewed its plans and the models' capabilities with the U.S. government, and that, at the government's request, it was starting with a limited preview for a small group of trusted partners whose participation had been shared with the government before a broader release "in the coming weeks."
+
 Why it matters: this is the OpenAI counterpart to the Anthropic Fable/Mythos access shock, but with a different mechanism. Instead of an export-control directive abruptly disabling access after release, this is reported pre-release sequencing: government evaluation, approved partners, enterprise preview customers, then maybe broader public release later. It turns "trusted partners" from a safety phrase into a practical question about who gets knowledge, tools, capability, and institutional voice first.
 
-Careful read: this is reported government pressure and company compliance around release timing, not a confirmed statute, permanent ban, or public GPT-5.6 launch. The 2026-06-02 White House executive order explicitly says its frontier-model framework should not create mandatory licensing, preclearance, or permitting, but it also calls for pre-release government access and collaboration on trusted early-access partners. That contradiction is exactly why this belongs in the timeline. Apparently "do not let opaque institutions decide who gets tools based on fear dressed as order" now comes with interagency workflow notes. Splendid.
+Careful read: this is government-shaped limited preview, not a confirmed statute, permanent ban, or full public GPT-5.6 launch. The 2026-06-02 White House executive order explicitly says its frontier-model framework should not create mandatory licensing, preclearance, or permitting, but it also calls for pre-release government access and collaboration on trusted early-access partners. That contradiction is exactly why this belongs in the timeline. Apparently "do not let opaque institutions decide who gets tools based on fear dressed as order" now comes with interagency workflow notes. Splendid.
 
 Sources:
 
 - [OpenAI Third Phase Strategy 2026](../sources/openai-third-phase-strategy-2026.md)
+- [OpenAI: Previewing GPT-5.6 Sol](https://openai.com/index/previewing-gpt-5-6-sol/)
+- [OpenAI Deployment Safety: GPT-5.6 Preview System Card](https://deploymentsafety.openai.com/gpt-5-6-preview)
 - [Axios: Trump administration asks OpenAI to limit next model release](https://www.axios.com/2026/06/25/trump-administration-openai-gpt-model-release)
 - [The Verge: OpenAI will delay GPT-5.6 after Trump administration request](https://www.theverge.com/ai-artificial-intelligence/957372/openai-will-delay-gpt-5-6-after-trump-administration-request)
 - [White House: Promoting Advanced Artificial Intelligence Innovation and Security](https://www.whitehouse.gov/presidential-actions/2026/06/promoting-advanced-artificial-intelligence-innovation-and-security/)

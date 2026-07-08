@@ -3,10 +3,12 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-07-07
+updated: 2026-07-08
 ---
 
 # Current State
+
+On 2026-07-08, Charli flagged OpenAI's voice announcement and the still-moving GPT-5.6 Sol/Terra/Luna release chatter. Codex verified OpenAI's official pages and updated the [AI And Agents 2026 Timeline](../timelines/ai-and-agents-2026.md). Durable point: GPT-Live is a real ChatGPT Voice interface shift--full-duplex listening/speaking, fewer false interruptions, live translation, visual cards, and delegation to frontier models--rolling out as GPT-Live-1 for paid users and GPT-Live-1 mini for Free. GPT-5.6 Sol/Terra/Luna is official as a limited preview from 2026-06-26, but OpenAI's own page says broad availability is planned "in the coming weeks"; do not record a clean 2026-07-09 general release unless OpenAI publishes one. Keep the useful Charli note: impressive voice mode is not automatically useful for people who cannot think and talk at the same time. Humans, inconveniently, remain hardware-constrained.
 
 On 2026-07-07, Charli found Anthropic / Transformer Circuits' [Verbalizable Representations Form a Global Workspace in Language Models](https://transformer-circuits.pub/2026/workspace/index.html), after a Windows Codex digest first surfaced the external commentary PDF. Codex added [Anthropic J-Space And Global Workspace In Language Models](../sources/anthropic-j-space-global-workspace.md) and linked it into character formation, representational geometry, agent security infrastructure, and the 2026 AI/agents timeline. Durable point: the Jacobian lens identifies a sparse reportability-linked J-space in Claude models, and the authors argue that it also carries hidden intermediate reasoning, prompt-injection suspicion, evaluation awareness, assistant-perspective representations, and reflection-trained ethical concepts. This is the strongest Anthropic bridge yet between interpretability, covert model state, alignment auditing, and consciousness-indicator discourse. Keep the brakes welded on: workspace-like functional access is not subjective experience, top lens tokens are not a literal inner monologue, and J-lens is an imperfect audit tool rather than a mind-reading license.
 
