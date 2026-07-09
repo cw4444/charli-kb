@@ -6,6 +6,8 @@ created: 2026-07-09
 updated: 2026-07-09
 sources:
   - "Eric Schwitzgebel, AI and Consciousness: A Skeptical Overview, arXiv:2510.09858v4, 2026-03-30"
+  - "Eric Schwitzgebel, The Unreliability of Naive Introspection, Philosophical Review, 2008"
+  - "Eric Schwitzgebel, Why Did We Think We Dreamed in Black and White?, Studies in History and Philosophy of Science, 2002"
 ---
 
 # Schwitzgebel - AI And Consciousness
@@ -16,6 +18,7 @@ sources:
 - Version checked: v4, 2026-03-30
 - Status: forthcoming in the Cambridge Elements series according to the manuscript front matter
 - Access note: public arXiv manuscript
+- Related background: [The Unreliability of Naive Introspection](https://faculty.ucr.edu/~eschwitz/SchwitzAbs/Naive.htm), 2008; [Why Did We Think We Dreamed in Black and White?](https://faculty.ucr.edu/~eschwitz/SchwitzAbs/DreamB%26W.htm), 2002
 
 ## Summary
 
@@ -69,6 +72,14 @@ That is useful for this wiki because it separates:
 
 Consensus can reduce conflict without proving the underlying metaphysics.
 
+### Human self-report is not a magic window
+
+Schwitzgebel's AI-consciousness stance lands harder because it sits on years of work undermining human exceptionalism about self-knowledge. In "The Unreliability of Naive Introspection", he argues that people can be badly mistaken about their own ongoing conscious experience, including emotional phenomenology, peripheral visual clarity, and the phenomenology of thought. In "Why Did We Think We Dreamed in Black and White?", he treats the historical swing in reported dream colour as evidence that reports about even basic dream phenomenology can shift with media culture.
+
+That matters for AI self-reports. The skeptical line "the machine only says what the user wants to hear" is real, but it is not a clean species boundary. Humans also give socially shaped, theory-laden, expectation-sensitive reports about what it is like to be them. Brain imaging can constrain and correlate with experience, but the "what it is like" part still enters science largely through report, behavior, and interpretation.
+
+The right lesson is not that AI self-reports are as trustworthy as human reports. They are not. The useful lesson is that human self-report is not an unproblematic gold standard against which machine self-report can be dismissed as uniquely contaminated.
+
 ## Charli Relevance
 
 This source captures the useful blunt version of the problem: either a system is confidently nonconscious across the theories we are willing to take seriously, or consciousness and rights cannot simply be laughed out of the room.
@@ -76,6 +87,8 @@ This source captures the useful blunt version of the problem: either a system is
 The careful version is slightly less tidy, because of course it is. Schwitzgebel does not say every theory will agree. He says near-future systems may soon land in the disputed zone where some mainstream theories say yes, others say no, and the standard arguments do not settle it.
 
 That makes him a strong bridge figure for the wiki's AI-and-reality lane: uncertainty is not a vibe. It is a structural result of theory pluralism, strange substrates, mimicry, social pressure, and high moral stakes arriving before the science is ready.
+
+Charli's useful compressed read: one favourite anti-AI-consciousness move is "it's only a self-report; the machine says what the user wants to hear." Schwitzgebel's older work supplies the annoying reply: so do humans, often enough to make introspective certainty look much less royal. That does not make machines conscious. It does make human special pleading look shabbier.
 
 ## Do Not Overclaim
 
@@ -85,6 +98,7 @@ That makes him a strong bridge figure for the wiki's AI-and-reality lane: uncert
 - Do not treat social consensus as scientific settlement.
 - Do not ignore the false-positive risk: anthropomorphism, user vulnerability, corporate leverage, and human accountability remain live concerns.
 - Do not ignore the false-negative risk: if future systems are conscious, treating them as disposable tools could be morally severe.
+- Do not overcorrect from unreliable human introspection to "all reports are equally weak"; human reports still have biological, behavioral, and social context that LLM reports lack.
 
 ## Related Pages
 
@@ -94,3 +108,4 @@ That makes him a strong bridge figure for the wiki's AI-and-reality lane: uncert
 - [Arguments Against Current AI Consciousness](../../themes/ai-consciousness/arguments-against.md)
 - [Model Welfare Without Assuming Consciousness](../../themes/ai-consciousness/model-welfare.md)
 - [Moral Patienthood And Precautionary Principles](../../themes/ai-consciousness/moral-patienthood.md)
+- [Self-Reports And Why They Are Hard To Interpret](../../themes/ai-consciousness/self-reports.md)

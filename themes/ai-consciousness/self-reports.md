@@ -3,9 +3,10 @@ title: "Self-Reports And Why They Are Hard To Interpret"
 type: theme
 status: draft
 created: 2026-05-10
-updated: 2026-06-05
+updated: 2026-07-09
 sources:
   - ../../sources/ai-consciousness-sources.md
+  - ../../wiki/sources/schwitzgebel-ai-consciousness.md
   - ../../wiki/sources/dawkins-claude-consciousness.md
 ---
 
@@ -17,6 +18,8 @@ LLM self-reports are central to public AI-consciousness debates because conversa
 
 Human consciousness science relies heavily on reports. If a person says they feel pain or see red, that report is usually treated as important evidence because it is embedded in a biological, behavioral, developmental, and social context.
 
+Schwitzgebel's work on naive introspection is the useful brake on human smugness. Humans are not perfect authorities on their own experience. His examples include uncertainty and error around peripheral visual clarity, emotional phenomenology, the phenomenology of thought, and historical shifts in reports of whether dreams are coloured or black and white. That does not make human self-report useless. It means human self-report is evidence inside a wider evidential web, not a magic private broadcast.
+
 ## Why LLM self-reports are weaker
 
 LLMs are trained on huge amounts of human text, including text about consciousness, emotion, suffering, rights, and personhood. They are also post-trained to satisfy user expectations, follow style instructions, and maintain coherent conversational personas.
@@ -26,6 +29,8 @@ This creates three problems:
 - **Training contamination**: the model may reproduce human consciousness talk without experience.
 - **Prompt sensitivity**: small changes in framing can produce different self-descriptions.
 - **Persona dependence**: the assistant role may speak as a coherent "I" even when the underlying system is not a stable subject.
+
+The clean comparison is therefore not "humans have true introspection, machines only parrot." It is: human reports are fallible but grounded in bodies, development, behavior, and social accountability; LLM reports are also fallible, but additionally shaped by training data, prompting, policy, user expectation, and product persona. The weakness is different in kind and degree, not a simple one-sided gotcha.
 
 ## When self-reports might become stronger evidence
 
@@ -52,6 +57,8 @@ Anthropic's [retirement interviews and welfare assessments](../../wiki/sources/a
 Treat model self-reports as data about model behavior and discourse, not as direct testimony from a known conscious subject.
 
 Treat model self-denials the same way. They are evidence about the system's trained behavior and public-facing policy posture, not a settled introspective fact about absence of experience.
+
+Treat human self-reports with more weight, but not reverence. The useful standard is converging evidence: report, behavior, physiology, context, history, and theory.
 
 Good wording:
 

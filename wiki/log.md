@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-07-09] source update | Schwitzgebel introspection and AI self-report bridge
+
+- Sources: Eric Schwitzgebel, [The Unreliability of Naive Introspection](https://faculty.ucr.edu/~eschwitz/SchwitzAbs/Naive.htm), 2008; [Why Did We Think We Dreamed in Black and White?](https://faculty.ucr.edu/~eschwitz/SchwitzAbs/DreamB%26W.htm), 2002; existing [Schwitzgebel - AI And Consciousness](sources/schwitzgebel-ai-consciousness.md).
+- Pages updated: [Schwitzgebel - AI And Consciousness](sources/schwitzgebel-ai-consciousness.md), [Eric Schwitzgebel](people/eric-schwitzgebel.md), [Self-Reports And Why They Are Hard To Interpret](../themes/ai-consciousness/self-reports.md), [AI Consciousness Sources](../sources/ai-consciousness-sources.md), [Wiki Index](index.md), and [Current State](meta/current-state.md).
+- Notes: Added the missing bridge from Schwitzgebel's older unreliable-introspection work to the AI self-report problem. Durable point: "the machine only self-reports what the user wants" is a real objection, but not a clean human-versus-machine boundary, because human self-reports about experience are also fallible, theory-laden, and culturally shaped. Boundary: this does not make LLM self-reports as strong as human reports; human reports still sit inside richer biological, behavioral, developmental, and social evidence.
+
 ## [2026-07-09] source note | Schwitzgebel - AI and Consciousness
 
 - Source: Eric Schwitzgebel, [AI and Consciousness](https://arxiv.org/abs/2510.09858), arXiv:2510.09858v4, 2026-03-30.
