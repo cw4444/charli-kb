@@ -3,10 +3,11 @@ title: "Agentic Engineering"
 type: concept
 status: draft
 created: 2026-04-28
-updated: 2026-06-18
+updated: 2026-07-09
 sources:
   - ../sources/peter-steinberger-agentic-engineering-batch.md
   - ../sources/openai-codex-for-everyday-work.md
+  - ../sources/openai-swe-bench-pro-audit.md
   - ../sources/interpretable-context-methodology.md
   - ../sources/anthropic-recursive-self-improvement-2026.md
   - ../sources/deepmind-from-agi-to-asi.md
@@ -30,6 +31,8 @@ The useful pattern:
 
 OpenAI's internal Codex usage reinforces the same pattern from the vendor side. Their teams use Codex for code understanding, migrations, performance work, tests, incident triage, staying in flow, and exploration. The practical best practices are boring in the right way: start large work in Ask Mode, scope tasks to reviewable chunks, tune the development environment, write prompts like GitHub issues, use the task queue as a lightweight backlog, keep `AGENTS.md` current, and compare multiple candidate solutions when useful.
 
+OpenAI's 2026 audit of [SWE-Bench Pro](../sources/openai-swe-bench-pro-audit.md) adds the evaluation warning label. Coding-agent progress is now benchmark-shaped, but benchmarks can fail through overly strict tests, underspecified prompts, low-coverage tests, and misleading prompts. If the eval plumbing is wrong, leaderboard gains can measure task artifacts as much as capability. The grown-up loop is agent work, human review, and valid evaluation, not "number went up, kneel before the spreadsheet."
+
 The phrase can become hype quickly. The practical version is calmer: agents are useful when the environment lets them observe, act, and check their work.
 
 Van Clief and McDermott's Interpretable Context Methodology adds a useful architectural version of this point. For sequential, human-reviewed workflows, folders and Markdown can carry much of the orchestration burden: stage folders define the workflow, `CONTEXT.md` files define contracts, local scripts handle non-AI mechanics, and Git makes changes inspectable. This is [Filesystem Agent Architecture](filesystem-agent-architecture.md): not a rejection of frameworks, but a reminder that the simplest useful control surface may already be the repo.
@@ -51,6 +54,7 @@ DeepMind's 2026 [From AGI To ASI](../sources/deepmind-from-agi-to-asi.md) report
 - [Filesystem Agent Architecture](filesystem-agent-architecture.md)
 - [Inference Speed Development](inference-speed-development.md)
 - [Anthropic Recursive Self-Improvement 2026](../sources/anthropic-recursive-self-improvement-2026.md)
+- [OpenAI SWE-Bench Pro Audit](../sources/openai-swe-bench-pro-audit.md)
 - [DeepMind From AGI To ASI](../sources/deepmind-from-agi-to-asi.md)
 - [Multi-Agent Fictitious Play For Decision-Making](../sources/multi-agent-fictitious-play-decision-making.md)
 - [Project Based Self Direction](project-based-self-direction.md)

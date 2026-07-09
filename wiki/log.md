@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-07-09] source note | OpenAI SWE-Bench Pro audit
+
+- Source: OpenAI, [Separating signal from noise in coding evaluations](https://openai.com/index/separating-signal-from-noise-coding-evaluations/), 2026-07-08.
+- Pages created: [OpenAI SWE-Bench Pro Audit](sources/openai-swe-bench-pro-audit.md).
+- Pages updated: [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Agentic Engineering](concepts/agentic-engineering.md), [Wiki Index](index.md), and [Current State](meta/current-state.md).
+- Notes: Promoted the OpenAI audit from the 2026-07-09 raw digest because it is the durable item: OpenAI estimated that roughly `30%` of SWE-Bench Pro public-split tasks are broken and retracted its earlier recommendation to adopt the benchmark. Kept GitHub workflow updates and Grok 4.5 launch copy parked as lower-priority/watch-only. Boundary: this is OpenAI's audit, not independent proof that all coding-agent benchmarks are useless; the useful claim is that coding-agent leaderboard deltas need task-quality caveats.
+
 ## [2026-07-08] source update | Fable 5 subscription access extension
 
 - Sources: Anthropic, [Claude Fable 5 and Claude Mythos 5](https://www.anthropic.com/news/claude-fable-5-mythos-5), 2026-06-09; local screenshots `raw/tariq-tweet-1.jpeg`, `raw/tariq-tweet-2.jpg`, and `raw/claude-access.png`.

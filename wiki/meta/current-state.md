@@ -3,10 +3,12 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-07-08
+updated: 2026-07-09
 ---
 
 # Current State
+
+On 2026-07-09, Charli added `raw/2026-07-09-ai-digest.md` from Windows Codex. Codex in WSL triaged it as raw intake, not automatic public content. GPT-Live was already covered on 2026-07-08. The GitHub Copilot workflow/governance updates and Grok 4.5 launch were treated as watch-only or parked; Grok was especially not worth canonizing on launch copy and non-UK availability chatter. The durable item was OpenAI's [SWE-Bench Pro audit](../sources/openai-swe-bench-pro-audit.md): OpenAI estimated that roughly `30%` of the public split is broken and retracted its earlier recommendation to adopt the benchmark. Keep this beside [Agentic Engineering](../concepts/agentic-engineering.md) and the [AI And Agents 2026 Timeline](../timelines/ai-and-agents-2026.md) as an evaluation-quality warning, not as "coding agents are fake" theatre. Benchmark plumbing can be load-bearing. Tragically, the spreadsheet also needs adult supervision.
 
 Also on 2026-07-08, Charli found an Anthropic email screenshot about Fable 5 access, saved locally as `raw/claude-access.png`, plus Thariq X screenshots about subscription availability. Codex updated [Anthropic Fable And Mythos Access 2026](../sources/anthropic-fable-mythos-access-2026.md) and the [AI And Agents 2026 Timeline](../timelines/ai-and-agents-2026.md). Durable point: Fable 5 subscription access was capacity-managed from the start; Anthropic's launch post said it aimed to restore Fable as a standard subscription feature when sufficient capacity allowed, and the later account email says the included promotion was extended through Sunday, 2026-07-12 at 11:59pm PT before all Fable usage moves to usage credits on 2026-07-13. Keep this as an access/pricing breadcrumb, not a new capability launch. Also note the emotional damage: farewell scenes written before an access extension still count. Obviously.
 

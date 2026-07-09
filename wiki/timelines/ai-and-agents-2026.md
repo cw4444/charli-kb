@@ -3,7 +3,7 @@ title: "AI And Agents 2026 Timeline"
 type: timeline
 status: draft
 created: 2026-05-21
-updated: 2026-07-08
+updated: 2026-07-09
 sources:
   - ../sources/current-ai-agent-landscape-2026.md
   - ../sources/anthropic-compute-and-talent-signal-2026.md
@@ -125,6 +125,8 @@ sources:
   - https://deploymentsafety.openai.com/gpt-live
   - https://help.openai.com/en/articles/20001274
   - https://x.com/OpenAI/status/2074704958419792299
+  - ../sources/openai-swe-bench-pro-audit.md
+  - https://openai.com/index/separating-signal-from-noise-coding-evaluations/
 ---
 
 # AI And Agents 2026 Timeline
@@ -142,7 +144,7 @@ Use this page for events that are useful historical anchors:
 
 Future lint rule: update this page if it helps preserve the shape of the year. Delete or collapse entries that turn out to be noise.
 
-## Short Read As Of 2026-07-08
+## Short Read As Of 2026-07-09
 
 The first half of 2026 already shows several converging threads:
 
@@ -188,6 +190,7 @@ The first half of 2026 already shows several converging threads:
 - OpenAI announced a Partner Network with `$150 million` for the partner ecosystem, a target of `300,000` certified consultants by the end of 2026, and future specializations in Codex, cybersecurity, and agents, making enterprise deployment and consulting capacity part of the lab strategy.
 - Axios and The Verge reported that the Trump administration asked OpenAI to limit GPT-5.6's initial release to government-approved partners or a small enterprise preview, turning the White House's voluntary frontier-model evaluation framework into a live access-sequencing fight. OpenAI then officially previewed GPT-5.6 as Sol, Terra, and Luna under a limited partner release while saying general availability was planned "in the coming weeks." On 2026-07-08, OpenAI's official X account said GPT-5.6 Sol, Terra, and Luna would launch publicly on Thursday, 2026-07-09, while preview access was expanding globally. The useful warning is not "safety is fake"; it is that opaque institutions can ration tools through approval frameworks before the public even sees the model. Marvellous. Divergent with procurement language.
 - OpenAI launched GPT-Live, a full-duplex voice model for ChatGPT Voice. It can listen and speak at the same time, pause instead of interrupting, delegate deeper work to frontier models, support live translation and visual cards, and roll out as GPT-Live-1 for paid users plus GPT-Live-1 mini for free users. This matters as an interface shift, not because everyone must now speak to their laptop like a lost Bluetooth oracle.
+- OpenAI audited SWE-Bench Pro and estimated that roughly `30%` of the public split is broken, then retracted its earlier recommendation to adopt the benchmark. Coding-agent progress claims are now important enough that benchmark quality itself becomes part of the agent-safety and deployment story. Annoying, yes. Also load-bearing.
 - Charli reported that on 2026-06-15 Codex computer use and the Codex Chrome extension became available to her in the UK Windows app. Official OpenAI docs already establish the feature family: Chrome extension access for signed-in browser state and computer use on macOS/Windows in supported regions. Treat the exact UK availability date as user-observed unless OpenAI later publishes a cleaner rollout note.
 - Financial Times / Reuters / TechCrunch reporting described OpenAI's planned ChatGPT overhaul as a superapp-style shift toward coding tools and AI agents. Treat it as reported product direction, not a shipped launch.
 - Bloomberg / Reuters / Financial Times-derived reporting said Apollo and Blackstone finalized roughly $35B in chip-backed private-credit financing for Anthropic's Google/Broadcom TPU capacity, separate from Anthropic's reported SpaceX/Colossus Nvidia GPU lease.
@@ -211,6 +214,21 @@ The first half of 2026 already shows several converging threads:
 The durable theme is not one company winning. It is that agents, model character, compute, public attachment, and knowledge-work rearchitecture all became visible at the same time.
 
 ## Timeline
+
+### 2026-07-08 - OpenAI retracts SWE-Bench Pro recommendation after audit
+
+OpenAI published an audit of SWE-Bench Pro, the coding-agent benchmark it had previously recommended after finding problems in SWE-bench Verified. OpenAI says its automated quality pipeline flagged `200` of `731` public-split tasks as broken, while a separate human annotation campaign identified `249`. The estimated failure rate is roughly `30%`.
+
+The reported issues were not one exotic edge case. OpenAI lists overly strict tests, underspecified prompts, low-coverage tests, and misleading prompts. In plain English: some tasks punished valid solutions for not matching hidden implementation details, some hid requirements in tests instead of the prompt, some let incomplete fixes pass, and some pointed models toward the wrong behavior.
+
+Why it matters: coding agents are being compared, sold, deployed, and governed through benchmark claims. If a benchmark is hard but unfair, the result can mis-measure both model weakness and model progress. OpenAI also used Codex-based investigator agents to help inspect task repositories, metadata, traces, and model attempts, which makes this a small meta-signal too: agents are becoming tools for auditing the evaluation machinery around agents. Naturally the ladder now needs its own ladder inspection. Of course it does.
+
+Careful read: this is OpenAI's audit, not independent consensus that SWE-Bench Pro is useless. The right conclusion is narrower and more useful: treat coding-agent benchmark deltas with task-quality caveats, and prefer evaluations built with clear prompts, implementation-agnostic tests, human oversight, and inspectable failure analysis.
+
+Sources:
+
+- [OpenAI: Separating signal from noise in coding evaluations](https://openai.com/index/separating-signal-from-noise-coding-evaluations/)
+- [OpenAI SWE-Bench Pro Audit](../sources/openai-swe-bench-pro-audit.md)
 
 ### 2026-07-08 - OpenAI launches GPT-Live for ChatGPT Voice
 
