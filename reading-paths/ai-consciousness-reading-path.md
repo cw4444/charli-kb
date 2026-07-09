@@ -3,7 +3,7 @@ title: "AI Consciousness Reading Path"
 type: reading-path
 status: draft
 created: 2026-05-10
-updated: 2026-05-11
+updated: 2026-07-09
 sources:
   - ../sources/ai-consciousness-sources.md
 ---
@@ -25,6 +25,7 @@ Then read:
 Read:
 
 - Butlin et al., "Consciousness in Artificial Intelligence"
+- Schwitzgebel, "AI and Consciousness"
 - Long et al., "Taking AI Welfare Seriously"
 - [Arguments for taking AI consciousness seriously](../themes/ai-consciousness/arguments-for.md)
 - [Model welfare without assuming consciousness](../themes/ai-consciousness/model-welfare.md)

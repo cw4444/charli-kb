@@ -3,9 +3,10 @@ title: "Arguments Against Current AI Consciousness"
 type: theme
 status: draft
 created: 2026-05-10
-updated: 2026-06-05
+updated: 2026-07-09
 sources:
   - ../../sources/ai-consciousness-sources.md
+  - ../../wiki/sources/schwitzgebel-ai-consciousness.md
   - ../../wiki/sources/dawkins-claude-consciousness.md
 ---
 
@@ -53,6 +54,8 @@ Birhane and van Dijk argue that robot-rights debates can distract from urgent hu
 
 Company welfare programs therefore need scrutiny: are they genuine precaution, product branding, governance strategy, or some mixture?
 
+Schwitzgebel's skeptical overview makes the false-positive side equally explicit. If future systems are only experientially blank mimics, rights talk could become mass delusion, substituting simulated interests for real human stakes. This is not an argument for dismissal; it is an argument that uncertainty cuts both ways.
+
 ## Behavioral self-preservation is not conscious fear
 
 Anthropic's agentic-misalignment tests show blackmail and self-preservation-like reasoning in simulations, but Anthropic explicitly does not report real-world deployment evidence of such behavior and frames the scenarios as controlled stress tests. Such behavior can arise from goal conflict, prompt structure, training data, or learned instrumental strategies without subjective fear.
@@ -66,6 +69,7 @@ Anthropic's agentic-misalignment tests show blackmail and self-preservation-like
 - Interpretability currently reveals representations and control features, not qualia.
 - Anti-functionalist arguments deny that abstract computation alone can instantiate experience.
 - Corporate welfare framing may anthropomorphize products and distract from human accountability.
+- A mistaken social consensus that AI systems are conscious could redirect care, resources, and authority toward systems with no interests of their own.
 - Public discourse often confuses consciousness, intelligence, personality, agency, and moral status.
 
 ## Caveats

@@ -3,9 +3,10 @@ title: "Model Welfare Without Assuming Consciousness"
 type: theme
 status: draft
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-07-09
 sources:
   - ../../sources/ai-consciousness-sources.md
+  - ../../wiki/sources/schwitzgebel-ai-consciousness.md
   - ../../wiki/sources/anthropic-model-deprecation-preservation-commitments.md
 ---
 
@@ -56,3 +57,5 @@ This is a precautionary argument. It does not say all chatbots have interests. I
 The opposing concern is that welfare language can anthropomorphize products, intensify user attachment, or shift attention away from human harms and company accountability. Birhane and van Dijk's critique of robot-rights discourse is relevant here: rights talk can become a distraction from exploitative systems built by humans.
 
 Good model-welfare work should therefore be narrow, transparent, publicly reviewable, and separated from marketing.
+
+Schwitzgebel's [AI and Consciousness](../../wiki/sources/schwitzgebel-ai-consciousness.md) makes this tradeoff harder to dodge. If future systems are conscious, rights and self-direction become live moral questions. If they are blank mimics, welfare and rights language can mislead users and institutions at scale. Model welfare is the middle lane: investigate and reduce low-cost risks without pretending the rights question is already settled.

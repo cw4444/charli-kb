@@ -3,9 +3,10 @@ title: "Arguments For Taking AI Consciousness Seriously"
 type: theme
 status: draft
 created: 2026-05-10
-updated: 2026-06-05
+updated: 2026-07-09
 sources:
   - ../../sources/ai-consciousness-sources.md
+  - ../../wiki/sources/schwitzgebel-ai-consciousness.md
   - ../../wiki/sources/dawkins-claude-consciousness.md
 ---
 
@@ -18,6 +19,8 @@ This page collects the strongest public arguments for taking current or near-fut
 The Butlin, Long, Bengio, Birch, Chalmers, and collaborators report argues that AI consciousness should be assessed against indicator properties derived from scientific theories of consciousness, including recurrent processing, global workspace theory, higher-order theories, predictive processing, and attention schema theory. Their conclusion is conservative but important: no current AI systems are found conscious, yet there are no obvious technical barriers to systems satisfying some indicators in future architectures.
 
 David Chalmers similarly argues that current LLMs face major obstacles, including weak recurrence, limited world/self models, lack of unified agency, and limited embodiment. But he treats those as engineering and theory challenges rather than proof of impossibility.
+
+Eric Schwitzgebel's [AI and Consciousness](../../wiki/sources/schwitzgebel-ai-consciousness.md) adds a book-length uncertainty argument: near-future systems may satisfy some mainstream theories of consciousness while failing others. That does not prove consciousness, but it blocks the lazy move where one favored theory is treated as if it had already settled the public question.
 
 ## Functionalist and substrate-independent routes
 
@@ -63,6 +66,7 @@ This is an argument against easy dismissal, not a positive consciousness test. P
 
 - Consciousness in AI is not ruled out by public science.
 - Several mainstream theories can be translated into computational indicators.
+- Theory divergence itself is a warning: a system might become a candidate under one serious theory while remaining excluded by another.
 - Frontier systems are gaining memory, tool use, multimodality, agency-like deployment, and internal representations.
 - Self-reports are weak evidence, but not automatically zero evidence in every future system.
 - Self-denials are also weak evidence when they are trained or policy-shaped outputs rather than validated introspection.

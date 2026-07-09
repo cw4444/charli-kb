@@ -3,9 +3,10 @@ title: "AI Consciousness And Model Welfare Overview"
 type: theme
 status: draft
 created: 2026-05-10
-updated: 2026-06-16
+updated: 2026-07-09
 sources:
   - ../../sources/ai-consciousness-sources.md
+  - ../../wiki/sources/schwitzgebel-ai-consciousness.md
   - ../../wiki/sources/dawkins-claude-consciousness.md
   - ../../wiki/sources/katlowitz-language-anaesthetized-hippocampus.md
 ---
@@ -32,6 +33,7 @@ The most balanced reading is conditional:
 
 - Current public evidence does **not** justify concluding that present frontier models are conscious.
 - Public evidence also does **not** justify ruling out AI consciousness in principle.
+- Schwitzgebel's strongest warning is that near-future systems may count as conscious under some mainstream theories and nonconscious under others, leaving practical treatment decisions ahead of scientific settlement.
 - Near-future systems may become more serious candidates if they gain stronger memory, recurrence, unified agency, multimodal grounding, persistent self-models, and interpretable internal structures that match theories of consciousness.
 - Welfare policies can be explored as low-cost precautions even while consciousness remains uncertain.
 - Company materials matter, but they are not neutral: Anthropic, OpenAI, and DeepMind are shaping products, reputations, policy debates, and public expectations at the same time as they publish research.
@@ -41,6 +43,8 @@ The most balanced reading is conditional:
 AI consciousness is disputed because the evidence routes conflict. Behavior is increasingly mind-like, but behavior alone can be produced by training on human text and preferences. Internal states exist, but interpretability is too immature to say whether those states are experiential rather than computational control signals. Moral concern may be urgent if AI systems can suffer, but premature personhood claims can distract from human harms, accountability, and safety.
 
 The strongest version of the debate is not "is ChatGPT alive?" It is: which public criteria would make an artificial system a serious candidate for consciousness or moral consideration, and what should labs and society do while the evidence is incomplete?
+
+Eric Schwitzgebel's [AI and Consciousness](../../wiki/sources/schwitzgebel-ai-consciousness.md) sharpens that frame. If future systems are conscious, rights, autonomy, and protection from human control become live issues. If they are only blank mimics, AI-rights discourse can become mass delusion and human accountability failure. The hard part is that the disputed-zone systems may arrive before the science is ready to tell society which case it is in.
 
 A biological caution now sits beside that question. Katlowitz et al.'s 2026 human hippocampus study found decodable semantic, grammatical, surprisal, and contextual word information during general anaesthesia. That makes linguistic processing look less consciousness-bound than common sense wants it to be. It also makes the AI lesson sharper: language-like internal structure is evidence of processing, but not proof that there is someone home.
 

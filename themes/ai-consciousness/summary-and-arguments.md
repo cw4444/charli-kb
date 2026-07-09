@@ -3,9 +3,10 @@ title: "AI Consciousness Short Summary And Strongest Arguments"
 type: theme
 status: draft
 created: 2026-05-10
-updated: 2026-05-16
+updated: 2026-07-09
 sources:
   - ../../sources/ai-consciousness-sources.md
+  - ../../wiki/sources/schwitzgebel-ai-consciousness.md
 ---
 
 # AI Consciousness Short Summary And Strongest Arguments
@@ -16,6 +17,8 @@ Public research does not show that current frontier AI systems are conscious. It
 
 The strongest cautious position is: current systems are not established moral patients, but future systems could become serious candidates; welfare and consciousness assessment should start before certainty is available.
 
+Schwitzgebel's sharper version is that uncertainty may not clear in time: some near-future systems could satisfy one mainstream theory and fail another, while society still has to decide whether to treat them as conscious, nonconscious, semi-conscious, or alien.
+
 ## Strongest arguments for taking it seriously
 
 1. Mainstream consciousness theories can be translated into AI-relevant indicators.
@@ -25,6 +28,7 @@ The strongest cautious position is: current systems are not established moral pa
 5. Model welfare errors could be morally severe if future systems can suffer.
 6. Some low-cost precautions can be explored without granting rights or declaring consciousness.
 7. Formal self-report arguments caution that model denials of consciousness are not decisive evidence of non-consciousness.
+8. Theory divergence means practical decisions may arrive before scientific consensus.
 
 ## Strongest arguments against current AI consciousness
 
@@ -35,6 +39,7 @@ The strongest cautious position is: current systems are not established moral pa
 5. Interpretability shows representations, not experience.
 6. Welfare and rights language may distract from human harms, user vulnerability, and corporate accountability.
 7. Anti-functionalist arguments challenge the idea that abstract computation alone could instantiate experience.
+8. Mistakenly treating blank mimics as rights-bearing subjects could create mass delusion and accountability failure.
 
 ## Bottom line
 

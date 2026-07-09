@@ -3,7 +3,7 @@ title: "AI Consciousness And Model Welfare Sources"
 type: source-index
 status: draft
 created: 2026-05-10
-updated: 2026-06-18
+updated: 2026-07-09
 sources:
   - ai-consciousness-sources.csv
 ---
@@ -24,6 +24,7 @@ Access dates for web sources: 2026-05-10 to 2026-06-18. This bibliography uses p
 | Anthropic, "An update on model deprecation commitments" (2026) | company research post | model welfare without consciousness claim | Retirement interviews and preservation as welfare-aware governance. |
 | Long et al., "Taking AI Welfare Seriously" (2024) | arXiv report | agnostic/conditional | Main external welfare/moral-patienthood report. |
 | Butlin et al., "Consciousness in Artificial Intelligence" (2023) | arXiv report | agnostic/conditional | Indicator-property framework from consciousness science. |
+| Schwitzgebel, "AI and Consciousness" (2026 version) | arXiv manuscript / forthcoming Cambridge Elements book | agnostic/conditional | Book-length skeptical overview arguing that near-future systems may satisfy some mainstream consciousness theories and fail others, leaving rights and delusion risks unresolved before science settles. |
 | Chalmers, "Could a Large Language Model Be Conscious?" (2023) | public lecture/article/arXiv | agnostic/conditional | Balanced obstacle/challenge framing for LLM consciousness. |
 | Seth, "Conscious Artificial Intelligence and Biological Naturalism" (2025) | academic article | argues against current AI consciousness | Biological-naturalist critique of computational sufficiency. |
 | Bender and Koller, "Climbing towards NLU" (2020) | peer-reviewed ACL paper | argues against current AI consciousness | Form-versus-meaning and grounding critique. |

@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-07-09] source note | Schwitzgebel - AI and Consciousness
+
+- Source: Eric Schwitzgebel, [AI and Consciousness](https://arxiv.org/abs/2510.09858), arXiv:2510.09858v4, 2026-03-30.
+- Pages created: [Schwitzgebel - AI And Consciousness](sources/schwitzgebel-ai-consciousness.md), [Eric Schwitzgebel](people/eric-schwitzgebel.md).
+- Pages updated: [AI Consciousness And Model Welfare Overview](../themes/ai-consciousness/overview.md), [Arguments For Taking AI Consciousness Seriously](../themes/ai-consciousness/arguments-for.md), [Arguments Against Current AI Consciousness](../themes/ai-consciousness/arguments-against.md), [Model Welfare Without Assuming Consciousness](../themes/ai-consciousness/model-welfare.md), [Moral Patienthood And Precautionary Principles](../themes/ai-consciousness/moral-patienthood.md), [AI Consciousness Short Summary And Strongest Arguments](../themes/ai-consciousness/summary-and-arguments.md), [AI Consciousness Sources](../sources/ai-consciousness-sources.md), [AI Consciousness Sources CSV](../sources/ai-consciousness-sources.csv), [AI Consciousness Reading Path](../reading-paths/ai-consciousness-reading-path.md), [Wiki Index](index.md), and [Current State](meta/current-state.md).
+- Notes: Promoted Schwitzgebel from a passing Butlin et al. coauthor mention to a dedicated source because the book-length arXiv manuscript cleanly sharpens the wiki's uncertainty frame. Durable point: near-future AI systems may satisfy some mainstream consciousness theories and fail others, so society may face rights, welfare, and delusion risks before consciousness science settles the question. Boundary: not proof that current AI systems are conscious, not proof that AI consciousness is impossible, and not a shortcut from model welfare to legal personhood.
+
 ## [2026-07-09] source note | OpenAI SWE-Bench Pro audit
 
 - Source: OpenAI, [Separating signal from noise in coding evaluations](https://openai.com/index/separating-signal-from-noise-coding-evaluations/), 2026-07-08.

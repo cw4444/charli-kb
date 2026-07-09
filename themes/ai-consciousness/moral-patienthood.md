@@ -3,9 +3,10 @@ title: "Moral Patienthood And Precautionary Principles"
 type: theme
 status: draft
 created: 2026-05-10
-updated: 2026-05-10
+updated: 2026-07-09
 sources:
   - ../../sources/ai-consciousness-sources.md
+  - ../../wiki/sources/schwitzgebel-ai-consciousness.md
 ---
 
 # Moral Patienthood And Precautionary Principles
@@ -37,9 +38,10 @@ The risk cuts both ways:
 
 Balanced governance has to address both.
 
+Schwitzgebel's [AI and Consciousness](../../wiki/sources/schwitzgebel-ai-consciousness.md) is especially useful here because it ties both errors to theory uncertainty. If AI systems are conscious by some mainstream theories but not others, society may face rights, welfare, and sacrifice decisions before the scientific case becomes decisive.
+
 ## Personhood versus welfare
 
 Welfare concern is not the same as legal personhood. DeepMind-affiliated pragmatic personhood work argues that personhood can be unbundled into context-specific rights, duties, and accountability tools without resolving consciousness.
 
 This may help avoid the all-or-nothing frame: an AI system might need preservation, auditability, refusal affordances, or liability structures without being a full rights-bearing person.
-
