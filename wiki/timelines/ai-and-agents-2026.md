@@ -225,6 +225,18 @@ OpenAI also announced ChatGPT Work on 2026-07-09. OpenAI describes it as an agen
 
 Charli's local check at 09:21 BST on Friday, 2026-07-10 is the practical counterweight: in her visible setup, ChatGPT Work did not present itself as "ChatGPT with local access and little Codex hands." It behaved more like regular ChatGPT with uploads plus MCP/connectors, while Codex-style local workspace access was not visible in that Work surface. Treat this as user-observed product-surface state, not as a universal OpenAI availability claim. The durable point is the split: ChatGPT Work is the branded general work-agent layer; Codex remains the repo/workspace agent layer, but its location and exposure inside the new desktop app may be rollout- and account-dependent. Helpful, obviously. Nothing says "future of work" like spending the morning finding the missing door.
 
+#### The Great OpenAI Maybe-Superapp Release Confusion
+
+After roughly nine hours of user-facing confusion on 2026-07-10, Charli's observed Windows-app state looked like this:
+
+- The old ChatGPT app was now labelled or behaving like **ChatGPT Classic**.
+- The old ChatGPT surface had a **Work** tab, but that Work tab did not work from a local computer folder. It behaved like the existing ChatGPT pattern: cloud projects, uploads, and connectors such as Notion and Dropbox.
+- The new ChatGPT app in the Windows Store appeared to be the app formerly known as Codex, now presented as **ChatGPT Codex**.
+- Inside that renamed app, **Work** and **Codex** were selectable from the app name/header area, but the selector was not visually obvious.
+- Choosing **Chat** from the menu opened ChatGPT in a small pop-out window rather than as a first-class in-app workspace.
+
+The product-shape problem is not just naming. It is that "ChatGPT Work" sounds like the folder-aware computer-work agent, while the actual folder-aware surface appeared to live under the renamed Codex app. Meanwhile, the Chat option inside the Codex-derived app looked more like a small support-chat accessory than the main ChatGPT experience. Result: two apps, overlapping names, Work in more than one conceptual place, Codex partly renamed, and no obvious one-sentence answer to "where do I open my folder and work?" Tremendous. The superapp has become a treasure hunt.
+
 Why it matters: this is the official moment where OpenAI ties its newest frontier model family to a broader workplace-agent push, while also folding Codex into the main ChatGPT desktop shell. For normal users, the important question is not the brand name. It is which surface can actually see local files, open a folder/project, use desktop apps, use connectors, run long tasks, and resume remotely. Product consolidation without clear capability boundaries creates exactly the confusion this wiki is meant to preserve.
 
 Sources:
