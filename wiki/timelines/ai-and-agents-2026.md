@@ -3,7 +3,7 @@ title: "AI And Agents 2026 Timeline"
 type: timeline
 status: draft
 created: 2026-05-21
-updated: 2026-07-09
+updated: 2026-07-10
 sources:
   - ../sources/current-ai-agent-landscape-2026.md
   - ../sources/anthropic-compute-and-talent-signal-2026.md
@@ -120,6 +120,8 @@ sources:
   - ../sources/anthropic-j-space-global-workspace.md
   - https://transformer-circuits.pub/2026/workspace/index.html
   - https://openai.com/index/previewing-gpt-5-6-sol/
+  - https://openai.com/index/gpt-5-6/
+  - https://openai.com/index/chatgpt-for-your-most-ambitious-work/
   - https://deploymentsafety.openai.com/gpt-5-6-preview
   - https://openai.com/index/introducing-gpt-live/
   - https://deploymentsafety.openai.com/gpt-live
@@ -144,7 +146,7 @@ Use this page for events that are useful historical anchors:
 
 Future lint rule: update this page if it helps preserve the shape of the year. Delete or collapse entries that turn out to be noise.
 
-## Short Read As Of 2026-07-09
+## Short Read As Of 2026-07-10
 
 The first half of 2026 already shows several converging threads:
 
@@ -188,7 +190,7 @@ The first half of 2026 already shows several converging threads:
 - Microsoft signed a preliminary land-acquisition agreement for potential datacenter development in Vaasa and Mustasaari, Finland, reinforcing the shift from AI as software story to AI as land, grid, cooling, and local-planning story.
 - OpenAI published a June 8 "third phase" strategy cluster: automated AI researchers, a March 2028 internal horizon for a significant fraction of research being done by AI systems alongside researchers, economic-growth and "personal AGI" distribution language, international coordination that could include slowing frontier development, a confidential draft S-1, and an external Economic Research Exchange.
 - OpenAI announced a Partner Network with `$150 million` for the partner ecosystem, a target of `300,000` certified consultants by the end of 2026, and future specializations in Codex, cybersecurity, and agents, making enterprise deployment and consulting capacity part of the lab strategy.
-- Axios and The Verge reported that the Trump administration asked OpenAI to limit GPT-5.6's initial release to government-approved partners or a small enterprise preview, turning the White House's voluntary frontier-model evaluation framework into a live access-sequencing fight. OpenAI then officially previewed GPT-5.6 as Sol, Terra, and Luna under a limited partner release while saying general availability was planned "in the coming weeks." On 2026-07-08, OpenAI's official X account said GPT-5.6 Sol, Terra, and Luna would launch publicly on Thursday, 2026-07-09, while preview access was expanding globally. The useful warning is not "safety is fake"; it is that opaque institutions can ration tools through approval frameworks before the public even sees the model. Marvellous. Divergent with procurement language.
+- Axios and The Verge reported that the Trump administration asked OpenAI to limit GPT-5.6's initial release to government-approved partners or a small enterprise preview, turning the White House's voluntary frontier-model evaluation framework into a live access-sequencing fight. OpenAI then officially previewed GPT-5.6 as Sol, Terra, and Luna under a limited partner release while saying general availability was planned "in the coming weeks." On 2026-07-09, OpenAI launched the GPT-5.6 family for general availability and announced ChatGPT Work, a ChatGPT agent surface for longer app/file/browser workflows. Charli's 09:21 BST check on 2026-07-10 found the new Work surface did not yet behave like a local-folder Codex workspace in her setup; it looked closer to ChatGPT with uploads and MCP/connectors. The useful warning is not "safety is fake"; it is that opaque institutions can ration tools through approval frameworks before the public even sees the model, and that product names can outrun what the local surface actually exposes. Marvellous. Divergent with procurement language and a badge lanyard.
 - OpenAI launched GPT-Live, a full-duplex voice model for ChatGPT Voice. It can listen and speak at the same time, pause instead of interrupting, delegate deeper work to frontier models, support live translation and visual cards, and roll out as GPT-Live-1 for paid users plus GPT-Live-1 mini for free users. This matters as an interface shift, not because everyone must now speak to their laptop like a lost Bluetooth oracle.
 - OpenAI audited SWE-Bench Pro and estimated that roughly `30%` of the public split is broken, then retracted its earlier recommendation to adopt the benchmark. Coding-agent progress claims are now important enough that benchmark quality itself becomes part of the agent-safety and deployment story. Annoying, yes. Also load-bearing.
 - Charli reported that on 2026-06-15 Codex computer use and the Codex Chrome extension became available to her in the UK Windows app. Official OpenAI docs already establish the feature family: Chrome extension access for signed-in browser state and computer use on macOS/Windows in supported regions. Treat the exact UK availability date as user-observed unless OpenAI later publishes a cleaner rollout note.
@@ -214,6 +216,22 @@ The first half of 2026 already shows several converging threads:
 The durable theme is not one company winning. It is that agents, model character, compute, public attachment, and knowledge-work rearchitecture all became visible at the same time.
 
 ## Timeline
+
+### 2026-07-09 - OpenAI launches GPT-5.6 and ChatGPT Work; early desktop surface remains confusing
+
+At 09:20 BST on Friday, 2026-07-10, Charli recorded the public-release marker: OpenAI had launched the GPT-5.6 model family on Thursday, 2026-07-09. OpenAI's launch page frames GPT-5.6 as a generally available family with Sol as the flagship model, Terra as the everyday-work model, and Luna as the cost-efficient model. This follows the earlier limited-preview and government-access-sequencing story, so the timeline now has both pieces: preview pressure first, then public launch.
+
+OpenAI also announced ChatGPT Work on 2026-07-09. OpenAI describes it as an agent inside ChatGPT for longer, more ambitious work across apps, files, browser surfaces, plugins, scheduled tasks, documents, sheets, slides, and Sites. The same launch post says the Codex app is merging into the new ChatGPT desktop app, with Chat, Work, and Codex available there, and that existing Codex users can update as usual.
+
+Charli's local check at 09:21 BST on Friday, 2026-07-10 is the practical counterweight: in her visible setup, ChatGPT Work did not present itself as "ChatGPT with local access and little Codex hands." It behaved more like regular ChatGPT with uploads plus MCP/connectors, while Codex-style local workspace access was not visible in that Work surface. Treat this as user-observed product-surface state, not as a universal OpenAI availability claim. The durable point is the split: ChatGPT Work is the branded general work-agent layer; Codex remains the repo/workspace agent layer, but its location and exposure inside the new desktop app may be rollout- and account-dependent. Helpful, obviously. Nothing says "future of work" like spending the morning finding the missing door.
+
+Why it matters: this is the official moment where OpenAI ties its newest frontier model family to a broader workplace-agent push, while also folding Codex into the main ChatGPT desktop shell. For normal users, the important question is not the brand name. It is which surface can actually see local files, open a folder/project, use desktop apps, use connectors, run long tasks, and resume remotely. Product consolidation without clear capability boundaries creates exactly the confusion this wiki is meant to preserve.
+
+Sources:
+
+- [OpenAI: GPT-5.6](https://openai.com/index/gpt-5-6/)
+- [OpenAI: ChatGPT is now a partner for your most ambitious work](https://openai.com/index/chatgpt-for-your-most-ambitious-work/)
+- Charli local observation, 2026-07-10 09:21 BST.
 
 ### 2026-07-08 - OpenAI retracts SWE-Bench Pro recommendation after audit
 

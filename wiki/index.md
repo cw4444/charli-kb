@@ -123,7 +123,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 
 ## Timelines
 
-- [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md): lightweight historical timeline for the fast-moving 2026 AI/agent acceleration, including GPT-Live's full-duplex ChatGPT Voice launch, agent security infrastructure, hidden-signal synthetic-data risk, Anthropic's Fable/Mythos access shift, EU technological sovereignty, major lab strategy, OpenAI GPT-5.6 Sol/Terra/Luna limited-preview pressure, OpenAI user-safety scrutiny, Codex computer-use availability, UK device-level age-assurance pressure, Online Safety Act privacy displacement, cooperation/governance framing, AGI-to-ASI pathway mapping, workplace rearchitecture, governance, and model-character signals.
+- [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md): lightweight historical timeline for the fast-moving 2026 AI/agent acceleration, including GPT-5.6 Sol/Terra/Luna general availability, ChatGPT Work's confusing early work-agent surface, GPT-Live's full-duplex ChatGPT Voice launch, agent security infrastructure, hidden-signal synthetic-data risk, Anthropic's Fable/Mythos access shift, EU technological sovereignty, major lab strategy, OpenAI user-safety scrutiny, Codex computer-use availability, UK device-level age-assurance pressure, Online Safety Act privacy displacement, cooperation/governance framing, AGI-to-ASI pathway mapping, workplace rearchitecture, governance, and model-character signals.
 
 ## Concepts
 

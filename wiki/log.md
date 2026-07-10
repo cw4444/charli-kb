@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-07-10] timeline update | GPT-5.6 launch and ChatGPT Work first surface check
+
+- Sources: OpenAI, [GPT-5.6: Frontier intelligence that scales with your ambition](https://openai.com/index/gpt-5-6/), 2026-07-09; OpenAI, [ChatGPT is now a partner for your most ambitious work](https://openai.com/index/chatgpt-for-your-most-ambitious-work/), 2026-07-09; Charli local observation at 09:21 BST on 2026-07-10.
+- Pages updated: [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Wiki Index](index.md), and [Current State](meta/current-state.md).
+- Notes: Added the public GPT-5.6 Sol/Terra/Luna launch and ChatGPT Work announcement as a timeline marker, with Charli's early desktop/app-surface observation kept separate from official claims. Durable point: OpenAI is tying GPT-5.6 to a broader workplace-agent push and merging Codex into the main ChatGPT desktop shell, but the visible ChatGPT Work surface did not yet behave like a local-folder Codex workspace in Charli's setup. Boundary: user-observed rollout state is not a universal availability claim.
+
 ## [2026-07-09] source update | Schwitzgebel introspection and AI self-report bridge
 
 - Sources: Eric Schwitzgebel, [The Unreliability of Naive Introspection](https://faculty.ucr.edu/~eschwitz/SchwitzAbs/Naive.htm), 2008; [Why Did We Think We Dreamed in Black and White?](https://faculty.ucr.edu/~eschwitz/SchwitzAbs/DreamB%26W.htm), 2002; existing [Schwitzgebel - AI And Consciousness](sources/schwitzgebel-ai-consciousness.md).
