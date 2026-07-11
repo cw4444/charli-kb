@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-07-11] concept | focusing illusion
+
+- Sources: existing [Kahneman And Tversky - Judgment Under Uncertainty](sources/kahneman-tversky-judgment-under-uncertainty.md), especially Schkade and Kahneman 1998 and Kahneman et al. 2006; existing [Salience Weighted Judgment](concepts/salience-weighted-judgment.md).
+- Pages created: [Focusing Illusion](concepts/focusing-illusion.md)
+- Pages updated: [Salience Weighted Judgment](concepts/salience-weighted-judgment.md), [Kahneman And Tversky - Judgment Under Uncertainty](sources/kahneman-tversky-judgment-under-uncertainty.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Split focusing illusion out as its own compact concept page, with Charli's sleep/capture loop preserved: not only regret or rumination, but curiosity and "quickly get the link" can become attention-driven urgency. Durable line: thoughts are drunk women on a hen's night at a karaoke bar; do not mistake volume for authority.
+
 ## [2026-07-11] source note | Ochsner and Gross - cognitive control of emotion
 
 - Source: Kevin N. Ochsner and James J. Gross, *Trends in Cognitive Sciences*, [The cognitive control of emotion](https://doi.org/10.1016/j.tics.2005.03.010), 2005; DOI/Crossref/Europe PMC metadata checked 2026-07-11.

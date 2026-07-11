@@ -3,7 +3,7 @@ title: "Kahneman And Tversky - Judgment Under Uncertainty"
 type: source
 status: draft
 created: 2026-06-11
-updated: 2026-07-02
+updated: 2026-07-11
 source_type: public-research-batch
 authors:
   - Daniel Kahneman
@@ -69,6 +69,8 @@ The durable line for this wiki is: what you are thinking about gets overweighted
 
 That does not mean the factor is irrelevant. It means attention inflates it. This is the practical boundary Charli was circling with "nothing is as important as you think it is while you are thinking about it." The useful response is not to dismiss the concern. It is to widen the frame before making decisions.
 
+The wiki now keeps [Focusing Illusion](../concepts/focusing-illusion.md) as a separate concept page because the pattern is useful beyond life-satisfaction examples. At night, especially, a thought can feel urgent because it is currently in focus: source capture, notes, app checks, and "quick" searches can all become importance inflation in a productivity hat.
+
 ## Why It Connects To This Wiki
 
 Kahneman's work belongs here because it is a source-backed bridge between perception, belief, agency, optimism, and AI use:
@@ -91,6 +93,7 @@ For AI work, this is a useful steering rule: a fluent model can make a topic fee
 ## Useful For
 
 - [Salience Weighted Judgment](../concepts/salience-weighted-judgment.md)
+- [Focusing Illusion](../concepts/focusing-illusion.md)
 - [Daniel Kahneman](../people/daniel-kahneman.md)
 - [Optimism](../concepts/optimism.md)
 - [Morewedge et al. - The Least Likely Of Times](morewedge-least-likely-of-times.md)

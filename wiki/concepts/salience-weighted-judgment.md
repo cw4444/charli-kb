@@ -16,6 +16,7 @@ sources:
   - https://citeseerx.ist.psu.edu/document?doi=a532ee2820e74c9b88e2cb6178c481fe227a1769&repid=rep1&type=pdf
   - ../sources/hawkins-hastie-hindsight-bias.md
   - frequency-illusion.md
+  - focusing-illusion.md
   - ../sources/ochsner-gross-cognitive-control-emotion.md
 ---
 
@@ -40,6 +41,8 @@ This is why a newly noticed idea can start appearing everywhere. Sometimes that 
 The focusing illusion is attention narrowing onto one factor and overestimating its effect on overall well-being or life satisfaction. The factor may matter, but attention makes it look like the central variable.
 
 The useful household version: nothing is quite as important as it feels while it is taking up the whole mental screen.
+
+[Focusing Illusion](focusing-illusion.md) now has its own page because the pattern is not only about happiness judgments. It is also the bedtime "quickly capture this" loop, where a thought feels urgent because attention has handed it the microphone and the rest of the room has gone quiet.
 
 ### Loss Framing
 
@@ -123,5 +126,6 @@ The [Locus Coeruleus](locus-coeruleus.md) adds a biological gain-control bridge.
 - [Veiga-Zarza et al. - Cognitive Dissonance And Attitude Change](../sources/veiga-zarza-cognitive-dissonance-attitude-change.md)
 - [Hindsight Bias](hindsight-bias.md)
 - [Frequency Illusion](frequency-illusion.md)
+- [Focusing Illusion](focusing-illusion.md)
 - [Ochsner And Gross - Cognitive Control Of Emotion](../sources/ochsner-gross-cognitive-control-emotion.md)
 - [Practical Agency Inside Constraint](practical-agency-inside-constraint.md)
