@@ -3,10 +3,12 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-07-10
+updated: 2026-07-11
 ---
 
 # Current State
+
+On 2026-07-11, Charli linked the UC Denver explainer [What is the Frequency Illusion?](https://news.ucdenver.edu/what-is-the-frequency-illusion/) after connecting Baader-Meinhof / frequency illusion to TikTok-style recommendation loops and a Moldavite / Libyan desert glass purchasing incident. Codex added [Frequency Illusion](../concepts/frequency-illusion.md) as a compact concept page beside [Salience Weighted Judgment](../concepts/salience-weighted-judgment.md) and [Repetition As Cognitive Method](../concepts/repetition-as-cognitive-method.md). Durable point: new salience can train attention; repeated noticing then feels like evidence that a thing is common, meaningful, or newly everywhere. Keep the boundary: noticing is a prompt to check base rates, not proof of destiny, synchronicity, or a shopping mandate from the universe.
 
 On 2026-07-10, Charli asked to preserve the GPT-5.6 / ChatGPT Work morning confusion with an actual timestamp. Codex updated the [AI And Agents 2026 Timeline](../timelines/ai-and-agents-2026.md): OpenAI launched GPT-5.6 Sol, Terra, and Luna for general availability on Thursday, 2026-07-09 and announced ChatGPT Work as a general work-agent surface in ChatGPT. Charli's local check at 09:21 BST on Friday, 2026-07-10 found that ChatGPT Work did not present as "ChatGPT with local access and little Codex hands"; in her visible setup it looked like ChatGPT with uploads plus MCP/connectors, while Codex-style local workspace access remained separate or missing from that surface. Later that morning, after roughly nine hours of confusion, Charli mapped the observed Windows-app split: old ChatGPT had become ChatGPT Classic with a Work tab; the new Windows Store ChatGPT app appeared to be the renamed Codex app, now ChatGPT Codex; Work/Codex was selectable from an unobvious header area; and Chat opened as a small pop-out rather than a first-class in-app workspace. Keep the boundary clean: official launch facts come from OpenAI; Charli's notes are local product-surface observations, not universal availability claims. Durable point: OpenAI is consolidating ChatGPT/Codex/desktop work surfaces, but naming and actual reachable capabilities can diverge badly during rollout.
 

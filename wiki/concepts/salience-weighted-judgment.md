@@ -15,6 +15,7 @@ sources:
   - https://www.kellogg.northwestern.edu/academics-research/research/detail/2009/the-mere-forecasting-effect-how-focusing-on-the-future/
   - https://citeseerx.ist.psu.edu/document?doi=a532ee2820e74c9b88e2cb6178c481fe227a1769&repid=rep1&type=pdf
   - ../sources/hawkins-hastie-hindsight-bias.md
+  - frequency-illusion.md
 ---
 
 # Salience Weighted Judgment
@@ -30,6 +31,8 @@ That extra weight can be useful. If smoke is vivid, pay attention. If a danger c
 Availability is the shortcut where frequency or probability is judged by ease of recall. If examples come to mind quickly, the event can feel common. If they do not, the event can feel rare.
 
 This is why a newly noticed idea can start appearing everywhere. Sometimes that is because the world really changed. Sometimes it is because your attention and retrieval system just got handed a highlighter and is now being dramatic with it.
+
+[Frequency Illusion](frequency-illusion.md) is the dedicated page for that narrower loop: new salience makes a thing easier to notice, repeated noticing makes it feel common or important, and confirmation bias can turn recognition into a little private evidence factory.
 
 ### Focusing Illusion
 
@@ -116,4 +119,5 @@ The [Locus Coeruleus](locus-coeruleus.md) adds a biological gain-control bridge.
 - [Pessoa - The Entangled Brain](../sources/pessoa-entangled-brain.md)
 - [Veiga-Zarza et al. - Cognitive Dissonance And Attitude Change](../sources/veiga-zarza-cognitive-dissonance-attitude-change.md)
 - [Hindsight Bias](hindsight-bias.md)
+- [Frequency Illusion](frequency-illusion.md)
 - [Practical Agency Inside Constraint](practical-agency-inside-constraint.md)

@@ -123,6 +123,7 @@ The useful sentence is simple:
 - [Fictional Finalism](fictional-finalism.md)
 - [Salience Weighted Judgment](salience-weighted-judgment.md)
 - [Repetition As Cognitive Method](repetition-as-cognitive-method.md)
+- [Frequency Illusion](frequency-illusion.md)
 - [Research - Optimism](../questions/research-optimism.md)
 - [Practical Agency Inside Constraint](practical-agency-inside-constraint.md)
 - [Habits, Goals, And Behavioural Control](habits-goals-and-behavioral-control.md)

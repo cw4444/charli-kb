@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-07-11] concept | frequency illusion
+
+- Sources: Arnold Zwicky, [Why are we so illuded?](https://web.stanford.edu/~zwicky/LSA07illude.abst.pdf), 2006; CU Denver News, [What is the Frequency Illusion?](https://news.ucdenver.edu/what-is-the-frequency-illusion/), 2019; Talluri et al., [Confirmation Bias through Selective Overweighting of Choice-Consistent Evidence](https://doi.org/10.1016/j.cub.2018.07.052), *Current Biology*, 2018; Purohit, [The Baader-Meinhof Phenomenon in Radiology](https://doi.org/10.1016/j.acra.2019.01.025), *Academic Radiology*, 2019; existing [Kahneman And Tversky - Judgment Under Uncertainty](sources/kahneman-tversky-judgment-under-uncertainty.md).
+- Pages created: [Frequency Illusion](concepts/frequency-illusion.md).
+- Pages updated: [Salience Weighted Judgment](concepts/salience-weighted-judgment.md), [Manifestation As Behavior Modification](concepts/manifestation-as-behavior-modification.md), [Wiki Index](index.md), and [Current State](meta/current-state.md).
+- Notes: Added a compact page for the Baader-Meinhof / frequency-illusion loop: new salience -> selective attention -> repeated noticing -> confirmation feeling -> stronger salience. Kept UC Denver as an explainer/discovery source, Zwicky as the naming/theory anchor, Kahneman/Tversky as the availability foundation, Talluri et al. as nearby choice-consistent evidence weighting, and Purohit as a medical anecdote showing why the loop can help learning while also risking overdiagnosis. Boundary: noticing is not measurement, and crystal synchronicity remains financially suspicious.
+
 ## [2026-07-10] timeline update | GPT-5.6 launch and ChatGPT Work first surface check
 
 - Sources: OpenAI, [GPT-5.6: Frontier intelligence that scales with your ambition](https://openai.com/index/gpt-5-6/), 2026-07-09; OpenAI, [ChatGPT is now a partner for your most ambitious work](https://openai.com/index/chatgpt-for-your-most-ambitious-work/), 2026-07-09; Charli local observation at 09:21 BST on 2026-07-10.
