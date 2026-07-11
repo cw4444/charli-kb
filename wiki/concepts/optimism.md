@@ -3,7 +3,7 @@ title: "Optimism"
 type: concept
 status: draft
 created: 2026-05-12
-updated: 2026-07-02
+updated: 2026-07-11
 sources:
   - ../sources/optimism-neuroscience-source-batch.md
   - ../sources/repetition-cognitive-method-source-batch.md
@@ -11,6 +11,7 @@ sources:
   - ../sources/kahneman-tversky-judgment-under-uncertainty.md
   - ../sources/morewedge-least-likely-of-times.md
   - ../sources/van-dijk-emotional-time-travel.md
+  - ../sources/ochsner-gross-cognitive-control-emotion.md
   - ../sources/libet-schurger-readiness-potential-agency.md
   - ../sources/langer-counterclockwise-aging-mindset.md
   - manifestation-as-behavior-modification.md
@@ -43,6 +44,8 @@ Sjåstad and Baumeister's 2023 *Cognition* experiments give that flexibility a u
 Morewedge, Gilbert, and Wilson's 2005 [Least Likely Of Times](../sources/morewedge-least-likely-of-times.md) paper adds the memory input to that sequence. When people forecast from one freely recalled past event, the episode that comes to mind may be as unusually good or bad as an explicitly requested best or worst case. The difference is metacognitive: people told to retrieve an extreme know it is unrepresentative and correct, while free recallers may treat the same kind of outlier as ordinary evidence. Optimistic and pessimistic forecasts can therefore inherit their extremity from a biased memory sample before later reasoning even begins.
 
 Van Dijk, van Dillen, Seip, and Rotteveel's 2012 [Emotional Time Travel](../sources/van-dijk-emotional-time-travel.md) study adds the missing future regulator. People forecasting social exclusion expected more anger and sadness, and less reappraisal, than experiencers reported. The useful correction is not "the bad event will be fine." It is that forecasts often model the event's first emotional blow without adequately modelling the later mind that contextualises, accepts, redirects, or keeps ruminating on it. Morewedge warns about the sample; van Dijk warns about freezing future-you at the moment of impact.
+
+[Ochsner and Gross's cognitive-control review](../sources/ochsner-gross-cognitive-control-emotion.md) is the broader scaffold underneath that future-regulation point. Optimism is interesting here when it recruits interpretation, distance, attention, and action in a way that keeps agency alive. It becomes silly or dangerous when reappraisal is mistaken for proof, denial, or a little manager in the forehead forcing the emotional machinery to behave.
 
 Michael Roy's 2014 opinion piece adds the social-level warning: belief in optimism can be more troublesome than optimism itself when it becomes a moral demand or universal explanation for outcomes. That framing can erase structural constraints and make sensible caution look like a character flaw. This is philosophical ballast, not experimental proof that optimism harms people; it keeps the useful version evidence-sensitive, non-moralising, and allergic to cosmic admin.
 
@@ -184,3 +187,4 @@ Ellen Langer's counterclockwise aging study belongs on the outer edge of this co
 - [Fictional Finalism](fictional-finalism.md)
 - [Habits, Goals, And Behavioural Control](habits-goals-and-behavioral-control.md)
 - [Langer Counterclockwise Study And Aging Mindset](../sources/langer-counterclockwise-aging-mindset.md)
+- [Ochsner And Gross - Cognitive Control Of Emotion](../sources/ochsner-gross-cognitive-control-emotion.md)

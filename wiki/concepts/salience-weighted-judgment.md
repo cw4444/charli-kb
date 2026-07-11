@@ -3,7 +3,7 @@ title: "Salience Weighted Judgment"
 type: concept
 status: draft
 created: 2026-06-11
-updated: 2026-07-02
+updated: 2026-07-11
 sources:
   - ../sources/kahneman-tversky-judgment-under-uncertainty.md
   - ../sources/optimism-neuroscience-source-batch.md
@@ -16,6 +16,7 @@ sources:
   - https://citeseerx.ist.psu.edu/document?doi=a532ee2820e74c9b88e2cb6178c481fe227a1769&repid=rep1&type=pdf
   - ../sources/hawkins-hastie-hindsight-bias.md
   - frequency-illusion.md
+  - ../sources/ochsner-gross-cognitive-control-emotion.md
 ---
 
 # Salience Weighted Judgment
@@ -87,6 +88,8 @@ The [Locus Coeruleus](locus-coeruleus.md) adds a biological gain-control bridge.
 
 [Veiga-Zarza et al.](../sources/veiga-zarza-cognitive-dissonance-attitude-change.md) adds a dissonance-shaped route into that problem. When relevant cognitions conflict, the conflict itself can become salient and aversive enough to motivate attitude/value change. The useful boundary is that salience may trigger reweighting, but it does not tell us whether the resulting belief became more accurate or merely more comfortable.
 
+[Ochsner and Gross](../sources/ochsner-gross-cognitive-control-emotion.md) add the regulation side of the same household mess. Attention and appraisal do not only distort judgment accidentally; they can also be deliberately steered through reappraisal, distancing, and response modulation. Useful, but mind the trap: changing which interpretation carries emotional force is not the same as proving the kinder interpretation true.
+
 ## Practical Countermoves
 
 - Ask what changed: the world, your attention, the feed, the search term, or the evidence?
@@ -120,4 +123,5 @@ The [Locus Coeruleus](locus-coeruleus.md) adds a biological gain-control bridge.
 - [Veiga-Zarza et al. - Cognitive Dissonance And Attitude Change](../sources/veiga-zarza-cognitive-dissonance-attitude-change.md)
 - [Hindsight Bias](hindsight-bias.md)
 - [Frequency Illusion](frequency-illusion.md)
+- [Ochsner And Gross - Cognitive Control Of Emotion](../sources/ochsner-gross-cognitive-control-emotion.md)
 - [Practical Agency Inside Constraint](practical-agency-inside-constraint.md)

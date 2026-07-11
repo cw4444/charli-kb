@@ -3,7 +3,7 @@ title: "Manifestation As Behavior Modification"
 type: concept
 status: draft
 created: 2026-06-08
-updated: 2026-07-05
+updated: 2026-07-11
 sources:
   - https://www.nhs.uk/conditions/cognitive-behavioural-therapy-cbt/
   - https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral
@@ -13,6 +13,7 @@ sources:
   - salience-weighted-judgment.md
   - repetition-as-cognitive-method.md
   - ../sources/hershfield-future-self-continuity.md
+  - ../sources/ochsner-gross-cognitive-control-emotion.md
 ---
 
 # Manifestation As Behavior Modification
@@ -51,6 +52,12 @@ That is the non-mystical spine underneath a lot of useful manifestation advice:
 - repeat.
 
 The difference is evidence contact. CBT does not need the world to be secretly controlled by thought. It only needs thoughts and behaviours to interact strongly enough that changing one can shift the other.
+
+## Relation To Cognitive Control Of Emotion
+
+[Ochsner and Gross's 2005 review](../sources/ochsner-gross-cognitive-control-emotion.md) gives the sober neuroscience version of the same useful move: attention, appraisal, reappraisal, distancing, and response modulation can shape emotional responses. That is the part worth keeping when manifestation language says to "feel it real."
+
+The translation is not "unlock your head and remove the sad bits," tempting as that would be after a long week. It is: change what a situation means, where attention goes, and what action is rehearsed next. That can alter feeling and behaviour. It does not edit external reality by vibes, and it does not make denial healthy.
 
 ## Relation To Repetition
 
@@ -128,3 +135,4 @@ The useful sentence is simple:
 - [Practical Agency Inside Constraint](practical-agency-inside-constraint.md)
 - [Habits, Goals, And Behavioural Control](habits-goals-and-behavioral-control.md)
 - [Future Self-Continuity](future-self-continuity.md)
+- [Ochsner And Gross - Cognitive Control Of Emotion](../sources/ochsner-gross-cognitive-control-emotion.md)

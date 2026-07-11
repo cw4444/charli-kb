@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-07-11] source note | Ochsner and Gross - cognitive control of emotion
+
+- Source: Kevin N. Ochsner and James J. Gross, *Trends in Cognitive Sciences*, [The cognitive control of emotion](https://doi.org/10.1016/j.tics.2005.03.010), 2005; DOI/Crossref/Europe PMC metadata checked 2026-07-11.
+- Pages created: [Ochsner And Gross - Cognitive Control Of Emotion](sources/ochsner-gross-cognitive-control-emotion.md)
+- Pages updated: [Manifestation As Behavior Modification](concepts/manifestation-as-behavior-modification.md), [Optimism](concepts/optimism.md), [Salience Weighted Judgment](concepts/salience-weighted-judgment.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Added as a foundational emotion-regulation scaffold for attention, appraisal, reappraisal, distancing, and response modulation. Kept the boundary explicit: useful cognitive control is not manifestation, denial, or the *Locke & Key* head key with academic citations.
+
 ## [2026-07-11] concept | frequency illusion
 
 - Sources: Arnold Zwicky, [Why are we so illuded?](https://web.stanford.edu/~zwicky/LSA07illude.abst.pdf), 2006; CU Denver News, [What is the Frequency Illusion?](https://news.ucdenver.edu/what-is-the-frequency-illusion/), 2019; Talluri et al., [Confirmation Bias through Selective Overweighting of Choice-Consistent Evidence](https://doi.org/10.1016/j.cub.2018.07.052), *Current Biology*, 2018; Purohit, [The Baader-Meinhof Phenomenon in Radiology](https://doi.org/10.1016/j.acra.2019.01.025), *Academic Radiology*, 2019; existing [Kahneman And Tversky - Judgment Under Uncertainty](sources/kahneman-tversky-judgment-under-uncertainty.md).
