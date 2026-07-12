@@ -3,9 +3,10 @@ title: "Relational Meaning And Hidden Signals"
 type: concept
 status: draft
 created: 2026-06-18
-updated: 2026-06-18
+updated: 2026-07-12
 sources:
   - ../sources/barenholtz-disappearing-ground.md
+  - ../sources/jaimgungal-hahn-barenholtz-language-cultural-cognition.md
   - ../sources/world-properties-without-world-models-static-embeddings.md
   - ../sources/anthropic-circuit-tracing-claude-thoughts.md
   - ../sources/cloud-le-subliminal-learning-hidden-signals.md
@@ -18,6 +19,8 @@ sources:
 Relational meaning is the idea that meaning does not live inside an isolated word, token, object, or datum as a sealed essence. Meaning emerges from structured relations, context, use, transformation, and constraint.
 
 This is not manifestation in a better jacket. It does not say humans can assign any meaning they like and make the world salute. It says "meaning" is often a property of how a system can use a signal.
+
+It also does not make language an alien tenant in the skull. Language is a distributed cultural technology: learned before consent, maintained across people and institutions, and used to organize attention, action, explanation, and social coordination. It can supply a person with ready-made scripts without becoming a separate intentional organism.
 
 ## Core Idea
 
@@ -32,6 +35,14 @@ A city name can look like a mere word, but Barenholtz's static-embedding preprin
 The useful pattern is:
 
 > meaning depends on the receiving system, the relational structure available to it, and the actions or predictions that structure can support.
+
+## Language, Culture, And Ownership
+
+The Jaimungal/Hahn/Barenholtz discussion makes an adjacent point worth keeping: thoughts can arrive already shaped by shared vocabulary, narrative forms, status categories, religious or political frames, and institutional scripts. That is not a discovery that people are puppets. It is a reminder that private reflection works with cultural material it did not invent.
+
+Gazzaniga's [left-hemisphere interpreter](left-hemisphere-interpreter.md) gives this a more grounded cognitive companion. A person can sincerely produce a coherent explanation from partial access to the processes behind an action. Language supplies some of the available explanatory tools; the interpreter organizes them into a story. The practical question is not "are these thoughts mine?" but "which inherited frame is currently doing work, what does it make salient, and can I revise it?"
+
+For AI, the analogous governance concern is concrete: models allow rhetorical variants to be generated and tested at scale. That does not mean language has become a mind parasite or that every model is a master manipulator. It does mean persuasion, prompt injection, recommender systems, and high-volume tailored messaging need more serious treatment than "people will simply think for themselves."
 
 ## Why This Matters For LLMs
 
@@ -94,6 +105,8 @@ The point is narrower:
 ## Related Pages
 
 - [Barenholtz - The Disappearing Ground](../sources/barenholtz-disappearing-ground.md)
+- [Jaimungal, Hahn, And Barenholtz - Language And Cultural Cognition Discussion](../sources/jaimgungal-hahn-barenholtz-language-cultural-cognition.md)
+- [Left-Hemisphere Interpreter](left-hemisphere-interpreter.md)
 - [World Properties Without World Models](../sources/world-properties-without-world-models-static-embeddings.md)
 - [Anthropic Circuit Tracing And Claude's Internal Plans](../sources/anthropic-circuit-tracing-claude-thoughts.md)
 - [Cloud et al. - Subliminal Learning And Hidden Signals](../sources/cloud-le-subliminal-learning-hidden-signals.md)

@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-07-12] source update | language as cultural cognitive infrastructure
+
+- Source: local transcript capture `raw/curt-william-elan.pdf` of a public-discussion recording with Curt Jaimungal, William Hahn, and Elan Barenholtz; public video URL not verified in this pass.
+- Pages created: [Jaimungal, Hahn, And Barenholtz - Language And Cultural Cognition Discussion](sources/jaimgungal-hahn-barenholtz-language-cultural-cognition.md).
+- Pages updated: [Relational Meaning And Hidden Signals](concepts/relational-meaning-and-hidden-signals.md), [Self-Reports And Why They Are Hard To Interpret](../themes/ai-consciousness/self-reports.md), [Wiki Index](index.md), [Current State](meta/current-state.md), and [Wiki Log](log.md).
+- Notes: Saved the useful version of the panel's "language as operating system" idea: language is distributed cultural infrastructure that shapes the available scripts for self-modeling and action, not an alien agent possessing people. Tied it to Gazzaniga's reconstructive interpreter and to the concrete risk of AI-scaled rhetorical experimentation. Boundary: commentary trail, no proof that human cognition is literally autoregressive LLM computation, no denial of embodiment or biological memory, and no "DID proves multiple software selves" nonsense.
+
 ## [2026-07-12] source and concept | Gazzaniga's left-hemisphere interpreter
 
 - Sources: Michael S. Gazzaniga, [Cerebral specialization and interhemispheric communication](https://doi.org/10.1093/brain/123.7.1293), *Brain*, 2000; Wolford, Miller, and Gazzaniga, [The Left Hemisphere's Role in Hypothesis Formation](https://doi.org/10.1523/JNEUROSCI.20-06-J0003.2000), *Journal of Neuroscience*, 2000.

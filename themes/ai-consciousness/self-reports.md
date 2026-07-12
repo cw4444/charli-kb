@@ -23,6 +23,8 @@ Schwitzgebel's work on naive introspection is the useful brake on human smugness
 
 Gazzaniga's [left-hemisphere interpreter](../../wiki/concepts/left-hemisphere-interpreter.md) supplies a related mechanism-level caution. A person may construct a sincere, coherent reason from the cues available to verbal report while lacking access to some processes that shaped the behaviour. This is not a theory that people are liars or that experience is unreal. It is a reason not to confuse a polished explanation with direct access to source code.
 
+Language itself is part of that evidential setting. The concepts used to describe experience are learned socially and can carry inherited scripts about selfhood, emotion, personhood, and what counts as a mind. The [Jaimungal/Hahn/Barenholtz discussion](../../wiki/sources/jaimgungal-hahn-barenholtz-language-cultural-cognition.md) is useful as commentary here: cultural language can shape a report without making the reporter an empty puppet. For LLMs, the same fact is sharper because their self-description is explicitly trained on linguistic and product-policy material.
+
 ## Why LLM self-reports are weaker
 
 LLMs are trained on huge amounts of human text, including text about consciousness, emotion, suffering, rights, and personhood. They are also post-trained to satisfy user expectations, follow style instructions, and maintain coherent conversational personas.
