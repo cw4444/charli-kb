@@ -7,6 +7,7 @@ updated: 2026-07-09
 sources:
   - ../../sources/ai-consciousness-sources.md
   - ../../wiki/sources/schwitzgebel-ai-consciousness.md
+  - ../../wiki/sources/gazzaniga-left-hemisphere-interpreter.md
   - ../../wiki/sources/dawkins-claude-consciousness.md
 ---
 
@@ -19,6 +20,8 @@ LLM self-reports are central to public AI-consciousness debates because conversa
 Human consciousness science relies heavily on reports. If a person says they feel pain or see red, that report is usually treated as important evidence because it is embedded in a biological, behavioral, developmental, and social context.
 
 Schwitzgebel's work on naive introspection is the useful brake on human smugness. Humans are not perfect authorities on their own experience. His examples include uncertainty and error around peripheral visual clarity, emotional phenomenology, the phenomenology of thought, and historical shifts in reports of whether dreams are coloured or black and white. That does not make human self-report useless. It means human self-report is evidence inside a wider evidential web, not a magic private broadcast.
+
+Gazzaniga's [left-hemisphere interpreter](../../wiki/concepts/left-hemisphere-interpreter.md) supplies a related mechanism-level caution. A person may construct a sincere, coherent reason from the cues available to verbal report while lacking access to some processes that shaped the behaviour. This is not a theory that people are liars or that experience is unreal. It is a reason not to confuse a polished explanation with direct access to source code.
 
 ## Why LLM self-reports are weaker
 

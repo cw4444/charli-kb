@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-07-12] source and concept | Gazzaniga's left-hemisphere interpreter
+
+- Sources: Michael S. Gazzaniga, [Cerebral specialization and interhemispheric communication](https://doi.org/10.1093/brain/123.7.1293), *Brain*, 2000; Wolford, Miller, and Gazzaniga, [The Left Hemisphere's Role in Hypothesis Formation](https://doi.org/10.1523/JNEUROSCI.20-06-J0003.2000), *Journal of Neuroscience*, 2000.
+- Pages created: [Gazzaniga - The Left-Hemisphere Interpreter](sources/gazzaniga-left-hemisphere-interpreter.md) and [Left-Hemisphere Interpreter](concepts/left-hemisphere-interpreter.md).
+- Pages updated: [Self-Reports And Why They Are Hard To Interpret](../themes/ai-consciousness/self-reports.md), [Neuroscience](../themes/neuroscience/overview.md), [Wiki Index](index.md), [Current State](meta/current-state.md), and [Wiki Log](log.md).
+- Notes: Added the missing mechanism-level bridge beneath the Schwitzgebel/self-report lane. The interpreter treats coherent verbal explanation as sincere but potentially reconstructive when much relevant processing is inaccessible. Boundary: no pop left-brain/right-brain guff, no claim that experience is illusory, no equivalence between human and LLM reports, and no shortcut from a model's narrative self-description to consciousness.
+
 ## [2026-07-11] concept | focusing illusion
 
 - Sources: existing [Kahneman And Tversky - Judgment Under Uncertainty](sources/kahneman-tversky-judgment-under-uncertainty.md), especially Schkade and Kahneman 1998 and Kahneman et al. 2006; existing [Salience Weighted Judgment](concepts/salience-weighted-judgment.md).

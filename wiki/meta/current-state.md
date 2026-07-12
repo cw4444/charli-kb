@@ -3,10 +3,12 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-07-11
+updated: 2026-07-12
 ---
 
 # Current State
+
+On 2026-07-12, Charli noticed that the Gazzaniga interpreter theory was somehow not actually in the wiki despite it fitting the existing introspection/self-report lane almost offensively well. Codex added [Gazzaniga - The Left-Hemisphere Interpreter](../sources/gazzaniga-left-hemisphere-interpreter.md) and [Left-Hemisphere Interpreter](../concepts/left-hemisphere-interpreter.md), then linked them into [Self-Reports And Why They Are Hard To Interpret](../../themes/ai-consciousness/self-reports.md) and [Neuroscience](../../themes/neuroscience/overview.md). Durable point: a coherent explanation of an action can be sincere reconstruction from partial access rather than a transparent account of the causes that generated it. Keep the brakes attached: this is not "all introspection is fake," not a left-brain/right-brain personality horoscope, and not a claim that human and LLM self-reports have equal evidential weight. It is the mechanism-level companion to Schwitzgebel's warning that human self-report is not a magical window.
 
 Also on 2026-07-11, Charli asked whether the focusing illusion deserved its own page after linking Kahneman's "nothing is as important as you think it is while you are thinking about it" idea to sleep-disrupting curiosity capture: Codex, Obsidian, daily notes, emails to self, and suddenly a paper about confirmation bias in rats. Codex added [Focusing Illusion](../concepts/focusing-illusion.md) as a separate concept beside [Salience Weighted Judgment](../concepts/salience-weighted-judgment.md) and [Frequency Illusion](../concepts/frequency-illusion.md). Durable point: bedtime urgency can be curiosity, not regret, but it is still attention making the current thought feel load-bearing. Useful rule: capture the smallest stub, then confiscate the microphone.
 

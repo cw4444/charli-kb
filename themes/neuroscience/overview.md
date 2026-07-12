@@ -34,6 +34,7 @@ sources:
   - ../../wiki/sources/zhao-thalamus-brainstem-history-biased-decisions.md
   - ../../wiki/sources/zheng-prairie-vole-oxytocin-receptors.md
   - ../../wiki/sources/dambrogio-interpretable-ann-information-gathering.md
+  - ../../wiki/sources/gazzaniga-left-hemisphere-interpreter.md
 ---
 
 # Neuroscience
@@ -104,10 +105,14 @@ Ebrahimi et al. 2022 adds a population-reliability version. Across eight mouse n
 ### What Can Be Processed Without Conscious Access?
 
 - [Katlowitz et al. - Language And Plasticity In The Anaesthetized Human Hippocampus](../../wiki/sources/katlowitz-language-anaesthetized-hippocampus.md)
+- [Gazzaniga - The Left-Hemisphere Interpreter](../../wiki/sources/gazzaniga-left-hemisphere-interpreter.md)
+- [Left-Hemisphere Interpreter](../../wiki/concepts/left-hemisphere-interpreter.md)
 
 Katlowitz et al. 2026 adds a direct human-neurosurgery anchor for unconscious processing. In anaesthetized epilepsy-surgery patients, Neuropixels recordings from hippocampus still carried tone oddball information, showed representational change over roughly 10 minutes, and encoded semantic, part-of-speech, surprisal, and contextual word information from natural speech.
 
 The useful bridge is not "the unconscious person understands language like an awake listener." It is that language-related structure can remain neurally recoverable below reportable awareness. That matters for identity, selfhood, and AI-consciousness debates because decodable semantic processing is real processing, but not proof of lived experience.
+
+Gazzaniga's interpreter adds a complementary reporting problem: even awake verbal explanation can be constructive. Split-brain research suggests that the speaking left hemisphere can turn incomplete information into a sensible causal story. That is not proof that all introspection is confabulation; it is a reason to treat any explanation of motive or experience as evidence requiring context, not a direct machinery readout.
 
 ### How Does Attention Select A Signal?
 
