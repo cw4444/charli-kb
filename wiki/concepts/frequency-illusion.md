@@ -3,7 +3,7 @@ title: "Frequency Illusion"
 type: concept
 status: draft
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-07-12
 sources:
   - ../sources/kahneman-tversky-judgment-under-uncertainty.md
   - ../sources/repetition-cognitive-method-source-batch.md
@@ -12,6 +12,7 @@ sources:
   - https://news.ucdenver.edu/what-is-the-frequency-illusion/
   - https://doi.org/10.1016/j.cub.2018.07.052
   - https://doi.org/10.1016/j.acra.2019.01.025
+  - ../sources/brody-friston-adaptive-confirmation-bias.md
 ---
 
 # Frequency Illusion
@@ -42,6 +43,8 @@ The UC Denver explainer is useful as public-facing psychology context, not as a 
 
 Talluri, Urai, Tsetsos, Usher, and Donner's 2018 *Current Biology* paper adds a nearby evidence-weighting mechanism. In a perceptual decision task, the authors report confirmation bias through selective overweighting of choice-consistent evidence. That is not a paper about crystals or TikTok feeds. Its useful bridge is narrower: once a system has committed or leaned one way, later evidence can be weighted in a self-consistent direction.
 
+Brody, Friston, Meister, and Pothos's 2026 [formal preprint](../sources/brody-friston-adaptive-confirmation-bias.md) adds an active-search version. In a tightly specified binary inference model, selecting prior-aligned evidence can minimise expected error and reduce memory requirements. This does not redeem the ordinary frequency-illusion loop. It explains why attention, retrieval, and source selection can sometimes cooperate efficiently in a stable environment, while becoming disastrous when the sources are manipulative, correlated, or wrong.
+
 Purohit's 2019 *Academic Radiology* piece shows the medical version as a practical anecdote: after learning about bovine aortic arch, a trainee reportedly noticed several cases in quick succession. That can be useful for learning rare patterns, but it can also bias attention toward the newly salient diagnosis and away from alternatives.
 
 ## Why It Matters Here
@@ -69,6 +72,7 @@ For Charli's Moldavite and Libyan desert glass incident, the useful interpretati
 - Frequency illusion does not mean every noticed pattern is false.
 - Newly noticing a real trend can be useful; the mistake is treating noticing as measurement.
 - Confirmation bias and selective attention are not moral failures. They are ordinary attention machinery.
+- A formal case where prior-aligned search is efficient does not mean a current belief has earned more flattering evidence.
 - A university explainer, medical anecdote, or shopping experience is not a controlled test of cosmic significance. Tragic, but probably for the best.
 
 ## Related

@@ -3,13 +3,14 @@ title: "Focusing Illusion"
 type: concept
 status: draft
 created: 2026-07-11
-updated: 2026-07-11
+updated: 2026-07-12
 sources:
   - ../sources/kahneman-tversky-judgment-under-uncertainty.md
   - salience-weighted-judgment.md
   - frequency-illusion.md
   - curiosity-driven-exploration.md
   - repetition-as-cognitive-method.md
+  - ../sources/brody-friston-adaptive-confirmation-bias.md
 ---
 
 # Focusing Illusion
@@ -56,6 +57,8 @@ That is not laziness or lack of discipline. It is attention being handed a micro
 [Salience Weighted Judgment](salience-weighted-judgment.md) is the parent pattern: vivid, recent, emotionally charged, repeated, or currently focused material gets extra weight.
 
 [Frequency Illusion](frequency-illusion.md) is the repeated-noticing cousin: once attention tunes to a thing, sightings multiply and start feeling like evidence.
+
+The [Brody et al. preprint](../sources/brody-friston-adaptive-confirmation-bias.md) adds a useful complication: focus may affect not only the weight given to evidence but also which evidence source gets queried next. In a formal active-inference model, that can be efficient under restricted assumptions. Outside that toy setting, it is also the route by which an attention trap becomes an information diet. The first question may therefore deserve as much scrutiny as the answer: "what did I just decide was worth looking at?"
 
 [Curiosity Driven Exploration](curiosity-driven-exploration.md) is the good version when the loop has structure. Curiosity becomes synthesis when it has a capture surface, a stopping rule, and later review. Without that, it becomes tab-sprawl with better manners.
 

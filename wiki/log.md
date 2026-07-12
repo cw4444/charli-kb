@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-07-12] source and bridge | adaptive confirmation bias
+
+- Source: Dorje C. Brody, Karl J. Friston, Bernhard K. Meister, and Emmanuel M. Pothos, [The adaptive nature of confirmation bias](https://arxiv.org/abs/2606.23325), arXiv:2606.23325v1, 2026-06-22.
+- Pages created: [Brody et al. - The Adaptive Nature Of Confirmation Bias](sources/brody-friston-adaptive-confirmation-bias.md).
+- Pages updated: [Frequency Illusion](concepts/frequency-illusion.md), [Focusing Illusion](concepts/focusing-illusion.md), [Kahneman And Tversky - Judgment Under Uncertainty](sources/kahneman-tversky-judgment-under-uncertainty.md), [Wiki Index](index.md), [Current State](meta/current-state.md), and [Wiki Log](log.md).
+- Notes: Added the missing complication beneath Charli's "humans are full of shit" graph node: attention can narrow a question, availability can make a hypothesis familiar, and active source selection can then reinforce it. The preprint formally shows an error-minimising, memory-efficient role for prior-aligned evidence selection under tight binary/Hilbert-space assumptions. Boundary: theoretical preprint, not a general endorsement of confirmation bias, echo chambers, biased media, or algorithmic feeds.
+
 ## [2026-07-12] source update | language as cultural cognitive infrastructure
 
 - Source: local transcript capture `raw/curt-william-elan.pdf` of a public-discussion recording with Curt Jaimungal, William Hahn, and Elan Barenholtz; public video URL not verified in this pass.

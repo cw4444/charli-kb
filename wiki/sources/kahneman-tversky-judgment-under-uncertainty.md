@@ -3,7 +3,7 @@ title: "Kahneman And Tversky - Judgment Under Uncertainty"
 type: source
 status: draft
 created: 2026-06-11
-updated: 2026-07-11
+updated: 2026-07-12
 source_type: public-research-batch
 authors:
   - Daniel Kahneman
@@ -45,6 +45,8 @@ Useful wiki translation: do not trust "I keep seeing this" until you have checke
 ### Heuristics And Biases
 
 The 1974 Science paper gathered the broader claim: under uncertainty, people often use simplifying heuristics such as representativeness, availability, and anchoring. These shortcuts are not random stupidity. They are efficient rules that often work well enough, but they generate systematic errors in predictable conditions.
+
+Brody, Friston, Meister, and Pothos's 2026 [formal confirmation-bias preprint](brody-friston-adaptive-confirmation-bias.md) is a useful modern counterweight, not a correction to Kahneman and Tversky. It models a narrow setting where actively selecting prior-aligned evidence can minimise expected error and memory requirements. The distinction matters: a heuristic can have an adaptive rationale in one information environment and still produce systematic error in another. It is not an all-purpose acquittal for choosing friendly newspapers or taking an algorithmic feed as a research supervisor.
 
 This belongs beside the wiki's agency and reality lanes because it gives a non-mystical account of why a smart person can be confidently wrong: the mind substitutes a tractable question for a harder one. "How likely is this?" becomes "how easily can I picture or recall this?" "How true is this?" becomes "how coherent does this story feel?"
 
