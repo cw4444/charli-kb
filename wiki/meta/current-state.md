@@ -3,10 +3,12 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-07-12
+updated: 2026-07-13
 ---
 
 # Current State
+
+On 2026-07-13, Charli brought Robert A. Emmons and Michael E. McCullough's 2003 [Counting blessings versus burdens](https://doi.org/10.1037/0022-3514.84.2.377), after seeing it on Twitter and correctly suspecting it belonged in the optimism lane. Codex added [Emmons And McCullough - Counting Blessings Versus Burdens](../sources/emmons-mccullough-counting-blessings.md), then linked it into [Optimism](../concepts/optimism.md) and [Research - Optimism](../questions/research-optimism.md). Durable point: across three small randomized listing studies, consciously recording blessings most consistently increased self-reported positive affect; other apparent benefits varied across studies and comparison groups. Keep the boundary: it is an old, short-duration, self-report-heavy intervention anchor, not a medical trial proving gratitude fixes health or a demand to be cheerful about genuine harm. Charli's counterfactual gratitude practice is adjacent rather than directly tested: standard gratitude counts benefits, while hers asks the threat system to also count predicted disasters that did not happen.
 
 On 2026-07-12, after the Hahn/Barenholtz language discussion made the existing judgment-bias cluster visibly converge, Charli found Brody, Friston, Meister, and Pothos's 2026 preprint [The adaptive nature of confirmation bias](https://arxiv.org/abs/2606.23325). Codex added [Brody et al. - The Adaptive Nature Of Confirmation Bias](../sources/brody-friston-adaptive-confirmation-bias.md) and connected it to [Frequency Illusion](../concepts/frequency-illusion.md), [Focusing Illusion](../concepts/focusing-illusion.md), and [Kahneman And Tversky - Judgment Under Uncertainty](../sources/kahneman-tversky-judgment-under-uncertainty.md). Durable point: attention can narrow a question, availability can make one hypothesis familiar, and active evidence selection can then reinforce it. In the preprint's restricted binary model, a prior-aligned source can minimise expected error and memory demand; real adversarial feeds, finite source menus, bad priors, and social incentives are where that neat result can turn into an information diet. Do not summarize this as "confirmation bias is good". It is a formal conditional result, not an acquittal.
 

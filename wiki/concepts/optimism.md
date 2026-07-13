@@ -3,7 +3,7 @@ title: "Optimism"
 type: concept
 status: draft
 created: 2026-05-12
-updated: 2026-07-11
+updated: 2026-07-13
 sources:
   - ../sources/optimism-neuroscience-source-batch.md
   - ../sources/repetition-cognitive-method-source-batch.md
@@ -14,6 +14,7 @@ sources:
   - ../sources/ochsner-gross-cognitive-control-emotion.md
   - ../sources/libet-schurger-readiness-potential-agency.md
   - ../sources/langer-counterclockwise-aging-mindset.md
+  - ../sources/emmons-mccullough-counting-blessings.md
   - manifestation-as-behavior-modification.md
   - habits-goals-and-behavioral-control.md
 ---
@@ -99,6 +100,8 @@ Fisher, Whyte, and Hohwy's active-inference model gives the computational-theory
 
 Meevissen, Peters, and Alberts's 2011 Best Possible Self study is the clean intervention tile in this part of the floor. Participants spent two weeks doing 5 minutes a day of imagery about a realistic personal, relational, and professional future in which things had gone well. Compared with imagining daily activities, the Best Possible Self condition produced larger increases in self-reported optimism. Small sample, mostly young women, self-report outcomes; still useful. It says future simulation can be trained a bit, not that the universe takes dictation.
 
+Emmons and McCullough's 2003 [Counting Blessings Versus Burdens](../sources/emmons-mccullough-counting-blessings.md) study is the backward-looking companion: rather than rehearse a hoped-for future, list good things already present. Across three small randomized studies, the most reliable result was higher self-reported positive affect; other effects on life appraisal, helping, exercise, sleep, and physical symptoms varied by study and comparison group. It earns a place because it is experimental evidence for reweighting the daily evidence ledger, not because gratitude journals are little cure-all notebooks.
+
 Adlerian [Fictional Finalism](fictional-finalism.md) gives an older historical name for the same broad pattern: people are partly guided by imagined future goals or guiding self-ideas. "Fictional" does not mean useless lie. It means an imagined endpoint can organize present behavior before it is literally true. The good version helps agency and evidence-sensitive action. The bad version becomes a rigid private fantasy with a motivational speaker's haircut.
 
 This is also the salvageable core inside some manifestation writing. "Live in the state of the wish fulfilled" is useful if it means behaviour modification: act from the cues, identity, routines, and expectations that make the desired future more reachable. It is useless if it means deny evidence and wait for cosmic customer service. See [Manifestation As Behavior Modification](manifestation-as-behavior-modification.md).
@@ -120,6 +123,8 @@ Yao et al.'s 2024 Research Square preprint adds the University of Hong Kong / Sh
 Richard Wiseman's newspaper task is the attention version of the same point. People who saw themselves as lucky were more likely to notice large unexpected messages embedded in a boring counting task, including the answer and a reward prompt. The useful lesson is not "luck is magic." It is that expectation can change what a person is open enough to notice. A narrow, anxious, unlucky-frame search can miss an opportunity sitting in the middle of the page like an idiot sign with a megaphone.
 
 Charli's pessimist-friendly gratitude practice belongs here too: notice the bad things that could have happened today and did not. This is not toxic positivity. It is counterfactual attention. The threat-scanning brain is allowed to stay realistic, but it has to count the avoided harms as part of the evidence.
+
+That practice is adjacent to, but not directly tested by, Emmons and McCullough's standard gratitude-listing studies. The safe bridge is simple: both make a chronically hassle-weighted ledger less incomplete. Neither requires pretending the actual bad things were good.
 
 The 2021 Austrian Sleep Survey adds a practical health adjacent piece: higher dispositional optimism was associated with lower odds of chronic insomnia in a cross-sectional sample of 1,004 adults. The useful interpretation is not "optimism fixes sleep." It is that optimism, affect, health status, depression, and sleep may form a loop where future expectation and night-time regulation keep leaning on each other like tired office furniture. Useful, but not magic. See a doctor, do CBT-I, stop trying to spiritually negotiate with 3 a.m.
 
@@ -188,3 +193,4 @@ Ellen Langer's counterclockwise aging study belongs on the outer edge of this co
 - [Habits, Goals, And Behavioural Control](habits-goals-and-behavioral-control.md)
 - [Langer Counterclockwise Study And Aging Mindset](../sources/langer-counterclockwise-aging-mindset.md)
 - [Ochsner And Gross - Cognitive Control Of Emotion](../sources/ochsner-gross-cognitive-control-emotion.md)
+- [Emmons And McCullough - Counting Blessings Versus Burdens](../sources/emmons-mccullough-counting-blessings.md)

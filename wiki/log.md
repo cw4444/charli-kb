@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-07-13] source update | gratitude listing and optimism
+
+- Source: Robert A. Emmons and Michael E. McCullough, *Journal of Personality and Social Psychology*, [Counting blessings versus burdens: An experimental investigation of gratitude and subjective well-being in daily life](https://doi.org/10.1037/0022-3514.84.2.377), 2003; PubMed PMID 12585811 and public article PDF checked 2026-07-13.
+- Pages created: [Emmons And McCullough - Counting Blessings Versus Burdens](sources/emmons-mccullough-counting-blessings.md).
+- Pages updated: [Optimism](concepts/optimism.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), and [Wiki Log](log.md).
+- Notes: Added the classic three-study experimental anchor as a modest attention/appraisal intervention, not a gratitude-journal shrine. Higher self-reported positive affect was the clearest repeated outcome; life appraisal, helping, exercise, sleep, and physical-symptom outcomes varied across studies and comparators. Kept Charli's counterfactual gratitude practice adjacent rather than claiming the paper tested it.
+
 ## [2026-07-12] source and bridge | adaptive confirmation bias
 
 - Source: Dorje C. Brody, Karl J. Friston, Bernhard K. Meister, and Emmanuel M. Pothos, [The adaptive nature of confirmation bias](https://arxiv.org/abs/2606.23325), arXiv:2606.23325v1, 2026-06-22.

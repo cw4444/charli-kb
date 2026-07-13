@@ -190,6 +190,8 @@ Charli's Schurger/Libet joke points to a genuinely useful practice: look at all 
 
 That is not standard gratitude language, but it fits this package. For anxious or pessimistic cognition, "name three good things" can feel like being ordered to lie by a motivational poster. Counterfactual gratitude works from the other side: the mind already simulates threat, so ask it to finish the audit honestly. Which predicted disasters failed to occur? Which feared messages did not arrive? Which bodily, social, financial, technical, or emotional failure modes stayed dormant?
 
+[Emmons and McCullough's 2003 randomized gratitude-listing studies](../sources/emmons-mccullough-counting-blessings.md) are the nearby standard version: list blessings, not avoided harms. Their clearest replicated result was higher positive affect, not a proof that every good-health or behaviour effect will recur. The two practices share an attentional premise but should not be falsely merged into one tested protocol.
+
 The useful mechanism is attentional recalibration. It does not pretend the world is safe. It asks the system to register non-events as evidence too.
 
 This also fits Schacter and Addis's caution that optimism is not always adaptive. Sometimes the right move is not to erase negative futures, but to simulate them accurately enough to prepare, then update when they do not occur.
