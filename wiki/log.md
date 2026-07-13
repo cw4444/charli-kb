@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-07-13] access update | Fable subscription inclusion extended again
+
+- Source: Charli-reported Anthropic account email, received before 2026-07-13; included Fable 5 access extended through 2026-07-19. Exact email remains private account material.
+- Pages updated: [Anthropic Fable And Mythos Access 2026](sources/anthropic-fable-mythos-access-2026.md), [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Current State](meta/current-state.md), and [Wiki Log](log.md).
+- Notes: Recorded the rolling included-access sequence—2026-06-22, then post-redeployment boundaries/extensions around 2026-07-07, 2026-07-12, and 2026-07-19—as capacity management rather than a fresh release. Charli's "compute GoFundMe" reading is preserved only as a product inference: the access window is repeatedly provisional, but the evidence does not show a literal capacity-financing target or rule.
+
 ## [2026-07-13] source update | gratitude listing and optimism
 
 - Source: Robert A. Emmons and Michael E. McCullough, *Journal of Personality and Social Psychology*, [Counting blessings versus burdens: An experimental investigation of gratitude and subjective well-being in daily life](https://doi.org/10.1037/0022-3514.84.2.377), 2003; PubMed PMID 12585811 and public article PDF checked 2026-07-13.
