@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-07-13] maintenance | local skills clear-out
+
+- Source: Charli's request to remove unused cloned-template skill material after reviewing the repo's actual workflow.
+- Pages updated: [AGENTS](../AGENTS.md), [Current State](meta/current-state.md), and [Wiki Log](log.md).
+- Files removed: `skills/save/SKILL.md`, `skills/wiki/SKILL.md`, `skills/wiki-query/SKILL.md`, and the empty `skills/defuddle/` directory.
+- Notes: Retained `skills/autoresearch/`, `skills/wiki-ingest/`, and `skills/wiki-lint/` because each has been used and contains a distinct workflow not fully duplicated by `AGENTS.md`. Query and simple-save behaviour now rely on the authoritative repo instructions instead of thin duplicate wrappers. No research content or source material changed.
+
 ## [2026-07-13] navigation | functional wiki front doors
 
 - Source: Charli's navigation request after a read-only wiki lint and Obsidian graph review.

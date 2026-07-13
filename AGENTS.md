@@ -61,7 +61,7 @@ For agreed wiki, rule, or handoff updates, commit and push to GitHub after verif
 
 ### Local Skills
 
-Check `skills/` when a task matches ingest, query, lint, save, or research workflows, but treat the folder as evolving local working material rather than inherited truth. This repo started from a cloned template, so ignore or prune instructions that are not relevant to Charli's actual workflow, such as editor-specific, Obsidian-specific, Claude-specific, or bulk article-clipping leftovers. Prefer skills that support repo-first public research, source-aware synthesis, public/private boundaries, concise GitHub-readable Markdown, index/log/current-state updates, and commit/push after verification.
+Check `skills/` when a task matches the local ingest, lint, or public-research workflows, but treat the folder as evolving local working material rather than inherited truth. Query and simple save rules live in this file, so they do not need duplicate skill wrappers. This repo started from a cloned template, so ignore or prune instructions that are not relevant to Charli's actual workflow, such as editor-specific, Obsidian-specific, Claude-specific, or bulk article-clipping leftovers. Prefer skills that support repo-first public research, source-aware synthesis, public/private boundaries, concise GitHub-readable Markdown, index/log/current-state updates, and commit/push after verification.
 
 ### Notion Queue Rule
 
