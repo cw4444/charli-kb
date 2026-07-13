@@ -2,6 +2,14 @@
 
 This is the catalog of generated wiki pages. Agents should update it after every meaningful wiki change.
 
+## Start Here By Area
+
+- [AI And Agents](areas/ai-and-agents.md): current AI systems, agent workflows, security, governance, and consciousness/welfare questions.
+- [Mind, Brain, And Agency](areas/mind-brain-and-agency.md): neuroscience, attention, perception, regulation, learning, and practical action.
+- [Optimism And Behaviour](areas/optimism-and-behaviour.md): future expectation, habits, gratitude, regulation, salience, and evidence-sensitive agency.
+- [Reality And Physics](areas/reality-and-physics.md): perception, imagination, quantum foundations, relational reality, and interpretation boundaries.
+- [Methods And Maintenance](areas/methods-and-maintenance.md): the inclusion bar, agent workflow, repo structure, and current maintenance rules.
+
 ## Research Packages
 
 - [Neuroscience](../themes/neuroscience/overview.md): front door for the wiki's neuroscience lane, connecting perception, imagination, belief updating, agency, brain-computer interfaces, neuromodulation, embodied action control, cellular maintenance, and neurodegeneration.

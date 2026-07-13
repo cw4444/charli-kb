@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-07-13] navigation | functional wiki front doors
+
+- Source: Charli's navigation request after a read-only wiki lint and Obsidian graph review.
+- Pages created: [AI And Agents](areas/ai-and-agents.md), [Mind, Brain, And Agency](areas/mind-brain-and-agency.md), [Optimism And Behaviour](areas/optimism-and-behaviour.md), [Reality And Physics](areas/reality-and-physics.md), and [Methods And Maintenance](areas/methods-and-maintenance.md).
+- Pages updated: [Wiki Index](index.md), [Current State](meta/current-state.md), and [Wiki Log](log.md).
+- Notes: Added five compact area-level entry points for finding the right lane before a paper turns into a caffeinated-ferret handoff. Preserved the existing content-type structure (`sources`, `concepts`, `themes`, and so on); no files were moved, renamed, merged, or deleted. The front doors are for GitHub/Obsidian navigation, not another grand taxonomy.
+
 ## [2026-07-13] access update | Fable subscription inclusion extended again
 
 - Source: Charli-reported Anthropic account email, received before 2026-07-13; included Fable 5 access extended through 2026-07-19. Exact email remains private account material.
