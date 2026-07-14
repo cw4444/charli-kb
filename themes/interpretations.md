@@ -3,7 +3,7 @@ title: "Interpretations"
 type: theme
 status: draft
 created: 2026-05-10
-updated: 2026-05-30
+updated: 2026-07-14
 sources:
   - ../sources/source-index.md
 ---
@@ -13,6 +13,8 @@ sources:
 Bell, Wigner's friend, Brukner, and local friendliness do not force one interpretation. They force a cost. Different interpretations choose different costs.
 
 Another useful way to state the same discipline is that interpretations act like competing completion schemes over a shared empirical constraint set. They agree on much of the operational table, then fill in different missing entries: facts, ontology, dynamics, agents, branches, hidden variables, collapse rules, or global constraints. See [Quantum Interpretation Completion Schemes](../wiki/concepts/quantum-interpretation-completion-schemes.md).
+
+The plurality here is not just a nice pedagogical diagram. A 2025 *Nature* survey of 1,101 quantum-relevant respondents found Copenhagen the largest single choice (36.1%), but only 24.3% of all respondents were confident in their preferred interpretation; answers about whether the wavefunction is physical reality, belief/information, or calculation machinery also split sharply. Treat that as a description of a selected research sample, not a vote that settles metaphysics. See [Nature Quantum Foundations Survey 2025](../wiki/sources/nature-quantum-foundations-survey-2025.md).
 
 ## QBism
 

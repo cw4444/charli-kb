@@ -133,6 +133,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Online Safety Act Privacy Risk](sources/online-safety-act-privacy-risk.md): arXiv source note on UK Online Safety Act age-assurance milestones, VPN/privacy discourse, circumvention displacement, and why access-control safety regulation can create secondary privacy risk.
 - [Feynman - Calculation And Reality Stories](sources/feynman-calculation-and-reality-stories.md): source note on using Feynman as a boundary marker between quantum calculation, interpretation, and reality-story creep.
 - [Rovelli And Relational Quantum Mechanics](sources/rovelli-relational-quantum-mechanics.md): source note on RQM as a relation-first interpretation of quantum facts and states.
+- [Nature Quantum Foundations Survey 2025](sources/nature-quantum-foundations-survey-2025.md): public methodology, questionnaire, anonymized data, and bounded synthesis of Nature's 2025 survey showing persistent interpretive disagreement among quantum-relevant researchers.
 
 ## Timelines
 

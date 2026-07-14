@@ -1220,3 +1220,8 @@ Entry format:
 - Pages updated:
 - Notes:
 ```
+## [2026-07-14] research | Nature quantum foundations survey 2025
+- Sources: Elizabeth Gibney's *Nature* news feature, public survey methodology and questionnaire PDFs, public anonymized response data, and Jedlička et al.'s related arXiv survey paper.
+- Pages created: [Nature Quantum Foundations Survey 2025](sources/nature-quantum-foundations-survey-2025.md)
+- Pages updated: [Interpretations](../themes/interpretations.md), [Wiki Index](index.md), [Current State](meta/current-state.md), [Wiki Log](log.md)
+- Notes: Promoted as a compact reality-lane source note because the public supplement contains the actual survey materials and data, not merely the paywalled headline. Among 1,101 usable responses, Copenhagen was the largest single interpretation label (36.1%), but only 24.3% of respondents were confident in their choice; wavefunction ontology answers also split. Kept the caveat loud: voluntary, quantum-adjacent sample; survey labels are blunt buckets; many-worlds and consistent histories were incorrectly grouped in the original feature and corrected by *Nature*; none of this is a vote that settles quantum reality.
