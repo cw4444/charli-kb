@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-07-15] source update | Bem's Feeling the Future as a methods boundary
+
+- Sources: Daryl J. Bem, *Feeling the Future: Experimental Evidence for Anomalous Retroactive Influences on Cognition and Affect* (2011), https://doi.org/10.1037/a0021524; Stuart J. Ritchie, Richard Wiseman, and Christopher C. French, [*Failing the Future*](https://doi.org/10.1371/journal.pone.0033423) (2012, open access); Wagenmakers et al., [*Why Psychologists Must Change the Way They Analyze Their Data: The Case of Psi*](https://doi.org/10.1037/a0022790) (2011, public university repository copy checked).
+- Pages created: none.
+- Pages updated: [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md), [Manifestation As Behavior Modification](concepts/manifestation-as-behavior-modification.md), [Research - Optimism](questions/research-optimism.md), [Wiki Index](index.md), [Current State](meta/current-state.md), and [Wiki Log](log.md).
+- Notes: Kept Bem as a compact replication-and-methods counterpoint, not as optimism evidence or a precognition shelf. His nine experiments reported later random events apparently influencing earlier responses; this is categorically different from Meevissen et al.'s ordinary forward-causal two-week Best Possible Self imagery intervention. Three preregistered independent close replications of Bem's retroactive-recall experiment were null (combined *n* = 150, one-tailed *p* = .83). The live Bayesian dispute is noted without pretending that one critique alone closes every question; the durable rule is preregistered, adequately powered, independently reproducible confirmation before an extraordinary causal claim earns belief.
+
 ## [2026-07-13] maintenance | local skills clear-out
 
 - Source: Charli's request to remove unused cloned-template skill material after reviewing the repo's actual workflow.

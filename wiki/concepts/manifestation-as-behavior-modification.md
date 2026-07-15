@@ -119,6 +119,7 @@ The caveat is doing actual work here. Vividness can alter salience without impro
 - Do not turn behaviour change into moral blame.
 - Do not confuse agency-supporting identity rehearsal with denial.
 - Do not treat vividness, repetition, or sudden recognizability as evidence that the universe is confirming the thought.
+- Do not confuse a present simulation of a possible future with a future event causing an earlier response. Bem's disputed 2011 precognition experiments are a replication-and-methods case study, not a mechanism for manifestation.
 
 The useful sentence is simple:
 

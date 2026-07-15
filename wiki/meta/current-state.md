@@ -3,10 +3,12 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-07-13
+updated: 2026-07-15
 ---
 
 # Current State
+
+On 2026-07-15, Charli brought Daryl J. Bem's 2011 [*Feeling the Future*](https://doi.org/10.1037/a0021524), wondering whether it belonged beside Maastricht's two-week Best Possible Self intervention. Codex found the paper was not yet in the wiki and added a compact boundary to [Optimism Neuroscience Source Batch](../sources/optimism-neuroscience-source-batch.md), [Research - Optimism](../questions/research-optimism.md), and [Manifestation As Behavior Modification](../concepts/manifestation-as-behavior-modification.md). They are not cousins in any evidentially useful sense: Meevissen et al. tests present imagery influencing later self-reported optimism through ordinary causal routes; Bem claimed later random events influenced an already-recorded response. The latter is retained as a replication-crisis/methods case study, not as optimism or manifestation evidence. Public follow-up: Ritchie, Wiseman, and French's three preregistered independent close replications of Bem's retroactive-recall experiment were null (combined *n* = 150, one-tailed *p* = .83); Wagenmakers et al. challenged the evidential force of the original analysis, while Bem et al. disputed their Bayesian priors. Durable rule: unusual causal claims require preregistered, sufficiently powered, independently reproducible confirmation--not an emotionally satisfying title and a p-value in a nice hat.
 
 On 2026-07-13, Charli asked for a proper skills clear-out after recognising that this wiki began as a GitHub template rather than a bespoke operating system. Codex retained only three local skills: `autoresearch` for bounded public research, `wiki-ingest` for source-aware promotion, and `wiki-lint` for health checks. It removed the unused routing/query/save wrappers plus the empty, already-retired `defuddle` directory. `AGENTS.md` remains the source of truth for query and simple-save behaviour, which prevents duplicated workflow instructions drifting apart. Do not reintroduce visual-editor, bulk-clipping, dependency-heavy, or generic-template skills unless they solve a demonstrated problem in Charli's actual public Markdown workflow.
 

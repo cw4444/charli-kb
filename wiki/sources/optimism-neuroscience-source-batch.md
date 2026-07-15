@@ -3,7 +3,7 @@ title: "Optimism Neuroscience Source Batch"
 type: source
 status: draft
 created: 2026-05-12
-updated: 2026-07-02
+updated: 2026-07-15
 source_type: public-research-batch
 authors:
   - Sanda Dolcos
@@ -20,6 +20,14 @@ authors:
   - Yvo M. C. Meevissen
   - Madelon L. Peters
   - Hugo J. E. M. Alberts
+  - Daryl J. Bem
+  - Stuart J. Ritchie
+  - Richard Wiseman
+  - Christopher C. French
+  - Eric-Jan Wagenmakers
+  - Ruud Wetzels
+  - Denny Borsboom
+  - Han L. J. van der Maas
   - Jakob Weitzer
   - Kyriaki Papantoniou
   - Clara Lazaro-Sebastia
@@ -152,6 +160,9 @@ primary_sources:
   - "McKay et al., Cortex, 2013, Vestibular stimulation attenuates unrealistic optimism, https://doi.org/10.1016/j.cortex.2013.04.005"
   - "Weitzer et al., Journal of Sleep Research, 2021, The contribution of dispositional optimism to understanding insomnia symptomatology: Findings from a cross-sectional population study in Austria, https://doi.org/10.1111/jsr.13132"
   - "Meevissen, Peters, and Alberts, Journal of Behavior Therapy and Experimental Psychiatry, 2011, Become more optimistic by imagining a best possible self: Effects of a two week intervention, https://doi.org/10.1016/j.jbtep.2011.02.012"
+  - "Bem, Journal of Personality and Social Psychology, 2011, Feeling the Future: Experimental Evidence for Anomalous Retroactive Influences on Cognition and Affect, https://doi.org/10.1037/a0021524"
+  - "Ritchie, Wiseman, and French, PLOS ONE, 2012, Failing the Future: Three Unsuccessful Attempts to Replicate Bem's Retroactive Facilitation of Recall Effect, https://doi.org/10.1371/journal.pone.0033423"
+  - "Wagenmakers, Wetzels, Borsboom, and van der Maas, Journal of Personality and Social Psychology, 2011, Why Psychologists Must Change the Way They Analyze Their Data: The Case of Psi, https://doi.org/10.1037/a0022790"
   - "Draganich and Erdal, Journal of Experimental Psychology: Learning, Memory, and Cognition, 2014, Placebo sleep affects cognitive functioning, https://doi.org/10.1037/a0035546"
   - "Rozanski, Bavishi, Kubzansky, and Cohen, JAMA Network Open, 2019, Association of Optimism With Cardiovascular Events and All-Cause Mortality, https://doi.org/10.1001/jamanetworkopen.2019.12200"
   - "Lee et al., PNAS, 2019, Optimism is associated with exceptional longevity in 2 epidemiologic cohorts of men and women, https://doi.org/10.1073/pnas.1900712116"
@@ -340,6 +351,10 @@ The local PDF adds a useful caveat for this wiki: Schacter and Addis do not trea
 Ji, Holmes, and Blackwell 2017 links optimism to imagery vividness in a clinical population. In depressed adults, greater vividness of positive prospective imagery was associated with greater current optimism and predicted greater optimism months later.
 
 Meevissen, Peters, and Alberts 2011 provides a compact intervention anchor for the "best possible self" method. Fifty-four mostly young, well-educated Dutch-speaking participants were randomly assigned to imagine either a best possible self (BPS) or daily activities (DA). After an initial writing-and-imagery session, participants were instructed to practice 5 minutes of imagery daily for two weeks. BPS imagery produced larger increases in optimism than DA imagery after one session and across the two-week period, and the optimism effect remained after controlling for changes in positive mood. The study also found some generalization toward optimistic explanatory style, but with limits: the sample was small and mostly female, the outcomes were self-report, demand effects could not be ruled out, and it did not show downstream behavior or health benefits.
+
+Bem's 2011 *Feeling the Future* is worth retaining only as the anti-confusion and methods counterpoint. Across nine experiments, it reported that later randomly selected events appeared to affect earlier cognition or affect--a claim usually called precognition or retroactive influence. This is **not** a more dramatic version of Best Possible Self imagery: Meevissen's intervention asks a present person to rehearse a possible future and then measures later self-reported optimism; Bem claimed that a future random event changed an already-recorded response. Ordinary future simulation and ordinary causal time are sufficient for the former. They do not entail the latter.
+
+The relevant public follow-up is not a paranormal victory lap. Ritchie, Wiseman, and French preregistered three independent close replications of Bem's retroactive-recall Experiment 9, using the supplied program and a combined sample of 150; all three were null (combined one-tailed *p* = .83). Wagenmakers and colleagues also argued that Bem's partly exploratory analyses, one-sided tests, multiple analytic choices, and weak Bayesian evidence could not carry such an extraordinary claim. Bem and collaborators disputed the Bayesian-prior choice, so this was a live methodological argument rather than a single magic debunking button. The durable lesson is stricter: surprising results need preregistered, adequately powered, independently reproducible confirmation and analyses fixed before seeing the data. That lesson belongs beside optimism because vivid future-talk can otherwise make a causal claim feel more established than it is; it is not evidence that thought reaches backward to select outcomes.
 
 Hanson et al. 2021 is relevant because it tries to move from general positivity talk to an intervention logic. The paper argues that people can become more active agents in learning from beneficial experiences, and reports that participants in a "Taking in the Good" course showed increases in composite measures of cognitive resources, positive emotions, and total happiness, plus decreases in negative emotions, with effects persisting two months later. This is not the same as proving a general optimism cure, but it is a useful bridge from negativity-bias theory to practice.
 
