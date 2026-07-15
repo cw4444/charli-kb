@@ -30,6 +30,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 
 ## Sources
 
+- [Özbek, Bohn, And Berntsen - Imagining The Personal Past](sources/ozbek-bohn-berntsen-imagining-personal-past.md): public author-manuscript source note comparing episodic memories, imagined past alternatives, and future projections, with sharp boundaries around memory accuracy, false memories, and manifestation.
 - [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md): bounded evidence map for optimism, future imagery, selective updating, attention, and calibration; now also distinguishes ordinary forward-causal Best Possible Self practice from Bem's disputed retroactive-influence claim and its replication-methods aftermath.
 - [Hershfield - Future Self-Continuity](sources/hershfield-future-self-continuity.md): foundational 2011 review linking intertemporal choice to perceived relatedness, vividness, and positivity of the future self, with neural, savings, aged-avatar, measurement, and later construct-boundary caveats.
 - [Human Cognition As AI Design Material](sources/human-cognition-as-ai-design-material.md): source-trail note connecting psychology-inspired AI design, human-like compositional generalization, child-centred grounded language data, learning by thinking, psychological methods for machine behaviour, adaptive heuristics, and Ted Chiang's cultivation argument without treating functional resemblance as consciousness proof.

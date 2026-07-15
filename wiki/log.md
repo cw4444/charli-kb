@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-07-15] source and bridge | Özbek et al. on imagining the personal past
+
+- Source: Müge Özbek, Annette Bohn, and Dorthe Berntsen, [*Imagining the personal past: Episodic counterfactuals compared to episodic memories and episodic future projections*](https://doi.org/10.3758/s13421-016-0671-2), *Memory & Cognition* 45, 375-389 (2017); public author-accepted manuscript through Aarhus University Research Portal; PubMed PMID 27873188.
+- Pages created: [Özbek, Bohn, And Berntsen - Imagining The Personal Past](sources/ozbek-bohn-berntsen-imagining-personal-past.md).
+- Pages updated: [Psychological Time Travel And Reconstruction](concepts/psychological-time-travel-and-reconstruction.md), [Van Dijk et al. - Emotional Time Travel](sources/van-dijk-emotional-time-travel.md), [Wiki Index](index.md), [Current State](meta/current-state.md), and [Wiki Log](log.md).
+- Notes: Added the cognitive-science anchor under Charli's personal bridge. In a within-participant self-report study of 69 Turkish undergraduates, memories were more sensory-detailed and easier to summon; future projections were more positive, rehearsed, and identity-central; imagined past alternatives had neither signature in full. This supports three distinguishable modes of mental time travel, not false-memory implantation, memory inaccuracy claims, clinical revision effects, or physical alteration of the past. Eric Cavalcanti's existing “remembered experiences that never happened” line is retained as adjacent commentary, not presented as a result of this study.
+
 ## [2026-07-15] concept bridge | psychological time travel and reconstruction
 
 - Source trail: [Van Dijk et al. - Emotional Time Travel](sources/van-dijk-emotional-time-travel.md), [Hindsight Bias](concepts/hindsight-bias.md), [Future Self-Continuity](concepts/future-self-continuity.md), [Manifestation As Behavior Modification](concepts/manifestation-as-behavior-modification.md), and [Retrocausality, Delayed Choice, and Two Roads](../themes/retrocausality-delayed-choice-and-two-roads.md).

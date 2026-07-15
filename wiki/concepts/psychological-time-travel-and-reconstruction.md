@@ -5,6 +5,7 @@ status: draft
 created: 2026-07-15
 updated: 2026-07-15
 sources:
+  - ../sources/ozbek-bohn-berntsen-imagining-personal-past.md
   - ../sources/van-dijk-emotional-time-travel.md
   - hindsight-bias.md
   - future-self-continuity.md
@@ -27,6 +28,8 @@ That model is constrained by records, other people, material consequences, and t
 ### Memory And Revision
 
 Remembering is constructive rather than a literal replay. Later knowledge, present goals, mood, and repeated retelling can change which details are salient and what an event means. [Hindsight Bias](hindsight-bias.md) is the cautionary version: known outcomes can leak backward into reconstructed uncertainty, making the original situation seem more predictable than it was.
+
+Özbek, Bohn, and Berntsen's [Imagining The Personal Past](../sources/ozbek-bohn-berntsen-imagining-personal-past.md) gives this lane a useful three-way map: a remembered event, an imagined alternative to a past event, and an imagined future event are related constructions with distinguishable reported phenomenology. Counterfactuals were neither as sensory-detailed as memories nor as positive and identity-central as future projections. That supports treating revision as work on a present model of the past--not as a memory becoming literally true.
 
 The usable version of "revision" is therefore psychological: change the currently active interpretation, emotional charge, and identity lesson of a past event so it no longer dictates the same present behaviour. It does **not** establish that the original event was physically altered.
 
@@ -63,6 +66,7 @@ The river image belongs here as a philosophical compression, not empirical evide
 ## Related
 
 - [Emotional Time Travel](../sources/van-dijk-emotional-time-travel.md)
+- [Özbek, Bohn, And Berntsen - Imagining The Personal Past](../sources/ozbek-bohn-berntsen-imagining-personal-past.md)
 - [Hindsight Bias](hindsight-bias.md)
 - [Future Self-Continuity](future-self-continuity.md)
 - [Manifestation As Behavior Modification](manifestation-as-behavior-modification.md)
