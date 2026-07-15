@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-07-15] concept bridge | psychological time travel and reconstruction
+
+- Source trail: [Van Dijk et al. - Emotional Time Travel](sources/van-dijk-emotional-time-travel.md), [Hindsight Bias](concepts/hindsight-bias.md), [Future Self-Continuity](concepts/future-self-continuity.md), [Manifestation As Behavior Modification](concepts/manifestation-as-behavior-modification.md), and [Retrocausality, Delayed Choice, and Two Roads](../themes/retrocausality-delayed-choice-and-two-roads.md).
+- Pages created: [Psychological Time Travel And Reconstruction](concepts/psychological-time-travel-and-reconstruction.md).
+- Pages updated: [Van Dijk et al. - Emotional Time Travel](sources/van-dijk-emotional-time-travel.md), [Wiki Index](index.md), [Current State](meta/current-state.md), and [Wiki Log](log.md).
+- Notes: Saved Charli's bridge as explicitly personal, not a peer-reviewed unification. Durable point: people act from current models of remembered past, imagined future, identity, and likely emotion; changing those models can change present meaning and downstream action. Delayed choice is a disciplined contrast only: later measurement context constrains the physical description warranted for an earlier quantum event, but it does not establish psychological retrocausality, manifestation, or signalling to yesterday.
+
 ## [2026-07-15] source update | Bem's Feeling the Future as a methods boundary
 
 - Sources: Daryl J. Bem, *Feeling the Future: Experimental Evidence for Anomalous Retroactive Influences on Cognition and Affect* (2011), https://doi.org/10.1037/a0021524; Stuart J. Ritchie, Richard Wiseman, and Christopher C. French, [*Failing the Future*](https://doi.org/10.1371/journal.pone.0033423) (2012, open access); Wagenmakers et al., [*Why Psychologists Must Change the Way They Analyze Their Data: The Case of Psi*](https://doi.org/10.1037/a0022790) (2011, public university repository copy checked).

@@ -81,6 +81,7 @@ Rizeq's 2024 scoping review places affective forecasting inside a heterogeneous 
 
 ## Connections
 
+- [Psychological Time Travel And Reconstruction](../concepts/psychological-time-travel-and-reconstruction.md)
 - [Morewedge et al. - The Least Likely Of Times](morewedge-least-likely-of-times.md)
 - [Optimism](../concepts/optimism.md)
 - [Optimism Neuroscience Source Batch](optimism-neuroscience-source-batch.md)

@@ -142,6 +142,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 
 ## Concepts
 
+- [Psychological Time Travel And Reconstruction](concepts/psychological-time-travel-and-reconstruction.md): Charli's bounded bridge across reconstructive remembering, future simulation, affective forecasting, and delayed choice as a contrast/analogy--not a claim that manifestation or psychology has proved physical retrocausality.
 - [Future Self-Continuity](concepts/future-self-continuity.md): perceived connection between present and future selves as one influence on delayed choice, separating relatedness, vividness, and positivity from manifestation claims and fixed-identity demands.
 - [Fault-Tolerant Quantum Computing](concepts/fault-tolerant-quantum-computing.md): concept note on logical qubits, error correction, and why useful quantum computing depends on reliable scalable computation rather than raw physical-qubit counts.
 - [Quantum Interpretation Completion Schemes](concepts/quantum-interpretation-completion-schemes.md): Charli's proposed bridge framing quantum interpretations as competing completions over shared empirical constraints, with AI used only if it yields formal constraints, classifications, predictions, or no-go results.
