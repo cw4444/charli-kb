@@ -96,6 +96,7 @@ sources:
   - https://www.anthropic.com/news/redeploying-fable-5
   - https://www.axios.com/2026/06/30/trump-anthropic-ai-model-fable-restrictions
   - https://www.anthropic.com/news/claude-sonnet-5
+  - https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models
   - ../sources/anthropic-ai-exponential-policy-2026.md
   - https://darioamodei.com/post/policy-on-the-ai-exponential
   - https://www.anthropic.com/policy-on-the-ai-exponential
@@ -201,6 +202,7 @@ The first half of 2026 already shows several converging threads:
 - Three days later, Anthropic suspended access to both Fable 5 and Mythos 5 after a US export-control directive covering foreign nationals, including foreign-national Anthropic employees. The structural signal is direct government control over hosted frontier-model access, not just chip exports.
 - Eighteen days after the suspension, the government lifted the controls and Fable 5 returned globally with a stricter cyber classifier. Mythos 5 returned only to approved US organizations, while Anthropic committed to expanded pre-release government evaluation and safeguard sharing. Fable is out of government prison; the probation paperwork is now part of frontier-model deployment.
 - Anthropic launched Claude Sonnet 5 across all Claude plans, Claude Code, Cowork, and the API, bringing near-Opus-4.8 agentic performance into the cheaper default model tier while keeping substantially lower cyber capability than Opus and Mythos models.
+- Anthropic later reported that it removed over 80% of Claude Code's system prompt for Opus 5 and Fable 5 without measurable loss on its coding evaluations. Its new context-engineering prescription is less instruction duplication, more agent judgement, expressive tool/file interfaces, and progressive disclosure. Advanced agents still need constraints; they do not need to be spoon-fed facts they can inspect.
 - Anthropic / Transformer Circuits published *Verbalizable Representations Form a Global Workspace in Language Models*, introducing the Jacobian lens and J-space: a reportability-linked workspace in Claude models that appears to carry hidden reasoning, assistant-perspective representations, evaluation awareness, and alignment-audit signals. This is a major interpretability and AI-consciousness-adjacent marker, not a proof that Claude is conscious. The boring boundary is still doing useful work, unfortunately for anyone wanting a clean metaphysical fireworks show.
 - Dario Amodei and Anthropic published "Policy on the AI Exponential" plus Advanced AI and Economic Policy frameworks, shifting Anthropic's public policy stance from transparency-first optionality toward mandatory frontier-model testing, independent evaluation, security obligations, possible government deployment-blocking authority, and `$350M` in economic-futures research/fellowship commitments.
 - Visa and OpenAI reportedly embedded Visa payment rails into ChatGPT so agents can recommend and complete purchases with authorization, fraud monitoring, approvals, spending limits, and approved-merchant controls. Agentic commerce has reached payment-network plumbing. Wonderful, the shopping cart has opinions now.
@@ -216,6 +218,21 @@ The first half of 2026 already shows several converging threads:
 The durable theme is not one company winning. It is that agents, model character, compute, public attachment, and knowledge-work rearchitecture all became visible at the same time.
 
 ## Timeline
+
+### 2026-07-24 - Anthropic reframes context engineering for Claude 5 generation models
+
+Anthropic's Thariq Shihipar reported that the Claude Code team removed more than 80% of its system prompt for Claude Opus 5 and Claude Fable 5 without measurable loss on the company's coding evaluations. This is also the first official source found in this pass that explicitly names Opus 5, following the earlier Sonnet 5 and Fable 5 releases.
+
+The practical shift is not "give advanced models no context." It is to stop confusing context volume with guidance. Anthropic says newer models can infer many decisions from their surrounding repository and user request, while duplicated or conflicting instructions across the system prompt, skills, and project files consume attention and create needless hesitation. It recommends lean root instructions for genuine repository-specific gotchas, expressive tool and file interfaces rather than many worked examples, progressive disclosure for specialised guidance, and rich inspectable references such as tests, code, mockups, artifacts, and rubrics.
+
+Why it matters: this is an operational capability signal, not merely prompting advice. As models become better at inspection, tool use, and judgement, the design problem moves toward building a readable environment with real constraints and verifiable action surfaces. It complements [Interpretable Context Methodology](../sources/interpretable-context-methodology.md): folders, contracts, and source files remain useful, but chiefly because the model can find the right one at the right time--not because a 10,000-token instruction sermon has been strapped to its head.
+
+Careful read: the 80% result is Anthropic's report about Claude Code and its internal evaluations, not a general law saying every instruction file should be butchered. Safety, privacy, publication boundaries, destructive-action checks, and other irreducible local rules still need to be explicit.
+
+Sources:
+
+- [Anthropic Context Engineering For Claude 5 Generation Models](../sources/anthropic-context-engineering-claude-5.md)
+- [Anthropic: The new rules of context engineering for Claude 5 generation models](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models)
 
 ### 2026-07-09 - OpenAI launches GPT-5.6 and ChatGPT Work; early desktop surface remains confusing
 

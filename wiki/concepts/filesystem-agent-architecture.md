@@ -3,10 +3,11 @@ title: "Filesystem Agent Architecture"
 type: concept
 status: draft
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-07-27
 sources:
   - ../sources/interpretable-context-methodology.md
   - ../sources/openai-codex-for-everyday-work.md
+  - ../sources/anthropic-context-engineering-claude-5.md
 ---
 
 # Filesystem Agent Architecture
@@ -43,6 +44,8 @@ A filesystem-oriented agent workflow usually has:
 - Git history for review and rollback
 
 In Van Clief and McDermott's Interpretable Context Methodology, numbered folders encode workflow stages and stage-level `CONTEXT.md` files define each stage's inputs, process, and outputs. The broader lesson is not that every repo needs that exact layout. The lesson is that context structure is architecture.
+
+Anthropic's later [Claude 5 context-engineering guidance](../sources/anthropic-context-engineering-claude-5.md) sharpens that claim: structure should make the right context easy to find, not dump every rule into the initial prompt. Use small root instructions for actual gotchas, expressive scripts/tools/files for the action surface, and progressive disclosure for specialised guidance. A folder architecture is valuable partly because a capable agent can inspect it when needed.
 
 ## Fit
 

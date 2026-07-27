@@ -3,11 +3,12 @@ title: "Agent Prompting"
 type: concept
 status: draft
 created: 2026-04-29
-updated: 2026-06-18
+updated: 2026-07-27
 sources:
   - ../sources/openai-prompt-guidance.md
   - ../sources/multi-agent-fictitious-play-decision-making.md
   - ../sources/deepmind-from-agi-to-asi.md
+  - ../sources/anthropic-context-engineering-claude-5.md
 ---
 
 # Agent Prompting
@@ -34,6 +35,8 @@ Agents are strongest when they can inspect real context, act through tools, and 
 - Prefer clear output contracts over vague requests for "good" answers.
 - Tell the agent to gather context when guessing would be risky.
 - Tell the agent when to keep going, when to stop, and when to ask.
+
+Anthropic's July 2026 [context-engineering note](../sources/anthropic-context-engineering-claude-5.md) adds the crucial capability-era caveat: do not confuse more instructions with more guidance. Its Claude Code team reports removing over 80% of its system prompt for Opus 5 and Fable 5 without measurable coding-evaluation loss. Give agents the constraints they cannot infer, clear tools and verification surfaces, then let them inspect the live repository instead of choking them with repeated rules and ceremonial examples.
 
 ## For charli-kb
 
