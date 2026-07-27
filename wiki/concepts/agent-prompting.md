@@ -38,6 +38,8 @@ Agents are strongest when they can inspect real context, act through tools, and 
 
 Anthropic's July 2026 [context-engineering note](../sources/anthropic-context-engineering-claude-5.md) adds the crucial capability-era caveat: do not confuse more instructions with more guidance. Its Claude Code team reports removing over 80% of its system prompt for Opus 5 and Fable 5 without measurable coding-evaluation loss. Give agents the constraints they cannot infer, clear tools and verification surfaces, then let them inspect the live repository instead of choking them with repeated rules and ceremonial examples.
 
+OpenAI's current [GPT-5.6 model guidance](../sources/openai-prompt-guidance.md) reaches the same conclusion from the other lab: the model can often infer the user's goal and intended level of work without a prescribed route. Keep domain context, hard constraints, approval boundaries, success criteria, and ambiguity triggers explicit; state each rule once; expose the relevant tools; and validate prompt simplification against the same real tasks. The shared rule is not "no prompts." It is "no instruction cosplay."
+
 ## For charli-kb
 
 This repo's agent instructions should use agent prompting principles:

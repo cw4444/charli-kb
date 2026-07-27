@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-07-27] source update | OpenAI GPT-5.6 prompt guidance converges with Anthropic context engineering
+
+- Source: OpenAI, [*Model guidance: Using GPT-5.6*](https://developers.openai.com/api/docs/guides/latest-model), checked 2026-07-27.
+- Pages created: none.
+- Pages updated: [OpenAI Prompt Guidance](sources/openai-prompt-guidance.md), [Agent Prompting](concepts/agent-prompting.md), [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Current State](meta/current-state.md), and [Wiki Log](log.md).
+- Notes: Verified the same frontier-model context shift in OpenAI's current guidance: GPT-5.6 can often infer goal and work level without prescribed process, but prompts must still name domain context, hard constraints, approval boundaries, success criteria, and ambiguity triggers. OpenAI reports directional internal coding-agent gains from leaner prompts; recorded the figures as company-specific evaluation results and retained the practical method of removing one group at a time and testing on representative tasks.
+
 ## [2026-07-27] source and timeline | Anthropic context engineering for Claude 5 generation models
 
 - Source: Thariq Shihipar, Anthropic / Claude, [*The new rules of context engineering for Claude 5 generation models*](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models), 2026-07-24.

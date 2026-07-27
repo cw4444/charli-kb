@@ -240,6 +240,8 @@ At 09:20 BST on Friday, 2026-07-10, Charli recorded the public-release marker: O
 
 OpenAI also announced ChatGPT Work on 2026-07-09. OpenAI describes it as an agent inside ChatGPT for longer, more ambitious work across apps, files, browser surfaces, plugins, scheduled tasks, documents, sheets, slides, and Sites. The same launch post says the Codex app is merging into the new ChatGPT desktop app, with Chat, Work, and Codex available there, and that existing Codex users can update as usual.
 
+OpenAI's later GPT-5.6 model guidance gives the corresponding prompting signal: GPT-5.6 can often infer the user's intended goal and level of work from context, so developers need not prescribe every step. Its advice is to retain domain context, hard constraints, approval boundaries, success criteria, and ambiguity triggers, while removing repeated instructions/examples and keeping task-relevant tool descriptions concise. In internal coding-agent samples, OpenAI reports leaner system prompts improved scores by roughly 10-15% while reducing total tokens by 41-66% and cost by 33-67%; treat those figures as directional, company-specific evaluation results. Together with Anthropic's later context-engineering post, this marks the 2026 shift from prompt bulk toward legible environments and bounded autonomy.
+
 Charli's local check at 09:21 BST on Friday, 2026-07-10 is the practical counterweight: in her visible setup, ChatGPT Work did not present itself as "ChatGPT with local access and little Codex hands." It behaved more like regular ChatGPT with uploads plus MCP/connectors, while Codex-style local workspace access was not visible in that Work surface. Treat this as user-observed product-surface state, not as a universal OpenAI availability claim. The durable point is the split: ChatGPT Work is the branded general work-agent layer; Codex remains the repo/workspace agent layer, but its location and exposure inside the new desktop app may be rollout- and account-dependent. Helpful, obviously. Nothing says "future of work" like spending the morning finding the missing door.
 
 #### The Great OpenAI Maybe-Superapp Release Confusion
@@ -260,6 +262,7 @@ Sources:
 
 - [OpenAI: GPT-5.6](https://openai.com/index/gpt-5-6/)
 - [OpenAI: ChatGPT is now a partner for your most ambitious work](https://openai.com/index/chatgpt-for-your-most-ambitious-work/)
+- [OpenAI: GPT-5.6 model guidance](https://developers.openai.com/api/docs/guides/latest-model)
 - Charli local observation, 2026-07-10 09:21 BST.
 
 ### 2026-07-08 - OpenAI retracts SWE-Bench Pro recommendation after audit
