@@ -1,3 +1,11 @@
+---
+title: "Overview"
+type: overview
+status: active
+created: 2026-04-28
+updated: 2026-07-27
+---
+
 # Overview
 
 `charli-kb` is a plain Markdown knowledge base that turns curated raw material into a small set of durable, linked notes.

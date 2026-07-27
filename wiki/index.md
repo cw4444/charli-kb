@@ -1,3 +1,11 @@
+---
+title: "Wiki Index"
+type: index
+status: active
+created: 2026-04-28
+updated: 2026-07-27
+---
+
 # Wiki Index
 
 This is the catalog of generated wiki pages. Agents should update it after every meaningful wiki change.

@@ -1,4 +1,19 @@
+---
+title: "Wiki Log"
+type: log
+status: active
+created: 2026-04-28
+updated: 2026-07-27
+---
+
 # Wiki Log
+
+## [2026-07-27] maintenance | bounded wiki and skills lint
+
+- Scope: public wiki Markdown, active local skills, `AGENTS.md`, and `README.md`.
+- Pages created: [Lint Report 2026-07-27](meta/lint-report-2026-07-27.md).
+- Pages updated: [Wiki Index](index.md), [Wiki Log](log.md), [Overview](overview.md), [Current State](meta/current-state.md), and [Lint Report 2026-07-27](meta/lint-report-2026-07-27.md).
+- Notes: Confirmed Agricdaniel/Skool are absent from public repo content and active skills. The skills directory contains only `autoresearch`, `wiki-ingest`, and `wiki-lint`; no stale skill was found to remove. Local links resolve and all 188 wiki Markdown pages now carry required frontmatter after adding it to the legacy index, log, and overview files. No substantive research page was merged or deleted.
 
 ## [2026-07-27] source and timeline | Google formalises the LLM-wiki pattern as Open Knowledge Format
 
