@@ -1,5 +1,11 @@
 # Wiki Log
 
+## [2026-07-27] access update | Fable 5 leaves included subscription access
+
+- Sources: Anthropic's [Redeploying Fable 5](https://www.anthropic.com/news/redeploying-fable-5), plus Charli's current account observation; earlier private account emails remain uncommitted.
+- Pages updated: [Anthropic Fable And Mythos Access 2026](sources/anthropic-fable-mythos-access-2026.md), [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Current State](meta/current-state.md), and [Wiki Log](log.md).
+- Notes: Confirmed the rolling temporary allowance ended after the 2026-07-19 extension and Fable 5 now requires usage credits in Charli's account. Kept the scope narrow: this closes an access/pricing sequence, not a capability event. Official release checks confirm Claude Sonnet 5 and Claude Opus 4.8; no official Claude Opus 5 or Haiku 5 announcement was found.
+
 ## [2026-07-15] source and bridge | Özbek et al. on imagining the personal past
 
 - Source: Müge Özbek, Annette Bohn, and Dorthe Berntsen, [*Imagining the personal past: Episodic counterfactuals compared to episodic memories and episodic future projections*](https://doi.org/10.3758/s13421-016-0671-2), *Memory & Cognition* 45, 375-389 (2017); public author-accepted manuscript through Aarhus University Research Portal; PubMed PMID 27873188.

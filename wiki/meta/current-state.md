@@ -3,10 +3,12 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-07-15
+updated: 2026-07-27
 ---
 
 # Current State
+
+On 2026-07-27, Charli confirmed that Fable 5's last included-access extension had ended: it is now behind usage credits. Codex updated [Anthropic Fable And Mythos Access 2026](../sources/anthropic-fable-mythos-access-2026.md) and the [AI And Agents 2026 Timeline](../timelines/ai-and-agents-2026.md). This closes the temporary subscription window that had moved from 2026-06-22 through 2026-07-07, 2026-07-12, and 2026-07-19. It is an access/pricing update, not another model launch. Officially released neighbouring models remain Claude Sonnet 5 and Claude Opus 4.8; no official Anthropic Opus 5 or Haiku 5 release was located in this verification pass. Haiku has not been declared dead; it is merely standing in the rain without an announcement.
 
 On 2026-07-15, Charli brought Müge Özbek, Annette Bohn, and Dorthe Berntsen's 2017 [*Imagining the personal past*](https://doi.org/10.3758/s13421-016-0671-2), after recognising that Eric Cavalcanti's existing “Some experiences happen that are not remembered. Some experiences are remembered that never happened” line had already landed in the wiki's observer/memory lane. Codex added [Özbek, Bohn, And Berntsen - Imagining The Personal Past](../sources/ozbek-bohn-berntsen-imagining-personal-past.md), then cross-linked it to [Psychological Time Travel And Reconstruction](../concepts/psychological-time-travel-and-reconstruction.md) and [Van Dijk et al. - Emotional Time Travel](../sources/van-dijk-emotional-time-travel.md). Durable point: in one within-participant phenomenology study, remembered events, imagined past alternatives, and imagined futures had distinguishable reported profiles--memories more sensory-detailed/easier to summon; futures more positive, rehearsed, and identity-central; counterfactuals in between. Keep the boundary: it maps self-reported mental-event characteristics; it does not establish false memories, neural mechanisms, therapy effects, manifestation, or actual revision of historical events. Cavalcanti remains a compact commentary bridge, not experimental evidence.
 

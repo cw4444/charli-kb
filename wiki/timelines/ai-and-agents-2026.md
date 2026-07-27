@@ -3,7 +3,7 @@ title: "AI And Agents 2026 Timeline"
 type: timeline
 status: draft
 created: 2026-05-21
-updated: 2026-07-10
+updated: 2026-07-27
 sources:
   - ../sources/current-ai-agent-landscape-2026.md
   - ../sources/anthropic-compute-and-talent-signal-2026.md
@@ -1021,7 +1021,7 @@ The access shift is the anchor. In April, Anthropic put Claude Mythos Preview be
 
 Anthropic also launched Claude Mythos 5 for a small group of cyberdefenders and infrastructure providers through Project Glasswing, with cyber safeguards lifted in some areas. It plans broader trusted access for cybersecurity organizations and a biology trusted-access program where selected researchers can use Fable 5 with biology and chemistry safeguards removed, while cyber safeguards remain in place.
 
-The subscription-access detail is messy but useful. The launch blog said Fable 5 was fully available on API and consumption-based Enterprise plans, while subscription-plan access would be capacity-managed: initially included on Pro, Max, Team, and seat-based Enterprise plans, then expected to require usage credits after the included window unless capacity allowed extension. Post-redeployment account emails to Charli successively put the usage-credit boundary around 2026-07-07, 2026-07-12, and then extended included access through 2026-07-19. Anthropic says it wants Fable to become a normal subscription feature when sufficient capacity permits.
+The subscription-access detail is messy but useful. The launch blog said Fable 5 was fully available on API and consumption-based Enterprise plans, while subscription-plan access would be capacity-managed: initially included on Pro, Max, Team, and seat-based Enterprise plans, then expected to require usage credits after the included window unless capacity allowed extension. Post-redeployment account emails to Charli successively put the usage-credit boundary around 2026-07-07, 2026-07-12, and then extended included access through 2026-07-19. On 2026-07-27, Charli confirmed that her Fable 5 access had moved to usage credits. Anthropic still says it wants Fable to become a normal subscription feature when sufficient capacity permits.
 
 Why it matters: this is the first broad release of Mythos-class capability after Anthropic's earlier "too risky for general access" posture. The structural signal is not only a stronger model; it is a new deployment pattern for frontier capability: public model access plus risk-domain routing, mandatory safety telemetry/data retention for Mythos-class models, restricted high-risk access, government-linked trusted-access expansion, and capacity-managed subscription access.
 

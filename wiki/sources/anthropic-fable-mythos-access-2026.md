@@ -3,7 +3,7 @@ title: "Anthropic Fable And Mythos Access 2026"
 type: source
 status: draft
 created: 2026-06-13
-updated: 2026-07-13
+updated: 2026-07-27
 sources:
   - "Anthropic: System Card - Claude Mythos Preview, 2026-04-07"
   - "Anthropic: Claude Fable 5 and Claude Mythos 5, 2026-06-09"
@@ -67,7 +67,9 @@ The later access window moved around after the export-control interruption and r
 
 Charli then received an Anthropic/Claude email, locally captured as `raw/claude-access.png`, saying Fable 5 had been set to start drawing from usage credits on 2026-07-08, but that Anthropic extended the promotion so Fable stayed in her plan through Sunday, 2026-07-12 at 11:59pm PT. The email said the mechanics did not otherwise change: up to 50% of weekly plan limits could be used on Fable 5 at no additional subscription cost, Fable drew down those limits faster than Opus or Sonnet, and starting 2026-07-13 all Fable 5 usage would run on usage credits.
 
-Before that cutoff arrived, Charli received a further account email extending included Fable access through 2026-07-19. The exact email remains private account material; the public-safe fact is the sequence: original included window through 2026-06-22, then post-redeployment cutoffs/extensions around 2026-07-07, 2026-07-12, and now 2026-07-19. Anthropic's public posture remains that Fable should become a normal subscription feature when capacity permits.
+Before that cutoff arrived, Charli received a further account email extending included Fable access through 2026-07-19. The exact email remains private account material; the public-safe fact is the sequence: original included window through 2026-06-22, then post-redeployment cutoffs/extensions around 2026-07-07, 2026-07-12, and 2026-07-19. Anthropic's public posture remains that Fable should become a normal subscription feature when capacity permits.
+
+On 2026-07-27, Charli confirmed that the final extension had ended and Fable 5 now required usage credits. That closes the provisional included-access period, at least for this account. It does **not** change the broader capacity claim: the official redeployment post already said the free weekly allowance would give way to credits after its temporary window, while Anthropic intended eventual normal subscription inclusion when capacity allowed.
 
 Careful read: this is an account-facing subscription/access note, not a new capability release. The rolling extensions make the included tier look like a provisional capacity-managed promotion rather than a settled subscription entitlement. That does **not** establish a literal compute-funding threshold or a public promise that access expands when some secret GPU goal is hit. It does establish that Anthropic is repeatedly moving the usage-credit boundary while it says capacity is still constrained. Future Charli will absolutely ask "when did Fable leave the plan?" and future agents will otherwise look at each other like useless furniture.
 
