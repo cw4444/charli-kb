@@ -8,6 +8,13 @@ updated: 2026-07-27
 
 # Wiki Log
 
+## [2026-07-27] maintenance | make current-state a real handoff and add cold-start walk test
+
+- Source trail: Charli's review of Jake Van Clief's ICM Architect; existing [Interpretable Context Methodology](sources/interpretable-context-methodology.md), [Anthropic Context Engineering For Claude 5 Generation Models](sources/anthropic-context-engineering-claude-5.md), [OpenAI Prompt Guidance](sources/openai-prompt-guidance.md), and [Google Open Knowledge Format](sources/google-open-knowledge-format.md).
+- Pages created: [Current State Archive Through 2026-07-27](meta/current-state-archive-2026-07-27.md).
+- Pages updated: [Current State](meta/current-state.md), [Wiki Lint Skill](../skills/wiki-lint/SKILL.md), and [Wiki Log](log.md).
+- Notes: Moved the 497-line historical handoff into an archive and replaced it with a compact operational brief: repo purpose, cold navigation, current structure rules, context-engineering baseline, live timeline notes, and a four-question cold-start walk test. Added that test to future lint checks. No full ICM conversion: this wiki is already a knowledge bundle, not a repeated production pipeline.
+
 ## [2026-07-27] maintenance | bounded wiki and skills lint
 
 - Scope: public wiki Markdown, active local skills, `AGENTS.md`, and `README.md`.

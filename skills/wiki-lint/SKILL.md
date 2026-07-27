@@ -20,6 +20,7 @@ Write reports to `wiki/meta/lint-report-YYYY-MM-DD.md`.
 7. Stale or contradictory claims, especially timelines and fast AI/product/company claims.
 8. Public/private boundary risks, especially accidental publication of raw, private, client, personal, credential, or paywalled material.
 9. Obsidian-only syntax or cloned-template cruft.
+10. Cold-start walk test for material workflow/structure changes: can a new agent find the route, exact inputs, permitted actions, verification step, and expected output within the root instructions, index/area page, and at most one specialised page?
 
 ## Report Template
 
@@ -55,6 +56,8 @@ updated: YYYY-MM-DD
 ## Public/Private Boundary Risks
 
 ## Template Or Workflow Cruft
+
+## Cold-Start Walk Test
 ```
 
 Fix small obvious issues when the user asked for cleanup. Do not merge or delete substantive wiki pages without clear approval.
