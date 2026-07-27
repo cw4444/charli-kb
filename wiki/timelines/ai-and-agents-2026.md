@@ -97,6 +97,8 @@ sources:
   - https://www.axios.com/2026/06/30/trump-anthropic-ai-model-fable-restrictions
   - https://www.anthropic.com/news/claude-sonnet-5
   - https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models
+  - ../sources/google-open-knowledge-format.md
+  - https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing
   - ../sources/anthropic-ai-exponential-policy-2026.md
   - https://darioamodei.com/post/policy-on-the-ai-exponential
   - https://www.anthropic.com/policy-on-the-ai-exponential
@@ -203,6 +205,7 @@ The first half of 2026 already shows several converging threads:
 - Eighteen days after the suspension, the government lifted the controls and Fable 5 returned globally with a stricter cyber classifier. Mythos 5 returned only to approved US organizations, while Anthropic committed to expanded pre-release government evaluation and safeguard sharing. Fable is out of government prison; the probation paperwork is now part of frontier-model deployment.
 - Anthropic launched Claude Sonnet 5 across all Claude plans, Claude Code, Cowork, and the API, bringing near-Opus-4.8 agentic performance into the cheaper default model tier while keeping substantially lower cyber capability than Opus and Mythos models.
 - Anthropic later reported that it removed over 80% of Claude Code's system prompt for Opus 5 and Fable 5 without measurable loss on its coding evaluations. Its new context-engineering prescription is less instruction duplication, more agent judgement, expressive tool/file interfaces, and progressive disclosure. Advanced agents still need constraints; they do not need to be spoon-fed facts they can inspect.
+- Google Cloud introduced the Open Knowledge Format, explicitly formalising Karpathy's LLM-wiki pattern into an open Markdown/YAML interchange format with normal links, optional indexes/logs, and vendor-neutral producer/consumer tooling. The folder-and-frontmatter pattern is now being proposed as shared agent infrastructure, not merely a clever local convention.
 - Anthropic / Transformer Circuits published *Verbalizable Representations Form a Global Workspace in Language Models*, introducing the Jacobian lens and J-space: a reportability-linked workspace in Claude models that appears to carry hidden reasoning, assistant-perspective representations, evaluation awareness, and alignment-audit signals. This is a major interpretability and AI-consciousness-adjacent marker, not a proof that Claude is conscious. The boring boundary is still doing useful work, unfortunately for anyone wanting a clean metaphysical fireworks show.
 - Dario Amodei and Anthropic published "Policy on the AI Exponential" plus Advanced AI and Economic Policy frameworks, shifting Anthropic's public policy stance from transparency-first optionality toward mandatory frontier-model testing, independent evaluation, security obligations, possible government deployment-blocking authority, and `$350M` in economic-futures research/fellowship commitments.
 - Visa and OpenAI reportedly embedded Visa payment rails into ChatGPT so agents can recommend and complete purchases with authorization, fraud monitoring, approvals, spending limits, and approved-merchant controls. Agentic commerce has reached payment-network plumbing. Wonderful, the shopping cart has opinions now.
@@ -1054,6 +1057,20 @@ Source:
 - Anthropic email screenshot, `raw/claude-access.png`, received by Charli on 2026-07-08; later account email reported by Charli, access extended through 2026-07-19
 
 Update, 2026-06-12: Anthropic later suspended access to both Fable 5 and Mythos 5 after a US export-control directive. See the 2026-06-13 entry below.
+
+### 2026-06-12 - Google Cloud introduces the Open Knowledge Format
+
+Google Cloud introduced the Open Knowledge Format (OKF), an open specification that explicitly formalises Andrej Karpathy's LLM-wiki pattern for agent and human use. OKF v0.1 represents a knowledge bundle as a directory of Markdown concept files with YAML frontmatter, normal Markdown links, and optional `index.md` navigation and `log.md` history files. Google describes it as vendor-neutral: a human, an LLM, a metadata-export pipeline, a search index, or a visualiser can write or consume the same bundle without an SDK or a proprietary catalog API.
+
+Why it matters: this is a quiet but foundational infrastructure signal. The context problem is moving from "how do I stuff more documents into a prompt?" toward "how do we maintain a portable, inspectable, progressively navigable knowledge surface that agents can use?" It places this wiki's plain-Markdown shape beside the 2026 OpenAI/Anthropic context-engineering shift and [Interpretable Context Methodology](../sources/interpretable-context-methodology.md): give a capable agent a trustworthy environment and let it find the relevant part.
+
+Careful read: OKF is an early format proposal, not proof that all vendors have adopted it or that Markdown fixes data governance. Google says its own Knowledge Catalog can ingest OKF, and has published a reference agent, visualiser, and sample bundles; those are implementations around the format, not requirements to use Google Cloud. Freshness, provenance, access control, accuracy, and prompt-injection hygiene remain actual work.
+
+Sources:
+
+- [Google Open Knowledge Format](../sources/google-open-knowledge-format.md)
+- [Google Cloud: Introducing the Open Knowledge Format](https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing)
+- [GoogleCloudPlatform Knowledge Catalog: Open Knowledge Format](https://github.com/GoogleCloudPlatform/knowledge-catalog/tree/main/okf)
 
 ### 2026-06-13 - Anthropic disables Fable 5 and Mythos 5 after US export-control directive
 

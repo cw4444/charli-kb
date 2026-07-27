@@ -3,7 +3,7 @@ title: "Interpretable Context Methodology"
 type: source
 status: draft
 created: 2026-05-21
-updated: 2026-05-21
+updated: 2026-07-27
 source_path: https://arxiv.org/abs/2603.16021
 ---
 
@@ -57,6 +57,8 @@ For this wiki, the useful translation is:
 
 That is already close to ICM in spirit, though this repo is a knowledge base rather than a numbered production pipeline.
 
+Google Cloud's later [Open Knowledge Format](google-open-knowledge-format.md) gives the pattern an external interoperability counterpart: Markdown, frontmatter, normal links, indexes, and logs can be not only a local workflow architecture but a portable bundle that different agents and knowledge tools consume. ICM remains the more specific workflow method; OKF is the thinner exchange contract.
+
 ## Evidence And Limits
 
 The paper reports working implementations in content production, slide-deck generation, academic research workflows, and policy analysis. It also reports early practitioner observations, including self-reported intervention patterns from 33 practitioners and a small anecdote about non-coders creating workspaces.
@@ -77,3 +79,4 @@ The limits are important:
 - [Agent Friendly Repositories](../concepts/agent-friendly-repositories.md)
 - [Agent Prompting](../concepts/agent-prompting.md)
 - [Queryable Organization](../concepts/queryable-organization.md)
+- [Google Open Knowledge Format](google-open-knowledge-format.md)

@@ -1,5 +1,12 @@
 # Wiki Log
 
+## [2026-07-27] source and timeline | Google formalises the LLM-wiki pattern as Open Knowledge Format
+
+- Sources: Sam McVeety and Amir Hormati, Google Cloud, [*Introducing the Open Knowledge Format*](https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing), 2026-06-12; [GoogleCloudPlatform Knowledge Catalog OKF repository](https://github.com/GoogleCloudPlatform/knowledge-catalog/tree/main/okf), checked 2026-07-27.
+- Pages created: [Google Open Knowledge Format](sources/google-open-knowledge-format.md).
+- Pages updated: [Interpretable Context Methodology](sources/interpretable-context-methodology.md), [Filesystem Agent Architecture](concepts/filesystem-agent-architecture.md), [Agent Friendly Repositories](concepts/agent-friendly-repositories.md), [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Wiki Index](index.md), [Current State](meta/current-state.md), and [Wiki Log](log.md).
+- Notes: Recorded Google Cloud's open OKF proposal as a durable infrastructure event because it explicitly formalises Karpathy's LLM-wiki pattern: directory of Markdown concept files, YAML frontmatter, normal links, plus optional indexes/logs for progressive disclosure and history. Kept the boundary: v0.1/v0.2 is an emerging standard proposal, not broad adoption or a solution to provenance, staleness, access control, or malicious content.
+
 ## [2026-07-27] source update | OpenAI GPT-5.6 prompt guidance converges with Anthropic context engineering
 
 - Source: OpenAI, [*Model guidance: Using GPT-5.6*](https://developers.openai.com/api/docs/guides/latest-model), checked 2026-07-27.

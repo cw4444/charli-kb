@@ -8,6 +8,7 @@ sources:
   - ../sources/interpretable-context-methodology.md
   - ../sources/openai-codex-for-everyday-work.md
   - ../sources/anthropic-context-engineering-claude-5.md
+  - ../sources/google-open-knowledge-format.md
 ---
 
 # Filesystem Agent Architecture
@@ -46,6 +47,8 @@ A filesystem-oriented agent workflow usually has:
 In Van Clief and McDermott's Interpretable Context Methodology, numbered folders encode workflow stages and stage-level `CONTEXT.md` files define each stage's inputs, process, and outputs. The broader lesson is not that every repo needs that exact layout. The lesson is that context structure is architecture.
 
 Anthropic's later [Claude 5 context-engineering guidance](../sources/anthropic-context-engineering-claude-5.md) sharpens that claim: structure should make the right context easy to find, not dump every rule into the initial prompt. Use small root instructions for actual gotchas, expressive scripts/tools/files for the action surface, and progressive disclosure for specialised guidance. A folder architecture is valuable partly because a capable agent can inspect it when needed.
+
+Google Cloud's [Open Knowledge Format](../sources/google-open-knowledge-format.md) makes the same pattern interoperable: a portable directory of Markdown concepts, YAML fields, normal links, and optional index/log files. The important distinction is clean. Filesystem architecture is how a workflow is arranged; OKF is a proposed common file-level contract for moving curated knowledge between agents, tools, and organizations.
 
 ## Fit
 

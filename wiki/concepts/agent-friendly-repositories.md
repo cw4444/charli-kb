@@ -9,6 +9,7 @@ sources:
   - ../sources/interpretable-context-methodology.md
   - ../sources/anthropic-biology-agents-deterministic-rails-2026.md
   - ../sources/anthropic-context-engineering-claude-5.md
+  - ../sources/google-open-knowledge-format.md
 ---
 
 # Agent Friendly Repositories
@@ -34,6 +35,8 @@ The repository is a small example of a [Queryable Organization](queryable-organi
 Good agent-facing prompts and repo instructions are part of the same pattern. [Agent Prompting](agent-prompting.md) explains the operating contract: define outcomes, boundaries, tool-use expectations, and verification checks clearly enough that an agent can proceed without guessing.
 
 The later Anthropic [context-engineering guidance](../sources/anthropic-context-engineering-claude-5.md) adds a useful anti-bureaucracy rule: a repository should reveal what the agent cannot otherwise know, not repeat obvious facts or pile mutually conflicting rules into every context layer. Good file structure and tool interfaces let a capable agent discover the rest progressively.
+
+Google Cloud's [Open Knowledge Format](../sources/google-open-knowledge-format.md) is the public standard-shaped version of this instinct: shared knowledge can live as portable Markdown/YAML files with normal links, indexes, logs, provenance, and freshness signals rather than remain trapped in one vendor's metadata service. A friendly repo can therefore be both a local control surface and an exchangeable knowledge bundle.
 
 Anthropic's June 2026 biology-agent case study adds the sharper domain lesson: high-stakes agents need deterministic rails under flexible reasoning. In VirBench, agents retrieving viral sequences from NCBI Virus performed inconsistently when left to navigate brittle biological infrastructure, but accuracy rose above 90% for all agents once they had access to `gget virus`, a deterministic retrieval layer.
 
