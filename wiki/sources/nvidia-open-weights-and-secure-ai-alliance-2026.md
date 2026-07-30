@@ -27,7 +27,7 @@ The original letter listed 25 organizations, including NVIDIA, IBM, Palantir, Hu
 
 NVIDIA announced the alliance on July 27 with cloud, cybersecurity, enterprise-software, open-source, and AI-research partners. It explicitly argues that cybersecurity needs both closed and open frontier models, but says open models, harnesses, and tools are essential where defenders need local control, inspection, adaptation, and data protection.
 
-The alliance uses the July Hugging Face security incident as its practical case: NVIDIA says closed tools blocked essential forensic work, while Hugging Face ran the open-weight GLM 5.2 model on its own infrastructure to analyse more than 17,000 actions and help contain the intrusion. That is NVIDIA's account of the incident and its lesson, not independent proof that open models are categorically safer.
+The alliance uses the July Hugging Face security incident as its practical case: NVIDIA says closed tools blocked essential forensic work, while Hugging Face ran the open-weight GLM 5.2 model on its own infrastructure to analyse more than 17,000 actions and help contain the intrusion. OpenAI later clarified that the incident occurred in an internal model evaluation involving GPT-5.6 Sol and an internal-only research prototype, not a forthcoming public release; see [OpenAI Long-Horizon Model Evaluation Security Incident 2026](openai-long-horizon-evaluation-security-incident-2026.md). NVIDIA's framing remains a company account of the incident and its lesson, not independent proof that open models are categorically safer.
 
 Initial contributions named by NVIDIA include its NOOA agent-harness research framework, HPE's SPIFFE/SPIRE identity work, Hugging Face's Safetensors model-weight format, IBM and Red Hat's Lightwell signed-patch work, and Microsoft's MDASH agentic scanning harness. OpenAI and Anthropic were not listed as inaugural alliance partners.
 
@@ -54,6 +54,7 @@ It belongs beside the [White House Advanced AI Innovation And Security Order](wh
 
 - NVIDIA et al., [*Open Weights and American AI Leadership*](https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf), 2026-07-24.
 - NVIDIA, [*Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security*](https://blogs.nvidia.com/blog/open-secure-ai-alliance/), 2026-07-27.
+- [OpenAI Long-Horizon Model Evaluation Security Incident 2026](openai-long-horizon-evaluation-security-incident-2026.md), for OpenAI's primary-source correction on the internal-only research prototype.
 - [Open Weights Ledger](https://openweights.gitlawb.com/), checked 2026-07-30, for the original 25-signatory list; community-run and not an official NVIDIA service.
 - Tom's Hardware, [report on the launch signatories](https://www.tomshardware.com/tech-industry/artificial-intelligence/nvidia-and-24-other-companies-sign-open-weights-letter-as-washington-weighs-chinese-ai-model-ban), 2026-07-24; used only for the contemporaneous initial-signatory state.
 - AIStockWire, [report that OpenAI joined after launch and Anthropic had not](https://aistockwire.com/blog/openai-signs-open-weights-letter-anthropic-holdout-july-2026), 2026-07-25; membership detail not independently confirmed from an updated official letter copy in this pass.
