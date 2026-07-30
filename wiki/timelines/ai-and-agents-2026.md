@@ -3,7 +3,7 @@ title: "AI And Agents 2026 Timeline"
 type: timeline
 status: draft
 created: 2026-05-21
-updated: 2026-07-27
+updated: 2026-07-30
 sources:
   - ../sources/current-ai-agent-landscape-2026.md
   - ../sources/anthropic-compute-and-talent-signal-2026.md
@@ -132,6 +132,7 @@ sources:
   - https://x.com/OpenAI/status/2074704958419792299
   - ../sources/openai-swe-bench-pro-audit.md
   - https://openai.com/index/separating-signal-from-noise-coding-evaluations/
+  - ../sources/nvidia-open-weights-and-secure-ai-alliance-2026.md
 ---
 
 # AI And Agents 2026 Timeline
@@ -221,6 +222,20 @@ The first half of 2026 already shows several converging threads:
 The durable theme is not one company winning. It is that agents, model character, compute, public attachment, and knowledge-work rearchitecture all became visible at the same time.
 
 ## Timeline
+
+### 2026-07-27 - NVIDIA turns the open-weight case into a cyber-defense alliance
+
+NVIDIA launched the [Open Secure AI Alliance](../sources/nvidia-open-weights-and-secure-ai-alliance-2026.md), a coalition of cloud, cybersecurity, enterprise-software, open-source, and AI organizations developing open defensive tools for software and agents. The alliance says cyber defense needs both frontier closed and frontier open models, but argues that defenders also need systems they can inspect, adapt, and run on their own infrastructure.
+
+Its immediate case was the July Hugging Face security incident. NVIDIA says closed AI tools blocked some forensic analysis, while Hugging Face used the open-weight GLM 5.2 locally to analyse more than 17,000 actions and help contain the intrusion. That is a company account of an incident, not a controlled proof that openness is automatically safer. The durable point is narrower: model access, local operation, and inspectable agent tooling have become a live security-governance argument rather than merely an open-source preference.
+
+The alliance's proposed stack runs beyond weights: NVIDIA named agent harnesses, zero-trust identity, safe model-weight formats, signed patches, multi-model scanning, logs, evaluation, and remediation. OpenAI and Anthropic were not inaugural alliance partners. This sits beside the earlier [White House advanced-AI security order](../sources/white-house-ai-innovation-security-order.md): 2026 cyber governance is increasingly about who can test, operate, and patch advanced AI systems under real conditions.
+
+### 2026-07-24 - Jensen Huang's first X post backs open weights as AI policy
+
+Jensen Huang used his first X post to share the industry letter [*Open Weights and American AI Leadership*](../sources/nvidia-open-weights-and-secure-ai-alliance-2026.md). The letter argues that downloadable and adaptable model weights should remain part of the U.S. AI ecosystem alongside closed frontier models, tying open weights to competition, lower deployment costs, customer control, local operation, innovation diffusion, and technological sovereignty.
+
+The letter acknowledges that open weights carry release and misuse risks, but asks policymakers to avoid premature broad restrictions and to use targeted safeguards instead. Its original 25 signatories included NVIDIA, IBM, Palantir, Hugging Face, Meta, Microsoft, Mistral, and the Linux Foundation. Contemporary reporting says OpenAI joined after launch; Anthropic was still absent in the verification pass. Keep that roster date-bound--corporate letters are not stone tablets, more's the pity.
 
 ### 2026-07-24 - Anthropic reframes context engineering for Claude 5 generation models
 

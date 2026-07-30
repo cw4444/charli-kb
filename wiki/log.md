@@ -3,10 +3,17 @@ title: "Wiki Log"
 type: log
 status: active
 created: 2026-04-28
-updated: 2026-07-27
+updated: 2026-07-30
 ---
 
 # Wiki Log
+
+## [2026-07-30] source and timeline | NVIDIA links open weights to cyber defense
+
+- Sources: NVIDIA et al., [*Open Weights and American AI Leadership*](https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf), 2026-07-24; NVIDIA, [*Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security*](https://blogs.nvidia.com/blog/open-secure-ai-alliance/), 2026-07-27; contemporary signatory reporting checked 2026-07-30.
+- Pages created: [NVIDIA Open Weights Letter And Open Secure AI Alliance 2026](sources/nvidia-open-weights-and-secure-ai-alliance-2026.md).
+- Pages updated: [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Wiki Index](index.md), [Current State](meta/current-state.md), and [Wiki Log](log.md).
+- Notes: Kept two related events distinct: Huang's first X post promoted an open-weight policy letter; NVIDIA then launched the Open Secure AI Alliance as an open defensive-tooling coalition. Recorded NVIDIA's Hugging Face forensic framing as a company claim, not a proof that open models are inherently safer. Original letter roster included NVIDIA, IBM, Palantir, Hugging Face, Meta, Microsoft, Mistral, and the Linux Foundation. Contemporary reporting says OpenAI joined after launch; Anthropic remained absent in this verification pass. Neither OpenAI nor Anthropic was listed among inaugural alliance partners.
 
 ## [2026-07-27] maintenance | make current-state a real handoff and add cold-start walk test
 

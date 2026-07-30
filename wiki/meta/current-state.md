@@ -3,7 +3,7 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-07-27
+updated: 2026-07-30
 ---
 
 # Current State
@@ -41,7 +41,7 @@ This is the live operational handoff, not a chronicle. Read it after `AGENTS.md`
 
 ## Current Research And Timeline Notes
 
-- The 2026 AI/agents timeline has current anchors for GPT-5.6/ChatGPT Work, Fable/Mythos access governance, Anthropic and OpenAI context guidance, and Google OKF. Read the linked source notes for detail rather than extending this handoff.
+- The 2026 AI/agents timeline has current anchors for GPT-5.6/ChatGPT Work, Fable/Mythos access governance, Anthropic and OpenAI context guidance, Google OKF, and NVIDIA's open-weights/cyber-defense alliance push. Read the linked source notes for detail rather than extending this handoff.
 - Fable 5's temporary included subscription access ended after the 2026-07-19 extension; Charli reports it now requires usage credits. This is an access/pricing fact, not a fresh model launch.
 - No official Haiku 5 announcement was found in the July 2026 verification pass. Do not turn absence into a theory.
 

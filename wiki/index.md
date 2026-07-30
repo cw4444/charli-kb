@@ -3,7 +3,7 @@ title: "Wiki Index"
 type: index
 status: active
 created: 2026-04-28
-updated: 2026-07-27
+updated: 2026-07-30
 ---
 
 # Wiki Index
@@ -77,6 +77,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [AI Compute Infrastructure Constraints 2026](sources/ai-compute-infrastructure-constraints-2026.md): source note on Stargate UK's launch and later pause, energy/regulatory constraints on sovereign compute, and Microsoft's Finland land agreement as a softer capacity signal.
 - [OpenAI Foundation AI Resilience Program](sources/openai-foundation-ai-resilience.md): source note on the OpenAI Foundation's 2026 AI Resilience program, bio/cyber/model-safety/youth focus areas, and spring 2026 grant-making arc.
 - [White House Advanced AI Innovation And Security Order](sources/white-house-ai-innovation-security-order.md): source note on the 2026-06-02 U.S. Executive Order covering advanced AI models, voluntary evaluations, classified cyber benchmarking, trusted early-access vulnerability discovery, and AI cybersecurity coordination.
+- [NVIDIA Open Weights Letter And Open Secure AI Alliance 2026](sources/nvidia-open-weights-and-secure-ai-alliance-2026.md): source note on the 2026 open-weight policy letter, NVIDIA's cyber-defense alliance, the Hugging Face incident framing, and the boundary between an open ecosystem claim and a proved safety result.
 - [Agent Security Infrastructure 2026](sources/agent-security-infrastructure-2026.md): source note on GitHub Copilot sandboxes and enterprise-managed plugins, Microsoft's ASSERT / Agent Control Specification and updated agent failure-mode taxonomy, Anthropic's Natural Language Autoencoders, Anthropic's AI-enabled cyber-threat analysis, and why agent controls are becoming infrastructure.
 - [Meincke et al. - Persuading LLMs To Comply With Objectionable Requests](sources/meincke-duckworth-cialdini-persuading-llms.md): PNAS source note on classic social-influence frames increasing unsafe model compliance across GPT-5 mini, Claude Haiku 4.5, and Gemini 3 Flash, with no consciousness or vendor-ranking overclaim.
 - [Anthropic - Emotion Concepts And Functional Emotions](sources/anthropic-emotion-concepts-functional-emotions.md): source note on local emotion-concept representations in Claude Sonnet 4.5 that causally affect preferences and controlled-evaluation behavior, without implying subjective emotion or consciousness.
