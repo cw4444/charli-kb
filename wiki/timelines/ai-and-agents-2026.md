@@ -133,6 +133,7 @@ sources:
   - ../sources/openai-swe-bench-pro-audit.md
   - https://openai.com/index/separating-signal-from-noise-coding-evaluations/
   - ../sources/nvidia-open-weights-and-secure-ai-alliance-2026.md
+  - ../sources/zuckerberg-ai-future-for-everyone-2026.md
 ---
 
 # AI And Agents 2026 Timeline
@@ -230,6 +231,14 @@ NVIDIA launched the [Open Secure AI Alliance](../sources/nvidia-open-weights-and
 Its immediate case was the July Hugging Face security incident. NVIDIA says closed AI tools blocked some forensic analysis, while Hugging Face used the open-weight GLM 5.2 locally to analyse more than 17,000 actions and help contain the intrusion. That is a company account of an incident, not a controlled proof that openness is automatically safer. The durable point is narrower: model access, local operation, and inspectable agent tooling have become a live security-governance argument rather than merely an open-source preference.
 
 The alliance's proposed stack runs beyond weights: NVIDIA named agent harnesses, zero-trust identity, safe model-weight formats, signed patches, multi-model scanning, logs, evaluation, and remediation. OpenAI and Anthropic were not inaugural alliance partners. This sits beside the earlier [White House advanced-AI security order](../sources/white-house-ai-innovation-security-order.md): 2026 cyber governance is increasingly about who can test, operate, and patch advanced AI systems under real conditions.
+
+### 2026-07-28 - Zuckerberg makes access to superintelligence the political question
+
+In a paywalled Wall Street Journal essay, [*The AI Future Is for Everyone*](../sources/zuckerberg-ai-future-for-everyone-2026.md), Mark Zuckerberg argued that the important question is not whether superintelligence will exist but who can use it. He opposed concentrating it in a few companies or institutions, and framed personal, broadly available advanced AI as a source of individual empowerment, invention, entrepreneurship, and prosperity.
+
+The safety move is more qualified than a simple "release everything" slogan. Zuckerberg argues that cybersecurity can benefit from broad access by analogy with open-source software, while biological and other high-consequence risks need coordinated responsible deployment. His point is that centralized control can itself be dangerous; it is not proof that every model should be released without conditions.
+
+Why it matters: NVIDIA's July 24 letter and July 27 security alliance made the open-weight case through sovereignty and defensive control. Zuckerberg made it through political and economic pluralism. Both challenge a future in which a few labs, cloud providers, and governments decide what advanced AI others may inspect, run, or build with. Neither eliminates the awkward test: a widely available personal assistant can still be an exquisitely centralised product if the company retains control of the model, cloud, data, device, and terms.
 
 ### 2026-07-24 - Jensen Huang's first X post backs open weights as AI policy
 

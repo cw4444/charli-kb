@@ -8,6 +8,13 @@ updated: 2026-07-30
 
 # Wiki Log
 
+## [2026-07-30] source and timeline | Zuckerberg's access-and-power case for AI
+
+- Sources: Mark Zuckerberg, [*The AI Future Is for Everyone*](https://www.wsj.com/opinion/the-ai-future-is-for-everyone-a0c24e20), *Wall Street Journal*, 2026-07-28 (paywalled); public previews/secondary summaries and Zuckerberg's 2024 [Meta open-source AI statement](https://about.fb.com/news/2024/07/open-source-ai-is-the-path-forward/) checked 2026-07-30.
+- Pages created: [Zuckerberg - The AI Future Is For Everyone](sources/zuckerberg-ai-future-for-everyone-2026.md).
+- Pages updated: [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Wiki Index](index.md), [Current State](meta/current-state.md), and [Wiki Log](log.md).
+- Notes: Recorded the July 28 WSJ essay without reproducing its paywalled text. Zuckerberg frames the core question as who has access to superintelligence: broadly empowered people and organizations, or a few institutions. Kept the safety distinction: broad access is his proposed cybersecurity answer; bio and other high-consequence risks still call for coordination. Paired the 2026 claim with Meta's longstanding, commercially interested open-AI position and drew the real boundary between access and control: a personal AI can be widely usable while its model, data, cloud, device, and terms remain centralized.
+
 ## [2026-07-30] source and timeline | NVIDIA links open weights to cyber defense
 
 - Sources: NVIDIA et al., [*Open Weights and American AI Leadership*](https://images.nvidia.com/pdf/Open-Weights-and-American-AI-Leadership.pdf), 2026-07-24; NVIDIA, [*Industry Leaders Unite in Open Secure AI Alliance for AI Safety and Security*](https://blogs.nvidia.com/blog/open-secure-ai-alliance/), 2026-07-27; contemporary signatory reporting checked 2026-07-30.
