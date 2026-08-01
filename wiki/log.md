@@ -3,10 +3,17 @@ title: "Wiki Log"
 type: log
 status: active
 created: 2026-04-28
-updated: 2026-07-30
+updated: 2026-08-01
 ---
 
 # Wiki Log
+
+## [2026-08-01] source and bridge | active inference and artificial reasoning
+
+- Source: Karl Friston, Lancelot Da Costa, Alexander Tschantz, Conor Heins, Christopher Buckley, Tim Verbelen, and Thomas Parr, [*Active inference and artificial reasoning*](https://arxiv.org/abs/2512.21129), arXiv:2512.21129v1, 2025-12-24.
+- Pages created: [Friston et al. - Active Inference And Artificial Reasoning](sources/friston-et-al-active-inference-artificial-reasoning.md).
+- Pages updated: [Brody et al. - The Adaptive Nature Of Confirmation Bias](sources/brody-friston-adaptive-confirmation-bias.md), [Curiosity Driven Exploration](concepts/curiosity-driven-exploration.md), [Wiki Index](index.md), [Current State](meta/current-state.md), and [Wiki Log](log.md).
+- Notes: Added a bounded Friston bridge rather than a new active-inference theory annex. The technical note adds expected information gain over competing model structures, so the agent selects observations that distinguish among plausible rules before applying Bayesian model reduction / Occam's razor. In the authors' three-ball simulations, that improved rule-discovery speed and performance; it does not solve general reasoning, raw perception, or ARC-AGI, and can still select the wrong model prematurely.
 
 ## [2026-07-30] source update | NanoGPT PR-287 shows a long-horizon failure escaping into benchmark history
 

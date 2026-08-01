@@ -3,7 +3,7 @@ title: "Wiki Index"
 type: index
 status: active
 created: 2026-04-28
-updated: 2026-07-30
+updated: 2026-08-01
 ---
 
 # Wiki Index
@@ -60,6 +60,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 - [Schwitzgebel - AI And Consciousness](sources/schwitzgebel-ai-consciousness.md): arXiv manuscript note on theory-divergent AI consciousness, rights if conscious, mass-delusion risk if not, and why society may have to decide before consciousness science settles the case, with his unreliable-introspection work as a self-report caveat.
 - [Gazzaniga - The Left-Hemisphere Interpreter](sources/gazzaniga-left-hemisphere-interpreter.md): source note on split-brain research, hypothesis formation, and why a sincere verbal explanation can reconstruct causes from partial access rather than reveal source code.
 - [Brody et al. - The Adaptive Nature Of Confirmation Bias](sources/brody-friston-adaptive-confirmation-bias.md): Friston-coauthored 2026 formal preprint on when active, prior-aligned evidence selection can minimise error and memory demand, with strict real-world/adversarial-environment caveats.
+- [Friston et al. - Active Inference And Artificial Reasoning](sources/friston-et-al-active-inference-artificial-reasoning.md): technical arXiv note on using expected information gain over candidate models to select discriminating observations for narrow rule discovery, with explicit limits on general reasoning claims.
 - [Jaimungal, Hahn, And Barenholtz - Language And Cultural Cognition Discussion](sources/jaimgungal-hahn-barenholtz-language-cultural-cognition.md): bounded commentary-trail note on language as distributed cultural machinery, reconstructive self-narration, and the risk of AI-scaled rhetorical experimentation.
 - [Current Quantum Computing 2026](sources/current-quantum-computing-2026.md): public-source snapshot of Google Willow, Microsoft Majorana 1, IBM's roadmap, and why logical qubits/error correction matter more than quantum-computing press-release theatre.
 - [Interpretable Context Methodology](sources/interpretable-context-methodology.md): arXiv source note on using folder structure, Markdown contracts, stage-scoped context, and local scripts as a lightweight architecture for sequential agent workflows.

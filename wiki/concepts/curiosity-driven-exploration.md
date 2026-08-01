@@ -3,12 +3,13 @@ title: "Curiosity Driven Exploration"
 type: concept
 status: draft
 created: 2026-06-16
-updated: 2026-06-27
+updated: 2026-08-01
 sources:
   - ../sources/le-cunff-adhd-traits-curiosity.md
   - ../sources/dambrogio-interpretable-ann-information-gathering.md
   - ../sources/repetition-cognitive-method-source-batch.md
   - ../sources/optimism-neuroscience-source-batch.md
+  - ../sources/friston-et-al-active-inference-artificial-reasoning.md
 ---
 
 # Curiosity Driven Exploration
@@ -37,6 +38,8 @@ In this form, curiosity is a search engine with taste. It notices odd bridges, f
 The useful idea is **information symmetry**: as the current focus becomes better sampled than its alternative, the value of staying falls and the value of switching rises. Curiosity may therefore respond to a knowledge imbalance across available paths, not merely to one isolated unknown.
 
 This does not mean every open tab deserves equal attention. The study used a tightly controlled two-option task with explicit rewards and time costs. In real research, some alternatives are rubbish and symmetry would be a terrible filing policy. The practical question is narrower: has the current branch received enough evidence that inspecting the under-sampled alternative now has greater value?
+
+Friston and colleagues' [*Active inference and artificial reasoning*](../sources/friston-et-al-active-inference-artificial-reasoning.md) gives the formal rule-discovery cousin. In their simulated task, the valuable next observation is the one expected to distinguish among plausible explanations of the task, not merely reduce uncertainty inside the current favourite explanation. That is a useful research discipline: name the live rival accounts before deciding which paper, test, or search would actually separate them.
 
 ## The Expensive Version
 
@@ -84,6 +87,7 @@ That turns associative exploration into a knowledge system instead of a pile of 
 
 - [Le Cunff et al. - ADHD Traits And Curiosity](../sources/le-cunff-adhd-traits-curiosity.md)
 - [D'Ambrogio et al. - Interpretable ANN Models Of Human Information Gathering](../sources/dambrogio-interpretable-ann-information-gathering.md)
+- [Friston et al. - Active Inference And Artificial Reasoning](../sources/friston-et-al-active-inference-artificial-reasoning.md)
 - [Repetition As Cognitive Method](repetition-as-cognitive-method.md)
 - [Salience Weighted Judgment](salience-weighted-judgment.md)
 - [Optimism](optimism.md)

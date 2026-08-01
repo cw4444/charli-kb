@@ -3,7 +3,7 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-07-30
+updated: 2026-08-01
 ---
 
 # Current State
@@ -45,6 +45,7 @@ This is the live operational handoff, not a chronicle. Read it after `AGENTS.md`
 - The Hugging Face incident has an important primary-source correction: it was an internal evaluation involving GPT-5.6 Sol and a non-public research prototype, not an imminent public-model release. Keep the release claim and the real containment failure separate.
 - Fable 5's temporary included subscription access ended after the 2026-07-19 extension; Charli reports it now requires usage credits. This is an access/pricing fact, not a fresh model launch.
 - No official Haiku 5 announcement was found in the July 2026 verification pass. Do not turn absence into a theory.
+- The Friston lane now distinguishes [prior-aligned active source selection](../sources/brody-friston-adaptive-confirmation-bias.md) from [active evidence gathering that separates rival rule models](../sources/friston-et-al-active-inference-artificial-reasoning.md). Keep both as narrow formal-preprint claims, not general AI or human-reasoning verdicts.
 
 ## Cold-Start Walk Test
 

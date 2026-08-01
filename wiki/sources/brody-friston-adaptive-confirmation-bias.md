@@ -50,6 +50,7 @@ The authors explicitly note an important limit: when only finitely many real evi
 
 ## Related Pages
 
+- [Friston et al. - Active Inference And Artificial Reasoning](friston-et-al-active-inference-artificial-reasoning.md)
 - [Frequency Illusion](../concepts/frequency-illusion.md)
 - [Focusing Illusion](../concepts/focusing-illusion.md)
 - [Kahneman And Tversky - Judgment Under Uncertainty](kahneman-tversky-judgment-under-uncertainty.md)
