@@ -8,6 +8,13 @@ updated: 2026-08-01
 
 # Wiki Log
 
+## [2026-08-01] source and boundary | trauma, predictive coding, and metastability
+
+- Source: Steven Kotler, Michael Mannino, Glenn Fox, and Karl Friston, [*The body does not keep the score: trauma, predictive coding, and the restoration of metastability*](https://doi.org/10.3389/fnsys.2026.1812957), *Frontiers in Systems Neuroscience*, 2026-04-30.
+- Pages created: [Kotler et al. - The Body Does Not Keep The Score](sources/kotler-mannino-fox-friston-body-does-not-keep-score.md).
+- Pages updated: [Wiki Index](index.md) and [Wiki Log](log.md).
+- Notes: Logged this as an open-access Opinion article, not a trauma finding. It argues that persistent post-traumatic symptoms are better framed as rigid precision-weighted inference and reduced network metastability than literal traumatic storage in bodily tissue. The useful question is testable: whether metastability measures track PTSD and treatment. The answer is not yet in; the article explicitly concedes that direct PTSD measurement remains absent. Retained the embodied boundary so this does not become a pretext for dismissing bodily symptoms, somatic treatment, or trauma testimony.
+
 ## [2026-08-01] source and bridge | active inference and artificial reasoning
 
 - Source: Karl Friston, Lancelot Da Costa, Alexander Tschantz, Conor Heins, Christopher Buckley, Tim Verbelen, and Thomas Parr, [*Active inference and artificial reasoning*](https://arxiv.org/abs/2512.21129), arXiv:2512.21129v1, 2025-12-24.
