@@ -8,6 +8,13 @@ updated: 2026-08-01
 
 # Wiki Log
 
+## [2026-08-02] source and bridge | SkillOpt makes agent skills a validation-gated adaptation layer
+
+- Source: Yifan Yang et al., [*SkillOpt: Executive Strategy for Self-Evolving Agent Skills*](https://arxiv.org/abs/2605.23904), arXiv:2605.23904v2, revised 2026-05-25; Microsoft and university affiliations.
+- Pages created: [SkillOpt - Executive Strategy For Self-Evolving Agent Skills](sources/skillopt-self-evolving-agent-skills.md).
+- Pages updated: [Filesystem Agent Architecture](concepts/filesystem-agent-architecture.md), [AI And Agents](areas/ai-and-agents.md), [Wiki Index](index.md), [Current State](meta/current-state.md), and [Wiki Log](log.md).
+- Notes: Added as a compact complement to ICM and the context-engineering cluster, not a new self-improvement religion. SkillOpt keeps the task model fixed, uses an optimiser model to propose small edits to a reusable skill, and accepts only changes that improve a held-out selection score; rejected changes remain negative feedback. The authors report strong benchmark and transfer results, but this remains a preprint with author-reported evaluations. Its practical lesson only holds where success can actually be checked; it does not license autonomous rewriting of repo rules or hand-wavy evaluation of subjective work.
+
 ## [2026-08-01] source and boundary | trauma, predictive coding, and metastability
 
 - Source: Steven Kotler, Michael Mannino, Glenn Fox, and Karl Friston, [*The body does not keep the score: trauma, predictive coding, and the restoration of metastability*](https://doi.org/10.3389/fnsys.2026.1812957), *Frontiers in Systems Neuroscience*, 2026-04-30.

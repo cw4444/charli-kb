@@ -9,6 +9,7 @@ sources:
   - ../sources/openai-codex-for-everyday-work.md
   - ../sources/anthropic-context-engineering-claude-5.md
   - ../sources/google-open-knowledge-format.md
+  - ../sources/skillopt-self-evolving-agent-skills.md
 ---
 
 # Filesystem Agent Architecture
@@ -49,6 +50,8 @@ In Van Clief and McDermott's Interpretable Context Methodology, numbered folders
 Anthropic's later [Claude 5 context-engineering guidance](../sources/anthropic-context-engineering-claude-5.md) sharpens that claim: structure should make the right context easy to find, not dump every rule into the initial prompt. Use small root instructions for actual gotchas, expressive scripts/tools/files for the action surface, and progressive disclosure for specialised guidance. A folder architecture is valuable partly because a capable agent can inspect it when needed.
 
 Google Cloud's [Open Knowledge Format](../sources/google-open-knowledge-format.md) makes the same pattern interoperable: a portable directory of Markdown concepts, YAML fields, normal links, and optional index/log files. The important distinction is clean. Filesystem architecture is how a workflow is arranged; OKF is a proposed common file-level contract for moving curated knowledge between agents, tools, and organizations.
+
+Microsoft-affiliated researchers' [SkillOpt](../sources/skillopt-self-evolving-agent-skills.md) extends the file-as-interface idea one notch further: treat a compact, reusable skill document as an external adaptation layer, then improve it through bounded edits and held-out validation. That is useful only when the repeated task has a trustworthy score. A workflow cannot benchmark its way out of vague success criteria, cursed data, or an absent human reviewer.
 
 ## Fit
 

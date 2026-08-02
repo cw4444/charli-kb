@@ -38,6 +38,7 @@ This is the live operational handoff, not a chronicle. Read it after `AGENTS.md`
 - Anthropic and OpenAI both now recommend lean, outcome-oriented context: keep domain context, hard constraints, approval boundaries, success criteria, and ambiguity triggers; remove repeated instructions and irrelevant examples; let capable models inspect the relevant files.
 - [Interpretable Context Methodology](../sources/interpretable-context-methodology.md) remains useful as a method for sequential, human-reviewed workflows. Do not force a staged pipeline onto this wiki.
 - Google Cloud's [Open Knowledge Format](../sources/google-open-knowledge-format.md) independently formalises the LLM-wiki pattern: portable Markdown/YAML knowledge, links, indexes, logs, and progressive disclosure. This repo is already close in spirit; do not rebuild it for fashion.
+- [SkillOpt](../sources/skillopt-self-evolving-agent-skills.md) is a useful research-side complement: a reusable skill can be improved through small trajectory-derived edits only when a held-out verifier can reject regressions. That supports versioned skills and testing, not autonomous rewriting of the repo contract.
 
 ## Current Research And Timeline Notes
 

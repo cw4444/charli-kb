@@ -19,7 +19,7 @@ Start here for AI systems as tools, workplaces, institutions, and possible moral
 
 ## Follow The Thread
 
-- [Agentic Engineering](../concepts/agentic-engineering.md) and [Filesystem Agent Architecture](../concepts/filesystem-agent-architecture.md) for making agent work reviewable rather than magical.
+- [Agentic Engineering](../concepts/agentic-engineering.md) and [Filesystem Agent Architecture](../concepts/filesystem-agent-architecture.md) for making agent work reviewable rather than magical; [SkillOpt](../sources/skillopt-self-evolving-agent-skills.md) for the narrower question of improving a reusable skill through trajectory evidence and held-out tests.
 - [Agent Security Infrastructure 2026](../sources/agent-security-infrastructure-2026.md) for prompt injection, permissions, sandboxes, and other things that are less cute than a demo video.
 - [AI, Human Cognition, And Knowledge Collapse](../sources/ai-human-cognition-knowledge-collapse.md) for the risk that useful recommendations can quietly hollow out human learning.
 - [AI Consciousness And Model Welfare](../../themes/ai-consciousness/overview.md) for consciousness, self-reports, moral patienthood, and welfare uncertainty.
