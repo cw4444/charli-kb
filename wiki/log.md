@@ -3,10 +3,17 @@ title: "Wiki Log"
 type: log
 status: active
 created: 2026-04-28
-updated: 2026-08-01
+updated: 2026-08-06
 ---
 
 # Wiki Log
+
+## [2026-08-06] source and bridge | cue-response plans beat bare prohibitions
+
+- Sources: Maik Bieleke, Lucas Keller, and Peter M. Gollwitzer, [*If-then planning*](https://doi.org/10.1080/10463283.2020.1808936), *European Review of Social Psychology*, 2021; Deming (Adam) Wang, Martin S. Hagger, and Nikos L. D. Chatzisarantis, [*Ironic effects of thought suppression: A meta-analysis*](https://doi.org/10.1177/1745691619898795), *Perspectives on Psychological Science*, 2020.
+- Pages created: [If-Then Planning And Thought Suppression](sources/if-then-planning-and-thought-suppression.md).
+- Pages updated: [Habits, Goals, And Behavioural Control](concepts/habits-goals-and-behavioral-control.md), [Manifestation As Behavior Modification](concepts/manifestation-as-behavior-modification.md), [Wiki Index](index.md), and [Wiki Log](log.md).
+- Notes: Both sources earn a compact shelf. Implementation intentions specify an anticipated cue and goal-directed response; the thought-suppression meta-analysis finds a small post-suppression rebound overall and immediate ironic effects under cognitive load, with important bias and generalisability caveats. Kept the practical bridge as inference rather than overclaim: replace "don't think/do X" with a concrete if-X-then-Y response, then alter the plan or environment when it fails. Not clinical treatment, not emotional repression in a sensible hat.
 
 ## [2026-08-02] source and bridge | SkillOpt makes agent skills a validation-gated adaptation layer
 

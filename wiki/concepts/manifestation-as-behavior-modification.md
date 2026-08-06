@@ -3,7 +3,7 @@ title: "Manifestation As Behavior Modification"
 type: concept
 status: draft
 created: 2026-06-08
-updated: 2026-07-11
+updated: 2026-08-06
 sources:
   - https://www.nhs.uk/conditions/cognitive-behavioural-therapy-cbt/
   - https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral
@@ -14,6 +14,7 @@ sources:
   - repetition-as-cognitive-method.md
   - ../sources/hershfield-future-self-continuity.md
   - ../sources/ochsner-gross-cognitive-control-emotion.md
+  - ../sources/if-then-planning-and-thought-suppression.md
 ---
 
 # Manifestation As Behavior Modification
@@ -72,6 +73,12 @@ The practical version:
 - check the result;
 - adjust the plan;
 - repeat the loop that actually pays rent.
+
+## Make The Cue Do Some Work
+
+[If-Then Planning And Thought Suppression](../sources/if-then-planning-and-thought-suppression.md) provides a sharper route from imagined future to actual behaviour. Instead of merely declaring an identity or outcome, connect a likely cue to a small response: "If I finish breakfast, then I write for ten minutes" or "If I start rehearsing the rejection, then I note the next factual action and return to the work."
+
+This is called an implementation intention. It is useful because the cue can retrieve the next action without another full committee meeting. It also avoids the brittle instruction to "not think" about the unwanted thing: thought-suppression effects are conditional rather than magical, but under cognitive load suppression can become counterproductive and shows a small rebound after the attempt. The move is not to repress feeling with better stationery. It is to give attention and behaviour a real next job, then check whether it works.
 
 ## Salience Warning
 
@@ -137,3 +144,4 @@ The useful sentence is simple:
 - [Habits, Goals, And Behavioural Control](habits-goals-and-behavioral-control.md)
 - [Future Self-Continuity](future-self-continuity.md)
 - [Ochsner And Gross - Cognitive Control Of Emotion](../sources/ochsner-gross-cognitive-control-emotion.md)
+- [If-Then Planning And Thought Suppression](../sources/if-then-planning-and-thought-suppression.md)

@@ -3,9 +3,10 @@ title: "Habits, Goals, And Behavioural Control"
 type: concept
 status: draft
 created: 2026-06-20
-updated: 2026-07-03
+updated: 2026-08-06
 sources:
   - ../sources/habit-goal-directed-behavior-source-batch.md
+  - ../sources/if-then-planning-and-thought-suppression.md
   - practical-agency-inside-constraint.md
   - manifestation-as-behavior-modification.md
   - fictional-finalism.md
@@ -68,6 +69,12 @@ Stress deserves less moral drama here. Under acute or chronic stress, people and
 
 That is why this connects to [Optimism](optimism.md) without being optimism evidence. Optimism may help someone persist, seek resources, and keep treating setbacks as workable. But persistence without outcome updating is how a useful strategy becomes a very motivated error.
 
+## Plans Beat Prohibitions
+
+[If-Then Planning And Thought Suppression](../sources/if-then-planning-and-thought-suppression.md) adds a useful implementation detail. An implementation intention pairs a recognisable cue with a chosen response: **if X happens, then I do Y**. That can make the desired first step easier to retrieve without relying on an inspirational monologue at the point of friction.
+
+It also gives the thought-suppression literature somewhere practical to land. "Don't think about X" is a fragile instruction when cognitive load is high; the Wang, Hagger, and Chatzisarantis meta-analysis finds immediate ironic effects under load and a small post-suppression rebound overall. Replace the prohibition with a concrete response to the cue. That is not a cure for clinical intrusive thoughts, and it is not an order to suppress emotion more efficiently. It is a small piece of route design: when the old loop starts, what action is available next?
+
 ## Practical Agency, Not Total Control
 
 [Practical Agency Inside Constraint](practical-agency-inside-constraint.md) means improving the coupling between present goals, environment, and action. The move is not to declare war on all habits. It is to:
@@ -96,3 +103,4 @@ In other words: do not make every decision from scratch. Do make sure the defaul
 - [Manifestation As Behavior Modification](manifestation-as-behavior-modification.md)
 - [Fictional Finalism](fictional-finalism.md)
 - [Optimism](optimism.md)
+- [If-Then Planning And Thought Suppression](../sources/if-then-planning-and-thought-suppression.md)
