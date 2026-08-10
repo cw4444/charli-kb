@@ -8,6 +8,13 @@ updated: 2026-08-10
 
 # Wiki Log
 
+## [2026-08-10] source bridge | retain the Chimp Paradox metaphor, reject its literal brain map
+
+- Sources: Steve Peters, [*The Chimp Model*](https://chimpmanagement.com/the-chimp-model/), official model description, accessed 2026-08-10; Luiz Pessoa, [*The Entangled Brain*](https://direct.mit.edu/books/oa-monograph/5490/The-Entangled-BrainHow-Perception-Cognition-and), MIT Press, 2022; existing Hofmann, Friese, and Strack impulse/reflection framework.
+- Pages created: none.
+- Pages updated: [Habit, Goal-Directed Action, And Behavioural Control Source Batch](sources/habit-goal-directed-behavior-source-batch.md), [Habits, Goals, And Behavioural Control](concepts/habits-goals-and-behavioral-control.md), [Wiki Index](index.md), and [Wiki Log](log.md).
+- Notes: Added a bounded translation rather than a new Chimp Paradox lane. Peters's Chimp/Human/Computer labels can teach the difference between a fast cue-triggered reaction, reflective appraisal, and stored learned routines. They are not separate anatomical agents, brain regions, evolutionary layers, or a truth-bearing internal database. Modern network neuroscience and the existing impulse/reflection framework preserve the useful behavioural question: make a better response retrievable before a strong reaction gets to run the meeting.
+
 ## [2026-08-10] source and bridge | optimistic imagery gets an obstacle-and-response branch
 
 - Source: Wang, Wang, and Gai, [*A meta-analysis of the effects of mental contrasting with implementation intentions on goal attainment*](https://pmc.ncbi.nlm.nih.gov/articles/PMC8149892/), *Frontiers in Psychology*, 2021; 21 field-intervention studies, 24 independent effects, 15,907 participants.

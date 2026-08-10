@@ -3,7 +3,7 @@ title: "Habits, Goals, And Behavioural Control"
 type: concept
 status: draft
 created: 2026-06-20
-updated: 2026-08-06
+updated: 2026-08-10
 sources:
   - ../sources/habit-goal-directed-behavior-source-batch.md
   - ../sources/if-then-planning-and-thought-suppression.md
@@ -40,6 +40,12 @@ Hofmann, Friese, and Strack's 2009 dual-systems review supplies a useful three-p
 That is better than treating every lapse as a global shortage of character. Cognitive load, time pressure, alcohol, fatigue, current need, working-memory demands, and learned cue strength can alter which response controls behaviour. The practical move may be to weaken or avoid the cue, make the goal easier to retrieve, automate a better response, or reduce the decision burden—not merely summon a larger quantity of sternness.
 
 Keep the model schematic. Later value-integration accounts show why a hot/impulsive choice is not always automatic and a cool/goal-consistent choice is not always effortful. The old ego-depletion resource model used in part of the 2009 evidence base also performed poorly in large preregistered replications. See the citation audit and evidence boundaries in [Habit, Goal-Directed Action, And Behavioural Control Source Batch](../sources/habit-goal-directed-behavior-source-batch.md).
+
+## The Chimp Paradox, Without The Cartoon Anatomy
+
+Steve Peters's Chimp/Human/Computer model is worth keeping as a **metaphor for a conflict**, not as a literal description of three brain occupants. The Chimp usefully names a fast, emotionally loaded, cue-triggered reaction; the Human names reflective perspective and long-term goals; the Computer names learned beliefs, memories, skills, and automatic routines. That is close enough to the impulse/reflection literature to be useful, but not close enough to call Peters's brain map correct.
+
+The important repair is that the Computer is not a source of truth and the Chimp is not scientifically "stronger." Stored learning can be rubbish; a goal-consistent response can itself become automatic; and stress, fatigue, time pressure, alcohol, cue strength, and social context shift influence without one tiny creature physically overpowering another. The practical question remains excellent: when the fast reaction begins, what learned response, environmental support, or brief plan can be made available before it turns into a chair-throwing administrative event? See [Habit, Goal-Directed Action, And Behavioural Control Source Batch](../sources/habit-goal-directed-behavior-source-batch.md) for the full correction and [Pessoa - The Entangled Brain](../sources/pessoa-entangled-brain.md) for the network-level brake.
 
 ## The Outcome Test
 

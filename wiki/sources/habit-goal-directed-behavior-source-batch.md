@@ -3,7 +3,7 @@ title: "Habit, Goal-Directed Action, And Behavioural Control Source Batch"
 type: source
 status: draft
 created: 2026-06-20
-updated: 2026-07-03
+updated: 2026-08-10
 source_type: research-batch
 sources:
   - "Berkman 2018, Consulting Psychology Journal, PMC5854216"
@@ -16,6 +16,8 @@ sources:
   - "Hagger et al. 2016, Perspectives on Psychological Science"
   - "Vohs et al. 2021, Psychological Science"
   - "Berkman, Livingston, and Kahn 2017, Psychological Inquiry"
+  - "Peters, The Chimp Model, official description, accessed 2026-08-10"
+  - "Pessoa 2022, The Entangled Brain, MIT Press open-access monograph"
 ---
 
 # Habit, Goal-Directed Action, And Behavioural Control Source Batch
@@ -56,6 +58,27 @@ Two modern brakes matter:
 
 - The paper relies partly on the strength-model idea that prior control effort depletes a limited resource. A 23-lab preregistered replication found an effect estimate near zero, and later large multisite tests have also found null or very small effects. Cognitive load, fatigue, motivation, and context can still matter without treating willpower as a fuel tank.
 - Later value-integration models challenge the clean hot-versus-cold contest. A supposedly impulsive choice can be deliberate; a goal-consistent choice can become automatic; and identity, effort, social influence, reward, and competing goals can all contribute to one choice. The dual-systems model is therefore a useful historical map, not settled cognitive anatomy.
+
+## The Chimp Paradox: Keep The Metaphor, Lose The Brain Map
+
+Steve Peters's **Chimp Model** is a self-help communication model, not a validated anatomical map. In Peters's own description, the **Chimp** stands for emotionally driven, impulsive reactions; the **Human** for fact-sensitive, solution-seeking reasoning; and the **Computer** for memories, beliefs, learned behaviours, and automatic responses used by both. That makes it a memorable teaching device for the familiar experience of reacting before one agrees with oneself.
+
+The literal claim does not survive modern neuroscience. There is no separate chimp agent in a limbic compartment, no single rational human agent in a higher compartment, and no computer-like store that either party simply consults for truth. [Pessoa's network account](pessoa-entangled-brain.md) is the correct brake: emotion, perception, bodily state, learning, attention, memory, valuation, and action emerge through interacting, context-sensitive networks. Emotion is not a primitive intruder outside thought; it helps set priorities and action readiness. Deliberation is not always calm, rational, or in charge either.
+
+The useful translation into the better-supported impulse/reflection framework is deliberately functional:
+
+| Peters's teaching label | Safer translation | What not to infer |
+| --- | --- | --- |
+| Chimp | rapid learned affective, motivational, and cue-triggered response tendency | a literal inner animal, one brain region, or an excuse for harm |
+| Human | reflective appraisal, long-term standards, planning, and perspective taking | the only authentic self or a guaranteed truth machine |
+| Computer | stored explicit knowledge, learned associations, skills, beliefs, and automatic routines | a source of truth; stored learning can be incomplete, biased, or wrong |
+
+So the memorable chair-throwing case is not "the Computer had no preloaded answer, therefore Chimp takes the wheel." It is closer to this: a cue triggers a strong threat/anger tendency; the available learned response is unhelpful or absent; and current conditions make it harder to retrieve or enact a better one. That is an applied interpretation across the models, not a test of Peters's theory. The repair is the familiar practical one: reduce avoidable cues where possible, rehearse a concrete alternative response while calm, and change the environment or plan when the old response keeps winning. Do not treat a bad reaction as proof that a hidden animal has revealed your true character. That is just shame with a mascot.
+
+## Sources For This Bridge
+
+- Peters, S. (accessed 2026-08-10). [*The Chimp Model*](https://chimpmanagement.com/the-chimp-model/). Official model description. Useful for identifying what Peters claims; not independent evidence for the model.
+- Pessoa, L. (2022). [*The Entangled Brain: How Perception, Cognition, and Emotion Are Woven Together*](https://direct.mit.edu/books/oa-monograph/5490/The-Entangled-BrainHow-Perception-Cognition-and). MIT Press open-access monograph. Network-level counterweight to simple compartment models.
 
 ### Brooks And Aquinas Citation Audit
 
