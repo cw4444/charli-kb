@@ -3,7 +3,7 @@ title: "Optimism"
 type: concept
 status: draft
 created: 2026-05-12
-updated: 2026-07-13
+updated: 2026-08-10
 sources:
   - ../sources/optimism-neuroscience-source-batch.md
   - ../sources/repetition-cognitive-method-source-batch.md
@@ -99,6 +99,8 @@ Herwig et al. 2007 is the old pessimism counterweight. In an fMRI task, anticipa
 Fisher, Whyte, and Hohwy's active-inference model gives the computational-theory version. The public GitHub repository, rather than a DOI-bearing public article record, frames optimism bias as precision over positive outcomes and simulates three cases: developmental loss of optimism after negative events, Sharot-style belief updating, and action in a modified two-armed bandit. That is a useful bridge into predictive-processing territory: optimism becomes a weighting parameter inside a generative model, not just a cheerful sentence wearing shoes. Caveat, because civilisation depends on it: public code and model proposal, not a found peer-reviewed empirical paper, and the repo has no declared license.
 
 Meevissen, Peters, and Alberts's 2011 Best Possible Self study is the clean intervention tile in this part of the floor. Participants spent two weeks doing 5 minutes a day of imagery about a realistic personal, relational, and professional future in which things had gone well. Compared with imagining daily activities, the Best Possible Self condition produced larger increases in self-reported optimism. Small sample, mostly young women, self-report outcomes; still useful. It says future simulation can be trained a bit, not that the universe takes dictation.
+
+The useful upgrade is not to replace that best outcome with a catastrophe catalogue. It is to add **mental contrasting with implementation intentions**: name the wanted outcome, identify the likeliest recurring obstacle, and pre-decide the response in an if-then plan. A 2021 meta-analysis of field interventions found a small-to-moderate average benefit for goal attainment, with publication-bias and heterogeneity caveats. That makes the Phelps-style "rehearse the problem too" intuition defensible, provided the rehearsal ends in an actionable branch: "If my goggles fill, then I count strokes and keep the race plan"; "If I freeze in the interview, then I ask for a moment, take water, and answer the part I can answer." See [If-Then Planning And Thought Suppression](../sources/if-then-planning-and-thought-suppression.md). The point is not to feel prepared by watching yourself fail in HD. It is to make the response retrievable before stress has eaten the filing system.
 
 Emmons and McCullough's 2003 [Counting Blessings Versus Burdens](../sources/emmons-mccullough-counting-blessings.md) study is the backward-looking companion: rather than rehearse a hoped-for future, list good things already present. Across three small randomized studies, the most reliable result was higher self-reported positive affect; other effects on life appraisal, helping, exercise, sleep, and physical symptoms varied by study and comparison group. It earns a place because it is experimental evidence for reweighting the daily evidence ledger, not because gratitude journals are little cure-all notebooks.
 

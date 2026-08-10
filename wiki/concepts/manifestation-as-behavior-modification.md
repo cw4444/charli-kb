@@ -3,7 +3,7 @@ title: "Manifestation As Behavior Modification"
 type: concept
 status: draft
 created: 2026-06-08
-updated: 2026-08-06
+updated: 2026-08-10
 sources:
   - https://www.nhs.uk/conditions/cognitive-behavioural-therapy-cbt/
   - https://www.apa.org/ptsd-guideline/patients-and-families/cognitive-behavioral
@@ -78,7 +78,7 @@ The practical version:
 
 [If-Then Planning And Thought Suppression](../sources/if-then-planning-and-thought-suppression.md) provides a sharper route from imagined future to actual behaviour. Instead of merely declaring an identity or outcome, connect a likely cue to a small response: "If I finish breakfast, then I write for ten minutes" or "If I start rehearsing the rejection, then I note the next factual action and return to the work."
 
-This is called an implementation intention. It is useful because the cue can retrieve the next action without another full committee meeting. It also avoids the brittle instruction to "not think" about the unwanted thing: thought-suppression effects are conditional rather than magical, but under cognitive load suppression can become counterproductive and shows a small rebound after the attempt. The move is not to repress feeling with better stationery. It is to give attention and behaviour a real next job, then check whether it works.
+This is called an implementation intention. It is useful because the cue can retrieve the next action without another full committee meeting. Mental contrasting adds a useful prior step: imagine the wanted outcome, identify the likeliest recurring obstacle, then attach an if-then response to it. The combined method has small-to-moderate field-intervention evidence for goal attainment; [If-Then Planning And Thought Suppression](../sources/if-then-planning-and-thought-suppression.md) keeps the evidence and publication-bias caveat attached. It also avoids the brittle instruction to "not think" about the unwanted thing: thought-suppression effects are conditional rather than magical, but under cognitive load suppression can become counterproductive and shows a small rebound after the attempt. The move is not to repress feeling with better stationery. It is to give attention and behaviour a real next job, then check whether it works.
 
 ## Salience Warning
 

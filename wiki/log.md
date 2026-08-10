@@ -3,10 +3,17 @@ title: "Wiki Log"
 type: log
 status: active
 created: 2026-04-28
-updated: 2026-08-06
+updated: 2026-08-10
 ---
 
 # Wiki Log
+
+## [2026-08-10] source and bridge | optimistic imagery gets an obstacle-and-response branch
+
+- Source: Wang, Wang, and Gai, [*A meta-analysis of the effects of mental contrasting with implementation intentions on goal attainment*](https://pmc.ncbi.nlm.nih.gov/articles/PMC8149892/), *Frontiers in Psychology*, 2021; 21 field-intervention studies, 24 independent effects, 15,907 participants.
+- Pages created: none.
+- Pages updated: [If-Then Planning And Thought Suppression](sources/if-then-planning-and-thought-suppression.md), [Optimism](concepts/optimism.md), [Manifestation As Behavior Modification](concepts/manifestation-as-behavior-modification.md), [Wiki Index](index.md), and [Wiki Log](log.md).
+- Notes: Added the evidence-backed companion to Best Possible Self imagery: mental contrasting with implementation intentions (MCII) pairs a wanted outcome with a likely recurring obstacle and an if-then response. The meta-analysis reports a small-to-moderate goal-attainment effect (*g* = 0.336), with heterogeneity and publication-bias caveats; the adjusted estimate was smaller (*g* = 0.242). Framed the Michael Phelps-style mental videotape as a memorable sports shorthand, not the causal evidence. The practical move is preparedness, not a disaster scrapbook: rehearse the branch and the response, then learn from the actual result.
 
 ## [2026-08-06] source and timeline update | Black Hat briefing adds a May-to-July precursor to the Hugging Face incident
 

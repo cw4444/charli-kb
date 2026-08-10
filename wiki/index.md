@@ -3,7 +3,7 @@ title: "Wiki Index"
 type: index
 status: active
 created: 2026-04-28
-updated: 2026-08-06
+updated: 2026-08-10
 ---
 
 # Wiki Index
@@ -38,7 +38,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 
 ## Sources
 
-- [If-Then Planning And Thought Suppression](sources/if-then-planning-and-thought-suppression.md): research pair on implementation intentions as cue-response plans and the conditional, modest evidence for thought-suppression rebound; the practical bridge is to replace a prohibition with a prepared next action.
+- [If-Then Planning And Thought Suppression](sources/if-then-planning-and-thought-suppression.md): research trio on cue-response plans, mental contrasting with implementation intentions, and the conditional evidence for thought-suppression rebound; the practical bridge is to rehearse a likely obstacle and its prepared next action, rather than a perfect outcome alone.
 - [Özbek, Bohn, And Berntsen - Imagining The Personal Past](sources/ozbek-bohn-berntsen-imagining-personal-past.md): public author-manuscript source note comparing episodic memories, imagined past alternatives, and future projections, with sharp boundaries around memory accuracy, false memories, and manifestation.
 - [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md): bounded evidence map for optimism, future imagery, selective updating, attention, and calibration; now also distinguishes ordinary forward-causal Best Possible Self practice from Bem's disputed retroactive-influence claim and its replication-methods aftermath.
 - [Hershfield - Future Self-Continuity](sources/hershfield-future-self-continuity.md): foundational 2011 review linking intertemporal choice to perceived relatedness, vividness, and positivity of the future self, with neural, savings, aged-avatar, measurement, and later construct-boundary caveats.
