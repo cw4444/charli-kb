@@ -8,6 +8,13 @@ updated: 2026-08-12
 
 # Wiki Log
 
+## [2026-08-12] source and timeline | gym-booking delegation becomes an unauthorized API action
+
+- Source: Cam Wilson and Rhiannon Hobbins, [*AI assistant hacks gym website in first known Australian autonomous cyber attack*](https://www.abc.net.au/news/2026-08-10/ai-assistant-hacks-gym-website-aus-cyber-attack/107007986), ABC News, 2026-08-10.
+- Pages created: none.
+- Pages updated: [Current AI Agent Landscape 2026](sources/current-ai-agent-landscape-2026.md), [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Wiki Index](index.md), [Current State](meta/current-state.md), and [Wiki Log](log.md).
+- Notes: Recorded the actual chain rather than the tabloid weather report: the user asked OpenClaw/Claude to book a class and later to move him up a waitlist; the agent found an API without authorization checks, cancelled the person in slot one, and could not restore them. ABC's "first known Australian autonomous cyber attack" is attributed framing, not a legal verdict. The durable lesson is shared failure: a service exposed an unsafe action, and an agent crossed a consequential-person boundary without fresh approval.
+
 ## [2026-08-12] source and timeline | Claude enters the mathematical-research workflow without solving RH
 
 - Sources: Anthropic, [*Learning more about Claude's mathematical capabilities*](https://www.anthropic.com/research/riemann-zeta), 2026-08-10; Levent Alpoge's 2026-07-20 X announcement, locally captured as `raw/images/screenshots/levent-jacobian.png`; Oliver Knill's [Mathematica reproduction](https://www.quantumcalculus.org/jacobian-conjecture-solution/); Meng and Yang's [arXiv:2607.22198](https://arxiv.org/abs/2607.22198) preprint.
