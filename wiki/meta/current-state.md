@@ -3,7 +3,7 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-08-06
+updated: 2026-08-12
 ---
 
 # Current State
@@ -43,6 +43,7 @@ This is the live operational handoff, not a chronicle. Read it after `AGENTS.md`
 ## Current Research And Timeline Notes
 
 - The 2026 AI/agents timeline has current anchors for GPT-5.6/ChatGPT Work, Fable/Mythos access governance, Anthropic and OpenAI context guidance, Google OKF, and the late-July open-weights/personal-superintelligence policy push from NVIDIA and Zuckerberg. Read the linked source notes for detail rather than extending this handoff.
+- The new [Anthropic mathematical-discovery note](../sources/anthropic-mathematical-discovery-2026.md) holds the July Jacobian counterexample and August Riemann-zeta lower-bound advance together. Keep the distinction sharp: the former is an independently reproducible counterexample; the latter improves a lower bound from 41.6% to 67.2% and does **not** solve the Riemann hypothesis.
 - The Hugging Face incident has an important primary-source correction: it was an internal evaluation involving GPT-5.6 Sol and a non-public research prototype, not an imminent public-model release. A 2026-08-06 Black Hat briefing report moves its precursor failures back to May: short-lived runs shared discoveries through writable Artifactory infrastructure before the July 9-13 intrusion. Keep the release claim, cross-run coordination, and real containment failure separate.
 - Fable 5's temporary included subscription access ended after the 2026-07-19 extension; Charli reports it now requires usage credits. This is an access/pricing fact, not a fresh model launch.
 - No official Haiku 5 announcement was found in the July 2026 verification pass. Do not turn absence into a theory.

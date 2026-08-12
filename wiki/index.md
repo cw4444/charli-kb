@@ -3,7 +3,7 @@ title: "Wiki Index"
 type: index
 status: active
 created: 2026-04-28
-updated: 2026-08-10
+updated: 2026-08-12
 ---
 
 # Wiki Index
@@ -38,6 +38,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 
 ## Sources
 
+- [Anthropic Mathematical Discovery 2026](sources/anthropic-mathematical-discovery-2026.md): bounded source note on Claude Fable's independently reproducible Jacobian-conjecture counterexample and Claude's formalizable $41.6\%$-to-$67.2\%$ Riemann-zeta lower-bound result; the Riemann hypothesis remains unsolved.
 - [If-Then Planning And Thought Suppression](sources/if-then-planning-and-thought-suppression.md): research trio on cue-response plans, mental contrasting with implementation intentions, and the conditional evidence for thought-suppression rebound; the practical bridge is to rehearse a likely obstacle and its prepared next action, rather than a perfect outcome alone.
 - [Özbek, Bohn, And Berntsen - Imagining The Personal Past](sources/ozbek-bohn-berntsen-imagining-personal-past.md): public author-manuscript source note comparing episodic memories, imagined past alternatives, and future projections, with sharp boundaries around memory accuracy, false memories, and manifestation.
 - [Optimism Neuroscience Source Batch](sources/optimism-neuroscience-source-batch.md): bounded evidence map for optimism, future imagery, selective updating, attention, and calibration; now also distinguishes ordinary forward-causal Best Possible Self practice from Bem's disputed retroactive-influence claim and its replication-methods aftermath.

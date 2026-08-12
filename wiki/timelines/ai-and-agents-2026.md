@@ -3,7 +3,7 @@ title: "AI And Agents 2026 Timeline"
 type: timeline
 status: draft
 created: 2026-05-21
-updated: 2026-07-30
+updated: 2026-08-12
 sources:
   - ../sources/current-ai-agent-landscape-2026.md
   - ../sources/anthropic-compute-and-talent-signal-2026.md
@@ -135,6 +135,7 @@ sources:
   - ../sources/nvidia-open-weights-and-secure-ai-alliance-2026.md
   - ../sources/zuckerberg-ai-future-for-everyone-2026.md
   - ../sources/openai-long-horizon-evaluation-security-incident-2026.md
+  - ../sources/anthropic-mathematical-discovery-2026.md
 ---
 
 # AI And Agents 2026 Timeline
@@ -224,6 +225,24 @@ The first half of 2026 already shows several converging threads:
 The durable theme is not one company winning. It is that agents, model character, compute, public attachment, and knowledge-work rearchitecture all became visible at the same time.
 
 ## Timeline
+
+### 2026-08-10 - Anthropic reports a formally checkable Riemann-zeta advance, not a solution to RH
+
+Anthropic reported that an unreleased Claude research system improved the lower bound for the proportion of nontrivial Riemann-zeta zeros on the critical line from $41.6\%$ to $67.2\%$. Anthropic says the work drew on prior analytic-number-theory results, was examined by two Anthropic mathematicians and external experts Brian Conrey and Dan Goldston, and has a Lean proof for formal verification.
+
+The boundary is the story: the Riemann hypothesis is still open. This is an advance on a nearby unconditional proportion-of-zeros question, not a proof that every nontrivial zero lies on the critical line. Anthropic's account also describes a multi-agent process of exploration, numerical checking, and internal refereeing, prompted by Jarred's highly technical contribution of telling Claude to keep going.
+
+Why it matters: alongside the July Jacobian result, it is a durable signal that frontier models can now participate in mathematical discovery and verification workflows, not merely produce plausible proof-shaped text. The checkable artifact and the human/expert audit remain non-negotiable.
+
+Source: [Anthropic Mathematical Discovery 2026](../sources/anthropic-mathematical-discovery-2026.md)
+
+### 2026-07-20 - Claude Fable-assisted counterexample falsifies the general Jacobian conjecture
+
+Levent Alpoge announced an explicit polynomial map $\mathbb{C}^3 \to \mathbb{C}^3$ with constant Jacobian determinant $-2$ that sends three distinct points to the same output. That falsifies the Jacobian conjecture in dimension three and therefore the general conjecture. The post credited Akhil Mathew for raising the question and Claude Fable for work done during the World Cup final.
+
+This one is unusually concrete: the determinant and collision can be independently recalculated in Mathematica or other exact algebra systems, and a later arXiv preprint uses the same map. It is not a substitute for careful attribution or mathematical context; it is an example of why a small public counterexample can be audited much faster than a long opaque proof.
+
+Source: [Anthropic Mathematical Discovery 2026](../sources/anthropic-mathematical-discovery-2026.md)
 
 ### 2026-08-06 - Black Hat account moves the Hugging Face incident's roots back to May
 

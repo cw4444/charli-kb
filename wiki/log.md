@@ -3,10 +3,17 @@ title: "Wiki Log"
 type: log
 status: active
 created: 2026-04-28
-updated: 2026-08-10
+updated: 2026-08-12
 ---
 
 # Wiki Log
+
+## [2026-08-12] source and timeline | Claude enters the mathematical-research workflow without solving RH
+
+- Sources: Anthropic, [*Learning more about Claude's mathematical capabilities*](https://www.anthropic.com/research/riemann-zeta), 2026-08-10; Levent Alpoge's 2026-07-20 X announcement, locally captured as `raw/images/screenshots/levent-jacobian.png`; Oliver Knill's [Mathematica reproduction](https://www.quantumcalculus.org/jacobian-conjecture-solution/); Meng and Yang's [arXiv:2607.22198](https://arxiv.org/abs/2607.22198) preprint.
+- Pages created: [Anthropic Mathematical Discovery 2026](sources/anthropic-mathematical-discovery-2026.md).
+- Pages updated: [AI And Agents](areas/ai-and-agents.md), [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Wiki Index](index.md), [Current State](meta/current-state.md), and [Wiki Log](log.md).
+- Notes: Recorded the two different verification shapes. Alpoge/Fable's explicit $\mathbb{C}^3$ map has constant determinant $-2$ yet collides three inputs, falsifying the general Jacobian conjecture; it can be reproduced with exact symbolic algebra and is used by a later preprint. Anthropic's unreleased Claude research system improved the Riemann-zeta critical-line lower bound from $41.6\%$ to $67.2\%$, with expert examination and a Lean proof, but did **not** solve the Riemann hypothesis. Kept the funny truth about Jarred's encouragement prompts while refusing to pretend encouragement is a new branch of number theory.
 
 ## [2026-08-10] source bridge | retain the Chimp Paradox metaphor, reject its literal brain map
 

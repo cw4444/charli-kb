@@ -3,7 +3,7 @@ title: "AI And Agents"
 type: navigation
 status: active
 created: 2026-07-13
-updated: 2026-07-13
+updated: 2026-08-12
 ---
 
 # AI And Agents
@@ -13,6 +13,7 @@ Start here for AI systems as tools, workplaces, institutions, and possible moral
 ## Start With
 
 - [Current AI Agent Landscape 2026](../sources/current-ai-agent-landscape-2026.md) for the practical capabilities and boundaries of current agents.
+- [Anthropic Mathematical Discovery 2026](../sources/anthropic-mathematical-discovery-2026.md) for the Jacobian counterexample and the bounded Riemann-zeta advance: agents finding/checking mathematics without having solved the Riemann hypothesis.
 - [Computer Work Agent](../concepts/computer-work-agent.md) for the shift from coding assistant to bounded computer-work helper.
 - [How Can Normal Humans Use Codex?](../questions/how-can-normal-humans-use-codex.md) for the plain-English operating surface.
 - [AI And Agents 2026 Timeline](../timelines/ai-and-agents-2026.md) for durable events rather than every passing press-release puff.
