@@ -21,9 +21,10 @@ The pattern:
 - Use failures as feedback rather than as evidence to stop.
 - Share or publish the finished artifact only when useful.
 
-This is directly relevant to `charli-kb`: the repo itself is a project that turns messy capture into structured knowledge. Notion remains raw input; the wiki becomes the working artifact. The project gives future reading a filter: material is worth keeping when it helps answer a live question or improve a live build.
+This is directly relevant to `charli-kb`: the repo itself is a project that turns messy capture into structured knowledge. Notion remains raw input; the wiki becomes the working artifact. The project gives future reading a filter: material is worth keeping when it helps answer a live question or improve a live build. [Question-Led Inquiry](question-led-inquiry.md) supplies a lighter version when there is no big project yet: use one well-formed question as the filter, then make and test an answer.
 
 ## Related
 
 - [Creative Recovery And Input Fasting](creative-recovery-and-input-fasting.md)
 - [Focus Through Goal Structure](focus-through-goal-structure.md)
+- [Question-Led Inquiry](question-led-inquiry.md)

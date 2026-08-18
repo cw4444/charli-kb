@@ -3,7 +3,7 @@ title: "Wiki Index"
 type: index
 status: active
 created: 2026-04-28
-updated: 2026-08-12
+updated: 2026-08-18
 ---
 
 # Wiki Index
@@ -38,6 +38,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 
 ## Sources
 
+- [Oxford Tutorial System](sources/oxford-tutorial-system.md): Oxford's small-group tutorial loop—set work, independent preparation, argued work, scrutiny, and feedback—with a careful portable adaptation rather than undergraduate cosplay.
 - [Anthropic Mathematical Discovery 2026](sources/anthropic-mathematical-discovery-2026.md): bounded source note on Claude Fable's independently reproducible Jacobian-conjecture counterexample and Claude's formalizable $41.6\%$-to-$67.2\%$ Riemann-zeta lower-bound result; the Riemann hypothesis remains unsolved.
 - [If-Then Planning And Thought Suppression](sources/if-then-planning-and-thought-suppression.md): research trio on cue-response plans, mental contrasting with implementation intentions, and the conditional evidence for thought-suppression rebound; the practical bridge is to rehearse a likely obstacle and its prepared next action, rather than a perfect outcome alone.
 - [Özbek, Bohn, And Berntsen - Imagining The Personal Past](sources/ozbek-bohn-berntsen-imagining-personal-past.md): public author-manuscript source note comparing episodic memories, imagined past alternatives, and future projections, with sharp boundaries around memory accuracy, false memories, and manifestation.
@@ -161,6 +162,7 @@ This is the catalog of generated wiki pages. Agents should update it after every
 
 ## Concepts
 
+- [Question-Led Inquiry](concepts/question-led-inquiry.md): portable Oxford-tutorial-inspired loop for unpacking a question, comparing rival answers, researching discriminating evidence, and defending a revisable argument.
 - [Psychological Time Travel And Reconstruction](concepts/psychological-time-travel-and-reconstruction.md): Charli's bounded bridge across reconstructive remembering, future simulation, affective forecasting, and delayed choice as a contrast/analogy--not a claim that manifestation or psychology has proved physical retrocausality.
 - [Future Self-Continuity](concepts/future-self-continuity.md): perceived connection between present and future selves as one influence on delayed choice, separating relatedness, vividness, and positivity from manifestation claims and fixed-identity demands.
 - [Fault-Tolerant Quantum Computing](concepts/fault-tolerant-quantum-computing.md): concept note on logical qubits, error correction, and why useful quantum computing depends on reliable scalable computation rather than raw physical-qubit counts.

@@ -3,10 +3,17 @@ title: "Wiki Log"
 type: log
 status: active
 created: 2026-04-28
-updated: 2026-08-12
+updated: 2026-08-18
 ---
 
 # Wiki Log
+
+## [2026-08-18] source and concept | Oxford tutorial pressure becomes a portable research loop
+
+- Sources: University of Oxford, [Personalised learning](https://www.ox.ac.uk/admissions/undergraduate/courses/learning-at-oxford/personalised-learning) and [Oxford glossary](https://www.ox.ac.uk/about/the-university/oxford-glossary), accessed 2026-08-18; M. J. A. Wood, [A guide to preparing for tutorials](https://users.ox.ac.uk/~mjawood/tutorial%20preparation.htm), used narrowly for question/title deconstruction.
+- Pages created: [Oxford Tutorial System](sources/oxford-tutorial-system.md), [Question-Led Inquiry](concepts/question-led-inquiry.md).
+- Pages updated: [Project Based Self Direction](concepts/project-based-self-direction.md), [Wiki Index](index.md), [Current State](meta/current-state.md), and [Wiki Log](log.md).
+- Notes: Oxford's actual loop is small-group expert discussion around independently prepared essays or problem sheets, with feedback and revision pressure—not a magical brand of reading. The portable adaptation keeps the useful machinery: define the terms in a live question, build the strongest rival answer, seek evidence that separates them, make a case, and let a serious critic attack it. The contrary-case step is our evidence-hygiene adaptation, not a claim that Oxford mandates a ritual of researching "both sides." No false balance for nonsense in a tie.
 
 ## [2026-08-12] source and timeline | gym-booking delegation becomes an unauthorized API action
 

@@ -3,7 +3,7 @@ title: "Current State"
 type: meta
 status: active
 created: 2026-04-28
-updated: 2026-08-12
+updated: 2026-08-18
 ---
 
 # Current State
@@ -39,6 +39,10 @@ This is the live operational handoff, not a chronicle. Read it after `AGENTS.md`
 - [Interpretable Context Methodology](../sources/interpretable-context-methodology.md) remains useful as a method for sequential, human-reviewed workflows. Do not force a staged pipeline onto this wiki.
 - Google Cloud's [Open Knowledge Format](../sources/google-open-knowledge-format.md) independently formalises the LLM-wiki pattern: portable Markdown/YAML knowledge, links, indexes, logs, and progressive disclosure. This repo is already close in spirit; do not rebuild it for fashion.
 - [SkillOpt](../sources/skillopt-self-evolving-agent-skills.md) is a useful research-side complement: a reusable skill can be improved through small trajectory-derived edits only when a held-out verifier can reject regressions. That supports versioned skills and testing, not autonomous rewriting of the repo contract.
+
+## Practical Learning Route
+
+- [Question-Led Inquiry](../concepts/question-led-inquiry.md) now holds the portable Oxford-tutorial-inspired learning loop: unpack a live question, research competing answers, make a case, and subject it to actual criticism. It is a research filter, not a replacement for Oxford's expert tutorial system or an instruction to manufacture false balance.
 
 ## Current Research And Timeline Notes
 
