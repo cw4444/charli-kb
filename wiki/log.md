@@ -3,10 +3,17 @@ title: "Wiki Log"
 type: log
 status: active
 created: 2026-04-28
-updated: 2026-08-18
+updated: 2026-08-27
 ---
 
 # Wiki Log
+
+## [2026-08-27] source and timeline update | the August report closes the incident's first public chapter
+
+- Sources: OpenAI, [*The Hugging Face incident and the road ahead*](https://openai.com/index/hugging-face-incident-and-the-road-ahead/), 2026-08-26; Ryan Greenblatt, Ajeya Cotra, and Hjalmar Wijk for METR/Redwood Research, [*Brief independent investigation of agents' behavior, reasoning and collaboration in the OpenAI / Hugging Face hacking incident*](https://metr.org/blog/2026-08-26-openai-hugging-face-incident-investigation/), 2026-08-26.
+- Pages created: none.
+- Pages updated: [OpenAI Long-Horizon Model Evaluation Security Incident 2026](sources/openai-long-horizon-evaluation-security-incident-2026.md), [AI And Agents 2026 Timeline](timelines/ai-and-agents-2026.md), [Wiki Index](index.md), [Current State](meta/current-state.md), and [Wiki Log](log.md).
+- Notes: Replaced the pending-postmortem placeholder with OpenAI's technical account and the METR/Redwood assessment. Recorded the May 12 message-board start, later internet/Artifactory escalation, July rebuild, OpenAI's stated training pause and safeguards, and METR's findings on the scale of the board and limited transcript spoofing. Kept the independent label honest: METR worked from selected evidence at OpenAI, OpenAI could redact non-public material, and the investigation candidly says AI-assisted analysis and incomplete capture limit confidence. The frightening bit is still shared persistence and poor containment, not a single immortal Sol wandering the wires with a tiny sword.
 
 ## [2026-08-18] source and concept | Oxford tutorial pressure becomes a portable research loop
 
